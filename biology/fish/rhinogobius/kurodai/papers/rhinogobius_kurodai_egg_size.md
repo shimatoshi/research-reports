@@ -1,3 +1,7 @@
+---
+tags: [morphology, reproduction]
+---
+
 # クロダハゼの卵サイズ — 小卵型の根拠
 
 調査日: 2026-04-02
