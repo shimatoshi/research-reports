@@ -16,3 +16,29 @@
 - `field/` — フィールド観察・採集記録
 - `web-verified/` — ネット情報で論文裏付け済み
 - `unverified/` — 根拠未検証の情報
+
+## タグ一覧
+
+各ファイルのfrontmatterに `tags: [...]` で付与。`grep -r "tags:.*ecology" .` で横断検索可能。
+
+### 内容系
+| タグ | 内容 |
+|------|------|
+| `morphology` | 形態（鰭、体色、卵サイズ等） |
+| `ecology` | 生態（生息環境、行動等） |
+| `genetics` | 遺伝子・DNA |
+| `reproduction` | 繁殖（産卵、孵化等） |
+| `migration` | 回遊・移動 |
+| `lifecycle` | 生活史・年間サイクル |
+
+### 地域系
+| タグ | 内容 |
+|------|------|
+| `teganuma` | 手賀沼水系 |
+
+### 分類疑義系
+| タグ | 内容 |
+|------|------|
+| `suspected-undescribed` | 未記載種の疑惑 |
+| `suspected-cryptic` | 隠蔽種の可能性 |
+| `taxonomic-confusion` | 分類自体が混乱している話題 |
