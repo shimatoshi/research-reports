@@ -10,6 +10,7 @@
 | `history/` | 歴史学 |
 | `engineering/` | エンジニアリング |
 | `engineering/knowledge/` | 実証済みの技術知見 |
+| `toolbox/` | 再利用可能なツール群 |
 
 ## ソース分類（biology共通）
 

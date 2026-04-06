@@ -34,6 +34,7 @@
 | `morphology` | 形態（鰭、体色、卵サイズ等） |
 | `ecology` | 生態（生息環境、行動等） |
 | `genetics` | 遺伝子・DNA |
+| `taxonomy` | 分類学・命名・記載 |
 | `reproduction` | 繁殖（産卵、孵化等） |
 | `migration` | 回遊・移動 |
 | `lifecycle` | 生活史・年間サイクル |
