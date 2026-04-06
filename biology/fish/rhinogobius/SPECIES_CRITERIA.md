@@ -87,25 +87,28 @@ Tier 3 に分類されたものは「Rhinogobius sp. OR 偽橙色型」のよう
 
 本基準に基づく日本産 Rhinogobius の仮評価。核 DNA データの入手状況により変動する。
 
-| 和名 | 学名/通称 | 核DNA | 形態記載 | 仮評価 | 備考 |
-|------|--------|------|--------|------|------|
-| クロヨシノボリ | R. brunneus | 要確認 | あり | Tier 2 | 形態的に明確に区別可能 |
-| シマヨシノボリ | R. similis | **全ゲノムあり** | あり（ネオタイプ指定） | **Tier 1** | 属内で最も基盤が整っている |
-| カワヨシノボリ | R. flumineus | 要確認 | あり | Tier 2 | 非両側回遊で生態的に隔離 |
-| オオヨシノボリ | R. fluviatilis | 要確認 | あり（Suzuki & Chen 2011） | Tier 2 | 要精査 |
-| ナゴヤハゼ | R. nagoyae | 要確認 | あり | Tier 2 | 要精査 |
-| ルリヨシノボリ | R. mizunoi | 先行研究あり | あり（高品質） | Tier 2 | Tier 1 に近い |
-| オガサワラヨシノボリ | R. ogasawaraensis | 要確認 | あり | Tier 2 | 島嶼固有、地理的隔離 |
-| ビワヨシノボリ | R. biwaensis | 要確認 | あり | Tier 2 | 琵琶湖固有、要精査 |
-| クロダハゼ | "R. kurodai" | **不十分** | **不十分**（損壊標本） | **Tier 3** | nomen dubium として扱う |
-| シマヒレヨシノボリ | R. sp. BF | 要確認 | 要確認 | Tier 3? | 核DNA裏付けなしなら型 |
-| カズサヨシノボリ | R. sp. KZ | 要確認 | 要確認 | Tier 3? | 核DNA裏付けなしなら型 |
-| トウヨシノボリ橙色型 | R. sp. OR 橙色型 | 要確認 | — | Tier 3 | 未記載 |
-| トウヨシノボリ宍道湖型 | R. sp. OR 宍道湖型 | 要確認 | — | Tier 3 | 未記載 |
-| トウヨシノボリ琵琶湖型 | R. sp. OR 琵琶湖型 | 要確認 | — | Tier 3 | 未記載 |
-| トウヨシノボリ西九州型 | R. sp. OR 西九州型 | 要確認 | — | Tier 3 | 未記載 |
+| 和名 | 学名/通称 | RAG2距離 | 仮評価 | 備考 |
+|------|--------|---------|------|------|
+| シマヨシノボリ | R. similis | 最近縁から4.6% | **Tier 1** | 全ゲノムあり。属内で最も基盤が整っている |
+| ナゴヤハゼ | R. nagoyae | 最近縁から2.0% | **Tier 1** | 明確なギャップ |
+| クロヨシノボリ | R. brunneus | kurodai群から1.0-1.4% | **Tier 2** | 形態的にも明確 |
+| カワヨシノボリ | R. flumineus | kurodai群から1.1-1.4% | **Tier 2** | 非両側回遊で生態的隔離 |
+| ルリヨシノボリ | R. mizunoi (sp.CO) | kurodai群から1.1-1.4% | **Tier 2** | 高品質の記載論文あり |
+| トウカイヨシノボリ | R. sp. TO | kurodai群から1.4-1.7% | **Tier 2** | 核RAG2で明確に分離 |
+| オオヨシノボリ | R. fluviatilis | kurodai群から1.2-1.5% | Tier 2 | ogasawaraensisと0.27%で要精査 |
+| オガサワラヨシノボリ | R. ogasawaraensis | kurodai群から1.0-1.3% | Tier 2 | fluviatilisと0.27%で要精査 |
+| ヒラヨシノボリ | R. sp. DL | kurodai群から1.2-1.4% | Tier 2 | ogasawaraensisと0.40%で近い |
+| アオバラヨシノボリ | R. sp. BB | kurodai群から0.35% | Tier 2? | kurodai群に近いが形態は独自、要精査 |
+| キバラヨシノボリ | R. sp. YB | kurodai群から0.93-1.16% | Tier 2 | ある程度分離 |
+| アヤヨシノボリ | R. sp. MO | kurodai群から0.45-0.76% | Tier 2? | 中間的距離、要精査 |
+| クロダハゼ | "R. kurodai" | **sp.ORと0.31%（種内と同等）** | **Tier 3** | nomen dubium。核RAG2でsp.OR/BF/BWと分離しない |
+| トウヨシノボリ | R. sp. OR | **kurodaiと0.31%** | **Tier 3** | kurodai/BF/BWと核RAG2で区別不能 |
+| シマヒレヨシノボリ | R. sp. BF | **kurodaiと0.30%** | **Tier 3** | kurodai/OR/BWと核RAG2で区別不能 |
+| ビワヨシノボリ | R. biwaensis (sp.BW) | **kurodaiと0.30%** | **Tier 3** | kurodai/OR/BFと核RAG2で区別不能 |
+| カズサヨシノボリ | R. sp. KZ | **kurodaiと0.42%** | **Tier 3** | kurodai群に近い |
+| オウミヨシノボリ | R. sp. OM | kurodaiと0.42% | Tier 3 | 1サンプルのみ、kurodai群に近い |
 
-**注意**: この表は暫定的なものであり、各種の核 DNA データの確認と先行研究の精査により更新される。「要確認」は Yamasaki et al. (2015) 等の先行研究のデータを精査すれば Tier 1 に昇格する可能性がある。
+**2026-04-06 更新**: Yamasaki et al. (2015) の核 RAG2 配列 82本を GenBank から取得し、全種/型間の p-distance を算出した（`data/rag2_distance_matrix.tsv`）。結果に基づき仮評価を更新。
 
 ## 参考文献
 
