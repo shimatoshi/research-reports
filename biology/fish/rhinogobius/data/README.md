@@ -13,24 +13,36 @@
 | `paper_doi` | 出典論文のDOI |
 | `notes` | 補足（旧名、疑義、サンプル状態など） |
 
-## rhinogobius_rag2.fasta
+## 核DNA配列（Yamasaki et al. 2015）
 
-Yamasaki et al. (2015) が GenBank に登録した Rhinogobius 属の核 RAG2 遺伝子配列。82配列、21種/型。
-DOI: 10.1016/j.ympev.2015.04.012
+Yamasaki et al. (2015) が GenBank に登録した Rhinogobius 属の核遺伝子配列。各82配列、21種/型。
+DOI: 10.1016/j.ympev.2015.04.012. NCBI Entrez API 経由でダウンロード。
 
-NCBI Entrez API 経由でダウンロード（検索条件: `Rhinogobius RAG2 Yamasaki`）。
+| ファイル | 遺伝子 | 配列長 |
+|--------|--------|------|
+| `rhinogobius_rag2.fasta` | RAG2 | ~882 bp |
+| `rhinogobius_E3.fasta` | E3 | ~842 bp |
+| `rhinogobius_sreb2.fasta` | sreb2 | ~870 bp |
+| `rhinogobius_Ptr.fasta` | Ptr | ~636 bp |
+| `rhinogobius_RYR3.fasta` | RYR3 | ~806 bp |
+| `rhinogobius_myh6.fasta` | myh6 | ~719 bp |
 
-## rag2_distance_matrix.tsv
+## 距離データ
 
-rhinogobius_rag2.fasta から算出した種/型間のペアワイズ p-distance（%）。
+### rag2_distance_matrix.tsv
+
+RAG2 のみの全種/型間ペアワイズ p-distance（%）。
+
+### nuclear_6gene_distances.tsv
+
+全6核遺伝子の種内距離・種間距離のサマリ。
 
 | カラム | 内容 |
 |--------|------|
-| `species` | 種名または型名 |
-| `n` | サンプル数 |
-| `intra_avg` | 種内平均距離（%） |
-| `intra_max` | 種内最大距離（%） |
-| 以降 | 各種/型との種間平均距離（%） |
+| `comparison` | 種名（intra）またはペア（inter） |
+| `type` | intra / inter |
+| `RAG2`〜`myh6` | 各遺伝子の p-distance（%） |
+| `average` | 6遺伝子の平均距離（%） |
 
 ## 検索例
 

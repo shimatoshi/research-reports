@@ -1,0 +1,232 @@
+comparison	type	RAG2	E3	sreb2	Ptr	RYR3	myh6	average
+brunneus	intra	0.728	0.078	0.255	0.194	0.090	0.468	0.302
+flumineus	intra	0.853	0.068	0.328	0.172	0.496	0.503	0.404
+fluviatilis	intra	0.374	0.356	0.218	0.000	0.211	0.612	0.295
+kurodai	intra	0.302	0.198	0.000	0.000	0.000	0.278	0.130
+leavelli	intra	NA	NA	NA	NA	NA	NA	NA
+nagoyae	intra	0.761	0.327	0.057	0.292	0.275	0.308	0.337
+ogasawaraensis	intra	0.000	0.000	0.115	0.000	0.000	0.000	0.019
+similis	intra	0.907	0.435	0.421	0.524	0.830	0.695	0.636
+sp.BB	intra	0.091	0.048	0.207	0.283	0.000	0.362	0.165
+sp.BF	intra	0.227	0.079	0.307	0.314	0.083	0.185	0.199
+sp.BW	intra	0.000	0.000	0.000	0.314	0.000	1.113	0.238
+sp.CB	intra	NA	NA	NA	NA	NA	NA	NA
+sp.CO	intra	0.000	0.079	0.153	0.419	0.000	0.556	0.201
+sp.DL	intra	0.113	0.000	0.000	0.314	0.000	0.139	0.094
+sp.KZ	intra	0.000	0.000	0.345	0.000	0.248	0.974	0.261
+sp.MO	intra	0.227	0.356	0.651	0.000	0.248	0.417	0.317
+sp.OM	intra	NA	NA	NA	NA	NA	NA	NA
+sp.OR	intra	0.340	0.145	0.212	0.119	0.179	0.479	0.246
+sp.TO	intra	0.378	0.000	0.077	0.000	0.000	0.371	0.138
+sp.YB	intra	0.249	0.214	0.046	0.346	0.000	0.250	0.184
+virgigena	intra	NA	NA	NA	NA	NA	NA	NA
+brunneus <> flumineus	inter	1.306	0.315	0.421	0.218	0.648	0.737	0.607
+brunneus <> fluviatilis	inter	0.994	0.471	0.332	0.572	0.864	0.589	0.637
+brunneus <> kurodai	inter	1.230	1.191	0.303	0.286	0.293	0.910	0.702
+brunneus <> leavelli	inter	2.350	0.518	0.491	0.600	0.790	1.087	0.973
+brunneus <> nagoyae	inter	2.458	0.578	0.332	0.423	0.929	0.406	0.854
+brunneus <> ogasawaraensis	inter	0.783	0.281	0.192	0.572	0.045	0.405	0.380
+brunneus <> similis	inter	5.068	1.389	0.721	2.358	14.687	2.158	4.397
+brunneus <> sp.BB	inter	0.973	1.017	0.508	0.357	0.293	0.468	0.603
+brunneus <> sp.BF	inter	1.154	1.033	0.603	0.496	0.086	0.624	0.666
+brunneus <> sp.BW	inter	1.154	0.993	0.219	0.443	0.045	1.637	0.749
+brunneus <> sp.CB	inter	2.402	0.518	0.303	0.286	0.914	0.379	0.800
+brunneus <> sp.CO	inter	1.113	0.439	0.345	0.438	0.665	0.742	0.624
+brunneus <> sp.DL	inter	0.964	0.281	0.219	0.565	0.045	0.436	0.418
+brunneus <> sp.KZ	inter	1.381	1.112	0.413	0.286	0.231	0.986	0.735
+brunneus <> sp.MO	inter	1.343	1.152	0.679	0.286	0.335	0.493	0.715
+brunneus <> sp.OM	inter	1.268	0.993	0.334	0.286	0.169	0.986	0.673
+brunneus <> sp.OR	inter	1.239	1.076	0.311	0.349	0.182	0.512	0.612
+brunneus <> sp.TO	inter	1.684	0.281	0.571	0.443	0.665	1.092	0.789
+brunneus <> sp.YB	inter	0.612	0.201	0.217	0.537	0.045	0.382	0.332
+brunneus <> virgigena	inter	2.855	0.399	0.836	0.901	1.038	1.795	1.304
+flumineus <> fluviatilis	inter	1.367	0.224	0.509	0.562	0.783	0.846	0.715
+flumineus <> kurodai	inter	1.177	0.944	0.279	0.247	0.851	0.914	0.735
+flumineus <> leavelli	inter	2.268	0.271	0.657	0.562	0.957	1.172	0.981
+flumineus <> nagoyae	inter	1.984	0.297	0.308	0.326	0.957	0.718	0.765
+flumineus <> ogasawaraensis	inter	1.199	0.034	0.372	0.562	0.603	0.695	0.577
+flumineus <> similis	inter	5.097	1.380	0.881	2.276	14.778	2.411	4.470
+flumineus <> sp.BB	inter	1.147	0.770	0.489	0.341	0.851	0.640	0.706
+flumineus <> sp.BF	inter	1.101	0.786	0.755	0.457	0.644	0.470	0.702
+flumineus <> sp.BW	inter	1.101	0.747	0.394	0.404	0.603	1.381	0.772
+flumineus <> sp.CB	inter	1.895	0.238	0.279	0.180	0.939	0.715	0.708
+flumineus <> sp.CO	inter	1.053	0.192	0.312	0.457	0.585	1.033	0.605
+flumineus <> sp.DL	inter	1.369	0.034	0.394	0.562	0.603	0.715	0.613
+flumineus <> sp.KZ	inter	1.328	0.865	0.460	0.247	0.789	1.043	0.789
+flumineus <> sp.MO	inter	1.404	0.905	0.706	0.247	0.892	0.742	0.816
+flumineus <> sp.OM	inter	1.215	0.747	0.509	0.247	0.727	0.795	0.706
+flumineus <> sp.OR	inter	1.182	0.830	0.384	0.303	0.739	0.753	0.699
+flumineus <> sp.TO	inter	1.155	0.034	0.416	0.404	0.443	0.669	0.520
+flumineus <> sp.YB	inter	1.108	0.461	0.397	0.499	0.603	0.600	0.611
+flumineus <> virgigena	inter	2.964	0.153	1.002	0.876	1.170	1.868	1.339
+fluviatilis <> kurodai	inter	1.323	0.816	0.230	0.314	1.067	0.872	0.770
+fluviatilis <> leavelli	inter	2.404	0.428	0.575	0.629	1.067	1.252	1.059
+fluviatilis <> nagoyae	inter	2.551	0.484	0.259	0.767	0.989	0.518	0.928
+fluviatilis <> ogasawaraensis	inter	0.272	0.190	0.192	0.000	0.819	0.445	0.320
+fluviatilis <> similis	inter	4.754	1.536	0.805	1.887	14.554	2.272	4.301
+fluviatilis <> sp.BB	inter	1.066	0.641	0.460	0.472	1.067	0.590	0.716
+fluviatilis <> sp.BF	inter	1.247	0.657	0.498	0.524	0.860	0.732	0.753
+fluviatilis <> sp.BW	inter	1.247	0.618	0.115	0.472	0.819	1.655	0.821
+fluviatilis <> sp.CB	inter	2.494	0.428	0.230	0.629	0.943	0.501	0.871
+fluviatilis <> sp.CO	inter	1.247	0.325	0.460	0.210	0.447	0.732	0.570
+fluviatilis <> sp.DL	inter	0.669	0.190	0.115	0.157	0.819	0.640	0.432
+fluviatilis <> sp.KZ	inter	1.474	0.736	0.402	0.314	1.005	1.001	0.822
+fluviatilis <> sp.MO	inter	1.436	0.792	0.690	0.314	1.108	0.575	0.819
+fluviatilis <> sp.OM	inter	1.361	0.618	0.230	0.314	0.943	1.168	0.772
+fluviatilis <> sp.OR	inter	1.338	0.701	0.241	0.377	0.955	0.598	0.702
+fluviatilis <> sp.TO	inter	1.776	0.190	0.498	0.786	0.943	1.205	0.900
+fluviatilis <> sp.YB	inter	0.816	0.618	0.138	0.881	0.819	0.456	0.621
+fluviatilis <> virgigena	inter	2.948	0.309	0.920	0.629	1.315	1.892	1.335
+kurodai <> leavelli	inter	2.192	1.148	0.575	0.314	0.993	1.530	1.125
+kurodai <> nagoyae	inter	2.400	1.193	0.029	0.452	1.132	0.852	1.010
+kurodai <> ogasawaraensis	inter	1.096	0.911	0.192	0.314	0.248	0.834	0.599
+kurodai <> similis	inter	4.875	2.257	0.805	2.096	14.778	2.550	4.560
+kurodai <> sp.BB	inter	0.348	0.222	0.230	0.157	0.372	0.853	0.364
+kurodai <> sp.BF	inter	0.302	0.238	0.498	0.210	0.248	0.788	0.381
+kurodai <> sp.BW	inter	0.302	0.198	0.115	0.157	0.248	1.414	0.406
+kurodai <> sp.CB	inter	2.343	1.148	0.000	0.314	1.117	0.834	0.959
+kurodai <> sp.CO	inter	1.209	0.950	0.230	0.314	0.868	1.113	0.781
+kurodai <> sp.DL	inter	1.266	0.911	0.115	0.314	0.248	0.974	0.638
+kurodai <> sp.KZ	inter	0.416	0.317	0.230	0.000	0.124	0.580	0.278
+kurodai <> sp.MO	inter	0.605	0.435	0.498	0.000	0.372	0.834	0.457
+kurodai <> sp.OM	inter	0.416	0.198	0.230	0.000	0.248	1.252	0.391
+kurodai <> sp.OR	inter	0.314	0.198	0.138	0.063	0.223	0.765	0.283
+kurodai <> sp.TO	inter	1.512	0.911	0.268	0.472	0.868	1.113	0.857
+kurodai <> sp.YB	inter	0.983	1.338	0.138	0.566	0.248	0.760	0.672
+kurodai <> virgigena	inter	2.910	1.029	0.920	0.629	1.241	2.225	1.492
+leavelli <> nagoyae	inter	3.458	0.534	0.603	0.767	1.163	1.113	1.273
+leavelli <> ogasawaraensis	inter	2.154	0.238	0.421	0.629	0.744	1.113	0.883
+leavelli <> similis	inter	5.858	1.584	0.920	2.254	14.902	2.503	4.670
+leavelli <> sp.BB	inter	2.200	0.974	0.782	0.472	0.993	0.918	1.056
+leavelli <> sp.BF	inter	2.154	0.990	0.843	0.524	0.786	1.344	1.107
+leavelli <> sp.BW	inter	2.154	0.950	0.460	0.472	0.744	1.878	1.110
+leavelli <> sp.CB	inter	3.401	0.475	0.575	0.629	1.117	1.113	1.218
+leavelli <> sp.CO	inter	2.154	0.396	0.575	0.629	0.868	1.437	1.010
+leavelli <> sp.DL	inter	2.324	0.238	0.460	0.629	0.744	0.765	0.860
+leavelli <> sp.KZ	inter	2.381	1.069	0.690	0.314	0.931	1.669	1.176
+leavelli <> sp.MO	inter	2.457	1.108	0.958	0.314	1.034	1.066	1.156
+leavelli <> sp.OM	inter	2.268	0.950	0.575	0.314	0.868	1.669	1.107
+leavelli <> sp.OR	inter	2.222	1.033	0.552	0.377	0.881	1.224	1.048
+leavelli <> sp.TO	inter	2.683	0.238	0.843	0.786	1.117	1.344	1.168
+leavelli <> sp.YB	inter	2.041	0.665	0.460	0.723	0.744	0.974	0.934
+leavelli <> virgigena	inter	3.515	0.356	1.034	0.943	1.241	1.808	1.483
+nagoyae <> ogasawaraensis	inter	2.324	0.297	0.220	0.767	0.884	0.296	0.798
+nagoyae <> similis	inter	5.985	1.613	0.833	2.273	15.120	2.138	4.661
+nagoyae <> sp.BB	inter	2.370	1.018	0.259	0.546	1.132	0.424	0.958
+nagoyae <> sp.BF	inter	2.324	1.034	0.527	0.583	0.925	0.527	0.987
+nagoyae <> sp.BW	inter	2.324	0.995	0.144	0.609	0.884	1.608	1.094
+nagoyae <> sp.CB	inter	0.652	0.238	0.029	0.177	0.279	0.261	0.273
+nagoyae <> sp.CO	inter	1.984	0.455	0.259	0.662	0.791	0.666	0.803
+nagoyae <> sp.DL	inter	2.494	0.297	0.144	0.767	0.884	0.409	0.832
+nagoyae <> sp.KZ	inter	2.551	1.113	0.259	0.452	1.070	0.904	1.058
+nagoyae <> sp.MO	inter	2.627	1.153	0.527	0.452	1.163	0.464	1.064
+nagoyae <> sp.OM	inter	2.438	0.995	0.259	0.452	1.008	0.956	1.018
+nagoyae <> sp.OR	inter	2.415	1.078	0.167	0.501	1.020	0.417	0.933
+nagoyae <> sp.TO	inter	2.740	0.297	0.297	0.609	1.256	1.066	1.044
+nagoyae <> sp.YB	inter	2.234	0.724	0.167	0.704	0.884	0.323	0.839
+nagoyae <> virgigena	inter	3.883	0.416	0.948	1.081	1.163	1.808	1.550
+ogasawaraensis <> similis	inter	4.611	1.346	0.651	1.887	14.653	2.133	4.213
+ogasawaraensis <> sp.BB	inter	0.839	0.736	0.398	0.472	0.248	0.417	0.518
+ogasawaraensis <> sp.BF	inter	1.020	0.752	0.460	0.524	0.041	0.510	0.551
+ogasawaraensis <> sp.BW	inter	1.020	0.713	0.077	0.472	0.000	1.599	0.647
+ogasawaraensis <> sp.CB	inter	2.268	0.238	0.192	0.629	0.868	0.278	0.745
+ogasawaraensis <> sp.CO	inter	1.020	0.158	0.307	0.210	0.620	0.603	0.486
+ogasawaraensis <> sp.DL	inter	0.397	0.000	0.077	0.157	0.000	0.417	0.175
+ogasawaraensis <> sp.KZ	inter	1.247	0.831	0.307	0.314	0.186	0.904	0.632
+ogasawaraensis <> sp.MO	inter	1.209	0.871	0.575	0.314	0.289	0.464	0.620
+ogasawaraensis <> sp.OM	inter	1.134	0.713	0.192	0.314	0.124	0.974	0.575
+ogasawaraensis <> sp.OR	inter	1.111	0.796	0.192	0.377	0.136	0.403	0.503
+ogasawaraensis <> sp.TO	inter	1.550	0.000	0.460	0.786	0.620	1.066	0.747
+ogasawaraensis <> sp.YB	inter	0.590	0.428	0.077	0.881	0.000	0.306	0.380
+ogasawaraensis <> virgigena	inter	2.721	0.119	0.766	0.629	0.993	1.530	1.126
+similis <> sp.BB	inter	4.883	2.082	1.011	2.254	14.653	2.160	4.507
+similis <> sp.BF	inter	4.762	2.098	1.073	2.306	14.612	2.318	4.528
+similis <> sp.BW	inter	4.837	2.059	0.690	2.254	14.653	2.944	4.573
+similis <> sp.CB	inter	5.971	1.465	0.805	2.096	15.152	2.133	4.604
+similis <> sp.CO	inter	4.611	1.504	0.805	2.061	14.653	2.457	4.349
+similis <> sp.DL	inter	4.667	1.346	0.690	2.018	14.653	2.202	4.263
+similis <> sp.KZ	inter	5.064	2.177	0.920	2.096	14.778	2.689	4.621
+similis <> sp.MO	inter	5.140	2.217	1.162	2.096	14.736	2.179	4.588
+similis <> sp.OM	inter	4.951	2.059	0.805	2.096	14.529	2.596	4.506
+similis <> sp.OR	inter	4.917	2.142	0.793	2.144	14.653	2.202	4.475
+similis <> sp.TO	inter	5.215	1.346	1.073	2.568	14.902	2.735	4.640
+similis <> sp.YB	inter	4.860	1.394	0.690	2.348	14.653	2.077	4.337
+similis <> virgigena	inter	5.669	1.465	1.034	1.782	14.653	2.364	4.495
+sp.BB <> sp.BF	inter	0.272	0.063	0.728	0.367	0.289	0.649	0.395
+sp.BB <> sp.BW	inter	0.272	0.024	0.345	0.314	0.248	1.544	0.458
+sp.BB <> sp.CB	inter	2.313	0.974	0.230	0.409	1.117	0.417	0.910
+sp.BB <> sp.CO	inter	1.179	0.776	0.398	0.430	0.868	0.760	0.735
+sp.BB <> sp.DL	inter	1.009	0.736	0.345	0.472	0.248	0.431	0.540
+sp.BB <> sp.KZ	inter	0.499	0.143	0.437	0.157	0.248	0.974	0.410
+sp.BB <> sp.MO	inter	0.461	0.261	0.636	0.157	0.124	0.427	0.344
+sp.BB <> sp.OM	inter	0.363	0.024	0.460	0.157	0.372	1.029	0.401
+sp.BB <> sp.OR	inter	0.363	0.107	0.366	0.220	0.298	0.534	0.315
+sp.BB <> sp.TO	inter	1.481	0.736	0.498	0.566	0.868	0.872	0.837
+sp.BB <> sp.YB	inter	0.748	1.154	0.359	0.654	0.248	0.345	0.585
+sp.BB <> virgigena	inter	2.653	0.855	1.126	0.786	1.241	1.613	1.379
+sp.BF <> sp.BW	inter	0.227	0.040	0.383	0.367	0.041	1.229	0.381
+sp.BF <> sp.CB	inter	2.268	0.990	0.498	0.524	0.910	0.510	0.950
+sp.BF <> sp.CO	inter	1.134	0.792	0.728	0.524	0.662	0.881	0.787
+sp.BF <> sp.DL	inter	1.190	0.752	0.383	0.524	0.041	0.649	0.590
+sp.BF <> sp.KZ	inter	0.454	0.158	0.670	0.210	0.207	0.858	0.426
+sp.BF <> sp.MO	inter	0.529	0.277	0.958	0.210	0.331	0.695	0.500
+sp.BF <> sp.OM	inter	0.340	0.040	0.460	0.210	0.083	0.556	0.281
+sp.BF <> sp.OR	inter	0.317	0.123	0.510	0.273	0.136	0.533	0.315
+sp.BF <> sp.TO	inter	1.436	0.752	0.766	0.681	0.662	0.742	0.840
+sp.BF <> sp.YB	inter	0.930	1.180	0.406	0.776	0.041	0.538	0.645
+sp.BF <> virgigena	inter	2.834	0.871	1.149	0.839	1.034	1.994	1.453
+sp.BW <> sp.CB	inter	2.268	0.950	0.115	0.472	0.868	1.599	1.045
+sp.BW <> sp.CO	inter	1.134	0.752	0.345	0.472	0.620	1.878	0.867
+sp.BW <> sp.DL	inter	1.190	0.713	0.000	0.472	0.000	1.634	0.668
+sp.BW <> sp.KZ	inter	0.454	0.119	0.287	0.157	0.186	1.739	0.490
+sp.BW <> sp.MO	inter	0.454	0.238	0.575	0.157	0.289	1.530	0.540
+sp.BW <> sp.OM	inter	0.340	0.000	0.115	0.157	0.124	1.530	0.378
+sp.BW <> sp.OR	inter	0.317	0.083	0.126	0.204	0.136	1.586	0.409
+sp.BW <> sp.TO	inter	1.436	0.713	0.383	0.629	0.620	1.484	0.877
+sp.BW <> sp.YB	inter	0.930	1.140	0.023	0.723	0.000	1.544	0.727
+sp.BW <> virgigena	inter	2.834	0.831	0.805	0.786	0.993	2.503	1.459
+sp.CB <> sp.CO	inter	1.927	0.396	0.230	0.524	0.744	0.649	0.745
+sp.CB <> sp.DL	inter	2.438	0.238	0.115	0.629	0.868	0.417	0.784
+sp.CB <> sp.KZ	inter	2.494	1.069	0.230	0.314	1.055	0.765	0.988
+sp.CB <> sp.MO	inter	2.570	1.108	0.498	0.314	1.158	0.464	1.019
+sp.CB <> sp.OM	inter	2.381	0.950	0.230	0.314	0.993	0.974	0.974
+sp.CB <> sp.OR	inter	2.358	1.033	0.138	0.362	1.005	0.376	0.879
+sp.CB <> sp.TO	inter	2.683	0.238	0.268	0.472	1.241	1.066	0.995
+sp.CB <> sp.YB	inter	2.177	0.665	0.138	0.566	0.868	0.306	0.787
+sp.CB <> virgigena	inter	3.855	0.356	0.920	0.943	1.117	1.808	1.500
+sp.CO <> sp.DL	inter	1.190	0.158	0.345	0.314	0.620	0.788	0.569
+sp.CO <> sp.KZ	inter	1.361	0.871	0.287	0.314	0.806	1.182	0.804
+sp.CO <> sp.MO	inter	1.436	0.911	0.626	0.314	0.910	0.773	0.828
+sp.CO <> sp.OM	inter	1.247	0.752	0.460	0.314	0.744	1.344	0.810
+sp.CO <> sp.OR	inter	1.224	0.835	0.345	0.377	0.757	0.765	0.717
+sp.CO <> sp.TO	inter	1.436	0.158	0.498	0.681	0.744	1.391	0.818
+sp.CO <> sp.YB	inter	0.930	0.586	0.345	0.776	0.620	0.612	0.645
+sp.CO <> virgigena	inter	2.608	0.277	0.920	0.734	1.117	1.994	1.275
+sp.DL <> sp.KZ	inter	1.417	0.831	0.287	0.314	0.186	1.043	0.680
+sp.DL <> sp.MO	inter	1.379	0.871	0.575	0.314	0.289	0.464	0.649
+sp.DL <> sp.OM	inter	1.304	0.713	0.115	0.314	0.124	0.904	0.579
+sp.DL <> sp.OR	inter	1.281	0.796	0.126	0.377	0.136	0.542	0.543
+sp.DL <> sp.TO	inter	1.720	0.000	0.383	0.786	0.620	0.997	0.751
+sp.DL <> sp.YB	inter	0.760	0.428	0.023	0.881	0.000	0.445	0.423
+sp.DL <> virgigena	inter	2.891	0.119	0.805	0.708	0.993	1.739	1.209
+sp.KZ <> sp.MO	inter	0.756	0.356	0.613	0.000	0.289	0.997	0.502
+sp.KZ <> sp.OM	inter	0.567	0.119	0.402	0.000	0.248	1.252	0.431
+sp.KZ <> sp.OR	inter	0.351	0.202	0.322	0.063	0.199	0.800	0.323
+sp.KZ <> sp.TO	inter	1.663	0.831	0.498	0.472	0.806	1.298	0.928
+sp.KZ <> sp.YB	inter	1.156	1.259	0.287	0.566	0.186	0.862	0.720
+sp.KZ <> virgigena	inter	3.061	0.950	1.034	0.629	1.179	2.364	1.536
+sp.MO <> sp.OM	inter	0.642	0.238	0.690	0.000	0.414	1.020	0.501
+sp.MO <> sp.OR	inter	0.620	0.321	0.602	0.063	0.335	0.570	0.418
+sp.MO <> sp.TO	inter	1.738	0.871	0.766	0.472	0.910	1.020	0.963
+sp.MO <> sp.YB	inter	1.119	1.298	0.567	0.566	0.289	0.436	0.713
+sp.MO <> virgigena	inter	3.023	0.990	1.303	0.629	1.282	1.762	1.498
+sp.OM <> sp.OR	inter	0.431	0.083	0.241	0.063	0.136	0.918	0.312
+sp.OM <> sp.TO	inter	1.550	0.713	0.498	0.472	0.744	1.066	0.840
+sp.OM <> sp.YB	inter	1.043	1.140	0.138	0.566	0.124	1.001	0.669
+sp.OM <> virgigena	inter	2.948	0.831	0.690	0.629	1.117	2.225	1.407
+sp.OR <> sp.TO	inter	1.515	0.796	0.383	0.535	0.757	1.089	0.846
+sp.OR <> sp.YB	inter	1.007	1.223	0.147	0.629	0.136	0.423	0.594
+sp.OR <> virgigena	inter	2.925	0.914	0.908	0.692	1.129	1.892	1.410
+sp.TO <> sp.YB	inter	1.459	0.428	0.406	0.723	0.620	0.927	0.761
+sp.TO <> virgigena	inter	3.326	0.119	1.188	1.101	1.365	2.040	1.523
+sp.YB <> virgigena	inter	2.630	0.546	0.805	1.195	0.993	1.669	1.306
