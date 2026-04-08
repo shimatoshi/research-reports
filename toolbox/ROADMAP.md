@@ -23,3 +23,10 @@
 |--------|------|------|
 | `adb-pilot/` | 稼働中 | Android端末の遠隔操作 |
 | `browser-save/` | 稼働中 | Webページの保存・クロール |
+
+## 汎用テクニック
+
+| ドキュメント | 概要 |
+|-------------|------|
+| [dev-mode-cache-bypass.md](dev-mode-cache-bypass.md) | SW・キャッシュ無効化の開発モードパターン（サーバー側制御） |
+| [playwright-cli-ui-debug.md](playwright-cli-ui-debug.md) | CLIからブラウザUIを操作・デバッグする方法 |
