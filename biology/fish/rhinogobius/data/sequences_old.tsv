@@ -1,0 +1,195 @@
+accession	species	gene	locality	specimen_voucher	isolate	paper_doi	notes
+AB988824	kurodai	CO1	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype（タイプ産地: 東京）
+AB988825	kurodai	CO1	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
+AB988980	kurodai	cytb	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
+AB988981	kurodai	cytb	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
+AB988902	kurodai	ND5	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
+AB988903	kurodai	ND5	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
+AB988745	kurodai	E3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988746	kurodai	E3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988747	kurodai	E3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988663	kurodai	sreb2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988664	kurodai	sreb2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988665	kurodai	sreb2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988581	kurodai	RAG2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988582	kurodai	RAG2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988583	kurodai	RAG2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988499	kurodai	Ptr	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988500	kurodai	Ptr	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988501	kurodai	Ptr	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988417	kurodai	RYR3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988418	kurodai	RYR3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988419	kurodai	RYR3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988335	kurodai	myh6	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988336	kurodai	myh6	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB988337	kurodai	myh6	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
+AB753778	kurodai	ND5	Japan: Mie, Suzuka city	KPM-NI:31165	haplotype:OR01	Mukai et al. 2012 Bull.Biogeogr.Soc.Jpn.67:15-24	向井ら 2012; 鈴鹿ため池
+AB753779	kurodai	ND5	Japan: Mie, Suzuka city	KPM-NI:31160	haplotype:OR02	Mukai et al. 2012 Bull.Biogeogr.Soc.Jpn.67:15-24	向井ら 2012; 鈴鹿ため池
+AB753780	kurodai	ND5	Japan: Mie, Suzuka city	KPM-NI:31172	haplotype:OR03	Mukai et al. 2012 Bull.Biogeogr.Soc.Jpn.67:15-24	向井ら 2012; 鈴鹿ため池
+LC858940	kurodai	cytb	Japan: Tokyo	CBM:ZF24322	KN1468	10.1111/mec.70059	Tsuji et al. 2025; 環境DNA比較系統地理; 採集日2020-06-29
+LC633732	kurodai	cytb	Japan: Tokyo		D403(BLIP200131231)		Nakamura et al. 未公刊
+LC606657	kurodai	12S	Japan: Tokyo	personal:Yo Yamasaki	D403(BLIP200131231)		Nakamura et al. 未公刊
+AB988764	sp.OR	CO1	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988765	sp.OR	CO1	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988798	sp.OR	CO1	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988819	sp.OR	CO1	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 陸封型
+AB988822	sp.OR	CO1	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 陸封型
+AB988920	sp.OR	cytb	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988921	sp.OR	cytb	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988954	sp.OR	cytb	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988975	sp.OR	cytb	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 陸封型
+AB988978	sp.OR	cytb	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 陸封型
+AB988842	sp.OR	ND5	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988843	sp.OR	ND5	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988876	sp.OR	ND5	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 両側回遊型
+AB988897	sp.OR	ND5	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 陸封型
+AB988900	sp.OR	ND5	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 陸封型
+AB988681	sp.OR	E3	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988682	sp.OR	E3	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988708	sp.OR	E3	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988709	sp.OR	E3	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120823	OR-HK110724-6	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988732	sp.OR	E3	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988733	sp.OR	E3	Japan: Fukushima, Miharu Dam		OR-FS091026-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988737	sp.OR	E3	Japan: Iwate, Ichinoseki, Pond		OR-IW081011-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988738	sp.OR	E3	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988739	sp.OR	E3	Japan: Hokkaido, Abashiri River		OR-HO120408-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988741	sp.OR	E3	Japan: Yamanashi, Fuefuki River	NSMT:P:120840	OR-YN120714-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988599	sp.OR	sreb2	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988600	sp.OR	sreb2	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988626	sp.OR	sreb2	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988627	sp.OR	sreb2	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120823	OR-HK110724-6	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988650	sp.OR	sreb2	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988651	sp.OR	sreb2	Japan: Fukushima, Miharu Dam		OR-FS091026-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988655	sp.OR	sreb2	Japan: Iwate, Ichinoseki, Pond		OR-IW081011-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988656	sp.OR	sreb2	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988657	sp.OR	sreb2	Japan: Hokkaido, Abashiri River		OR-HO120408-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988659	sp.OR	sreb2	Japan: Yamanashi, Fuefuki River	NSMT:P:120840	OR-YN120714-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988517	sp.OR	RAG2	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988518	sp.OR	RAG2	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988544	sp.OR	RAG2	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988545	sp.OR	RAG2	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120823	OR-HK110724-6	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988568	sp.OR	RAG2	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988569	sp.OR	RAG2	Japan: Fukushima, Miharu Dam		OR-FS091026-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988573	sp.OR	RAG2	Japan: Iwate, Ichinoseki, Pond		OR-IW081011-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988574	sp.OR	RAG2	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988575	sp.OR	RAG2	Japan: Hokkaido, Abashiri River		OR-HO120408-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988577	sp.OR	RAG2	Japan: Yamanashi, Fuefuki River	NSMT:P:120840	OR-YN120714-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988435	sp.OR	Ptr	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988436	sp.OR	Ptr	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988462	sp.OR	Ptr	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988463	sp.OR	Ptr	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120823	OR-HK110724-6	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988486	sp.OR	Ptr	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988487	sp.OR	Ptr	Japan: Fukushima, Miharu Dam		OR-FS091026-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988491	sp.OR	Ptr	Japan: Iwate, Ichinoseki, Pond		OR-IW081011-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988492	sp.OR	Ptr	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988493	sp.OR	Ptr	Japan: Hokkaido, Abashiri River		OR-HO120408-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988495	sp.OR	Ptr	Japan: Yamanashi, Fuefuki River	NSMT:P:120840	OR-YN120714-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988353	sp.OR	RYR3	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988354	sp.OR	RYR3	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988380	sp.OR	RYR3	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988381	sp.OR	RYR3	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120823	OR-HK110724-6	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988404	sp.OR	RYR3	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988405	sp.OR	RYR3	Japan: Fukushima, Miharu Dam		OR-FS091026-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988409	sp.OR	RYR3	Japan: Iwate, Ichinoseki, Pond		OR-IW081011-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988410	sp.OR	RYR3	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988411	sp.OR	RYR3	Japan: Hokkaido, Abashiri River		OR-HO120408-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988413	sp.OR	RYR3	Japan: Yamanashi, Fuefuki River	NSMT:P:120840	OR-YN120714-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988271	sp.OR	myh6	Japan: Niigata, Seki River	NSMT:P:120793	OR-NI110816-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988272	sp.OR	myh6	Japan: Niigata, Seki River	NSMT:P:120794	OR-NI110816-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988298	sp.OR	myh6	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120822	OR-HK110724-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988299	sp.OR	myh6	Japan: Fukuoka, Fukutsu, Channel	NSMT:P:120823	OR-HK110724-6	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 両側回遊型
+AB988322	sp.OR	myh6	Japan: Fukushima, Miharu Dam		OR-FS091026-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988323	sp.OR	myh6	Japan: Fukushima, Miharu Dam		OR-FS091026-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988327	sp.OR	myh6	Japan: Iwate, Ichinoseki, Pond		OR-IW081011-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988328	sp.OR	myh6	Japan: Iwate, Oshu, Pond	NSMT:P:120838	OR-IW090528-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988329	sp.OR	myh6	Japan: Hokkaido, Abashiri River		OR-HO120408-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+AB988331	sp.OR	myh6	Japan: Yamanashi, Fuefuki River	NSMT:P:120840	OR-YN120714-5	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; 陸封型
+LC097739	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_01	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097740	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_02	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097741	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_03	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097742	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_04	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097743	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_05	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097744	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_06	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097745	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_07	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097746	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_08	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097747	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_09	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097748	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_10	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097749	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_11	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097750	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_12	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097751	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_13	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097752	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_14	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+LC097753	sp.OR	cytb	Japan: Shiga, Lake Biwa		haplotype:ROR_15	10.1002/ece3.2170	Tabata et al. 2016; 琵琶湖; 577bp; 湖河回遊型
+AB190333	sp.OR	ND5	Japan: Tokyo, Akigawa River			Mukai et al. 2005 Ichthyol.Res.52:410-413	向井ら 2005; 秋川; 945bp
+AB190334	sp.OR	ND5	Japan: Shiga, Lake Biwa			Mukai et al. 2005 Ichthyol.Res.52:410-413	向井ら 2005; 琵琶湖; 945bp
+LC085156	sp.OR	ND5	Japan: Okayama, Maniwa, Yubara Dam		haplotype:OR05	Mukai et al. 2015 Bull.Biogeogr.Soc.Jpn.70:173-180	向井ら 2015; 湯原ダム湖; 945bp; 非在来
+LC085157	sp.OR	ND5	Japan: Aichi, Toyota, Asuri Dam		haplotype:OR06	Mukai et al. 2015 Bull.Biogeogr.Soc.Jpn.70:173-180	向井ら 2015; 矢作川阿摺ダム; 945bp; 非在来
+LC858957	sp.OR	cytb	Japan: Nagasaki, Honmyo River	CBM:ZF24339	KN3627	10.1111/mec.70059	Tsuji et al. 2025; 本明川; 836bp; 両側回遊型
+LC858958	sp.OR	cytb	Japan: Nagasaki, Honmyo River	CBM:ZF24340	KN3628	10.1111/mec.70059	Tsuji et al. 2025; 本明川; 836bp; 両側回遊型
+LC858959	sp.OR	cytb	Japan: Nagasaki, Honmyo River	CBM:ZF24341	KN3629	10.1111/mec.70059	Tsuji et al. 2025; 本明川; 836bp; 両側回遊型
+LC858960	sp.OR	cytb	Japan: Fukuoka, Chikugo River	CBM:ZF24342	KN3693	10.1111/mec.70059	Tsuji et al. 2025; 筑後川; 836bp; 両側回遊型
+LC435295	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-01		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435296	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-02		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435297	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-03		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435298	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-05		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435299	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-06		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435300	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-08		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435301	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-09		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435302	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-10		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435303	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-11		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435304	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-12		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435305	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-14		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435306	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-15		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435307	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-16		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435308	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-17		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435324	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-18		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435325	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-19		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435326	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-20		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435327	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-21		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435328	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-22		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435329	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-23		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435330	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-24		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435331	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-25		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435332	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-26		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC435333	sp.OR	control_region	Japan: Shiga, Lake Biwa		haplotype:RGO-27		Akihito et al. 2019 Jpn.J.Ichthyol.66:53-62; 琵琶湖; 474bp; 湖河回遊型
+LC092051	sp.OR	12S	Japan: Chiba, Abiko, Tega-numa Pond	CBM:ZF:15797		Miya & Sado (未公刊)	MiFish参照配列; 169bp; 手賀沼 = kurodaiタイプ産地周辺
+LC146304	sp.OR	12S	Japan: Kyoto, Miyazu, Kurita	CBM:ZF:16269		Miya & Sado (未公刊)	MiFish参照配列; 169bp; 日本海側
+LC193165	sp.OR	12S	Japan: Chiba, Inzai, Kamenari River	CBM:ZF:16527		Miya & Sado (未公刊)	MiFish参照配列; 169bp
+LC193280	sp.OR	12S	Japan: Nagano, Kami-ina	CBM:ZF:16493		Miya & Sado (未公刊)	MiFish参照配列; 169bp; 内陸
+LC193300	sp.OR	12S	Japan: Akita	CBM:ZF:16609		Miya & Sado (未公刊)	MiFish参照配列; 169bp
+LC193444	sp.OR	12S	Japan: Chiba, Narita	CBM:ZF:16881		Miya & Sado (未公刊)	MiFish参照配列; 169bp
+LC193445	sp.OR	12S	Japan: Chiba, Isumi, Ogiwara	CBM:ZF:16068		Miya & Sado (未公刊)	MiFish参照配列; 169bp; 太平洋側河川
+AB159088	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-1; 417bp
+AB159089	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-2; 213bp
+AB159090	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-3; 622bp
+AB159091	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-4; 496bp
+AB159092	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-5; 260bp
+AB159093	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-6; 495bp
+AB159094	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-7; 456bp
+AB159095	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-8; 621bp
+AB159096	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-9; 925bp
+AB159097	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-10; 455bp
+AB159098	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-11; 314bp
+AB159099	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-12; 711bp
+AB159100	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-13; 167bp
+AB159101	sp.OR	microsatellite	Japan			Ohara et al. 2004 Mol.Ecol.Notes 4:449-451	マイクロサテライト座位 Rhi-14; 318bp
+LC104339	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Isumi, Shiotagawa River	CBM:ZF:15982		Miya & Sado (未公刊)	MiFish参照配列; 1082bp; 採集2015-11-11
+LC104714	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Umegase-keikoku	CBM:ZF:15831		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2015-10-24
+LC458191	sp.OR	12S+tRNA-Val+16S	Japan: Ehime, Iyo, Uwa-gawa River	CBM:ZF:19340-1		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2018-08-30; 四国
+LC708242	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, trib. Miyako-gawa River	CBM:ZF:22090		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2022-03-15
+LC713501	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Wakaba, Kashima-gawa River	CBM:ZF:22167		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2022-04-29
+LC713502	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Ichihara, trib. Murata-gawa River	CBM:ZF:22138		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2022-04-25
+LC713503	sp.OR	12S+tRNA-Val+16S	Japan: Fukuoka, Itoshima, Zuibaiji-gawa River	CBM:ZF:19455-1		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2017-09-20; 九州
+LC713504	sp.OR	12S+tRNA-Val+16S	Japan: Fukuoka, Itoshima, Zuibaiji-gawa River	CBM:ZF:19456-1		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2017-09-20; 九州
+LC713505	sp.OR	12S+tRNA-Val+16S	Japan: Fukuoka, Itoshima, Raizan-gawa River	CBM:ZF:19459-1		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2017-09-26; 九州
+LC713506	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Isumi, Ogiwara, Kamioki-gawa River	CBM:ZF:20174		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2015-11-12
+LC715467	sp.OR	12S+tRNA-Val+16S	Japan: Toyama, Joganji-gawa River	CBM:ZF:21074		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2021-03-11; 日本海側
+LC719265	sp.OR	12S+tRNA-Val+16S	Japan: Tokushima, Naruto, Bando-kamohara	CBM:ZF:19274		Miya & Sado (未公刊)	MiFish参照配列; 1082bp; 採集2018-08-25; 四国
+LC719266	sp.OR	12S+tRNA-Val+16S	Japan: Tokushima, Naruto, Bando-kamohara	CBM:ZF:19293		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2018-08-25; 四国
+LC722577	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Ichihara, Anesaki, irrigation canal	CBM:ZF:22322		Miya & Sado (未公刊)	MiFish参照配列; 1082bp; 採集2022-06-27
+LC722578	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Ichihara, Anesaki, Shiitsu-gawa River	CBM:ZF:22326		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2022-06-27
+LC762645	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Kimitsu, trib. Sasa-gawa River	CBM:ZF:19754-1		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2017-07-28
+LC834786	sp.OR	12S+tRNA-Val+16S	Japan: Chiba, Katori, Kozaki	CBM:ZF:23537-1		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2021-10-28
+LC848703	sp.OR	12S+tRNA-Val+16S	Japan: Shimane, Gono-kawa River	CBM:ZF:22367		Miya & Sado (未公刊)	MiFish参照配列; 1083bp; 採集2022-06-03; 日本海側
+LC742186	sp.OR	12S	Japan: Gifu		IDEA_Fish423	Nakamura et al. (未公刊)	eDNA魚類参照配列; 942bp; 採集2022-04-30
+LC742231	sp.OR	12S	Japan: Niigata, Shinano River basin		IDEA_Fish474	Nakamura et al. (未公刊)	eDNA魚類参照配列; 947bp; 採集2022-08-14
+LC911463	sp.?	16S	Japan: Kanagawa		KNG_KNG2024-Fish030	Hasebe & Takenaka (未公刊)	572bp; 採集2024-07-12; GenBank登録名は"Rhinogobius sp."でsp.ORの同定不確実

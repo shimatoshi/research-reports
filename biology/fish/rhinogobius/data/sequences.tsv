@@ -1,31 +1,822 @@
-accession	species	gene	locality	specimen_voucher	isolate	paper_doi	notes
-AB988824	kurodai	CO1	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype（タイプ産地: 東京）
-AB988825	kurodai	CO1	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
-AB988980	kurodai	cytb	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
-AB988981	kurodai	cytb	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
-AB988902	kurodai	ND5	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
-AB988903	kurodai	ND5	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; topotype
-AB988745	kurodai	E3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988746	kurodai	E3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988747	kurodai	E3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988663	kurodai	sreb2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988664	kurodai	sreb2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988665	kurodai	sreb2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988581	kurodai	RAG2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988582	kurodai	RAG2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988583	kurodai	RAG2	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988499	kurodai	Ptr	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988500	kurodai	Ptr	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988501	kurodai	Ptr	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988417	kurodai	RYR3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988418	kurodai	RYR3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988419	kurodai	RYR3	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988335	kurodai	myh6	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120844	KU-TK100705-1	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988336	kurodai	myh6	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120845	KU-TK100705-2	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB988337	kurodai	myh6	Japan: Tokyo, Shinjuku Gyoen	NSMT:P:120846	KU-TK100705-3	10.1016/j.ympev.2015.04.012	Yamasaki et al. 2015; 核DNA; topotype
-AB753778	kurodai	ND5	Japan: Mie, Suzuka city	KPM-NI:31165	haplotype:OR01	Mukai et al. 2012 Bull.Biogeogr.Soc.Jpn.67:15-24	向井ら 2012; 鈴鹿ため池
-AB753779	kurodai	ND5	Japan: Mie, Suzuka city	KPM-NI:31160	haplotype:OR02	Mukai et al. 2012 Bull.Biogeogr.Soc.Jpn.67:15-24	向井ら 2012; 鈴鹿ため池
-AB753780	kurodai	ND5	Japan: Mie, Suzuka city	KPM-NI:31172	haplotype:OR03	Mukai et al. 2012 Bull.Biogeogr.Soc.Jpn.67:15-24	向井ら 2012; 鈴鹿ため池
-LC858940	kurodai	cytb	Japan: Tokyo	CBM:ZF24322	KN1468	10.1111/mec.70059	Tsuji et al. 2025; 環境DNA比較系統地理; 採集日2020-06-29
-LC633732	kurodai	cytb	Japan: Tokyo		D403(BLIP200131231)		Nakamura et al. 未公刊
-LC606657	kurodai	12S	Japan: Tokyo	personal:Yo Yamasaki	D403(BLIP200131231)		Nakamura et al. 未公刊
+accession	specimen_id	gene	genome	length_bp	paper_doi	paper_short	genbank_organism	notes
+AB988824	KU-TK100705-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988825	KU-TK100705-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988980	KU-TK100705-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988981	KU-TK100705-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988902	KU-TK100705-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988903	KU-TK100705-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988745	KU-TK100705-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988746	KU-TK100705-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988747	KU-TK100705-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988663	KU-TK100705-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988664	KU-TK100705-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988665	KU-TK100705-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988581	KU-TK100705-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988582	KU-TK100705-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988583	KU-TK100705-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988499	KU-TK100705-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988500	KU-TK100705-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988501	KU-TK100705-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988417	KU-TK100705-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988418	KU-TK100705-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988419	KU-TK100705-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988335	KU-TK100705-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988336	KU-TK100705-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988337	KU-TK100705-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius kurodai
+AB988764	OR-NI110816-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988765	OR-NI110816-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988798	OR-HK110724-5	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988819	OR-FS091026-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988822	OR-IW090528-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988920	OR-NI110816-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988921	OR-NI110816-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988954	OR-HK110724-5	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988975	OR-FS091026-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988978	OR-IW090528-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988842	OR-NI110816-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988843	OR-NI110816-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988876	OR-HK110724-5	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988897	OR-FS091026-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988900	OR-IW090528-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988681	OR-NI110816-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988682	OR-NI110816-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988708	OR-HK110724-5	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988709	OR-HK110724-6	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988732	OR-FS091026-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988733	OR-FS091026-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988737	OR-IW081011-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988738	OR-IW090528-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988739	OR-HO120408-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988741	OR-YN120714-5	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988599	OR-NI110816-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988600	OR-NI110816-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988626	OR-HK110724-5	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988627	OR-HK110724-6	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988650	OR-FS091026-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988651	OR-FS091026-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988655	OR-IW081011-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988656	OR-IW090528-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988657	OR-HO120408-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988659	OR-YN120714-5	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988517	OR-NI110816-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988518	OR-NI110816-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988544	OR-HK110724-5	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988545	OR-HK110724-6	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988568	OR-FS091026-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988569	OR-FS091026-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988573	OR-IW081011-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988574	OR-IW090528-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988575	OR-HO120408-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988577	OR-YN120714-5	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988435	OR-NI110816-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988436	OR-NI110816-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988462	OR-HK110724-5	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988463	OR-HK110724-6	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988486	OR-FS091026-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988487	OR-FS091026-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988491	OR-IW081011-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988492	OR-IW090528-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988493	OR-HO120408-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988495	OR-YN120714-5	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988353	OR-NI110816-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988354	OR-NI110816-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988380	OR-HK110724-5	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988381	OR-HK110724-6	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988404	OR-FS091026-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988405	OR-FS091026-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988409	OR-IW081011-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988410	OR-IW090528-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988411	OR-HO120408-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988413	OR-YN120714-5	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988271	OR-NI110816-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988272	OR-NI110816-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988298	OR-HK110724-5	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988299	OR-HK110724-6	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988322	OR-FS091026-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988323	OR-FS091026-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988327	OR-IW081011-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988328	OR-IW090528-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988329	OR-HO120408-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988331	OR-YN120714-5	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OR
+AB988511	BF-HY110605-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	= R. tyoni
+AB988533	BF-HY110913-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	= R. tyoni
+AB988555	BF-OY110722-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	= R. tyoni
+AB988584	BW-SG130523-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	= R. biwaensis
+AB988585	BW-SG130601-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	= R. biwaensis
+AB988589	KZ-CB100418-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	カズサヨシノボリ
+AB988590	KZ-CB100418-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	カズサヨシノボリ
+AB988516	OM-SG110725-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM
+AB753778	haplotype:OR01	ND5	mt	945		Mukai2012	Rhinogobius kurodai
+AB753779	haplotype:OR02	ND5	mt	945		Mukai2012	Rhinogobius kurodai
+AB753780	haplotype:OR03	ND5	mt	945		Mukai2012	Rhinogobius kurodai
+AB190333	Mukai2005-Akigawa	ND5	mt	945		Mukai2005	Rhinogobius sp. OR	秋川
+AB190334	Mukai2005-Biwa	ND5	mt	945		Mukai2005	Rhinogobius sp. OR	琵琶湖
+LC085156	haplotype:OR05	ND5	mt	945		Mukai2015	Rhinogobius sp. OR	湯原ダム; 非在来
+LC085157	haplotype:OR06	ND5	mt	945		Mukai2015	Rhinogobius sp. OR	阿摺ダム; 非在来
+LC858940	KN1468	cytb	mt	836	10.1111/mec.70059	Tsuji2025	Rhinogobius kurodai
+LC633732	D403	cytb	mt		Nakamura(未公刊)	Rhinogobius kurodai
+LC606657	D403	12S	mt		Nakamura(未公刊)	Rhinogobius kurodai
+LC858957	KN3627	cytb	mt	836	10.1111/mec.70059	Tsuji2025	Rhinogobius sp. OR	長崎
+LC858958	KN3628	cytb	mt	836	10.1111/mec.70059	Tsuji2025	Rhinogobius sp. OR
+LC858959	KN3629	cytb	mt	836	10.1111/mec.70059	Tsuji2025	Rhinogobius sp. OR
+LC858960	KN3693	cytb	mt	836	10.1111/mec.70059	Tsuji2025	Rhinogobius sp. OR	福岡
+LC097739	ROR_01	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR	琵琶湖; ハプロタイプ代表
+LC097740	ROR_02	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097741	ROR_03	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097742	ROR_04	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097743	ROR_05	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097744	ROR_06	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097745	ROR_07	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097746	ROR_08	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097747	ROR_09	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097748	ROR_10	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097749	ROR_11	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097750	ROR_12	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097751	ROR_13	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097752	ROR_14	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC097753	ROR_15	cytb	mt	577	10.1002/ece3.2170	Tabata2016	Rhinogobius sp. OR
+LC435295	RGO-01	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR	琵琶湖; 個体配列
+LC435296	RGO-02	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435297	RGO-03	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435298	RGO-05	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435299	RGO-06	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435300	RGO-08	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435301	RGO-09	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435302	RGO-10	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435303	RGO-11	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435304	RGO-12	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435305	RGO-14	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435306	RGO-15	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435307	RGO-16	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435308	RGO-17	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435324	RGO-18	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435325	RGO-19	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435326	RGO-20	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435327	RGO-21	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435328	RGO-22	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435329	RGO-23	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435330	RGO-24	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435331	RGO-25	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435332	RGO-26	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+LC435333	RGO-27	control_region	mt	474	10.11369/jji.18-044	Akihito2019	Rhinogobius sp. OR
+AB988701	BB-OK110924-32	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988455	BB-OK110924-32	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988373	BB-OK110924-32	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988291	BB-OK110924-32	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988537	BB-OK110924-32	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988619	BB-OK110924-32	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988713	BB-OK120305-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988467	BB-OK120305-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988385	BB-OK120305-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988303	BB-OK120305-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988549	BB-OK120305-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988631	BB-OK120305-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988714	BB-OK120305-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988468	BB-OK120305-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988386	BB-OK120305-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988304	BB-OK120305-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988550	BB-OK120305-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988632	BB-OK120305-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988750	BB-OK121111-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988504	BB-OK121111-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988422	BB-OK121111-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988340	BB-OK121111-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988586	BB-OK121111-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988668	BB-OK121111-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988751	BB-OK121111-5	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988505	BB-OK121111-5	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988423	BB-OK121111-5	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988341	BB-OK121111-5	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988587	BB-OK121111-5	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988669	BB-OK121111-5	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988675	BF-HY110605-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988429	BF-HY110605-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988347	BF-HY110605-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988265	BF-HY110605-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988593	BF-HY110605-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988697	BF-HY110913-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988451	BF-HY110913-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988369	BF-HY110913-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988287	BF-HY110913-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988615	BF-HY110913-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988719	BF-OY110722-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988473	BF-OY110722-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988391	BF-OY110722-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988309	BF-OY110722-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988637	BF-OY110722-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988705	BI-CC011116-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988459	BI-CC011116-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988377	BI-CC011116-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988295	BI-CC011116-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988541	BI-CC011116-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988623	BI-CC011116-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988706	BI-CC011116-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988460	BI-CC011116-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988378	BI-CC011116-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988296	BI-CC011116-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988542	BI-CC011116-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988624	BI-CC011116-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988707	BI-HH011124-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988461	BI-HH011124-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988379	BI-HH011124-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988297	BI-HH011124-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988543	BI-HH011124-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988625	BI-HH011124-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988748	BW-SG130523-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988502	BW-SG130523-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988420	BW-SG130523-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988338	BW-SG130523-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988666	BW-SG130523-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988749	BW-SG130601-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988503	BW-SG130601-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988421	BW-SG130601-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988339	BW-SG130601-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988667	BW-SG130601-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988704	CB-AK111003-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988458	CB-AK111003-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988376	CB-AK111003-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988294	CB-AK111003-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988540	CB-AK111003-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988622	CB-AK111003-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988683	CB-HK110724-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988437	CB-HK110724-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988355	CB-HK110724-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988273	CB-HK110724-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988519	CB-HK110724-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988601	CB-HK110724-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988684	CB-HK110724-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988438	CB-HK110724-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988356	CB-HK110724-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988274	CB-HK110724-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988520	CB-HK110724-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988602	CB-HK110724-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988685	CB-HY110809-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988439	CB-HY110809-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988357	CB-HY110809-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988275	CB-HY110809-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988521	CB-HY110809-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988603	CB-HY110809-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988710	CB-IR120327-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988464	CB-IR120327-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988382	CB-IR120327-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988300	CB-IR120327-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988546	CB-IR120327-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988628	CB-IR120327-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988728	CB-IR120622-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988482	CB-IR120622-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988400	CB-IR120622-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988318	CB-IR120622-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988564	CB-IR120622-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988646	CB-IR120622-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988729	CB-IR120622-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988483	CB-IR120622-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988401	CB-IR120622-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988319	CB-IR120622-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988565	CB-IR120622-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988647	CB-IR120622-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988723	CB-OK110925-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988477	CB-OK110925-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988395	CB-OK110925-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988313	CB-OK110925-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988559	CB-OK110925-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988641	CB-OK110925-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988695	CB-SZ110911-6	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988449	CB-SZ110911-6	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988367	CB-SZ110911-6	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988285	CB-SZ110911-6	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988531	CB-SZ110911-6	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988613	CB-SZ110911-6	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988686	CB-WK110824-6	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988440	CB-WK110824-6	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988358	CB-WK110824-6	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988276	CB-WK110824-6	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988522	CB-WK110824-6	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988604	CB-WK110824-6	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988694	CO-SZ110911-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988448	CO-SZ110911-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988366	CO-SZ110911-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988284	CO-SZ110911-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988530	CO-SZ110911-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988612	CO-SZ110911-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988689	CO-WK110824-17	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988443	CO-WK110824-17	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988361	CO-WK110824-17	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988279	CO-WK110824-17	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988525	CO-WK110824-17	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988607	CO-WK110824-17	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988690	CO-WK110824-21	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988444	CO-WK110824-21	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988362	CO-WK110824-21	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988280	CO-WK110824-21	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988526	CO-WK110824-21	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988608	CO-WK110824-21	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988711	DA-IR120327-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988465	DA-IR120327-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988383	DA-IR120327-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988301	DA-IR120327-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988547	DA-IR120327-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988629	DA-IR120327-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988724	DA-IR120622-4	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988478	DA-IR120622-4	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988396	DA-IR120622-4	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988314	DA-IR120622-4	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988560	DA-IR120622-4	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988642	DA-IR120622-4	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988725	DA-IR120625-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988479	DA-IR120625-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988397	DA-IR120625-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988315	DA-IR120625-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988561	DA-IR120625-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988643	DA-IR120625-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988726	DA-IR120626-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988480	DA-IR120626-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988398	DA-IR120626-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988316	DA-IR120626-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988562	DA-IR120626-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988644	DA-IR120626-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988744	DA-KW120730-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988498	DA-KW120730-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988416	DA-KW120730-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988334	DA-KW120730-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988580	DA-KW120730-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988662	DA-KW120730-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988698	DA-OK110923-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988452	DA-OK110923-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988370	DA-OK110923-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988288	DA-OK110923-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988534	DA-OK110923-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988616	DA-OK110923-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988699	DA-OK110924-23	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988453	DA-OK110924-23	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988371	DA-OK110924-23	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988289	DA-OK110924-23	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988535	DA-OK110924-23	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988617	DA-OK110924-23	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988720	DA-SM120511-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988474	DA-SM120511-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988392	DA-SM120511-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988310	DA-SM120511-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988556	DA-SM120511-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988638	DA-SM120511-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988691	DA-WK110825-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988445	DA-WK110825-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988363	DA-WK110825-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988281	DA-WK110825-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988527	DA-WK110825-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988609	DA-WK110825-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988692	DA-WK110825-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988446	DA-WK110825-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988364	DA-WK110825-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988282	DA-WK110825-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988528	DA-WK110825-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988610	DA-WK110825-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988693	DA-WK110825-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988447	DA-WK110825-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988365	DA-WK110825-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988283	DA-WK110825-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988529	DA-WK110825-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988611	DA-WK110825-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988715	DL-IR120328-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988469	DL-IR120328-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988387	DL-IR120328-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988305	DL-IR120328-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988551	DL-IR120328-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988633	DL-IR120328-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988727	DL-IR120622-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988481	DL-IR120622-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988399	DL-IR120622-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988317	DL-IR120622-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988563	DL-IR120622-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988645	DL-IR120622-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988753	KZ-CB100418-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988507	KZ-CB100418-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988425	KZ-CB100418-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988343	KZ-CB100418-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988671	KZ-CB100418-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988754	KZ-CB100418-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988508	KZ-CB100418-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988426	KZ-CB100418-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988344	KZ-CB100418-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988672	KZ-CB100418-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988676	LD-OS110805-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988430	LD-OS110805-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988348	LD-OS110805-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988266	LD-OS110805-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988512	LD-OS110805-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988594	LD-OS110805-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988677	LD-OS110805-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988431	LD-OS110805-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988349	LD-OS110805-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988267	LD-OS110805-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988513	LD-OS110805-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988595	LD-OS110805-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988721	LD-SM120511-5	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988475	LD-SM120511-5	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988393	LD-SM120511-5	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988311	LD-SM120511-5	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988557	LD-SM120511-5	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988639	LD-SM120511-5	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988678	LD-WK110824-23	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988432	LD-WK110824-23	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988350	LD-WK110824-23	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988268	LD-WK110824-23	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988514	LD-WK110824-23	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988596	LD-WK110824-23	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988679	LD-WK110824-24	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988433	LD-WK110824-24	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988351	LD-WK110824-24	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988269	LD-WK110824-24	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988515	LD-WK110824-24	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988597	LD-WK110824-24	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988700	MO-OK110923-7	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988454	MO-OK110923-7	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988372	MO-OK110923-7	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988290	MO-OK110923-7	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988536	MO-OK110923-7	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988618	MO-OK110923-7	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988712	MO-OK111211-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988466	MO-OK111211-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988384	MO-OK111211-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988302	MO-OK111211-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988548	MO-OK111211-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988630	MO-OK111211-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988752	MO-OK121111-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988506	MO-OK121111-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988424	MO-OK121111-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988342	MO-OK121111-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988588	MO-OK121111-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988670	MO-OK121111-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988680	OM-SG110725-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988434	OM-SG110725-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988352	OM-SG110725-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988270	OM-SG110725-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988598	OM-SG110725-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988734	R.leavelli	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988488	R.leavelli	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988406	R.leavelli	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988324	R.leavelli	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988570	R.leavelli	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988652	R.leavelli	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988735	R.virgigena	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988489	R.virgigena	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988407	R.virgigena	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988325	R.virgigena	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988571	R.virgigena	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988653	R.virgigena	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988674	RF-GF110816-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988428	RF-GF110816-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988346	RF-GF110816-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988264	RF-GF110816-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988510	RF-GF110816-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988592	RF-GF110816-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988740	RF-HI120512-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988494	RF-HI120512-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988412	RF-HI120512-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988330	RF-HI120512-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988576	RF-HI120512-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988658	RF-HI120512-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988742	RF-ME120905-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988496	RF-ME120905-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988414	RF-ME120905-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988332	RF-ME120905-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988578	RF-ME120905-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988660	RF-ME120905-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988743	RF-NR120930-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988497	RF-NR120930-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988415	RF-NR120930-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988333	RF-NR120930-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988579	RF-NR120930-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988661	RF-NR120930-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988673	RF-OS110805-6	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988427	RF-OS110805-6	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988345	RF-OS110805-6	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988263	RF-OS110805-6	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988509	RF-OS110805-6	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988591	RF-OS110805-6	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988696	RF-SZ110911-28	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988450	RF-SZ110911-28	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988368	RF-SZ110911-28	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988286	RF-SZ110911-28	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988532	RF-SZ110911-28	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988614	RF-SZ110911-28	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988736	RG-CH990405-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988490	RG-CH990405-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988408	RG-CH990405-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988326	RG-CH990405-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988572	RG-CH990405-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988654	RG-CH990405-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988702	RG-OK110924-19	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988456	RG-OK110924-19	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988374	RG-OK110924-19	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988292	RG-OK110924-19	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988538	RG-OK110924-19	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988620	RG-OK110924-19	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988703	RG-OK110925-17	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988457	RG-OK110925-17	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988375	RG-OK110925-17	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988293	RG-OK110925-17	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988539	RG-OK110925-17	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988621	RG-OK110925-17	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988687	TO-GF110820-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988441	TO-GF110820-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988359	TO-GF110820-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988277	TO-GF110820-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988523	TO-GF110820-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988605	TO-GF110820-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988688	TO-GF110820-2	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988442	TO-GF110820-2	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988360	TO-GF110820-2	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988278	TO-GF110820-2	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988524	TO-GF110820-2	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988606	TO-GF110820-2	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988722	TO-GF120415-7	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988476	TO-GF120415-7	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988394	TO-GF120415-7	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988312	TO-GF120415-7	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988558	TO-GF120415-7	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988640	TO-GF120415-7	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988718	YB-IR120328-4	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988472	YB-IR120328-4	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988390	YB-IR120328-4	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988308	YB-IR120328-4	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988554	YB-IR120328-4	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988636	YB-IR120328-4	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988731	YB-KR120624-1	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988485	YB-KR120624-1	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988403	YB-KR120624-1	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988321	YB-KR120624-1	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988567	YB-KR120624-1	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988649	YB-KR120624-1	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988716	YB-OK111211-3	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988470	YB-OK111211-3	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988388	YB-OK111211-3	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988306	YB-OK111211-3	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988552	YB-OK111211-3	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988634	YB-OK111211-3	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988717	YB-OK111211-4	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988471	YB-OK111211-4	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988389	YB-OK111211-4	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988307	YB-OK111211-4	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988553	YB-OK111211-4	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988635	YB-OK111211-4	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988730	YB-PN120622-5	E3	nuc	842	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988484	YB-PN120622-5	Ptr	nuc	636	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988402	YB-PN120622-5	RYR3	nuc	806	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988320	YB-PN120622-5	myh6	nuc	719	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988566	YB-PN120622-5	RAG2	nuc	882	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988648	YB-PN120622-5	sreb2	nuc	870	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988755	RF-OS110805-6	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988833	RF-OS110805-6	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988911	RF-OS110805-6	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988756	RF-GF110816-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988834	RF-GF110816-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988912	RF-GF110816-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988757	RG-HY110809-18	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988835	RG-HY110809-18	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988913	RG-HY110809-18	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988758	LD-OS110805-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988836	LD-OS110805-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988914	LD-OS110805-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988759	LD-OS110805-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988837	LD-OS110805-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988915	LD-OS110805-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988760	LD-WK110824-23	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988838	LD-WK110824-23	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988916	LD-WK110824-23	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988761	LD-WK110824-24	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988839	LD-WK110824-24	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988917	LD-WK110824-24	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988762	OM-SG110725-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988840	OM-SG110725-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988918	OM-SG110725-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988763	OM-SG110725-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988841	OM-SG110725-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988919	OM-SG110725-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. OM	
+AB988766	CB-HK110724-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988844	CB-HK110724-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988922	CB-HK110724-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CB	
+AB988767	CB-HK110724-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988845	CB-HK110724-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988923	CB-HK110724-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988768	CB-HY110809-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988846	CB-HY110809-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988924	CB-HY110809-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988769	CB-HY110809-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988847	CB-HY110809-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988925	CB-HY110809-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988770	CB-WK110824-6	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988848	CB-WK110824-6	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988926	CB-WK110824-6	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988771	TO-GF110820-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988849	TO-GF110820-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988927	TO-GF110820-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988772	TO-GF110820-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988850	TO-GF110820-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988928	TO-GF110820-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988773	CO-WK110824-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988851	CO-WK110824-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988929	CO-WK110824-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988774	CO-WK110824-17	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988852	CO-WK110824-17	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988930	CO-WK110824-17	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988775	CO-WK110824-21	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988853	CO-WK110824-21	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988931	CO-WK110824-21	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988776	DA-WK110825-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988854	DA-WK110825-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988932	DA-WK110825-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988777	DA-WK110825-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988855	DA-WK110825-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988933	DA-WK110825-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988778	DA-WK110825-3	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988856	DA-WK110825-3	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988934	DA-WK110825-3	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988779	BW-SG110623-3	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988857	BW-SG110623-3	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988935	BW-SG110623-3	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988780	CO-SZ110911-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988858	CO-SZ110911-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988936	CO-SZ110911-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. CO	
+AB988781	CB-SZ110911-6	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988859	CB-SZ110911-6	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988937	CB-SZ110911-6	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988782	RF-SZ110911-28	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988860	RF-SZ110911-28	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988938	RF-SZ110911-28	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988783	BF-HY110913-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988861	BF-HY110913-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988939	BF-HY110913-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988784	DA-OK110923-3	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988862	DA-OK110923-3	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988940	DA-OK110923-3	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988785	DA-OK110924-23	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988863	DA-OK110924-23	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988941	DA-OK110924-23	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988786	MO-OK110923-7	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988864	MO-OK110923-7	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988942	MO-OK110923-7	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988787	BB-OK110924-15	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988865	BB-OK110924-15	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988943	BB-OK110924-15	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988788	BB-OK110924-32	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988866	BB-OK110924-32	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988944	BB-OK110924-32	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988789	RG-OK110924-19	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988867	RG-OK110924-19	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988945	RG-OK110924-19	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988790	RG-OK110925-17	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988868	RG-OK110925-17	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988946	RG-OK110925-17	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius similis	
+AB988791	CB-AK111003-3	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988869	CB-AK111003-3	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988947	CB-AK111003-3	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988792	BI-CC011116-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988870	BI-CC011116-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988948	BI-CC011116-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988793	BI-CC011116-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988871	BI-CC011116-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988949	BI-CC011116-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988794	BI-HH011124-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988872	BI-HH011124-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988950	BI-HH011124-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988795	BI-HH011124-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988873	BI-HH011124-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988951	BI-HH011124-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius ogasawaraensis	
+AB988796	DL-IR020223-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988874	DL-IR020223-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988952	DL-IR020223-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988797	RF-KY120402-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988875	RF-KY120402-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988953	RF-KY120402-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988799	CB-IR120327-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988877	CB-IR120327-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988955	CB-IR120327-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988800	DA-IR120327-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988878	DA-IR120327-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988956	DA-IR120327-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988801	MO-OK111211-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988879	MO-OK111211-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988957	MO-OK111211-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988802	MO-OK111211-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988880	MO-OK111211-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988958	MO-OK111211-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. MO	
+AB988803	BB-OK120305-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988881	BB-OK120305-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988959	BB-OK120305-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988804	YB-OK111211-3	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988882	YB-OK111211-3	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988960	YB-OK111211-3	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988805	YB-OK111211-4	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988883	YB-OK111211-4	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988961	YB-OK111211-4	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988806	YB-IR120328-3	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988884	YB-IR120328-3	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988962	YB-IR120328-3	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988807	YB-IR120328-4	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988885	YB-IR120328-4	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988963	YB-IR120328-4	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988808	BF-OY110722-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988886	BF-OY110722-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988964	BF-OY110722-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BF	
+AB988809	DA-SM120511-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988887	DA-SM120511-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988965	DA-SM120511-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988810	LD-SM120511-5	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988888	LD-SM120511-5	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988966	LD-SM120511-5	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius fluviatilis	
+AB988811	TO-GF120415-7	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988889	TO-GF120415-7	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988967	TO-GF120415-7	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. TO	
+AB988812	DA-IR120622-4	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988890	DA-IR120622-4	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988968	DA-IR120622-4	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988813	DA-IR120625-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988891	DA-IR120625-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988969	DA-IR120625-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988814	DA-IR120626-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988892	DA-IR120626-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988970	DA-IR120626-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius brunneus	
+AB988815	DL-IR120622-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988893	DL-IR120622-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988971	DL-IR120622-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. DL	
+AB988816	CB-IR120622-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988894	CB-IR120622-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988972	CB-IR120622-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988817	YB-PN120622-5	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988895	YB-PN120622-5	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988973	YB-PN120622-5	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988818	YB-KR120624-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988896	YB-KR120624-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988974	YB-KR120624-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. YB	
+AB988820	R.leavelli	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988898	R.leavelli	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988976	R.leavelli	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius leavelli	
+AB988821	R.virgigena	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988899	R.virgigena	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988977	R.virgigena	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius virgigena	
+AB988823	RF-YN120714-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988901	RF-YN120714-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988979	RF-YN120714-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius flumineus	
+AB988826	BW-SG130601-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988904	BW-SG130601-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988982	BW-SG130601-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BW	
+AB988827	BB-OK121111-4	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988905	BB-OK121111-4	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988983	BB-OK121111-4	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. BB	
+AB988828	KZ-CB100418-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988906	KZ-CB100418-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988984	KZ-CB100418-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988829	KZ-CB100418-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988907	KZ-CB100418-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988985	KZ-CB100418-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988830	KZ-CB100418-3	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988908	KZ-CB100418-3	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988986	KZ-CB100418-3	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius sp. KZ	
+AB988831	CB-OK130630-1	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988909	CB-OK130630-1	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988987	CB-OK130630-1	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988832	CB-OK130630-2	CO1	mt	638	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988910	CB-OK130630-2	ND5	mt	965	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB988988	CB-OK130630-2	cytb	mt	1178	10.1016/j.ympev.2015.04.012	Yamasaki2015	Rhinogobius nagoyae	
+AB159088	MiFish-AB159088	microsatellite	nuc	417			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-1; 417bp
+AB159089	MiFish-AB159089	microsatellite	nuc	213			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-2; 213bp
+AB159090	MiFish-AB159090	microsatellite	nuc	622			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-3; 622bp
+AB159091	MiFish-AB159091	microsatellite	nuc	496			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-4; 496bp
+AB159092	MiFish-AB159092	microsatellite	nuc	260			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-5; 260bp
+AB159093	MiFish-AB159093	microsatellite	nuc	495			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-6; 495bp
+AB159094	MiFish-AB159094	microsatellite	nuc	456			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-7; 456bp
+AB159095	MiFish-AB159095	microsatellite	nuc	621			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-8; 621bp
+AB159096	MiFish-AB159096	microsatellite	nuc	925			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-9; 925bp
+AB159097	MiFish-AB159097	microsatellite	nuc	455			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-10; 455bp
+AB159098	MiFish-AB159098	microsatellite	nuc	314			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-11; 314bp
+AB159099	MiFish-AB159099	microsatellite	nuc	711			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-12; 711bp
+AB159100	MiFish-AB159100	microsatellite	nuc	167			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-13; 167bp
+AB159101	MiFish-AB159101	microsatellite	nuc	318			Rhinogobius sp. OR	マイクロサテライト座位 Rhi-14; 318bp
+LC092051	MiFish-LC092051	12S	mt	169		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 169bp; 手賀沼 = kurodaiタイプ産地周辺
+LC104339	MiFish-LC104339	12S+tRNA-Val+16S	mt	1082		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1082bp; 採集2015-11-11
+LC104714	MiFish-LC104714	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2015-10-24
+LC146304	MiFish-LC146304	12S	mt	169		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 169bp; 日本海側
+LC193165	MiFish-LC193165	12S	mt	169		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 169bp
+LC193280	MiFish-LC193280	12S	mt	169		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 169bp; 内陸
+LC193300	MiFish-LC193300	12S	mt	169		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 169bp
+LC193444	MiFish-LC193444	12S	mt	169		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 169bp
+LC193445	MiFish-LC193445	12S	mt	169		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 169bp; 太平洋側河川
+LC458191	MiFish-LC458191	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2018-08-30; 四国
+LC708242	MiFish-LC708242	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2022-03-15
+LC713501	MiFish-LC713501	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2022-04-29
+LC713502	MiFish-LC713502	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2022-04-25
+LC713503	MiFish-LC713503	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2017-09-20; 九州
+LC713504	MiFish-LC713504	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2017-09-20; 九州
+LC713505	MiFish-LC713505	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2017-09-26; 九州
+LC713506	MiFish-LC713506	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2015-11-12
+LC715467	MiFish-LC715467	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2021-03-11; 日本海側
+LC719265	MiFish-LC719265	12S+tRNA-Val+16S	mt	1082		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1082bp; 採集2018-08-25; 四国
+LC719266	MiFish-LC719266	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2018-08-25; 四国
+LC722577	MiFish-LC722577	12S+tRNA-Val+16S	mt	1082		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1082bp; 採集2022-06-27
+LC722578	MiFish-LC722578	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2022-06-27
+LC742186	IDEA_Fish423	12S	mt	942			Rhinogobius sp. OR	eDNA魚類参照配列; 942bp; 採集2022-04-30
+LC742231	IDEA_Fish474	12S	mt	947			Rhinogobius sp. OR	eDNA魚類参照配列; 947bp; 採集2022-08-14
+LC762645	MiFish-LC762645	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2017-07-28
+LC834786	MiFish-LC834786	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2021-10-28
+LC848703	MiFish-LC848703	12S+tRNA-Val+16S	mt	1083		Miya(unpub)	Rhinogobius sp. OR	MiFish参照配列; 1083bp; 採集2022-06-03; 日本海側
+LC911463	KNG_KNG2024-Fish030	16S	mt	572			Rhinogobius sp. OR	572bp; 採集2024-07-12; GenBank登録名は"Rhinogobius sp."でsp.ORの同定不確実

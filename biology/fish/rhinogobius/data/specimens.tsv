@@ -1,0 +1,198 @@
+specimen_id	taxon_genbank	taxon_current	morphotype	life_history	locality	prefecture	river_system	habitat_type	collection_date	specimen_voucher	body_size_mm	egg_size_mm	otolith_srca	sex	cited_in	figure_table	notes
+KU-TK100705-1	Rhinogobius kurodai	R. kurodai	偽橙色型	陸封	Japan: Tokyo, Shinjuku Gyoen	Tokyo			2010-07-05	NSMT:P:120844						Yamasaki et al. 2015	topotype; タイプ産地=赤坂黒田邸（新宿御苑は近隣）; Suzuki & Chen 2011は偽橙色型に同定（未検証）
+KU-TK100705-2	Rhinogobius kurodai	R. kurodai	偽橙色型	陸封	Japan: Tokyo, Shinjuku Gyoen	Tokyo			2010-07-05	NSMT:P:120845						Yamasaki et al. 2015	topotype; Suzuki & Chen 2011は偽橙色型に同定（未検証）
+KU-TK100705-3	Rhinogobius kurodai	R. kurodai	偽橙色型	陸封	Japan: Tokyo, Shinjuku Gyoen	Tokyo		池	2010-07-05	NSMT:P:120846						Yamasaki et al. 2015	topotype; 核DNAのみ（mtDNA欠）; Suzuki & Chen 2011は偽橙色型に同定（未検証）
+OR-NI110816-1	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Niigata, Seki River	Niigata	関川	河川	2011-08-16	NSMT:P:120793						Yamasaki et al. 2015	回遊型; 河川産
+OR-NI110816-2	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Niigata, Seki River	Niigata	関川	河川	2011-08-16	NSMT:P:120794						Yamasaki et al. 2015	回遊型; 河川産
+OR-HK110724-5	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Fukuoka, Fukutsu, Channel	Fukuoka	福津水路	水路	2011-07-24	NSMT:P:120822						Yamasaki et al. 2015	回遊型; 九州
+OR-HK110724-6	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Fukuoka, Fukutsu, Channel	Fukuoka	福津水路	水路	2011-07-24	NSMT:P:120823						Yamasaki et al. 2015	回遊型; 核DNAのみ
+OR-FS091026-1	Rhinogobius sp. OR	sp.OR		陸封	Japan: Fukushima, Miharu Dam	Fukushima	三春ダム	ダム湖	2009-10-26							Yamasaki et al. 2015	陸封型; ダム湖産
+OR-FS091026-2	Rhinogobius sp. OR	sp.OR		陸封	Japan: Fukushima, Miharu Dam	Fukushima	三春ダム	ダム湖	2009-10-26							Yamasaki et al. 2015	陸封型; 核DNAのみ
+OR-IW081011-2	Rhinogobius sp. OR	sp.OR		陸封	Japan: Iwate, Ichinoseki, Pond	Iwate		池	2008-10-11							Yamasaki et al. 2015	陸封型; 核DNAのみ
+OR-IW090528-1	Rhinogobius sp. OR	sp.OR		陸封	Japan: Iwate, Oshu, Pond	Iwate		池	2009-05-28	NSMT:P:120838						Yamasaki et al. 2015	陸封型
+OR-HO120408-1	Rhinogobius sp. OR	sp.OR	沼型(ヌマヨシノボリ)?		Japan: Hokkaido, Abashiri River	Hokkaido	網走川		2012-04-08							Yamasaki et al. 2015	陸封型; 核DNAのみ; 北海道産
+OR-YN120714-5	Rhinogobius sp. OR	sp.OR			Japan: Yamanashi, Fuefuki River	Yamanashi	笛吹川	河川	2012-07-14	NSMT:P:120840						Yamasaki et al. 2015	陸封型; 核DNAのみ; 富士川水系
+BF-HY110605-1	Rhinogobius sp. BF	R. tyoni	縞鰭型	淡水定住	Japan: Hyogo, Kako River	Hyogo	加古川	河川	2011-06-05	NSMT:P:120786						Yamasaki et al. 2015; Suzuki et al. 2019	sp.BF = R. tyoni (2019記載); sp.BF=R.tyoni: Suzuki et al. 2019
+BF-HY110913-1	Rhinogobius sp. BF	R. tyoni	縞鰭型	淡水定住	Japan: Hyogo, Himeji, Pond	Hyogo		池	2011-09-13	NSMT:P:120812						Yamasaki et al. 2015	sp.BF=R.tyoni: Suzuki et al. 2019
+BF-OY110722-1	Rhinogobius sp. BF	R. tyoni	縞鰭型	淡水定住	Japan: Okayama, Uryu River	Okayama	宇龍川?	河川	2011-07-22							Yamasaki et al. 2015	sp.BF=R.tyoni: Suzuki et al. 2019
+BW-SG130523-1	Rhinogobius sp. BW	R. biwaensis		湖河回遊	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖	2013-05-23	NSMT:P:120849						Yamasaki et al. 2015; Takahashi & Okazaki 2017	sp.BW = R. biwaensis (2017記載); sp.BW=R.biwaensis: Takahashi & Okazaki 2017
+BW-SG130601-1	Rhinogobius sp. BW	R. biwaensis		湖河回遊	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖	2013-06-01	NSMT:P:120850						Yamasaki et al. 2015	sp.BW=R.biwaensis: Takahashi & Okazaki 2017
+KZ-CB100418-2	Rhinogobius sp. KZ	sp.KZ	偽橙色型(房総型)	陸封	Japan: Chiba, Mizusawa River	Chiba	水沢川		2010-04-18	NSMT:P:120856						Yamasaki et al. 2015	カズサヨシノボリ; 未記載
+KZ-CB100418-3	Rhinogobius sp. KZ	sp.KZ	偽橙色型(房総型)	陸封	Japan: Chiba, Mizusawa River	Chiba	水沢川		2010-04-18	NSMT:P:120857						Yamasaki et al. 2015	
+OM-SG110725-2	Rhinogobius sp. OM	sp.OM		湖河回遊?	Japan: Shiga, Sakura River	Shiga	桜川	河川	2011-07-25	NSMT:P:120792						Yamasaki et al. 2015	琵琶湖流入河川
+KN1468	Rhinogobius kurodai	R. kurodai	橙色型?		Japan: Tokyo	Tokyo			2020-06-29	CBM:ZF24322						Tsuji et al. 2025	eDNA比較系統地理
+D403	Rhinogobius kurodai	R. kurodai			Japan: Tokyo	Tokyo								Nakamura et al. (未公刊)	BLIP200131231		
+KN3627	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Nagasaki, Honmyo River	Nagasaki	本明川	河川	2023-03-05	CBM:ZF24339						Tsuji et al. 2025	九州西部; 回遊型
+KN3628	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Nagasaki, Honmyo River	Nagasaki	本明川	河川	2023-03-05	CBM:ZF24340						Tsuji et al. 2025	
+KN3629	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Nagasaki, Honmyo River	Nagasaki	本明川	河川	2023-03-05	CBM:ZF24341						Tsuji et al. 2025	
+KN3693	Rhinogobius sp. OR	sp.OR	橙色型?		Japan: Fukuoka, Chikugo River	Fukuoka	筑後川	河川	2024-09-13	CBM:ZF24342						Tsuji et al. 2025	
+haplotype:OR01	Rhinogobius kurodai	R. kurodai		陸封	Japan: Mie, Suzuka city	Mie	鈴鹿	ため池		KPM-NI:31165						Mukai et al. 2012	鈴鹿ため池; ハプロタイプ代表
+haplotype:OR02	Rhinogobius kurodai	R. kurodai		陸封	Japan: Mie, Suzuka city	Mie	鈴鹿	ため池		KPM-NI:31160						Mukai et al. 2012	
+haplotype:OR03	Rhinogobius kurodai	R. kurodai		陸封	Japan: Mie, Suzuka city	Mie	鈴鹿	ため池		KPM-NI:31172						Mukai et al. 2012	
+haplotype:OR05	Rhinogobius sp. OR	sp.OR		陸封(非在来)	Japan: Okayama, Maniwa, Yubara Dam	Okayama	旭川	ダム湖	2008-06-07							Mukai et al. 2015	湯原ダム湖; 非在来集団
+haplotype:OR06	Rhinogobius sp. OR	sp.OR		陸封(非在来)	Japan: Aichi, Toyota, Asuri Dam	Aichi	矢作川	ダム湖	2012-02-21							Mukai et al. 2015	阿摺ダム; 非在来集団
+Mukai2005-Akigawa	Rhinogobius sp. OR	sp.OR			Japan: Tokyo, Akigawa River	Tokyo	秋川	河川								Mukai et al. 2005	
+Mukai2005-Biwa	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Mukai et al. 2005	
+ROR_01	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	cytbハプロタイプ代表; 577bp
+ROR_02	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_03	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_04	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_05	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_06	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_07	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_08	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_09	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_10	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_11	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_12	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_13	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_14	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+ROR_15	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Tabata et al. 2016	
+RGO-01	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	D-loop個体配列; 474bp
+RGO-02	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-03	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-05	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-06	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-08	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-09	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-10	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-11	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-12	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-14	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-15	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-16	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-17	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-18	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-19	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-20	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-21	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-22	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-23	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-24	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-25	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-26	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019	
+RGO-27	Rhinogobius sp. OR	sp.OR		湖河回遊(環境推定)	Japan: Shiga, Lake Biwa	Shiga	琵琶湖	湖								Akihito et al. 2019
+Umino2015-OR-St4	Rhinogobius sp. OR	sp.OR	宍道湖型	非回遊(実測)	Japan: Shimane, Gouno River, St.4	Shimane	江の川	河川(ダム下流)	2013-07-17		52-63		non-amphidromous		Umino et al. 2015	Table1; Fig.2	浜原ダム下流57.2km; 海アクセスあり; 耳石Sr:Ca終始淡水レベル
+Umino2015-OR-St7	Rhinogobius sp. OR	sp.OR	宍道湖型	非回遊(実測)	Japan: Shimane, Gouno River, St.7	Shimane	江の川	河川	2013-07-17				non-amphidromous		Umino et al. 2015	Table1	122.4km from mouth
+Umino2015-OR-St9	Rhinogobius sp. OR	sp.OR	宍道湖型	非回遊(実測)	Japan: Shimane, Gouno River, St.9	Shimane	江の川	河川	2013-10-13				non-amphidromous		Umino et al. 2015	Table1	149.8km from mouth
+Umino2015-OR-St10	Rhinogobius sp. OR	sp.OR	宍道湖型	非回遊(実測)	Japan: Shimane, Gouno River, St.10	Shimane	江の川	河川	2013-07-17				non-amphidromous		Umino et al. 2015	Table1; Fig.2	172.2km from mouth
+Umino2015-OR-St11	Rhinogobius sp. OR	sp.OR	宍道湖型	非回遊(実測)	Japan: Shimane, Gouno River, St.11	Shimane	江の川	河川	2013-10-13				non-amphidromous		Umino et al. 2015	Table1; Fig.2	176.6km from mouth
+BB-OK110924-15	Rhinogobius sp. BB	sp.BB			Japan: Okinawa, Okinawa Island, Aha River	Okinawa			2011-09-24	NSMT:P:120816					Yamasaki et al. 2015		
+BB-OK110924-32	Rhinogobius sp. BB	sp.BB			Japan: Okinawa, Okinawa Island	Okinawa			2011-09-24	NSMT:P:120817					Yamasaki et al. 2015		
+BB-OK120305-1	Rhinogobius sp. BB	sp.BB			Japan: Okinawa, Okinawa Island, Uka River	Okinawa			2012-03-05	NSMT:P:120827					Yamasaki et al. 2015		
+BB-OK120305-2	Rhinogobius sp. BB	sp.BB			Japan: Okinawa, Okinawa Island, Genka River	Okinawa			2012-03-05	NSMT:P:120828					Yamasaki et al. 2015		
+BB-OK121111-1	Rhinogobius sp. BB	sp.BB			Japan: Okinawa, Okinawa Island, Sade River	Okinawa			2012-11-11	NSMT:P:120851					Yamasaki et al. 2015		
+BB-OK121111-4	Rhinogobius sp. BB	sp.BB			Japan: Okinawa, Okinawa Island, Shinkawa River	Okinawa			2012-11-11	NSMT:P:120852					Yamasaki et al. 2015		
+BB-OK121111-5	Rhinogobius sp. BB	sp.BB			Japan: Okinawa, Okinawa Island, Shinkawa River	Okinawa			2012-11-11	NSMT:P:120853					Yamasaki et al. 2015		
+BI-CC011116-1	Rhinogobius ogasawaraensis	R. ogasawaraensis			Japan: Tokyo, Ogasawara, Chichijima Island	Tokyo			2001-11-16	NSMT:P:65160					Yamasaki et al. 2015		
+BI-CC011116-2	Rhinogobius ogasawaraensis	R. ogasawaraensis			Japan: Tokyo, Ogasawara, Chichijima Island	Tokyo			2001-11-16	NSMT:P:65160					Yamasaki et al. 2015		
+BI-HH011124-1	Rhinogobius ogasawaraensis	R. ogasawaraensis			Japan: Tokyo, Ogasawara, Hahajima Island	Tokyo			2001-11-24	NSMT:P:65165					Yamasaki et al. 2015		
+BI-HH011124-2	Rhinogobius ogasawaraensis	R. ogasawaraensis			Japan: Tokyo, Ogasawara, Hahajima Island	Tokyo			2001-11-24	NSMT:P:65165					Yamasaki et al. 2015		
+BW-SG110623-3	Rhinogobius sp. BW	R. biwaensis			Japan: Shiga, Lake Biwa	Shiga			2011-06-23	NSMT:P:120808					Yamasaki et al. 2015		sp.BW=R.biwaensis: Takahashi & Okazaki 2017
+CB-AK111003-3	Rhinogobius nagoyae	R. nagoyae			Japan: Akita, Nomura River	Akita			2011-10-03	NSMT:P:120820					Yamasaki et al. 2015		
+CB-HK110724-1	Rhinogobius sp. CB	sp.CB			Japan: Fukuoka, Saigou River	Fukuoka			2011-07-24	NSMT:P:120795					Yamasaki et al. 2015		
+CB-HK110724-2	Rhinogobius nagoyae	R. nagoyae			Japan: Fukuoka, Saigou River	Fukuoka			2011-07-24	NSMT:P:120796					Yamasaki et al. 2015		
+CB-HY110809-1	Rhinogobius nagoyae	R. nagoyae			Japan: Hyogo, Satsu River	Hyogo			2011-08-09	NSMT:P:120797					Yamasaki et al. 2015		
+CB-HY110809-2	Rhinogobius nagoyae	R. nagoyae			Japan: Hyogo, Satsu River	Hyogo			2011-08-09	NSMT:P:120798					Yamasaki et al. 2015		
+CB-IR120327-1	Rhinogobius nagoyae	R. nagoyae			Japan: Okinawa, Iriomote Island, Urauchi River	Okinawa			2012-03-27	NSMT:P:120824					Yamasaki et al. 2015		
+CB-IR120622-1	Rhinogobius nagoyae	R. nagoyae			Japan: Okinawa, Iriomote Island, Oomijya River	Okinawa			2012-06-22	NSMT:P:120834					Yamasaki et al. 2015		
+CB-IR120622-3	Rhinogobius nagoyae	R. nagoyae			Japan: Okinawa, Iriomote Island, Oomijya River	Okinawa			2012-06-22						Yamasaki et al. 2015		
+CB-OK110925-2	Rhinogobius nagoyae	R. nagoyae			Japan: Okinawa, Okinawa Island, Teima River	Okinawa			2011-09-25						Yamasaki et al. 2015		
+CB-OK130630-1	Rhinogobius nagoyae	R. nagoyae			Japan: Okinawa, Okinawa Island, Sade River	Okinawa			2013-06-30	NSMT:P:120860					Yamasaki et al. 2015		
+CB-OK130630-2	Rhinogobius nagoyae	R. nagoyae			Japan: Okinawa, Okinawa Island, Sade River	Okinawa			2013-06-30	NSMT:P:120861					Yamasaki et al. 2015		
+CB-SZ110911-6	Rhinogobius nagoyae	R. nagoyae			Japan: Shizuoka, Seto River	Shizuoka			2011-09-11	NSMT:P:120810					Yamasaki et al. 2015		
+CB-WK110824-6	Rhinogobius flumineus	R. flumineus			Japan: Wakayama, Migiaidu River	Wakayama			2011-08-24	NSMT:P:120799					Yamasaki et al. 2015		
+CO-SZ110911-1	Rhinogobius sp. CO	sp.CO			Japan: Shizuoka, Seto River	Shizuoka			2011-09-11	NSMT:P:120809					Yamasaki et al. 2015		
+CO-WK110824-17	Rhinogobius sp. CO	sp.CO			Japan: Wakayama, Migiaidu River	Wakayama			2011-08-24	NSMT:P:120803					Yamasaki et al. 2015		
+CO-WK110824-2	Rhinogobius sp. CO	sp.CO			Japan: Wakayama, Migiaidu River	Wakayama			2011-08-24	NSMT:P:120802					Yamasaki et al. 2015		
+CO-WK110824-21	Rhinogobius sp. CO	sp.CO			Japan: Wakayama, Migiaidu River	Wakayama			2011-08-24	NSMT:P:120804					Yamasaki et al. 2015		
+DA-IR120327-2	Rhinogobius brunneus	R. brunneus			Japan: Okinawa, Iriomote Island, Urauchi River	Okinawa			2012-03-27	NSMT:P:120825					Yamasaki et al. 2015		
+DA-IR120622-4	Rhinogobius brunneus	R. brunneus			Japan: Okinawa, Iriomote Island, Omijya River	Okinawa			2012-06-22						Yamasaki et al. 2015		
+DA-IR120625-1	Rhinogobius brunneus	R. brunneus			Japan: Okinawa, Iriomote Island, Geda River	Okinawa			2012-06-25						Yamasaki et al. 2015		
+DA-IR120626-1	Rhinogobius brunneus	R. brunneus			Japan: Okinawa, Iriomote Island, Yuchin River	Okinawa			2012-06-26						Yamasaki et al. 2015		
+DA-KW120730-1	Rhinogobius brunneus	R. brunneus			Japan: Kagawa, Yoshida River	Kagawa			2012-07-30	NSMT:P:120843					Yamasaki et al. 2015		
+DA-OK110923-3	Rhinogobius brunneus	R. brunneus			Japan: Okinawa, Okinawa Island, Genka River	Okinawa			2011-09-23	NSMT:P:120813					Yamasaki et al. 2015		
+DA-OK110924-23	Rhinogobius brunneus	R. brunneus			Japan: Okinawa, Okinawa Island, Aha River	Okinawa			2011-09-24						Yamasaki et al. 2015		
+DA-SM120511-1	Rhinogobius brunneus	R. brunneus			Japan: Shimane, Karakawa River	Shimane			2012-05-11	NSMT:P:120830					Yamasaki et al. 2015		
+DA-WK110825-1	Rhinogobius brunneus	R. brunneus			Japan: Wakayama, Esuno River	Wakayama			2011-08-25	NSMT:P:120805					Yamasaki et al. 2015		
+DA-WK110825-2	Rhinogobius brunneus	R. brunneus			Japan: Wakayama, Esuno River	Wakayama			2011-08-25	NSMT:P:120806					Yamasaki et al. 2015		
+DA-WK110825-3	Rhinogobius brunneus	R. brunneus			Japan: Wakayama, Esuno River	Wakayama			2011-08-25	NSMT:P:120807					Yamasaki et al. 2015		
+DL-IR020223-1	Rhinogobius sp. DL	sp.DL			Japan: Okinawa, Iriomote Island, Urauchi River	Okinawa			2002-02-23						Yamasaki et al. 2015		
+DL-IR120328-1	Rhinogobius sp. DL	sp.DL			Japan: Okinawa, Iriomote Island, Urauchi River	Okinawa			2012-03-28						Yamasaki et al. 2015		
+DL-IR120622-2	Rhinogobius sp. DL	sp.DL			Japan: Okinawa, Iriomote Island, Oomijya River	Okinawa			2012-06-22	NSMT:P:120833					Yamasaki et al. 2015		
+KZ-CB100418-1	Rhinogobius sp. KZ	sp.KZ	偽橙色型(房総型)		Japan: Chiba, Mizusawa River	Chiba			2010-04-18	NSMT:P:120855					Yamasaki et al. 2015		
+LD-OS110805-1	Rhinogobius fluviatilis	R. fluviatilis			Japan: Osaka, Yamanaka River	Osaka			2011-08-05	NSMT:P:120787					Yamasaki et al. 2015		
+LD-OS110805-2	Rhinogobius fluviatilis	R. fluviatilis			Japan: Osaka, Yamanaka River	Osaka			2011-08-05	NSMT:P:120788					Yamasaki et al. 2015		
+LD-SM120511-5	Rhinogobius fluviatilis	R. fluviatilis			Japan: Shimane, Ono River	Shimane			2012-05-11	NSMT:P:120831					Yamasaki et al. 2015		
+LD-WK110824-23	Rhinogobius fluviatilis	R. fluviatilis			Japan: Wakayama, Migiaidu River	Wakayama			2011-08-24	NSMT:P:120789					Yamasaki et al. 2015		
+LD-WK110824-24	Rhinogobius fluviatilis	R. fluviatilis			Japan: Wakayama, Migiaidu River	Wakayama			2011-08-24	NSMT:P:120790					Yamasaki et al. 2015		
+MO-OK110923-7	Rhinogobius sp. MO	sp.MO			Japan: Okinawa, Okinawa Island, Genka River	Okinawa			2011-09-23	NSMT:P:120815					Yamasaki et al. 2015		
+MO-OK111211-1	Rhinogobius sp. MO	sp.MO			Japan: Okinawa, Okinawa Island, Hiranami River	Okinawa			2011-12-11						Yamasaki et al. 2015		
+MO-OK111211-2	Rhinogobius sp. MO	sp.MO			Japan: Okinawa, Okinawa Island, Hiranami River	Okinawa			2011-12-11	NSMT:P:120826					Yamasaki et al. 2015		
+MO-OK121111-3	Rhinogobius sp. MO	sp.MO			Japan: Okinawa, Okinawa Island, Sade River	Okinawa			2012-11-11	NSMT:P:120854					Yamasaki et al. 2015		
+OM-SG110725-1	Rhinogobius sp. OM	sp.OM			Japan: Shiga, Sakura River	Shiga			2011-07-25	NSMT:P:120791					Yamasaki et al. 2015		
+R.leavelli	Rhinogobius leavelli	R. leavelli			China: Guangxi, Bei Lun He River	Guangxi				NSMT:P:120835					Yamasaki et al. 2015		
+R.virgigena	Rhinogobius virgigena	R. virgigena			China: Guangxi, Fang Cheng Jiang River	Guangxi				NSMT:P:120836					Yamasaki et al. 2015		
+RF-GF110816-1	Rhinogobius flumineus	R. flumineus			Japan: Gifu, Ibi River, Channel	Gifu			2011-08-16	NSMT:P:120784					Yamasaki et al. 2015		
+RF-HI120512-1	Rhinogobius flumineus	R. flumineus			Japan: Hiroshima, Tabusa River	Hiroshima			2012-05-12						Yamasaki et al. 2015		
+RF-KY120402-1	Rhinogobius flumineus	R. flumineus			Japan: Kyoto, Kamo River	Kyoto			2012-04-02	NSMT:P:120821					Yamasaki et al. 2015		
+RF-ME120905-1	Rhinogobius flumineus	R. flumineus			Japan: Mie, Nakamura River	Mie			2012-09-05	NSMT:P:120841					Yamasaki et al. 2015		
+RF-NR120930-1	Rhinogobius flumineus	R. flumineus			Japan: Nara, Shingu River	Nara			2012-09-30	NSMT:P:120842					Yamasaki et al. 2015		
+RF-OS110805-6	Rhinogobius flumineus	R. flumineus			Japan: Osaka, Yamanaka River	Osaka			2011-08-05	NSMT:P:120783					Yamasaki et al. 2015		
+RF-SZ110911-28	Rhinogobius flumineus	R. flumineus			Japan: Shizuoka, Seto River	Shizuoka			2011-09-11	NSMT:P:120811					Yamasaki et al. 2015		
+RF-YN120714-1	Rhinogobius flumineus	R. flumineus			Japan: Yamanashi, Fuefuki River	Yamanashi			2012-07-14	NSMT:P:120839					Yamasaki et al. 2015		
+RG-CH990405-1	Rhinogobius similis	R. similis			China: Guangxi, Bei Lun He River	Guangxi			1999-04-05	NSMT:P:120837					Yamasaki et al. 2015		
+RG-HY110809-18	Rhinogobius similis	R. similis			Japan: Hyogo, Satsu River	Hyogo			2011-08-09	NSMT:P:120785					Yamasaki et al. 2015		
+RG-OK110924-19	Rhinogobius similis	R. similis			Japan: Okinawa, Okinawa Island, Aha River	Okinawa			2011-09-24	NSMT:P:120818					Yamasaki et al. 2015		
+RG-OK110925-17	Rhinogobius similis	R. similis			Japan: Okinawa, Okinawa Island, Genka River	Okinawa			2011-09-25	NSMT:P:120819					Yamasaki et al. 2015		
+TO-GF110820-1	Rhinogobius sp. TO	sp.TO			Japan: Gifu, Ogase Pond	Gifu			2011-08-20	NSMT:P:120800					Yamasaki et al. 2015		
+TO-GF110820-2	Rhinogobius sp. TO	sp.TO			Japan: Gifu, Ogase Pond	Gifu			2011-08-20	NSMT:P:120801					Yamasaki et al. 2015		
+TO-GF120415-7	Rhinogobius sp. TO	sp.TO			Japan: Gifu, Kandou Pond	Gifu			2012-04-15	NSMT:P:120832					Yamasaki et al. 2015		
+YB-IR120328-3	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Okinawa Island, Urauchi River	Okinawa			2012-03-28						Yamasaki et al. 2015		
+YB-IR120328-4	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Okinawa Island, Urauchi River	Okinawa			2012-03-28	NSMT:P:120829					Yamasaki et al. 2015		
+YB-KR120624-1	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Iriomote Island, Kura River	Okinawa			2012-06-24						Yamasaki et al. 2015		
+YB-OK111211-3	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Okinawa Island, Sukuta River	Okinawa			2011-12-11						Yamasaki et al. 2015		
+YB-OK111211-4	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Okinawa Island, Sukuta River	Okinawa			2011-12-11						Yamasaki et al. 2015		
+YB-PN120622-5	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Iriomote Island, Hinai River	Okinawa			2012-06-22						Yamasaki et al. 2015		
+IDEA_Fish423	Rhinogobius sp. OR	sp.OR			Japan: Gifu	Gifu											eDNA魚類参照配列; 942bp; 採集2022-04-30
+IDEA_Fish474	Rhinogobius sp. OR	sp.OR			Japan: Niigata, Shinano River basin	Niigata											eDNA魚類参照配列; 947bp; 採集2022-08-14
+KNG_KNG2024-Fish030	Rhinogobius sp. OR	sp.?			Japan: Kanagawa	Kanagawa											572bp; 採集2024-07-12; GenBank登録名は"Rhinogobius sp."でsp.ORの同定不確実
+MiFish-AB159088	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-1; 417bp
+MiFish-AB159089	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-2; 213bp
+MiFish-AB159090	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-3; 622bp
+MiFish-AB159091	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-4; 496bp
+MiFish-AB159092	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-5; 260bp
+MiFish-AB159093	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-6; 495bp
+MiFish-AB159094	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-7; 456bp
+MiFish-AB159095	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-8; 621bp
+MiFish-AB159096	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-9; 925bp
+MiFish-AB159097	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-10; 455bp
+MiFish-AB159098	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-11; 314bp
+MiFish-AB159099	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-12; 711bp
+MiFish-AB159100	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-13; 167bp
+MiFish-AB159101	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-14; 318bp
+MiFish-LC092051	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Abiko, Tega-numa Pond	Chiba				CBM:ZF:15797					Miya & Sado (未公刊)		MiFish参照配列; 169bp; 手賀沼 = kurodaiタイプ産地周辺
+MiFish-LC104339	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Isumi, Shiotagawa River	Chiba				CBM:ZF:15982					Miya & Sado (未公刊)		MiFish参照配列; 1082bp; 採集2015-11-11
+MiFish-LC104714	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Umegase-keikoku	Chiba				CBM:ZF:15831					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2015-10-24
+MiFish-LC146304	Rhinogobius sp. OR	sp.OR			Japan: Kyoto, Miyazu, Kurita	Kyoto				CBM:ZF:16269					Miya & Sado (未公刊)		MiFish参照配列; 169bp; 日本海側
+MiFish-LC193165	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Inzai, Kamenari River	Chiba				CBM:ZF:16527					Miya & Sado (未公刊)		MiFish参照配列; 169bp
+MiFish-LC193280	Rhinogobius sp. OR	sp.OR			Japan: Nagano, Kami-ina	Nagano				CBM:ZF:16493					Miya & Sado (未公刊)		MiFish参照配列; 169bp; 内陸
+MiFish-LC193300	Rhinogobius sp. OR	sp.OR			Japan: Akita	Akita				CBM:ZF:16609					Miya & Sado (未公刊)		MiFish参照配列; 169bp
+MiFish-LC193444	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Narita	Chiba				CBM:ZF:16881					Miya & Sado (未公刊)		MiFish参照配列; 169bp
+MiFish-LC193445	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Isumi, Ogiwara	Chiba				CBM:ZF:16068					Miya & Sado (未公刊)		MiFish参照配列; 169bp; 太平洋側河川
+MiFish-LC458191	Rhinogobius sp. OR	sp.OR			Japan: Ehime, Iyo, Uwa-gawa River	Ehime				CBM:ZF:19340-1					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2018-08-30; 四国
+MiFish-LC708242	Rhinogobius sp. OR	sp.OR			Japan: Chiba, trib. Miyako-gawa River	Chiba				CBM:ZF:22090					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2022-03-15
+MiFish-LC713501	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Wakaba, Kashima-gawa River	Chiba				CBM:ZF:22167					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2022-04-29
+MiFish-LC713502	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Ichihara, trib. Murata-gawa River	Chiba				CBM:ZF:22138					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2022-04-25
+MiFish-LC713503	Rhinogobius sp. OR	sp.OR			Japan: Fukuoka, Itoshima, Zuibaiji-gawa River	Fukuoka				CBM:ZF:19455-1					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2017-09-20; 九州
+MiFish-LC713504	Rhinogobius sp. OR	sp.OR			Japan: Fukuoka, Itoshima, Zuibaiji-gawa River	Fukuoka				CBM:ZF:19456-1					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2017-09-20; 九州
+MiFish-LC713505	Rhinogobius sp. OR	sp.OR			Japan: Fukuoka, Itoshima, Raizan-gawa River	Fukuoka				CBM:ZF:19459-1					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2017-09-26; 九州
+MiFish-LC713506	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Isumi, Ogiwara, Kamioki-gawa River	Chiba				CBM:ZF:20174					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2015-11-12
+MiFish-LC715467	Rhinogobius sp. OR	sp.OR			Japan: Toyama, Joganji-gawa River	Toyama				CBM:ZF:21074					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2021-03-11; 日本海側
+MiFish-LC719265	Rhinogobius sp. OR	sp.OR			Japan: Tokushima, Naruto, Bando-kamohara	Tokushima				CBM:ZF:19274					Miya & Sado (未公刊)		MiFish参照配列; 1082bp; 採集2018-08-25; 四国
+MiFish-LC719266	Rhinogobius sp. OR	sp.OR			Japan: Tokushima, Naruto, Bando-kamohara	Tokushima				CBM:ZF:19293					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2018-08-25; 四国
+MiFish-LC722577	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Ichihara, Anesaki, irrigation canal	Chiba				CBM:ZF:22322					Miya & Sado (未公刊)		MiFish参照配列; 1082bp; 採集2022-06-27
+MiFish-LC722578	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Ichihara, Anesaki, Shiitsu-gawa River	Chiba				CBM:ZF:22326					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2022-06-27
+MiFish-LC762645	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Kimitsu, trib. Sasa-gawa River	Chiba				CBM:ZF:19754-1					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2017-07-28
+MiFish-LC834786	Rhinogobius sp. OR	sp.OR			Japan: Chiba, Katori, Kozaki	Chiba				CBM:ZF:23537-1					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2021-10-28
+MiFish-LC848703	Rhinogobius sp. OR	sp.OR			Japan: Shimane, Gono-kawa River	Shimane				CBM:ZF:22367					Miya & Sado (未公刊)		MiFish参照配列; 1083bp; 採集2022-06-03; 日本海側
