@@ -145,9 +145,9 @@ RG-CH990405-1	Rhinogobius similis	R. similis			China: Guangxi, Bei Lun He River	
 RG-HY110809-18	Rhinogobius similis	R. similis			Japan: Hyogo, Satsu River	Hyogo			2011-08-09	NSMT:P:120785					Yamasaki et al. 2015		
 RG-OK110924-19	Rhinogobius similis	R. similis			Japan: Okinawa, Okinawa Island, Aha River	Okinawa			2011-09-24	NSMT:P:120818					Yamasaki et al. 2015		
 RG-OK110925-17	Rhinogobius similis	R. similis			Japan: Okinawa, Okinawa Island, Genka River	Okinawa			2011-09-25	NSMT:P:120819					Yamasaki et al. 2015		
-TO-GF110820-1	Rhinogobius sp. TO	sp.TO			Japan: Gifu, Ogase Pond	Gifu			2011-08-20	NSMT:P:120800					Yamasaki et al. 2015		
-TO-GF110820-2	Rhinogobius sp. TO	sp.TO			Japan: Gifu, Ogase Pond	Gifu			2011-08-20	NSMT:P:120801					Yamasaki et al. 2015		
-TO-GF120415-7	Rhinogobius sp. TO	sp.TO			Japan: Gifu, Kandou Pond	Gifu			2012-04-15	NSMT:P:120832					Yamasaki et al. 2015		
+TO-GF110820-1	Rhinogobius sp. TO	R. telma			Japan: Gifu, Ogase Pond	Gifu			2011-08-20	NSMT:P:120800					Yamasaki et al. 2015		sp.TO=R.telma: Suzuki et al. 2019
+TO-GF110820-2	Rhinogobius sp. TO	R. telma			Japan: Gifu, Ogase Pond	Gifu			2011-08-20	NSMT:P:120801					Yamasaki et al. 2015		sp.TO=R.telma: Suzuki et al. 2019
+TO-GF120415-7	Rhinogobius sp. TO	R. telma			Japan: Gifu, Kandou Pond	Gifu			2012-04-15	NSMT:P:120832					Yamasaki et al. 2015		sp.TO=R.telma: Suzuki et al. 2019
 YB-IR120328-3	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Okinawa Island, Urauchi River	Okinawa			2012-03-28						Yamasaki et al. 2015		
 YB-IR120328-4	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Okinawa Island, Urauchi River	Okinawa			2012-03-28	NSMT:P:120829					Yamasaki et al. 2015		
 YB-KR120624-1	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Iriomote Island, Kura River	Okinawa			2012-06-24						Yamasaki et al. 2015		
@@ -156,7 +156,7 @@ YB-OK111211-4	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Okinawa Island, Sukuta 
 YB-PN120622-5	Rhinogobius sp. YB	sp.YB			Japan: Okinawa, Iriomote Island, Hinai River	Okinawa			2012-06-22						Yamasaki et al. 2015		
 IDEA_Fish423	Rhinogobius sp. OR	sp.OR			Japan: Gifu	Gifu											eDNA魚類参照配列; 942bp; 採集2022-04-30
 IDEA_Fish474	Rhinogobius sp. OR	sp.OR			Japan: Niigata, Shinano River basin	Niigata											eDNA魚類参照配列; 947bp; 採集2022-08-14
-KNG_KNG2024-Fish030	Rhinogobius sp. OR	sp.?			Japan: Kanagawa	Kanagawa											572bp; 採集2024-07-12; GenBank登録名は"Rhinogobius sp."でsp.ORの同定不確実
+KNG_KNG2024-Fish030	Rhinogobius sp. OR	sp.?			Japan: Kanagawa	Kanagawa											"572bp; 採集2024-07-12; GenBank登録名は""Rhinogobius sp.""でsp.ORの同定不確実"
 MiFish-AB159088	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-1; 417bp
 MiFish-AB159089	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-2; 213bp
 MiFish-AB159090	Rhinogobius sp. OR	sp.OR			Japan												マイクロサテライト座位 Rhi-3; 622bp
