@@ -119,3 +119,95 @@ browser-llm-agent/
 6. **[Server: recorder]** 実行結果を収集・要約し、ログに記録。
 7. **[Server: responder]** 要約された結果を拡張機能へ返信。
 8. **[Extension: injector]** 結果を受け取り、LLMの入力欄に貼り付けて自動送信。
+
+## 5. MiniMax Agent (agent.minimax.io) API偵察結果
+
+### 5.1 概要
+2026-04-16時点の調査結果。minimax-free-api（LLM-Red-Team）のソースコード解析 + JSバンドル静的解析 + curl_cffi実験による。
+
+### 5.2 ターゲット選定理由
+- Claudeの出力で訓練した疑惑のある中国企業（MiniMax）のサービス
+- Google連座BANリスクなし（OAuth認証だがMiniMax→Googleへの通報経路がない）
+- 無料枠あり（1,200クレジット/日）、MiniMax-M2.7モデル利用可能
+
+### 5.3 認証
+- **ログイン**: Google OAuth（Continue with Google）のみ
+- **トークン**: JWT形式、LocalStorageの`_token`キーに保存
+  - payload: `{exp, user: {id: "realUserID", name, avatar, deviceID, isAnonymous}}`
+  - 有効期限: 約40日
+- **トークン取得**: ブラウザでログイン後、CDPまたはroot shell経由でChrome LevelDBからも抽出可能
+  - `strings /data/data/com.android.chrome/app_chrome/Default/Local Storage/leveldb/*.ldb | grep eyJ`
+
+### 5.4 APIエンドポイント
+#### 旧API（/v1/api系 — hailuoai.com由来）
+| エンドポイント | 用途 | 認証 | 状態 |
+|---|---|---|---|
+| `GET /v1/api/user/info` | ユーザー情報取得 | Token header | ✅ curl_cffiで動作確認 |
+| `POST /v4/api/chat/msg` | チャット送信（SSE/H2） | Token header + Yy署名 | ❓ 旧ドメイン専用の可能性 |
+| `POST /v1/api/user/device/register` | デバイス登録 | Token header | 未検証 |
+
+#### 新API（/matrix/api/v1系 — agent.minimax.io）
+| エンドポイント | 用途 | 認証 | 状態 |
+|---|---|---|---|
+| `POST /matrix/api/v1/chat/send_msg` | メッセージ送信 | x-signature + params | ❌ 401 |
+| `POST /matrix/api/v1/chat/list_chat` | チャット一覧 | x-signature + params | ❌ 401 |
+| `POST /matrix/api/v1/chat/get_chat_detail` | チャット詳細取得 | x-signature + params | 未検証 |
+| `POST /matrix/api/v1/chat/stop_run_agent` | エージェント停止 | x-signature + params | 未検証 |
+| `POST /matrix/api/v1/model/list` | モデル一覧 | x-signature + params | 未検証 |
+
+#### send_msgリクエストbody
+```json
+{
+  "msg_type": 1,
+  "text": "メッセージ内容",
+  "chat_type": 1,
+  "attachments": [],
+  "selected_mcp_tools": [],
+  "backend_config": {},
+  "sub_agent_ids": []
+}
+```
+
+#### WebSocket（チャット用別経路）
+- JSバンドル内にWebSocket経由の`sendMessage`も存在
+- `{msg_type: 1, text: message, sender_id: user_id}`
+
+### 5.5 セキュリティヘッダー（axiosインターセプターから抽出）
+```
+x-timestamp: Unix秒 (Math.floor(Date.now()/1000))
+x-signature: MD5(`${timestamp}I*7Cf%WZ#S&%1RlZJ&C2${JSON.stringify(body)}`)
+yy:          MD5(encodeURIComponent(url_with_params) + "_" + body_json + MD5(unix_ms) + "ooui")
+Token:       JWT（ヘッダー）
+```
+
+クエリパラメータ（`i.mC`関数出力）:
+```
+device_platform=web, app_id=3001, biz_id=3001,
+unix=ミリ秒, timezone_offset=32400,
+uuid=UUID, device_id=JWT内deviceID, user_id=JWT内realUserID,
+token=JWT, client=web, sys_language=en, lang=en
+```
+
+### 5.6 防御・障壁
+1. **Cloudflare**: `agent.minimax.io`はCloudflareで保護。`curl_cffi` (impersonate="chrome")で突破可能
+2. **署名検証**: x-signatureがMD5で検証されている（デタラメ→400、正しいMD5→401）
+3. **地域制限の疑い**: `/v1/api`系は日本から通るが`/matrix/api`系は401。ソースにregion-restriction.htmlへの転送コードあり
+4. **ドメイン分離**: 
+   - `agent.minimax.io` = 国際版
+   - `agent.minimaxi.com` = 中国版（別トークン必要、401）
+   - `matrix-overseas-test.xaminim.com` = テスト環境
+
+### 5.7 未解決・次のアクション
+- [ ] `/matrix/api`の401原因特定（地域制限 vs 認証パラメータ不足）
+  - Pixel 5からVPN(Proton)経由で検証予定
+  - Playwright headed browserでの検証も有効
+- [ ] WebSocket接続の解析（チャットの実態がHTTPかWSか）
+- [ ] ブラウザ拡張方式のフォールバック実装（DOM操作でチャット）
+- [ ] 署名のyy計算の正確な再現検証
+
+### 5.8 参考リソース
+- minimax-free-api (旧API): https://github.com/LLM-Red-Team/minimax-free-api
+- MiniMax-Free-API fork (新API対応): https://github.com/xiaoY233/MiniMax-Free-API
+- JSバンドル (API定義): `3566-69f731d0257a0e10.js` (146 API refs)
+- JSバンドル (認証): `8081-fb87ca5745c42c05.js` (axios interceptor)
+- JSバンドル (MD5): `9305-aa616530aaec57dd.js` (module 96467)
