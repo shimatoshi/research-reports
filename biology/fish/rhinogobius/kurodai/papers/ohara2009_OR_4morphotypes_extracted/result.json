@@ -1,0 +1,363 @@
+{
+  "1": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 3390, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 2815}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "(Masuda et al. 1989). Suzuki (1996) found a new morphotype, “Shimahire,” that differed from the typical Rhinogobius sp. OR. Akihito et al. (2002) reviewed the literature and classified Rhinogobius sp. OR into four morphotypes, viz., “Tōshoku,” “Shinjiko,” “Gi-tōshoku,” and “Shimahire.” Takahashi and Okazaki (2002) detected two morphotypes of Rhinogobius sp. OR at Lake Biwa with allozyme markers, and one morphotype was named Rhinogobius sp. BW. Recently, Suzuki and Sakamoto (2005) found a new type, Rhinogobius sp. TO, that can be discriminated from the “Shimahire” morphotype by morphological characteristics. Since these morphotypes of Rhinogobius sp. OR may include several cryptic species, studies of genetic relationships among and within color morphotypes in Rhinogobius sp. OR are needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Various migration histories have been detected within Rhinogobius sp. OR, including amphidromous, landlocked, and lacustrine life history patterns (Kawanabe et al. 2001). Such a variety of life history is likely to reflect genetic diversity among these morphotypes; for example, the genetic diversity in each population will be smaller in a landlocked population relative to an amphidromous one (Sakai et al. 2004; Ohara et al. 2005). There are, however, no detailed studies of migration history among morphotypes of Rhinogobius sp. OR."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently, primer sets for highly variable microsatellite DNA were developed from Rhinogobius sp. OR (Ohara et al. 2004), and they are applicable to population genetics and parentage analysis (Ohara et al. 2005; Takahashi and Ohara 2006). In addition, otolith Sr:Ca ratios have been used to reveal individuals’ migration patterns of Rhinogobius sp. CO (Sakai et al. 2004). In this study, we examined seven microsatellite DNA loci to determine the genetic relationships among four morphotypes of Rhinogobius sp. OR. Also, otolith Sr:Ca ratios of Rhinogobius sp. OR from seven locations were determined to reconstruct their migratory patterns."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1 Map of the geographical location of the sampled populations. The solid circles indicate “Tōshoku,” open circles “Shinjiko,” squares “Gi-tōshoku,” and triangles “Shimahire”",
+      "bbox": [
+        0.518,
+        0.058,
+        0.92,
+        0.252
+      ],
+      "_saved": "kurodai/papers/ohara2009_OR_4morphotypes_extracted/Fig._1_Map_of_the_geographical_location_of_the_sampled_populations._The_solid_ci.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1 Map of the geographical location of the sampled populations. The solid circles indicate “Tōshoku,” open circles “Shinjiko,” squares “Gi-tōshoku,” and triangles “Shimahire”"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Materials and methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "Specimens. Sampling locations are shown in Fig. 1. Sample sizes, collection sites and dates, and abbreviations are listed in Table 1. The notations of each morphotype from Akihito et al. (2002) were followed. The different morphotypes were identified based on color patterns following the methods of Suzuki (1996), Akihito et al. (2002), Takahashi and Okazaki (2002), and Suzuki and Sakamoto (2005). A total of 458 specimens of the four morphotypes (“Tōshoku,” “Shinjiko,” “Gi-tōshoku,” and “Shimahire”) were collected from 12 locations in ten river systems and used in the microsatellite DNA analysis. Total genomic DNA was isolated from the pectoral or caudal fin by standard phenol/chloroform extraction (Asahida et al. 1996). Among these specimens, a total of 36 individuals were analyzed for otolith Sr:Ca ratios."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Microsatellite DNA analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR primer pairs reported in the previous study were used to amplify the seven microsatellite DNA loci: Rhi-1, Rhi-2, Rhi-5, Rhi-7, Rhi-8, Rhi-9, and Rhi-11 (Ohara et al. 2004). Each 5 μl multiplex (two or three primer pairs) reaction contained approximately 10 ng of DNA, 0.5 μl TaKaRa 10× Ex-Taq buffer (containing 20 mM MgCl2), 0.4 μl dNTP mix (0.25 mM each dNTP), 0.13 U TaKaRa Ex-Taq, 0.05 μl formamide, and 0.26 pmol of each primer. PCRs consisted of seven cycles of 94°C for 30 s, 53°C for 30 s, 72°C for 30 s, and 33 cycles of 90°C for 30 s, 53°C for 30 s, and 72°C for 30 s. PCR products and loading dye were mixed and then heated at 95°C. They were subjected to polyacrylamide gel electrophoresis on an ABI377 automatic DNA sequencer (Applied Biosystems) with size markers (Gene Scan 400HD ROX; Applied Biosystems), and we detected and scored alleles at each locus with GENESCAN 672 software (Applied Biosystems)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Microsatellite allele frequencies and expected heterozygosity of each population at each locus were estimated using the ARLEQUIN version 3.0 (Excoffier et al. 2005). The observed heterozygosity was calculated directly from the observed genotypes. Hardy–Weinberg equilibrium was measured for each microsatellite locus using an exact test calculated by the ARLEQUIN with Bonferroni correction. Pairwise *F*ST values were estimated using ARLEQUIN."
+    }
+  ],
+  "3": [
+    {
+      "type": "figure",
+      "label": "Table 1 Sampling locations and number of specimens (n) of four morphotypes in Rhinogobius sp. OR",
+      "bbox": [
+        0.08,
+        0.09,
+        0.92,
+        0.45
+      ],
+      "_saved": "kurodai/papers/ohara2009_OR_4morphotypes_extracted/Table_1_Sampling_locations_and_number_of_specimens_(n)_of_four_morphotypes_in_Rh.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 Sampling locations and number of specimens (n) of four morphotypes in *Rhinogobius* sp. OR"
+    },
+    {
+      "type": "paragraph",
+      "text": "^a Microsatellite DNA analysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "The genetic relationships among populations were also assessed by principal component analysis on the basis of the covariance matrix of gene frequencies, using the program PCAGEN (Goudet 1999)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otolith Sr:*Ca* ratios. Sagittal otoliths were removed from each fish, embedded in epoxy resin (Epofix: Struers), and mounted on glass slides. Otoliths were then ground on several grades of carborundum paper (wet/dry paper 320–1,200 grade) to expose the core region, and the surface was polished further with 3 and 1 μm diamond paste on an automated polishing wheel. Finally, polished specimens were cleaned in an ultrasonic bath, rinsed with deionized water, and coated in a high-vacuum evaporator with a 25 μm carbon layer to minimize ion beam displacements. Measurement of the Sr and Ca content was carried out at 5 μm intervals from the nucleus to the margin on the longest axis of each otolith using a wavelength dispersive X-ray electron microprobe (JCMA-733II), as described in Umino et al. (2001). Calcite (CaCO₃) and strontianite (SrCO₃) were used as standards. The accelerating voltage and beam current were 15 kV and 1.0 × 10⁻⁸ A, respectively. The electron beam was focused on a point 5 μm in diameter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Results"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Microsatellite DNA analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The seven microsatellite loci were polymorphic. The total number of alleles detected at each locus ranged from 9 (Rhi-9) to 86 (Rhi-7). The allele frequency, heterozygosity, and number of alleles at each locus are shown in electronic supplementary material (ESM) Appendix S1. Only 5 of 92 population-locus combinations significantly deviated from Hardy-Weinberg equilibrium with an excess of homozygotes: TS-AD, TS-BW, TS-KM, and SH-NU in Rhi-5; SJ-BA in Rhi-11 (k = 12, P < 0.05). The genetic diversity of each population is shown in Table 2. The number of alleles ranged from 3.29 (SH-NU) to 17.71 (SJ-IN), allelic richness from 3.23 (SH-NU) to 15.30 (SJ-IN), and average observed heterozygosity from 0.773 (SH-MA) to 0.323 (SJ-YO). “Tōshoku” and “Shinjiko” had high genetic diversity compared to “Shimahire,” whereas “Gi-tōshoku” had genetic diversity intermediate to the prior two morphotypes. Pairwise FST ranged from 0.005 (TS-AD vs. TS-BW) to 0.481 (GI-IW vs. SH-YO). All pairwise FST, except for TS-AD and TS-BW, were significant (k = 66, P < 0.001; Table 3)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Principal component analysis was use to visualize the genetic relationships among the populations (PCA; Fig. 2, upper stage). Approximately 63.4% of the total variance was explained by the first two principal components. Three of the four morphotypes, “Tōshoku,” “Shinjiko,” and “Gi-tōshoku,” clustered together in the PCA analysis, whereas there was a clear separation of “Shimahire” populations from the other morphotypes. Plots of “Shima-hire” populations on the PCA indicated a high variation compared with the other morphotypes. For clarity, the plot of"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "Table 2 Genetic diversity indices for 12 populations of four morphotypes in Rhinogobius sp. OR"
+    },
+    {
+      "type": "figure",
+      "label": "Table 2 Genetic diversity indices for 12 populations of four morphotypes in Rhinogobius sp. OR",
+      "bbox": [
+        0.088,
+        0.053,
+        0.48,
+        0.283
+      ],
+      "_saved": "kurodai/papers/ohara2009_OR_4morphotypes_extracted/Table_2_Genetic_diversity_indices_for_12_populations_of_four_morphotypes_in_Rhin.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "H_O observed heterozygosity, H_E expected heterozygosity under Hardy–Weinberg equilibrium"
+    },
+    {
+      "type": "paragraph",
+      "text": "the other three morphotypes on the first two components of the PCA was magnified (Fig. 2, lower panel). Three “Tōshoku” populations (TS-AD, TS-BW, and TS-KM) were closely related, and the two populations of “Shinjiko” (SJ-MA and SJ-IN) were also quite similar with SJ-BA, neither away but still relatively close. Therefore, “Tōshoku” and “Shinjiko” morphotypes clustered together on the magnified axes of the first two components, whereas the two populations of “Gi-tōshoku” did not cluster together."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Otolith Sr:Ca ratios."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sr:Ca ratio profiles along the transect line analysis could be grouped into two types"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3 F_ST value of the 12 populations of four morphotypes in Rhinogobius sp. OR"
+    },
+    {
+      "type": "figure",
+      "label": "Table 3 F_ST value of the 12 populations of four morphotypes in Rhinogobius sp. OR",
+      "bbox": [
+        0.088,
+        0.474,
+        0.91,
+        0.63
+      ],
+      "_saved": "kurodai/papers/ohara2009_OR_4morphotypes_extracted/Table_3_F_ST_value_of_the_12_populations_of_four_morphotypes_in_Rhinogobius_sp._.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "a Not significantly different from zero at the 0.064% level"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2 Plot of first two principal component scores derived from allele frequency at the seven microsatellite loci. Upper graph shows the allele frequency of all morphotypes, whereas the lower one reflects the area encircled by the square in the upper graph. Symbols and population abbreviations correspond to those in Fig. 1 and listed in Table 1, respectively",
+      "bbox": [
+        0.51,
+        0.053,
+        0.9,
+        0.29
+      ],
+      "_saved": "kurodai/papers/ohara2009_OR_4morphotypes_extracted/Fig._2_Plot_of_first_two_principal_component_scores_derived_from_allele_frequenc.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2 Plot of first two principal component scores derived from allele frequency at the seven microsatellite loci. Upper graph shows the allele frequency of all morphotypes, whereas the lower one reflects the area encircled by the square in the upper graph. Symbols and population abbreviations correspond to those in Fig. 1 and listed in Table 1, respectively"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Fig. 3). The ratio of the first type was very low and did not change from the core to the margin of the otolith. The ratio of the second type increased just outside the core and remained high until 150–250 μm from the core. The second type was found in SJ-IN (n = 3), SJ-MA (n = 2), and GI-OC (n = 4). Both types were found in SJ-IN and SJ-MA. The otolith Sr:Ca ratios clearly showed two migration"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "Fig. 3 Patterns of Sr:Ca ratios measured along the otolith axes of four morphotypes. A amphidromous, L landlocked. Population abbreviations correspond to those listed in Table 1"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3 Patterns of Sr:Ca ratios measured along the otolith axes of four morphotypes. A amphidromous, L landlocked. Population abbreviations correspond to those listed in Table 1",
+      "bbox": [
+        0.3,
+        0.06,
+        0.9,
+        0.34
+      ],
+      "_saved": "kurodai/papers/ohara2009_OR_4morphotypes_extracted/Fig._3_Patterns_of_SrCa_ratios_measured_along_the_otolith_axes_of_four_morphotyp.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "histories. The first type (with a small change in the ratio from the core to the margin) reflects a landlocked life history, and the second type (the ratio increased from the core to the margin) reflects an amphidromous life history."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Discussion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The genetic differentiation among “Tōshoku,” “Shinjiko,” and “Gi-tōshoku” was small in comparison to “Shimahire.” Masuda et al. (1989) suggested that “Tōshoku,” “Shinjiko,” and “Gi-tōshoku” were the same species after estimating the genetic distance from allozyme analyses. Also, the differences between morphological characteristics of “Tōshoku” and “Shinjiko” morphotypes include only the color pattern of the caudal fin on males (Akihito et al. 2002). It is possible that populations of the “Shinjiko” morphotype became naturally landlocked at Lake Biwa in the past and evolved into the “Tōshoku” morphotypes. A similar trend occurred with the general *Cottus* (Yokoyama and Goto 2005), *Oncorhynchus* (Oohara and Okazaki 1996), and *Plecoglossus* (Taniguchi et al. 1983) in Lake Biwa; these species also have something in common with amphidromous life history."
+    },
+    {
+      "type": "paragraph",
+      "text": "In contrast, the “Shimahire” morphotype was distinct from the other morphotypes. In the Maruyama River, the “Shimahire” morphotype could only be collected from Wando (lentic water-bodies formed along river banks), whereas the “Shinjiko” morphotype was detected only in the mainstream. Respective microhabitats of the two morphotypes were only a few meters apart. Nevertheless, there was a large genetic differentiation between the two morphotypes, indicating reproductive isolation between these morphotypes in the Maruyama River."
+    },
+    {
+      "type": "paragraph",
+      "text": "The three populations within the “Tōshoku” morphotype showed minor genetic divergence. In Lake Biwa, the “Tōshoku” morphotype can have one of two life histories, fluvial-lacustrine or lacustrine, which is associated with large differences in egg size (Maruyama et al. 2004). Variation in life history associated with differences in egg size has also been observed in *Plecoglossus altivelis altivelis* (Iguchi and Kuwahara 1999), a species that has a single metapopulation throughout the Lake Biwa system (Iguchi et al. 2002). In the case of the “Tōshoku” morphotype in Lake Biwa, there were no significant differences in genetic characteristics of microsatellite DNA between TS-AD and TS-BW (Table 3). Analysis of mtDNA in a previous study also did not detect genetic divergence"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "among populations of “Tōshoku” in Lake Biwa (Takahashi and Ohara 2004). The present study supports the conclusion that the “Tōshoku” morphotype has a single population throughout the Lake Biwa system. Akihito et al. (2002) considered that *Rhinogobius* sp. OR was transplanted from Lake Biwa throughout Japan. TS-KM showed a slight genetic divergence from the “Tōshoku” population in Lake Biwa (Fig. 2), and the genetic diversity of TS-KM was lower than those of the Lake Biwa populations (Table 2). It is likely that the TS-KM population was introduced from Lake Biwa and that the observed differences in genetic relationship and diversity reflect a founder effect where only a small fraction of the Lake Biwa population’s genetic variation was reflected in the founding population."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is little genetic divergence between SJ-IN and SJ-MA. The otolith Sr:Ca ratios clearly showed that these populations included individuals that represented both landlocked and amphidromous life histories; this is expected because the Ino River flows into a brackish lake where the Maruyama River flows to the sea. On the other hand, SJ-BA was represented only by a landlocked form. The Babame River runs into Lake Hachiro, which was formerly brackish but became freshwater because of a reclamation and desalination project 30 years ago. Individuals within SJ-BA might migrate between Lake Hachiro and the Babame River. Mizuoka (1974) suggested that the distribution of the “Shinjiko” morphotype is restricted to brackish lakes or rivers with extremely slow flow. We conclude that the “Shinjiko” morphotype could expand their distribution into adjacent rivers that flow to the sea. The high genetic diversity in “Shinjiko” relative to all other morphotypes is probably due to their amphidromous life history."
+    },
+    {
+      "type": "paragraph",
+      "text": "Results of the PCA suggested that the two populations of “Gi-tōshoku” had considerable genetic divergence. Results of the otolith Sr:Ca ratios indicated that the samples from the Ochiai River were amphidromous, whereas those from the Iwase River were landlocked. “Gi-tōshoku” are distributed widely from Kanto to Tohoku Districts (Uehara 1980; Uehara 1984). The genetic differentiation within “Gi-tōshoku” is likely related to restriction of gene flow by migration patterns, because the specimens of GI-IW likely have a landlocked life history. There are no artificial structures, however, such as a dam that would disturb migration of fish in the Iwase River. In this study, we could not explain the relationship among populations of “Gi-tōshoku,” and so a detailed investigation of the population structure of “Gi-tōshoku” is necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "The genetic diversity of “Shimahire” was the lowest among all morphotypes (Tables 2, 3). Furthermore, PCA analysis showed that the four populations of “Shimahire” were extremely genetically divergent from each other (Fig. 2)."
+    },
+    {
+      "type": "paragraph",
+      "text": "These genetic characteristics fit with the observation of a landlocked life history for all samples of “Shimahire.” Ishida et al. (2005) also suggested that “Shimahire” have adapted to the environment of Wando, lentic water-bodies formed along river banks. The “Shimahire” morphotype was frequently found in small lentic water bodies, such as Wando, and the samples of SH-MA and SH-AR were also only collected from small Wando within each river. One reason for low genetic diversity in the “Shimahire” is a bottleneck effect arising from a landlocked migration history that restricts gene flow from other habitats, or alternately, that small population size depends on limited habitat. Large genetic divergence among populations within the morphotype is at least partly caused by the landlocked life history, which limits gene flow."
+    },
+    {
+      "type": "paragraph",
+      "text": "In conclusion, the genetic diversities of four morphotypes of *Rhinogobius* sp. OR are closely related to migration patterns and habitat use. The present study suggests that a combined analysis of microsatellite DNA and Sr:Ca deposition in the otolith is useful for understanding the genetic diversity of fish species with various migration patterns."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "paragraph",
+      "text": "We thank K. Hirashima (Wakayama Prefectural Museum of Natural History), H. Sugiyama (Akita Prefectural Institute of Fisheries), and Y. Sato (Tokushima Prefectural Museum) for collecting the specimens."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Sakamoto K, Ikeda Y, Sugiyama K (2002) Gobiidae. In: Nakabo T (ed) Fishes of Japan with pictorial keys to the species, English ed. Tokai University Press, Tokyo, pp 1139–1310, 1596–1619"
+    },
+    {
+      "type": "paragraph",
+      "text": "Asahida T, Kobayashi T, Saitoh K, Nakayama I (1996) Tissue preservation and total DNA extraction from fish stored at ambient temperature using buffers containing high concentration of urea. Fish Sci 62:727–730"
+    },
+    {
+      "type": "paragraph",
+      "text": "Excoffier L, Laval G, Schneider S (2005) Arlequin ver. 3.0: An integrated software package for population genetics data analysis. Evolutionary Bioinformatics Online 1:47–50"
+    },
+    {
+      "type": "paragraph",
+      "text": "Goudet J (1999) PCAGEN ver. 1.2. Population genetics laboratory. University of Lausanne, Lausanne, Switzerland"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iguchi K, Kuwahara M (1999) Egg size variation in landlocked ayu from Lake Biwa system. Fish Sci 65:790–791"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iguchi K, Ohkawa T, Nishida M (2002) Genetic structure of landlocked ayu within the Biwa Lake system. Fish Sci 68:138–143"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ishida Y, Abekura K, Takemon Y (2005) Habitat characteristics of *Rhinogobius* sp. OR “Shimahiregata” in Shirokita Wando. Ecol Civil Eng 8:1–14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kawanabe H, Mizuno N, Hosoya H (2001) Nihon no tansuigyo (Freshwater fishes of Japan), 3rd edn. Yama-Kei, Tokyo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maruyama A, Yuma M, Onoda Y (2004) Egg size variation the fluvial-lacustrine and lacustrine types of a landlocked *Rhinogobius* goby in the Lake Biwa water system. Ichthyol Res 51:172–175"
+    }
+  ],
+  "7": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Genetic differentiation of Rhinogobius sp. OR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Masuda Y, Ozawa T, Enami S (1989) Genetic differentiation among eight color types of the freshwater goby, Rhinogobius brunneus, from western Japan. Jpn J Ichthyol 36:30–41"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka S (1974) Studies on the variation of Rhinogobius brunneus (Temminck et Schlegel). III. On the six types of body color and color pattern in the Sanin distinct, the Hokuriku distinct, and Goto Island. Bull Fac Educ Hiroshima Univ 23:31–40"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara K, Takahashi D, Maeg M (2004) Isolation of microsatellite loci in the freshwater goby, Rhinogobius sp. (Gobiidae). Mol Ecol Note 4:449–451"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara K, Takagi M, Hirashima K (2005) Genetic diversity and divergence of the endangered freshwater goby Rhinogobius sp. BB in Okinawa Island. Ichthyol Res 52:305–310"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oohara I, Okazaki T (1996) Genetic Relationship among three species of Oncorhynchus masou determined by mitochondrial DNA sequence analysis. Zool Sci 13:189–198"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai H, Arai T, Imai C, Sugiyama H, Sato H, Jeon SR (2004) Landlocked populations of an amphidromous goby, Rhinogobius sp. CO. Jpn J Ichthyol 51:175–180"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T (1996) A new color type of Rhinogobius sp. OR collected from the Maruyama River, Hyogo. Hyogo Rikusui Seibutsu 47:1–9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Sakamoto K (2005) Record of a gobiid fish, Rhinogobius sp. TO (Perciformes, Gobiidae) from the Noubi and Okazaki plains, Japan. Bull Biogeogr Soc Japan 60:13–20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi D, Ohara K (2004) Genetic variations estimated from PCR-RFLP analysis of two morphs of the freshwater goby Rhinogobius in the Lake Biwa water system. Ichthyol Res 51:99–105"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi D, Ohara K (2006) Parentage analyses of freshwater goby Rhinogobius sp. OR using microsatellite DNA markers and egg developmental staged of eggs in the nest. Ichthyol Res 53:87–92"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S, Okazaki T (2002) A new lentic form of the “yoshinobori” species complex, Rhinogobius spp. from Lake Biwa, Japan, compared with lake-river migrating Rhinogobius sp. OR. Ichthyol Res 49:333–339"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taniguchi N, Seki S, Inada Y (1983) Genetic variability and differentiation of amphidromous, landlocked and hatchery populations of ayu Plecoglossus altivelis. Bull Jpn Soc Sci Fish 49:1655–1663"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uehara S (1980) Distribution of five colour types of a fresh water goby, Rhinogobius brunneus, in the Boso Peninsula, Japan. Sci Rep Yokosuka City Mus 27:19–35"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uehara S (1984) Distribution of four colour types of the freshwater goby, Rhinogobius brunneus, in the Tohoku district, Japan. Sci Rep Yokosuka City Mus 32:33–49"
+    },
+    {
+      "type": "paragraph",
+      "text": "Umino T, Seike S, Otake T, Nishiyama F, Sibata Y, Nakagawa H (2001) Application of otolith microchemistry to reconstruct for migration history of amago salmon Onchorhynchus masou ishikawai, captured at the Ohta River. Nippon Suisan Gakkaishi 67:647–657"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yokoyama R, Goto A (2005) Evolutionary history of freshwater sculpins, genus Cottus (Teleostei; Cottidae) and related taxa, as inferred from mitochondrial DNA phylogeny. Mol Phyl Evol 36:654–668"
+    }
+  ]
+}

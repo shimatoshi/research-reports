@@ -1,0 +1,6578 @@
+{
+ "3371": {
+  "kpm_id": "KPM-NI0003371",
+  "pkey": "3371",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "滋賀県"
+ },
+ "3386": {
+  "kpm_id": "KPM-NI0003386",
+  "pkey": "3386",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "滋賀県"
+ },
+ "3825": {
+  "kpm_id": "KPM-NI0003825",
+  "pkey": "3825",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "3826": {
+  "kpm_id": "KPM-NI0003826",
+  "pkey": "3826",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "3839": {
+  "kpm_id": "KPM-NI0003839",
+  "pkey": "3839",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "3840": {
+  "kpm_id": "KPM-NI0003840",
+  "pkey": "3840",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "3841": {
+  "kpm_id": "KPM-NI0003841",
+  "pkey": "3841",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "3842": {
+  "kpm_id": "KPM-NI0003842",
+  "pkey": "3842",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "3843": {
+  "kpm_id": "KPM-NI0003843",
+  "pkey": "3843",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "3844": {
+  "kpm_id": "KPM-NI0003844",
+  "pkey": "3844",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "3845": {
+  "kpm_id": "KPM-NI0003845",
+  "pkey": "3845",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "5229": {
+  "kpm_id": "KPM-NI0005229",
+  "pkey": "5229",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "福島県"
+ },
+ "5780": {
+  "kpm_id": "KPM-NI0005780",
+  "pkey": "5780",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "5781": {
+  "kpm_id": "KPM-NI0005781",
+  "pkey": "5781",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "5878": {
+  "kpm_id": "KPM-NI0005878",
+  "pkey": "5878",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヒラヨシノボリ",
+  "name_lat": "Rhinogobius sp. DL",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "5879": {
+  "kpm_id": "KPM-NI0005879",
+  "pkey": "5879",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヒラヨシノボリ",
+  "name_lat": "Rhinogobius sp. DL",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "5880": {
+  "kpm_id": "KPM-NI0005880",
+  "pkey": "5880",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "5881": {
+  "kpm_id": "KPM-NI0005881",
+  "pkey": "5881",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "7808": {
+  "kpm_id": "KPM-NI0007807",
+  "pkey": "7808",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "愛知県"
+ },
+ "7809": {
+  "kpm_id": "KPM-NI0007808",
+  "pkey": "7809",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "愛知県"
+ },
+ "7810": {
+  "kpm_id": "KPM-NI0007809",
+  "pkey": "7810",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "愛知県"
+ },
+ "10577": {
+  "kpm_id": "KPM-NI0010577",
+  "pkey": "10577",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "長野県"
+ },
+ "10578": {
+  "kpm_id": "KPM-NI0010578",
+  "pkey": "10578",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "長野県"
+ },
+ "10855": {
+  "kpm_id": "KPM-NI0011008",
+  "pkey": "10855",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "大韓民国"
+ },
+ "11049": {
+  "kpm_id": "KPM-NI0011466",
+  "pkey": "11049",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "山形県"
+ },
+ "12128": {
+  "kpm_id": "KPM-NI0012652",
+  "pkey": "12128",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "12129": {
+  "kpm_id": "KPM-NI0012653",
+  "pkey": "12129",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "12130": {
+  "kpm_id": "KPM-NI0012654",
+  "pkey": "12130",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "12131": {
+  "kpm_id": "KPM-NI0012655",
+  "pkey": "12131",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "12829": {
+  "kpm_id": "KPM-NI0013354",
+  "pkey": "12829",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "12830": {
+  "kpm_id": "KPM-NI0013355",
+  "pkey": "12830",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "12831": {
+  "kpm_id": "KPM-NI0013356",
+  "pkey": "12831",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "12832": {
+  "kpm_id": "KPM-NI0013357",
+  "pkey": "12832",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "12833": {
+  "kpm_id": "KPM-NI0013358",
+  "pkey": "12833",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "13290": {
+  "kpm_id": "KPM-NI0013815",
+  "pkey": "13290",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "広島県"
+ },
+ "13420": {
+  "kpm_id": "KPM-NI0013945",
+  "pkey": "13420",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13421": {
+  "kpm_id": "KPM-NI0013946",
+  "pkey": "13421",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13447": {
+  "kpm_id": "KPM-NI0013972",
+  "pkey": "13447",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13448": {
+  "kpm_id": "KPM-NI0013973",
+  "pkey": "13448",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13449": {
+  "kpm_id": "KPM-NI0013974",
+  "pkey": "13449",
+  "family_ja": "ハゼ科",
+  "name_ja": "アヤヨシノボリ",
+  "name_lat": "Rhinogobius sp. MO",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13450": {
+  "kpm_id": "KPM-NI0013975",
+  "pkey": "13450",
+  "family_ja": "ハゼ科",
+  "name_ja": "アヤヨシノボリ",
+  "name_lat": "Rhinogobius sp. MO",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13451": {
+  "kpm_id": "KPM-NI0013976",
+  "pkey": "13451",
+  "family_ja": "ハゼ科",
+  "name_ja": "アヤヨシノボリ",
+  "name_lat": "Rhinogobius sp. MO",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13452": {
+  "kpm_id": "KPM-NI0013977",
+  "pkey": "13452",
+  "family_ja": "ハゼ科",
+  "name_ja": "アヤヨシノボリ",
+  "name_lat": "Rhinogobius sp. MO",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "13465": {
+  "kpm_id": "KPM-NI0013990",
+  "pkey": "13465",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "13466": {
+  "kpm_id": "KPM-NI0013991",
+  "pkey": "13466",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヒラヨシノボリ",
+  "name_lat": "Rhinogobius sp. DL",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "13911": {
+  "kpm_id": "KPM-NI0014436",
+  "pkey": "13911",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "神奈川県"
+ },
+ "15704": {
+  "kpm_id": "KPM-NI0016232",
+  "pkey": "15704",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "15706": {
+  "kpm_id": "KPM-NI0016234",
+  "pkey": "15706",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "15715": {
+  "kpm_id": "KPM-NI0016243",
+  "pkey": "15715",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "15719": {
+  "kpm_id": "KPM-NI0016247",
+  "pkey": "15719",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "328140": {
+  "kpm_id": "KPM-NI0016445",
+  "pkey": "328140",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "東京都"
+ },
+ "328141": {
+  "kpm_id": "KPM-NI0016446",
+  "pkey": "328141",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "東京都"
+ },
+ "328142": {
+  "kpm_id": "KPM-NI0016447",
+  "pkey": "328142",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "東京都"
+ },
+ "331795": {
+  "kpm_id": "KPM-NI0017090",
+  "pkey": "331795",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "352017": {
+  "kpm_id": "KPM-NI0017908",
+  "pkey": "352017",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "352018": {
+  "kpm_id": "KPM-NI0017909",
+  "pkey": "352018",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "352028": {
+  "kpm_id": "KPM-NI0017924",
+  "pkey": "352028",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "352605": {
+  "kpm_id": "KPM-NI0018048",
+  "pkey": "352605",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352606": {
+  "kpm_id": "KPM-NI0018049",
+  "pkey": "352606",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352607": {
+  "kpm_id": "KPM-NI0018050",
+  "pkey": "352607",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352608": {
+  "kpm_id": "KPM-NI0018051",
+  "pkey": "352608",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352609": {
+  "kpm_id": "KPM-NI0018052",
+  "pkey": "352609",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352610": {
+  "kpm_id": "KPM-NI0018053",
+  "pkey": "352610",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352611": {
+  "kpm_id": "KPM-NI0018054",
+  "pkey": "352611",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352612": {
+  "kpm_id": "KPM-NI0018055",
+  "pkey": "352612",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "352613": {
+  "kpm_id": "KPM-NI0018056",
+  "pkey": "352613",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "358126": {
+  "kpm_id": "KPM-NI0018972",
+  "pkey": "358126",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "358127": {
+  "kpm_id": "KPM-NI0018973",
+  "pkey": "358127",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "359549": {
+  "kpm_id": "KPM-NI0019207",
+  "pkey": "359549",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "359650": {
+  "kpm_id": "KPM-NI0019219",
+  "pkey": "359650",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "359651": {
+  "kpm_id": "KPM-NI0019220",
+  "pkey": "359651",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "359902": {
+  "kpm_id": "KPM-NI0019388",
+  "pkey": "359902",
+  "family_ja": "ハゼ科",
+  "name_ja": "アヤヨシノボリ",
+  "name_lat": "Rhinogobius sp. MO",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "359903": {
+  "kpm_id": "KPM-NI0019389",
+  "pkey": "359903",
+  "family_ja": "ハゼ科",
+  "name_ja": "アヤヨシノボリ",
+  "name_lat": "Rhinogobius sp. MO",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "360018": {
+  "kpm_id": "KPM-NI0019412",
+  "pkey": "360018",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "360019": {
+  "kpm_id": "KPM-NI0019413",
+  "pkey": "360019",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "360038": {
+  "kpm_id": "KPM-NI0019432",
+  "pkey": "360038",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "360039": {
+  "kpm_id": "KPM-NI0019433",
+  "pkey": "360039",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "360040": {
+  "kpm_id": "KPM-NI0019434",
+  "pkey": "360040",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "361247": {
+  "kpm_id": "KPM-NI0019785",
+  "pkey": "361247",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361248": {
+  "kpm_id": "KPM-NI0019786",
+  "pkey": "361248",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361249": {
+  "kpm_id": "KPM-NI0019787",
+  "pkey": "361249",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361250": {
+  "kpm_id": "KPM-NI0019788",
+  "pkey": "361250",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361251": {
+  "kpm_id": "KPM-NI0019791",
+  "pkey": "361251",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361252": {
+  "kpm_id": "KPM-NI0019794",
+  "pkey": "361252",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361253": {
+  "kpm_id": "KPM-NI0019795",
+  "pkey": "361253",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361254": {
+  "kpm_id": "KPM-NI0019792",
+  "pkey": "361254",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361255": {
+  "kpm_id": "KPM-NI0019793",
+  "pkey": "361255",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "361259": {
+  "kpm_id": "KPM-NI0019796",
+  "pkey": "361259",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "376302": {
+  "kpm_id": "KPM-NI0021192",
+  "pkey": "376302",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "376303": {
+  "kpm_id": "KPM-NI0021193",
+  "pkey": "376303",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "377778": {
+  "kpm_id": "KPM-NI0021410",
+  "pkey": "377778",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "378849": {
+  "kpm_id": "KPM-NI0021758",
+  "pkey": "378849",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "378850": {
+  "kpm_id": "KPM-NI0021759",
+  "pkey": "378850",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "378851": {
+  "kpm_id": "KPM-NI0021760",
+  "pkey": "378851",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "378877": {
+  "kpm_id": "KPM-NI0021786",
+  "pkey": "378877",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "378880": {
+  "kpm_id": "KPM-NI0021789",
+  "pkey": "378880",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "381577": {
+  "kpm_id": "KPM-NI0021955",
+  "pkey": "381577",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "山梨県"
+ },
+ "383001": {
+  "kpm_id": "KPM-NI0022325",
+  "pkey": "383001",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "383002": {
+  "kpm_id": "KPM-NI0022326",
+  "pkey": "383002",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "383243": {
+  "kpm_id": "KPM-NI0022275",
+  "pkey": "383243",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "383248": {
+  "kpm_id": "KPM-NI0022302",
+  "pkey": "383248",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "383268": {
+  "kpm_id": "KPM-NI0022270",
+  "pkey": "383268",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "383272": {
+  "kpm_id": "KPM-NI0022293",
+  "pkey": "383272",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "383293": {
+  "kpm_id": "KPM-NI0022287",
+  "pkey": "383293",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "402245": {
+  "kpm_id": "KPM-NI0023889",
+  "pkey": "402245",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "402246": {
+  "kpm_id": "KPM-NI0023890",
+  "pkey": "402246",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "404191": {
+  "kpm_id": "KPM-NI0023937",
+  "pkey": "404191",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "404201": {
+  "kpm_id": "KPM-NI0023947",
+  "pkey": "404201",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "404380": {
+  "kpm_id": "KPM-NI0024367",
+  "pkey": "404380",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "429628": {
+  "kpm_id": "KPM-NI0026409",
+  "pkey": "429628",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429646": {
+  "kpm_id": "KPM-NI0026427",
+  "pkey": "429646",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429647": {
+  "kpm_id": "KPM-NI0026428",
+  "pkey": "429647",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429648": {
+  "kpm_id": "KPM-NI0026429",
+  "pkey": "429648",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429650": {
+  "kpm_id": "KPM-NI0026431",
+  "pkey": "429650",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429675": {
+  "kpm_id": "KPM-NI0026456",
+  "pkey": "429675",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429677": {
+  "kpm_id": "KPM-NI0026458",
+  "pkey": "429677",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429678": {
+  "kpm_id": "KPM-NI0026459",
+  "pkey": "429678",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429702": {
+  "kpm_id": "KPM-NI0026483",
+  "pkey": "429702",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429703": {
+  "kpm_id": "KPM-NI0026484",
+  "pkey": "429703",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429704": {
+  "kpm_id": "KPM-NI0026485",
+  "pkey": "429704",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429705": {
+  "kpm_id": "KPM-NI0026486",
+  "pkey": "429705",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429706": {
+  "kpm_id": "KPM-NI0026487",
+  "pkey": "429706",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429707": {
+  "kpm_id": "KPM-NI0026488",
+  "pkey": "429707",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429708": {
+  "kpm_id": "KPM-NI0026489",
+  "pkey": "429708",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429709": {
+  "kpm_id": "KPM-NI0026490",
+  "pkey": "429709",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429710": {
+  "kpm_id": "KPM-NI0026491",
+  "pkey": "429710",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429711": {
+  "kpm_id": "KPM-NI0026492",
+  "pkey": "429711",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429712": {
+  "kpm_id": "KPM-NI0026493",
+  "pkey": "429712",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429728": {
+  "kpm_id": "KPM-NI0026509",
+  "pkey": "429728",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429729": {
+  "kpm_id": "KPM-NI0026510",
+  "pkey": "429729",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429730": {
+  "kpm_id": "KPM-NI0026511",
+  "pkey": "429730",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429731": {
+  "kpm_id": "KPM-NI0026512",
+  "pkey": "429731",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429732": {
+  "kpm_id": "KPM-NI0026513",
+  "pkey": "429732",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429733": {
+  "kpm_id": "KPM-NI0026514",
+  "pkey": "429733",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429742": {
+  "kpm_id": "KPM-NI0026523",
+  "pkey": "429742",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429743": {
+  "kpm_id": "KPM-NI0026524",
+  "pkey": "429743",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429744": {
+  "kpm_id": "KPM-NI0026525",
+  "pkey": "429744",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429745": {
+  "kpm_id": "KPM-NI0026526",
+  "pkey": "429745",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島父島列島父島"
+ },
+ "429752": {
+  "kpm_id": "KPM-NI0026533",
+  "pkey": "429752",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429753": {
+  "kpm_id": "KPM-NI0026534",
+  "pkey": "429753",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429754": {
+  "kpm_id": "KPM-NI0026535",
+  "pkey": "429754",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429755": {
+  "kpm_id": "KPM-NI0026536",
+  "pkey": "429755",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429806": {
+  "kpm_id": "KPM-NI0026587",
+  "pkey": "429806",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429807": {
+  "kpm_id": "KPM-NI0026588",
+  "pkey": "429807",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429808": {
+  "kpm_id": "KPM-NI0026589",
+  "pkey": "429808",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429809": {
+  "kpm_id": "KPM-NI0026590",
+  "pkey": "429809",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429814": {
+  "kpm_id": "KPM-NI0026595",
+  "pkey": "429814",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429815": {
+  "kpm_id": "KPM-NI0026596",
+  "pkey": "429815",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "429816": {
+  "kpm_id": "KPM-NI0026597",
+  "pkey": "429816",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都，小笠原諸島母島列島母島"
+ },
+ "431028": {
+  "kpm_id": "KPM-NI0026662",
+  "pkey": "431028",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "431029": {
+  "kpm_id": "KPM-NI0026663",
+  "pkey": "431029",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "431030": {
+  "kpm_id": "KPM-NI0026664",
+  "pkey": "431030",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "434650": {
+  "kpm_id": "KPM-NI0026939",
+  "pkey": "434650",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "434651": {
+  "kpm_id": "KPM-NI0026940",
+  "pkey": "434651",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "434652": {
+  "kpm_id": "KPM-NI0026941",
+  "pkey": "434652",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "434656": {
+  "kpm_id": "KPM-NI0026945",
+  "pkey": "434656",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "454627": {
+  "kpm_id": "KPM-NI0028779",
+  "pkey": "454627",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "454628": {
+  "kpm_id": "KPM-NI0028780",
+  "pkey": "454628",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "454629": {
+  "kpm_id": "KPM-NI0028781",
+  "pkey": "454629",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "454630": {
+  "kpm_id": "KPM-NI0028782",
+  "pkey": "454630",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "454631": {
+  "kpm_id": "KPM-NI0028783",
+  "pkey": "454631",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "457946": {
+  "kpm_id": "KPM-NI0028999",
+  "pkey": "457946",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "457947": {
+  "kpm_id": "KPM-NI0029000",
+  "pkey": "457947",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "457948": {
+  "kpm_id": "KPM-NI0029001",
+  "pkey": "457948",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "457949": {
+  "kpm_id": "KPM-NI0029002",
+  "pkey": "457949",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "459072": {
+  "kpm_id": "KPM-NI0029071",
+  "pkey": "459072",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "459073": {
+  "kpm_id": "KPM-NI0029072",
+  "pkey": "459073",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "459074": {
+  "kpm_id": "KPM-NI0029073",
+  "pkey": "459074",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "459075": {
+  "kpm_id": "KPM-NI0029074",
+  "pkey": "459075",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "459673": {
+  "kpm_id": "KPM-NI0029219",
+  "pkey": "459673",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "神奈川県"
+ },
+ "459714": {
+  "kpm_id": "KPM-NI0029147",
+  "pkey": "459714",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "459716": {
+  "kpm_id": "KPM-NI0029129",
+  "pkey": "459716",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "459718": {
+  "kpm_id": "KPM-NI0029141",
+  "pkey": "459718",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "484836": {
+  "kpm_id": "KPM-NI0031028",
+  "pkey": "484836",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（橙色型）",
+  "name_lat": "Rhinogobius sp. OR (morphotype Toshoku)",
+  "locality": "神奈川県"
+ },
+ "486110": {
+  "kpm_id": "KPM-NI0031157",
+  "pkey": "486110",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "三重県"
+ },
+ "486111": {
+  "kpm_id": "KPM-NI0031158",
+  "pkey": "486111",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "三重県"
+ },
+ "486112": {
+  "kpm_id": "KPM-NI0031159",
+  "pkey": "486112",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "三重県"
+ },
+ "486113": {
+  "kpm_id": "KPM-NI0031160",
+  "pkey": "486113",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486114": {
+  "kpm_id": "KPM-NI0031161",
+  "pkey": "486114",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486115": {
+  "kpm_id": "KPM-NI0031162",
+  "pkey": "486115",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486116": {
+  "kpm_id": "KPM-NI0031163",
+  "pkey": "486116",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486117": {
+  "kpm_id": "KPM-NI0031164",
+  "pkey": "486117",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486118": {
+  "kpm_id": "KPM-NI0031165",
+  "pkey": "486118",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486119": {
+  "kpm_id": "KPM-NI0031166",
+  "pkey": "486119",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486120": {
+  "kpm_id": "KPM-NI0031167",
+  "pkey": "486120",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486121": {
+  "kpm_id": "KPM-NI0031168",
+  "pkey": "486121",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486122": {
+  "kpm_id": "KPM-NI0031169",
+  "pkey": "486122",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486123": {
+  "kpm_id": "KPM-NI0031170",
+  "pkey": "486123",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486124": {
+  "kpm_id": "KPM-NI0031171",
+  "pkey": "486124",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486125": {
+  "kpm_id": "KPM-NI0031172",
+  "pkey": "486125",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486126": {
+  "kpm_id": "KPM-NI0031173",
+  "pkey": "486126",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486127": {
+  "kpm_id": "KPM-NI0031174",
+  "pkey": "486127",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486128": {
+  "kpm_id": "KPM-NI0031175",
+  "pkey": "486128",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486129": {
+  "kpm_id": "KPM-NI0031176",
+  "pkey": "486129",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486130": {
+  "kpm_id": "KPM-NI0031177",
+  "pkey": "486130",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486131": {
+  "kpm_id": "KPM-NI0031178",
+  "pkey": "486131",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ類雑種群",
+  "name_lat": "hybrid complex of Rhinogobius sp. OR",
+  "locality": "三重県"
+ },
+ "486132": {
+  "kpm_id": "KPM-NI0031179",
+  "pkey": "486132",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486133": {
+  "kpm_id": "KPM-NI0031180",
+  "pkey": "486133",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486134": {
+  "kpm_id": "KPM-NI0031181",
+  "pkey": "486134",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486135": {
+  "kpm_id": "KPM-NI0031182",
+  "pkey": "486135",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486136": {
+  "kpm_id": "KPM-NI0031183",
+  "pkey": "486136",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486137": {
+  "kpm_id": "KPM-NI0031184",
+  "pkey": "486137",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486138": {
+  "kpm_id": "KPM-NI0031185",
+  "pkey": "486138",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486139": {
+  "kpm_id": "KPM-NI0031186",
+  "pkey": "486139",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486140": {
+  "kpm_id": "KPM-NI0031187",
+  "pkey": "486140",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486141": {
+  "kpm_id": "KPM-NI0031188",
+  "pkey": "486141",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "三重県"
+ },
+ "486338": {
+  "kpm_id": "KPM-NI0031238",
+  "pkey": "486338",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "北海道"
+ },
+ "486690": {
+  "kpm_id": "KPM-NI0031314",
+  "pkey": "486690",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "広島県"
+ },
+ "486691": {
+  "kpm_id": "KPM-NI0031315",
+  "pkey": "486691",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "広島県"
+ },
+ "486692": {
+  "kpm_id": "KPM-NI0031316",
+  "pkey": "486692",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "広島県"
+ },
+ "486693": {
+  "kpm_id": "KPM-NI0031317",
+  "pkey": "486693",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "広島県"
+ },
+ "486694": {
+  "kpm_id": "KPM-NI0031318",
+  "pkey": "486694",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "広島県"
+ },
+ "486711": {
+  "kpm_id": "KPM-NI0031485",
+  "pkey": "486711",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "兵庫県"
+ },
+ "496869": {
+  "kpm_id": "KPM-NI0035068",
+  "pkey": "496869",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "496870": {
+  "kpm_id": "KPM-NI0035069",
+  "pkey": "496870",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "496871": {
+  "kpm_id": "KPM-NI0035070",
+  "pkey": "496871",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "496872": {
+  "kpm_id": "KPM-NI0035071",
+  "pkey": "496872",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "496873": {
+  "kpm_id": "KPM-NI0035072",
+  "pkey": "496873",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "496874": {
+  "kpm_id": "KPM-NI0035073",
+  "pkey": "496874",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "496875": {
+  "kpm_id": "KPM-NI0035074",
+  "pkey": "496875",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "496876": {
+  "kpm_id": "KPM-NI0035075",
+  "pkey": "496876",
+  "family_ja": "ハゼ科",
+  "name_ja": "キバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. YB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "500280": {
+  "kpm_id": "KPM-NI0035205",
+  "pkey": "500280",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "静岡県"
+ },
+ "503195": {
+  "kpm_id": "KPM-NI0035409",
+  "pkey": "503195",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "503257": {
+  "kpm_id": "KPM-NI0035419",
+  "pkey": "503257",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "宮城県"
+ },
+ "519690": {
+  "kpm_id": "KPM-NI0036583",
+  "pkey": "519690",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "519691": {
+  "kpm_id": "KPM-NI0036584",
+  "pkey": "519691",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "519692": {
+  "kpm_id": "KPM-NI0036585",
+  "pkey": "519692",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "519693": {
+  "kpm_id": "KPM-NI0036586",
+  "pkey": "519693",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "519694": {
+  "kpm_id": "KPM-NI0036587",
+  "pkey": "519694",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "519722": {
+  "kpm_id": "KPM-NI0036564",
+  "pkey": "519722",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "519723": {
+  "kpm_id": "KPM-NI0036565",
+  "pkey": "519723",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "519724": {
+  "kpm_id": "KPM-NI0036566",
+  "pkey": "519724",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "愛知県"
+ },
+ "522931": {
+  "kpm_id": "KPM-NI0036850",
+  "pkey": "522931",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "福岡県"
+ },
+ "522954": {
+  "kpm_id": "KPM-NI0036849",
+  "pkey": "522954",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "福岡県"
+ },
+ "526537": {
+  "kpm_id": "KPM-NI0037560",
+  "pkey": "526537",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "526538": {
+  "kpm_id": "KPM-NI0037561",
+  "pkey": "526538",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "526541": {
+  "kpm_id": "KPM-NI0037562",
+  "pkey": "526541",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "526542": {
+  "kpm_id": "KPM-NI0037563",
+  "pkey": "526542",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "526543": {
+  "kpm_id": "KPM-NI0037564",
+  "pkey": "526543",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "岩手県"
+ },
+ "546981": {
+  "kpm_id": "KPM-NI0037980",
+  "pkey": "546981",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "546982": {
+  "kpm_id": "KPM-NI0037981",
+  "pkey": "546982",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "546983": {
+  "kpm_id": "KPM-NI0037982",
+  "pkey": "546983",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "546984": {
+  "kpm_id": "KPM-NI0037983",
+  "pkey": "546984",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "546985": {
+  "kpm_id": "KPM-NI0037984",
+  "pkey": "546985",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "546986": {
+  "kpm_id": "KPM-NI0037985",
+  "pkey": "546986",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "546987": {
+  "kpm_id": "KPM-NI0037986",
+  "pkey": "546987",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "552503": {
+  "kpm_id": "KPM-NI0038536",
+  "pkey": "552503",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "東京都"
+ },
+ "552504": {
+  "kpm_id": "KPM-NI0038537",
+  "pkey": "552504",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "東京都"
+ },
+ "552505": {
+  "kpm_id": "KPM-NI0038538",
+  "pkey": "552505",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "東京都"
+ },
+ "557997": {
+  "kpm_id": "KPM-NI0038853",
+  "pkey": "557997",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "鹿児島県，琉球列島奄美諸島奄美大島"
+ },
+ "558215": {
+  "kpm_id": "KPM-NI0039491",
+  "pkey": "558215",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "558225": {
+  "kpm_id": "KPM-NI0039633",
+  "pkey": "558225",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "神奈川県"
+ },
+ "558226": {
+  "kpm_id": "KPM-NI0039634",
+  "pkey": "558226",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "神奈川県"
+ },
+ "563578": {
+  "kpm_id": "KPM-NI0039743",
+  "pkey": "563578",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "563582": {
+  "kpm_id": "KPM-NI0039747",
+  "pkey": "563582",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "588594": {
+  "kpm_id": "KPM-NI0040352",
+  "pkey": "588594",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "588595": {
+  "kpm_id": "KPM-NI0040353",
+  "pkey": "588595",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "588596": {
+  "kpm_id": "KPM-NI0040354",
+  "pkey": "588596",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "588597": {
+  "kpm_id": "KPM-NI0040355",
+  "pkey": "588597",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "591863": {
+  "kpm_id": "KPM-NI0040668",
+  "pkey": "591863",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "591864": {
+  "kpm_id": "KPM-NI0040669",
+  "pkey": "591864",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "591865": {
+  "kpm_id": "KPM-NI0040670",
+  "pkey": "591865",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "596770": {
+  "kpm_id": "KPM-NI0041024",
+  "pkey": "596770",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "596771": {
+  "kpm_id": "KPM-NI0041025",
+  "pkey": "596771",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "597377": {
+  "kpm_id": "KPM-NI0041038",
+  "pkey": "597377",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "597386": {
+  "kpm_id": "KPM-NI0041047",
+  "pkey": "597386",
+  "family_ja": "ハゼ科",
+  "name_ja": "オオヨシノボリ",
+  "name_lat": "Rhinogobius fluviatilis Tanaka, 1925",
+  "locality": "神奈川県"
+ },
+ "600990": {
+  "kpm_id": "KPM-NI0041338",
+  "pkey": "600990",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "静岡県"
+ },
+ "601255": {
+  "kpm_id": "KPM-NI0041335",
+  "pkey": "601255",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "岐阜県"
+ },
+ "625801": {
+  "kpm_id": "KPM-NI0042603",
+  "pkey": "625801",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "625808": {
+  "kpm_id": "KPM-NI0042607",
+  "pkey": "625808",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "625810": {
+  "kpm_id": "KPM-NI0042608",
+  "pkey": "625810",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "625811": {
+  "kpm_id": "KPM-NI0042609",
+  "pkey": "625811",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "625815": {
+  "kpm_id": "KPM-NI0042613",
+  "pkey": "625815",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "625830": {
+  "kpm_id": "KPM-NI0042626",
+  "pkey": "625830",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "635276": {
+  "kpm_id": "KPM-NI0043556",
+  "pkey": "635276",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "宮崎県"
+ },
+ "635277": {
+  "kpm_id": "KPM-NI0043557",
+  "pkey": "635277",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "宮崎県"
+ },
+ "635278": {
+  "kpm_id": "KPM-NI0043558",
+  "pkey": "635278",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "宮崎県"
+ },
+ "635399": {
+  "kpm_id": "KPM-NI0043679",
+  "pkey": "635399",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "宮崎県"
+ },
+ "635400": {
+  "kpm_id": "KPM-NI0043680",
+  "pkey": "635400",
+  "family_ja": "ハゼ科",
+  "name_ja": "オオヨシノボリ",
+  "name_lat": "Rhinogobius fluviatilis Tanaka, 1925",
+  "locality": "宮崎県"
+ },
+ "635401": {
+  "kpm_id": "KPM-NI0043681",
+  "pkey": "635401",
+  "family_ja": "ハゼ科",
+  "name_ja": "オオヨシノボリ",
+  "name_lat": "Rhinogobius fluviatilis Tanaka, 1925",
+  "locality": "宮崎県"
+ },
+ "635402": {
+  "kpm_id": "KPM-NI0043682",
+  "pkey": "635402",
+  "family_ja": "ハゼ科",
+  "name_ja": "オオヨシノボリ",
+  "name_lat": "Rhinogobius fluviatilis Tanaka, 1925",
+  "locality": "宮崎県"
+ },
+ "641750": {
+  "kpm_id": "KPM-NI0045230",
+  "pkey": "641750",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "京都府"
+ },
+ "641751": {
+  "kpm_id": "KPM-NI0045231",
+  "pkey": "641751",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "京都府"
+ },
+ "641752": {
+  "kpm_id": "KPM-NI0045232",
+  "pkey": "641752",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "京都府"
+ },
+ "641782": {
+  "kpm_id": "KPM-NI0045222",
+  "pkey": "641782",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "滋賀県"
+ },
+ "641783": {
+  "kpm_id": "KPM-NI0045223",
+  "pkey": "641783",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "滋賀県"
+ },
+ "641784": {
+  "kpm_id": "KPM-NI0045224",
+  "pkey": "641784",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "滋賀県"
+ },
+ "641785": {
+  "kpm_id": "KPM-NI0045225",
+  "pkey": "641785",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "滋賀県"
+ },
+ "641879": {
+  "kpm_id": "KPM-NI0045251",
+  "pkey": "641879",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "641880": {
+  "kpm_id": "KPM-NI0045252",
+  "pkey": "641880",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "神奈川県"
+ },
+ "642980": {
+  "kpm_id": "KPM-NI0045260",
+  "pkey": "642980",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "新潟県"
+ },
+ "651193": {
+  "kpm_id": "KPM-NI0047369",
+  "pkey": "651193",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "651194": {
+  "kpm_id": "KPM-NI0047370",
+  "pkey": "651194",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "651195": {
+  "kpm_id": "KPM-NI0047371",
+  "pkey": "651195",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "651196": {
+  "kpm_id": "KPM-NI0047372",
+  "pkey": "651196",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "651197": {
+  "kpm_id": "KPM-NI0047373",
+  "pkey": "651197",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "651198": {
+  "kpm_id": "KPM-NI0047374",
+  "pkey": "651198",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "652214": {
+  "kpm_id": "KPM-NI0047559",
+  "pkey": "652214",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "福井県"
+ },
+ "652219": {
+  "kpm_id": "KPM-NI0047400",
+  "pkey": "652219",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "滋賀県"
+ },
+ "652220": {
+  "kpm_id": "KPM-NI0047570",
+  "pkey": "652220",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "滋賀県"
+ },
+ "652221": {
+  "kpm_id": "KPM-NI0047571",
+  "pkey": "652221",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "滋賀県"
+ },
+ "652234": {
+  "kpm_id": "KPM-NI0047568",
+  "pkey": "652234",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "福井県"
+ },
+ "653686": {
+  "kpm_id": "KPM-NI0047620",
+  "pkey": "653686",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "栃木県"
+ },
+ "656374": {
+  "kpm_id": "KPM-NI0047710",
+  "pkey": "656374",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "656375": {
+  "kpm_id": "KPM-NI0047711",
+  "pkey": "656375",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "656376": {
+  "kpm_id": "KPM-NI0047712",
+  "pkey": "656376",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "656377": {
+  "kpm_id": "KPM-NI0047713",
+  "pkey": "656377",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "656378": {
+  "kpm_id": "KPM-NI0047714",
+  "pkey": "656378",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "656379": {
+  "kpm_id": "KPM-NI0047715",
+  "pkey": "656379",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "656471": {
+  "kpm_id": "KPM-NI0047828",
+  "pkey": "656471",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "656472": {
+  "kpm_id": "KPM-NI0047829",
+  "pkey": "656472",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "656548": {
+  "kpm_id": "KPM-NI0047980",
+  "pkey": "656548",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "埼玉県"
+ },
+ "656549": {
+  "kpm_id": "KPM-NI0047981",
+  "pkey": "656549",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "656550": {
+  "kpm_id": "KPM-NI0047982",
+  "pkey": "656550",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "656551": {
+  "kpm_id": "KPM-NI0047983",
+  "pkey": "656551",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "656552": {
+  "kpm_id": "KPM-NI0047984",
+  "pkey": "656552",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "656553": {
+  "kpm_id": "KPM-NI0047985",
+  "pkey": "656553",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "656554": {
+  "kpm_id": "KPM-NI0047986",
+  "pkey": "656554",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "660066": {
+  "kpm_id": "KPM-NI0048919",
+  "pkey": "660066",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "千葉県"
+ },
+ "660546": {
+  "kpm_id": "KPM-NI0048995",
+  "pkey": "660546",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "662509": {
+  "kpm_id": "KPM-NI0049962",
+  "pkey": "662509",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "栃木県"
+ },
+ "662556": {
+  "kpm_id": "KPM-NI0049918",
+  "pkey": "662556",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "662557": {
+  "kpm_id": "KPM-NI0049919",
+  "pkey": "662557",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "662558": {
+  "kpm_id": "KPM-NI0049920",
+  "pkey": "662558",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "667594": {
+  "kpm_id": "KPM-NI0050258",
+  "pkey": "667594",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "667595": {
+  "kpm_id": "KPM-NI0050259",
+  "pkey": "667595",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "667596": {
+  "kpm_id": "KPM-NI0050260",
+  "pkey": "667596",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "681212": {
+  "kpm_id": "KPM-NI0051755",
+  "pkey": "681212",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "神奈川県"
+ },
+ "681213": {
+  "kpm_id": "KPM-NI0051756",
+  "pkey": "681213",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "681214": {
+  "kpm_id": "KPM-NI0051757",
+  "pkey": "681214",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "681215": {
+  "kpm_id": "KPM-NI0051758",
+  "pkey": "681215",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "688734": {
+  "kpm_id": "KPM-NI0052206",
+  "pkey": "688734",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "京都府"
+ },
+ "690930": {
+  "kpm_id": "KPM-NI0052372",
+  "pkey": "690930",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "神奈川県"
+ },
+ "690931": {
+  "kpm_id": "KPM-NI0052373",
+  "pkey": "690931",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "神奈川県"
+ },
+ "690932": {
+  "kpm_id": "KPM-NI0052376",
+  "pkey": "690932",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "神奈川県"
+ },
+ "690933": {
+  "kpm_id": "KPM-NI0052374",
+  "pkey": "690933",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "神奈川県"
+ },
+ "690934": {
+  "kpm_id": "KPM-NI0052375",
+  "pkey": "690934",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "神奈川県"
+ },
+ "694056": {
+  "kpm_id": "KPM-NI0052126",
+  "pkey": "694056",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "694068": {
+  "kpm_id": "KPM-NI0052138",
+  "pkey": "694068",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "694082": {
+  "kpm_id": "KPM-NI0052152",
+  "pkey": "694082",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "滋賀県"
+ },
+ "694090": {
+  "kpm_id": "KPM-NI0052160",
+  "pkey": "694090",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "埼玉県"
+ },
+ "697271": {
+  "kpm_id": "KPM-NI0052622",
+  "pkey": "697271",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "697272": {
+  "kpm_id": "KPM-NI0052623",
+  "pkey": "697272",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "697273": {
+  "kpm_id": "KPM-NI0052624",
+  "pkey": "697273",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "697274": {
+  "kpm_id": "KPM-NI0052625",
+  "pkey": "697274",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "697275": {
+  "kpm_id": "KPM-NI0052626",
+  "pkey": "697275",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "697276": {
+  "kpm_id": "KPM-NI0052627",
+  "pkey": "697276",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "697287": {
+  "kpm_id": "KPM-NI0052636",
+  "pkey": "697287",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "京都府"
+ },
+ "697886": {
+  "kpm_id": "KPM-NI0052703",
+  "pkey": "697886",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "京都府"
+ },
+ "697887": {
+  "kpm_id": "KPM-NI0052704",
+  "pkey": "697887",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "697888": {
+  "kpm_id": "KPM-NI0052705",
+  "pkey": "697888",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "700232": {
+  "kpm_id": "KPM-NI0052753",
+  "pkey": "700232",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "東京都；伊豆諸島八丈島"
+ },
+ "701837": {
+  "kpm_id": "KPM-NI0052913",
+  "pkey": "701837",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "701838": {
+  "kpm_id": "KPM-NI0052914",
+  "pkey": "701838",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "701839": {
+  "kpm_id": "KPM-NI0052915",
+  "pkey": "701839",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "701855": {
+  "kpm_id": "KPM-NI0052912",
+  "pkey": "701855",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "706929": {
+  "kpm_id": "KPM-NI0053486",
+  "pkey": "706929",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヤイマヒラヨシノボリ",
+  "name_lat": "Rhinogobius yaima Suzuki, Oseko, Kimura et Shibukawa, 2020",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "706930": {
+  "kpm_id": "KPM-NI0053487",
+  "pkey": "706930",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヤイマヒラヨシノボリ",
+  "name_lat": "Rhinogobius yaima Suzuki, Oseko, Kimura et Shibukawa, 2020",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "709766": {
+  "kpm_id": "KPM-NI0053599",
+  "pkey": "709766",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "709767": {
+  "kpm_id": "KPM-NI0053600",
+  "pkey": "709767",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "709768": {
+  "kpm_id": "KPM-NI0053601",
+  "pkey": "709768",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "709769": {
+  "kpm_id": "KPM-NI0053602",
+  "pkey": "709769",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "709770": {
+  "kpm_id": "KPM-NI0053603",
+  "pkey": "709770",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "709771": {
+  "kpm_id": "KPM-NI0053604",
+  "pkey": "709771",
+  "family_ja": "ハゼ科",
+  "name_ja": "カズサヨシノボリ",
+  "name_lat": "Rhinogobius sp. KZ",
+  "locality": "千葉県"
+ },
+ "709772": {
+  "kpm_id": "KPM-NI0053605",
+  "pkey": "709772",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "茨城県"
+ },
+ "709785": {
+  "kpm_id": "KPM-NI0053618",
+  "pkey": "709785",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "千葉県"
+ },
+ "709814": {
+  "kpm_id": "KPM-NI0053647",
+  "pkey": "709814",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "711478": {
+  "kpm_id": "KPM-NI0054368",
+  "pkey": "711478",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "千葉県"
+ },
+ "711479": {
+  "kpm_id": "KPM-NI0054369",
+  "pkey": "711479",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "千葉県"
+ },
+ "714433": {
+  "kpm_id": "KPM-NI0055502",
+  "pkey": "714433",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "静岡県"
+ },
+ "714434": {
+  "kpm_id": "KPM-NI0055503",
+  "pkey": "714434",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "静岡県"
+ },
+ "720401": {
+  "kpm_id": "KPM-NI0056596",
+  "pkey": "720401",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "720405": {
+  "kpm_id": "KPM-NI0056593",
+  "pkey": "720405",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "静岡県"
+ },
+ "720406": {
+  "kpm_id": "KPM-NI0056594",
+  "pkey": "720406",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "静岡県"
+ },
+ "720407": {
+  "kpm_id": "KPM-NI0056595",
+  "pkey": "720407",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "静岡県"
+ },
+ "734428": {
+  "kpm_id": "KPM-NI0055667",
+  "pkey": "734428",
+  "family_ja": "ハゼ科",
+  "name_ja": "オオヨシノボリ",
+  "name_lat": "Rhinogobius fluviatilis Tanaka, 1925",
+  "locality": "神奈川県"
+ },
+ "737420": {
+  "kpm_id": "KPM-NI0059253",
+  "pkey": "737420",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737421": {
+  "kpm_id": "KPM-NI0059254",
+  "pkey": "737421",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737422": {
+  "kpm_id": "KPM-NI0059255",
+  "pkey": "737422",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737425": {
+  "kpm_id": "KPM-NI0059258",
+  "pkey": "737425",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737426": {
+  "kpm_id": "KPM-NI0059259",
+  "pkey": "737426",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737427": {
+  "kpm_id": "KPM-NI0059260",
+  "pkey": "737427",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737428": {
+  "kpm_id": "KPM-NI0059261",
+  "pkey": "737428",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737453": {
+  "kpm_id": "KPM-NI0059285",
+  "pkey": "737453",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "737454": {
+  "kpm_id": "KPM-NI0059286",
+  "pkey": "737454",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "739131": {
+  "kpm_id": "KPM-NI0059713",
+  "pkey": "739131",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "神奈川県"
+ },
+ "742109": {
+  "kpm_id": "KPM-NI0059984",
+  "pkey": "742109",
+  "family_ja": "ハゼ科",
+  "name_ja": "イリオモテパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai aonumai Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "742110": {
+  "kpm_id": "KPM-NI0059985",
+  "pkey": "742110",
+  "family_ja": "ハゼ科",
+  "name_ja": "イリオモテパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai aonumai Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "742112": {
+  "kpm_id": "KPM-NI0059987",
+  "pkey": "742112",
+  "family_ja": "ハゼ科",
+  "name_ja": "イリオモテパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai aonumai Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "742113": {
+  "kpm_id": "KPM-NI0059988",
+  "pkey": "742113",
+  "family_ja": "ハゼ科",
+  "name_ja": "イリオモテパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai aonumai Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "754382": {
+  "kpm_id": "KPM-NI0063337",
+  "pkey": "754382",
+  "family_ja": "ハゼ科",
+  "name_ja": "ビワヨシノボリ",
+  "name_lat": "Rhinogobius biwaensis Takahashi et Okazaki, 2017",
+  "locality": "滋賀県"
+ },
+ "756102": {
+  "kpm_id": "KPM-NI0063482",
+  "pkey": "756102",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "福岡県"
+ },
+ "756103": {
+  "kpm_id": "KPM-NI0063483",
+  "pkey": "756103",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "福岡県"
+ },
+ "756104": {
+  "kpm_id": "KPM-NI0063484",
+  "pkey": "756104",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "福岡県"
+ },
+ "756105": {
+  "kpm_id": "KPM-NI0063485",
+  "pkey": "756105",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "福岡県"
+ },
+ "756106": {
+  "kpm_id": "KPM-NI0063486",
+  "pkey": "756106",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "福岡県"
+ },
+ "756107": {
+  "kpm_id": "KPM-NI0063487",
+  "pkey": "756107",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "福岡県"
+ },
+ "756119": {
+  "kpm_id": "KPM-NI0063500",
+  "pkey": "756119",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヒレヨシノボリ",
+  "name_lat": "Rhinogobius tyoni Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "福岡県"
+ },
+ "756147": {
+  "kpm_id": "KPM-NI0063531",
+  "pkey": "756147",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "佐賀県"
+ },
+ "757039": {
+  "kpm_id": "KPM-NI0063582",
+  "pkey": "757039",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "757040": {
+  "kpm_id": "KPM-NI0063583",
+  "pkey": "757040",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "767809": {
+  "kpm_id": "KPM-NI0071171",
+  "pkey": "767809",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "767810": {
+  "kpm_id": "KPM-NI0071172",
+  "pkey": "767810",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "767811": {
+  "kpm_id": "KPM-NI0071173",
+  "pkey": "767811",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "767812": {
+  "kpm_id": "KPM-NI0071174",
+  "pkey": "767812",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "767813": {
+  "kpm_id": "KPM-NI0071176",
+  "pkey": "767813",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "767814": {
+  "kpm_id": "KPM-NI0071177",
+  "pkey": "767814",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "767815": {
+  "kpm_id": "KPM-NI0071175",
+  "pkey": "767815",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "767881": {
+  "kpm_id": "KPM-NI0071083",
+  "pkey": "767881",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767882": {
+  "kpm_id": "KPM-NI0071084",
+  "pkey": "767882",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767883": {
+  "kpm_id": "KPM-NI0071085",
+  "pkey": "767883",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767884": {
+  "kpm_id": "KPM-NI0071086",
+  "pkey": "767884",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767885": {
+  "kpm_id": "KPM-NI0071087",
+  "pkey": "767885",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767886": {
+  "kpm_id": "KPM-NI0071088",
+  "pkey": "767886",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767887": {
+  "kpm_id": "KPM-NI0071089",
+  "pkey": "767887",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767888": {
+  "kpm_id": "KPM-NI0071090",
+  "pkey": "767888",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767889": {
+  "kpm_id": "KPM-NI0071091",
+  "pkey": "767889",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767890": {
+  "kpm_id": "KPM-NI0071092",
+  "pkey": "767890",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767891": {
+  "kpm_id": "KPM-NI0071093",
+  "pkey": "767891",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767892": {
+  "kpm_id": "KPM-NI0071094",
+  "pkey": "767892",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767893": {
+  "kpm_id": "KPM-NI0071095",
+  "pkey": "767893",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767894": {
+  "kpm_id": "KPM-NI0071096",
+  "pkey": "767894",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767895": {
+  "kpm_id": "KPM-NI0071097",
+  "pkey": "767895",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767896": {
+  "kpm_id": "KPM-NI0071098",
+  "pkey": "767896",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767897": {
+  "kpm_id": "KPM-NI0071099",
+  "pkey": "767897",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767898": {
+  "kpm_id": "KPM-NI0071100",
+  "pkey": "767898",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767899": {
+  "kpm_id": "KPM-NI0071101",
+  "pkey": "767899",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767900": {
+  "kpm_id": "KPM-NI0071102",
+  "pkey": "767900",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767901": {
+  "kpm_id": "KPM-NI0071103",
+  "pkey": "767901",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767902": {
+  "kpm_id": "KPM-NI0071104",
+  "pkey": "767902",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767903": {
+  "kpm_id": "KPM-NI0071105",
+  "pkey": "767903",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767904": {
+  "kpm_id": "KPM-NI0071106",
+  "pkey": "767904",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767905": {
+  "kpm_id": "KPM-NI0071107",
+  "pkey": "767905",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767906": {
+  "kpm_id": "KPM-NI0071108",
+  "pkey": "767906",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767907": {
+  "kpm_id": "KPM-NI0071109",
+  "pkey": "767907",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767908": {
+  "kpm_id": "KPM-NI0071110",
+  "pkey": "767908",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767909": {
+  "kpm_id": "KPM-NI0071111",
+  "pkey": "767909",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767910": {
+  "kpm_id": "KPM-NI0071112",
+  "pkey": "767910",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767911": {
+  "kpm_id": "KPM-NI0071113",
+  "pkey": "767911",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767912": {
+  "kpm_id": "KPM-NI0071114",
+  "pkey": "767912",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767913": {
+  "kpm_id": "KPM-NI0071115",
+  "pkey": "767913",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767914": {
+  "kpm_id": "KPM-NI0071116",
+  "pkey": "767914",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767915": {
+  "kpm_id": "KPM-NI0071117",
+  "pkey": "767915",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767916": {
+  "kpm_id": "KPM-NI0071118",
+  "pkey": "767916",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767917": {
+  "kpm_id": "KPM-NI0071119",
+  "pkey": "767917",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767918": {
+  "kpm_id": "KPM-NI0071120",
+  "pkey": "767918",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767919": {
+  "kpm_id": "KPM-NI0071121",
+  "pkey": "767919",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767920": {
+  "kpm_id": "KPM-NI0071122",
+  "pkey": "767920",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767921": {
+  "kpm_id": "KPM-NI0071123",
+  "pkey": "767921",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767922": {
+  "kpm_id": "KPM-NI0071124",
+  "pkey": "767922",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767923": {
+  "kpm_id": "KPM-NI0071125",
+  "pkey": "767923",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767924": {
+  "kpm_id": "KPM-NI0071126",
+  "pkey": "767924",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767925": {
+  "kpm_id": "KPM-NI0071127",
+  "pkey": "767925",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767926": {
+  "kpm_id": "KPM-NI0071128",
+  "pkey": "767926",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767927": {
+  "kpm_id": "KPM-NI0071129",
+  "pkey": "767927",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767928": {
+  "kpm_id": "KPM-NI0071130",
+  "pkey": "767928",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767929": {
+  "kpm_id": "KPM-NI0071131",
+  "pkey": "767929",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767930": {
+  "kpm_id": "KPM-NI0071132",
+  "pkey": "767930",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767931": {
+  "kpm_id": "KPM-NI0071133",
+  "pkey": "767931",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767932": {
+  "kpm_id": "KPM-NI0071134",
+  "pkey": "767932",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767933": {
+  "kpm_id": "KPM-NI0071135",
+  "pkey": "767933",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767934": {
+  "kpm_id": "KPM-NI0071136",
+  "pkey": "767934",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767935": {
+  "kpm_id": "KPM-NI0071137",
+  "pkey": "767935",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767936": {
+  "kpm_id": "KPM-NI0071138",
+  "pkey": "767936",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767937": {
+  "kpm_id": "KPM-NI0071139",
+  "pkey": "767937",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767938": {
+  "kpm_id": "KPM-NI0071140",
+  "pkey": "767938",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767939": {
+  "kpm_id": "KPM-NI0071141",
+  "pkey": "767939",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767940": {
+  "kpm_id": "KPM-NI0071142",
+  "pkey": "767940",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767941": {
+  "kpm_id": "KPM-NI0071143",
+  "pkey": "767941",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767942": {
+  "kpm_id": "KPM-NI0071144",
+  "pkey": "767942",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767943": {
+  "kpm_id": "KPM-NI0071145",
+  "pkey": "767943",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767944": {
+  "kpm_id": "KPM-NI0071146",
+  "pkey": "767944",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767945": {
+  "kpm_id": "KPM-NI0071147",
+  "pkey": "767945",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767946": {
+  "kpm_id": "KPM-NI0071148",
+  "pkey": "767946",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767947": {
+  "kpm_id": "KPM-NI0071149",
+  "pkey": "767947",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767948": {
+  "kpm_id": "KPM-NI0071150",
+  "pkey": "767948",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767949": {
+  "kpm_id": "KPM-NI0071151",
+  "pkey": "767949",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767950": {
+  "kpm_id": "KPM-NI0071152",
+  "pkey": "767950",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767951": {
+  "kpm_id": "KPM-NI0071153",
+  "pkey": "767951",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767952": {
+  "kpm_id": "KPM-NI0071154",
+  "pkey": "767952",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767953": {
+  "kpm_id": "KPM-NI0071155",
+  "pkey": "767953",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767954": {
+  "kpm_id": "KPM-NI0071156",
+  "pkey": "767954",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767955": {
+  "kpm_id": "KPM-NI0071157",
+  "pkey": "767955",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767956": {
+  "kpm_id": "KPM-NI0071158",
+  "pkey": "767956",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767957": {
+  "kpm_id": "KPM-NI0071159",
+  "pkey": "767957",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767958": {
+  "kpm_id": "KPM-NI0071160",
+  "pkey": "767958",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767959": {
+  "kpm_id": "KPM-NI0071161",
+  "pkey": "767959",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767960": {
+  "kpm_id": "KPM-NI0071162",
+  "pkey": "767960",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767961": {
+  "kpm_id": "KPM-NI0071163",
+  "pkey": "767961",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767962": {
+  "kpm_id": "KPM-NI0071164",
+  "pkey": "767962",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767963": {
+  "kpm_id": "KPM-NI0071165",
+  "pkey": "767963",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767964": {
+  "kpm_id": "KPM-NI0071166",
+  "pkey": "767964",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767965": {
+  "kpm_id": "KPM-NI0071167",
+  "pkey": "767965",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767966": {
+  "kpm_id": "KPM-NI0071168",
+  "pkey": "767966",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767967": {
+  "kpm_id": "KPM-NI0071169",
+  "pkey": "767967",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "767968": {
+  "kpm_id": "KPM-NI0071170",
+  "pkey": "767968",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "768273": {
+  "kpm_id": "KPM-NI0071257",
+  "pkey": "768273",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "768274": {
+  "kpm_id": "KPM-NI0071258",
+  "pkey": "768274",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "神奈川県"
+ },
+ "783488": {
+  "kpm_id": "KPM-NI0072123",
+  "pkey": "783488",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "783489": {
+  "kpm_id": "KPM-NI0072125",
+  "pkey": "783489",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "783490": {
+  "kpm_id": "KPM-NI0072124",
+  "pkey": "783490",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "783499": {
+  "kpm_id": "KPM-NI0072108",
+  "pkey": "783499",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "783500": {
+  "kpm_id": "KPM-NI0072109",
+  "pkey": "783500",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "794229": {
+  "kpm_id": "KPM-NI0074084",
+  "pkey": "794229",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "東京都；伊豆諸島八丈島"
+ },
+ "801672": {
+  "kpm_id": "KPM-NI0074821",
+  "pkey": "801672",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "801673": {
+  "kpm_id": "KPM-NI0074822",
+  "pkey": "801673",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "801674": {
+  "kpm_id": "KPM-NI0074823",
+  "pkey": "801674",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "801675": {
+  "kpm_id": "KPM-NI0074824",
+  "pkey": "801675",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "801676": {
+  "kpm_id": "KPM-NI0074825",
+  "pkey": "801676",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "801679": {
+  "kpm_id": "KPM-NI0074828",
+  "pkey": "801679",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "飼育繁殖個体"
+ },
+ "801680": {
+  "kpm_id": "KPM-NI0074829",
+  "pkey": "801680",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "飼育繁殖個体"
+ },
+ "801681": {
+  "kpm_id": "KPM-NI0074830",
+  "pkey": "801681",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "飼育繁殖個体"
+ },
+ "801682": {
+  "kpm_id": "KPM-NI0074831",
+  "pkey": "801682",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "飼育繁殖個体"
+ },
+ "801683": {
+  "kpm_id": "KPM-NI0074832",
+  "pkey": "801683",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "飼育繁殖個体"
+ },
+ "801959": {
+  "kpm_id": "KPM-NI0075186",
+  "pkey": "801959",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "青森県"
+ },
+ "801990": {
+  "kpm_id": "KPM-NI0075217",
+  "pkey": "801990",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "青森県"
+ },
+ "801991": {
+  "kpm_id": "KPM-NI0075218",
+  "pkey": "801991",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "青森県"
+ },
+ "804988": {
+  "kpm_id": "KPM-NI0076908",
+  "pkey": "804988",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "804989": {
+  "kpm_id": "KPM-NI0076909",
+  "pkey": "804989",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "804990": {
+  "kpm_id": "KPM-NI0076910",
+  "pkey": "804990",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "804991": {
+  "kpm_id": "KPM-NI0076911",
+  "pkey": "804991",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "804992": {
+  "kpm_id": "KPM-NI0076912",
+  "pkey": "804992",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "806376": {
+  "kpm_id": "KPM-NI0077137",
+  "pkey": "806376",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "806377": {
+  "kpm_id": "KPM-NI0077138",
+  "pkey": "806377",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "806378": {
+  "kpm_id": "KPM-NI0077139",
+  "pkey": "806378",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "滋賀県"
+ },
+ "809196": {
+  "kpm_id": "KPM-NI0077303",
+  "pkey": "809196",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "茨城県"
+ },
+ "809269": {
+  "kpm_id": "KPM-NI0077376",
+  "pkey": "809269",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県"
+ },
+ "809270": {
+  "kpm_id": "KPM-NI0077377",
+  "pkey": "809270",
+  "family_ja": "ハゼ科",
+  "name_ja": "アオバラヨシノボリ",
+  "name_lat": "Rhinogobius sp. BB",
+  "locality": "沖縄県"
+ },
+ "809289": {
+  "kpm_id": "KPM-NI0077396",
+  "pkey": "809289",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "東京都"
+ },
+ "809294": {
+  "kpm_id": "KPM-NI0077401",
+  "pkey": "809294",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "東京都"
+ },
+ "809295": {
+  "kpm_id": "KPM-NI0077402",
+  "pkey": "809295",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "東京都"
+ },
+ "809798": {
+  "kpm_id": "KPM-NI0077434",
+  "pkey": "809798",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "809799": {
+  "kpm_id": "KPM-NI0077430",
+  "pkey": "809799",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "809800": {
+  "kpm_id": "KPM-NI0077431",
+  "pkey": "809800",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "825063": {
+  "kpm_id": "KPM-NI0079052",
+  "pkey": "825063",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "千葉県"
+ },
+ "825079": {
+  "kpm_id": "KPM-NI0079068",
+  "pkey": "825079",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "東京都"
+ },
+ "825080": {
+  "kpm_id": "KPM-NI0079069",
+  "pkey": "825080",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "東京都"
+ },
+ "825088": {
+  "kpm_id": "KPM-NI0079077",
+  "pkey": "825088",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "825089": {
+  "kpm_id": "KPM-NI0079078",
+  "pkey": "825089",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "825090": {
+  "kpm_id": "KPM-NI0079079",
+  "pkey": "825090",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "神奈川県"
+ },
+ "825091": {
+  "kpm_id": "KPM-NI0079080",
+  "pkey": "825091",
+  "family_ja": "ハゼ科",
+  "name_ja": "オウミヨシノボリ",
+  "name_lat": "Rhinogobius sp. OM of Akihito, Sakamoto, Ikeda & Aizawa (2013)",
+  "locality": "神奈川県"
+ },
+ "825106": {
+  "kpm_id": "KPM-NI0079095",
+  "pkey": "825106",
+  "family_ja": "ハゼ科",
+  "name_ja": "オオヨシノボリ",
+  "name_lat": "Rhinogobius fluviatilis Tanaka, 1925",
+  "locality": "神奈川県"
+ },
+ "825116": {
+  "kpm_id": "KPM-NI0079105",
+  "pkey": "825116",
+  "family_ja": "ハゼ科",
+  "name_ja": "カワヨシノボリ",
+  "name_lat": "Rhinogobius flumineus (Mizuno, 1960)",
+  "locality": "神奈川県"
+ },
+ "825139": {
+  "kpm_id": "KPM-NI0079220",
+  "pkey": "825139",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "鹿児島県；琉球列島沖縄諸島奄美大島"
+ },
+ "825141": {
+  "kpm_id": "KPM-NI0079222",
+  "pkey": "825141",
+  "family_ja": "ハゼ科",
+  "name_ja": "ルリヨシノボリ",
+  "name_lat": "Rhinogobius mizunoi Suzuki, Shibukawa et Aizawa, 2017",
+  "locality": "青森県；日本海"
+ },
+ "826912": {
+  "kpm_id": "KPM-NI0079128",
+  "pkey": "826912",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "826913": {
+  "kpm_id": "KPM-NI0079129",
+  "pkey": "826913",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "831132": {
+  "kpm_id": "KPM-NI0082415",
+  "pkey": "831132",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "831133": {
+  "kpm_id": "KPM-NI0082416",
+  "pkey": "831133",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "831134": {
+  "kpm_id": "KPM-NI0082417",
+  "pkey": "831134",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "831135": {
+  "kpm_id": "KPM-NI0082418",
+  "pkey": "831135",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "831136": {
+  "kpm_id": "KPM-NI0082419",
+  "pkey": "831136",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウカイヨシノボリ",
+  "name_lat": "Rhinogobius telma Suzuki, Kimura et Shibukawa, 2019",
+  "locality": "愛知県"
+ },
+ "831458": {
+  "kpm_id": "KPM-NI0082522",
+  "pkey": "831458",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "831459": {
+  "kpm_id": "KPM-NI0082523",
+  "pkey": "831459",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "831460": {
+  "kpm_id": "KPM-NI0082524",
+  "pkey": "831460",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "831461": {
+  "kpm_id": "KPM-NI0082525",
+  "pkey": "831461",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831462": {
+  "kpm_id": "KPM-NI0082526",
+  "pkey": "831462",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831463": {
+  "kpm_id": "KPM-NI0082527",
+  "pkey": "831463",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831464": {
+  "kpm_id": "KPM-NI0082528",
+  "pkey": "831464",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831465": {
+  "kpm_id": "KPM-NI0082529",
+  "pkey": "831465",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831466": {
+  "kpm_id": "KPM-NI0082530",
+  "pkey": "831466",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831467": {
+  "kpm_id": "KPM-NI0082531",
+  "pkey": "831467",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831468": {
+  "kpm_id": "KPM-NI0082532",
+  "pkey": "831468",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831469": {
+  "kpm_id": "KPM-NI0082533",
+  "pkey": "831469",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831470": {
+  "kpm_id": "KPM-NI0082534",
+  "pkey": "831470",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831471": {
+  "kpm_id": "KPM-NI0082535",
+  "pkey": "831471",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831472": {
+  "kpm_id": "KPM-NI0082536",
+  "pkey": "831472",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831473": {
+  "kpm_id": "KPM-NI0082537",
+  "pkey": "831473",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831474": {
+  "kpm_id": "KPM-NI0082538",
+  "pkey": "831474",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831475": {
+  "kpm_id": "KPM-NI0082539",
+  "pkey": "831475",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831476": {
+  "kpm_id": "KPM-NI0082540",
+  "pkey": "831476",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831477": {
+  "kpm_id": "KPM-NI0082541",
+  "pkey": "831477",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831478": {
+  "kpm_id": "KPM-NI0082542",
+  "pkey": "831478",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831479": {
+  "kpm_id": "KPM-NI0082543",
+  "pkey": "831479",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "831480": {
+  "kpm_id": "KPM-NI0082544",
+  "pkey": "831480",
+  "family_ja": "ハゼ科",
+  "name_ja": "イシガキパイヌキバラヨシノボリ",
+  "name_lat": "Rhinogobius aonumai ishigakiensis Suzuki, Oseko, Yamasaki, Kimura et Shibukawa, 2022",
+  "locality": "飼育繁殖個体"
+ },
+ "835021": {
+  "kpm_id": "KPM-NI0083013",
+  "pkey": "835021",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "福井県"
+ },
+ "840219": {
+  "kpm_id": "KPM-NI0081516",
+  "pkey": "840219",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "840220": {
+  "kpm_id": "KPM-NI0081517",
+  "pkey": "840220",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "沖縄県；琉球列島八重山諸島石垣島"
+ },
+ "845682": {
+  "kpm_id": "KPM-NI0085742",
+  "pkey": "845682",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "845683": {
+  "kpm_id": "KPM-NI0085743",
+  "pkey": "845683",
+  "family_ja": "ハゼ科",
+  "name_ja": "オガサワラヨシノボリ",
+  "name_lat": "Rhinogobius ogasawaraensis Suzuki, Chen et Senou, 2011",
+  "locality": "東京都；小笠原諸島父島列島父島"
+ },
+ "854759": {
+  "kpm_id": "KPM-NI0091032",
+  "pkey": "854759",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県；相模湾"
+ },
+ "854813": {
+  "kpm_id": "KPM-NI0091086",
+  "pkey": "854813",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "854814": {
+  "kpm_id": "KPM-NI0091087",
+  "pkey": "854814",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "神奈川県"
+ },
+ "854870": {
+  "kpm_id": "KPM-NI0091143",
+  "pkey": "854870",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "神奈川県"
+ },
+ "854871": {
+  "kpm_id": "KPM-NI0091144",
+  "pkey": "854871",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "神奈川県"
+ },
+ "854872": {
+  "kpm_id": "KPM-NI0091145",
+  "pkey": "854872",
+  "family_ja": "ハゼ科",
+  "name_ja": "ヨシノボリ属未同定種",
+  "name_lat": "Rhinogobius sp.",
+  "locality": "神奈川県"
+ },
+ "854937": {
+  "kpm_id": "KPM-NI0091210",
+  "pkey": "854937",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "854939": {
+  "kpm_id": "KPM-NI0091212",
+  "pkey": "854939",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロヨシノボリ",
+  "name_lat": "Rhinogobius brunneus (Temminck et Schlegel, 1845)",
+  "locality": "神奈川県"
+ },
+ "857267": {
+  "kpm_id": "KPM-NI0092455",
+  "pkey": "857267",
+  "family_ja": "ハゼ科",
+  "name_ja": "シマヨシノボリ",
+  "name_lat": "Rhinogobius nagoyae Jordan et Seale, 1906",
+  "locality": "静岡県"
+ },
+ "857564": {
+  "kpm_id": "KPM-NI0092590",
+  "pkey": "857564",
+  "family_ja": "ハゼ科",
+  "name_ja": "トウヨシノボリ（型不明）",
+  "name_lat": "Rhinogobius sp. OR (morphotype unknown)",
+  "locality": "神奈川県"
+ },
+ "5872": {
+  "kpm_id": "KPM-NI0005872",
+  "pkey": "5872",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "5873": {
+  "kpm_id": "KPM-NI0005873",
+  "pkey": "5873",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "5874": {
+  "kpm_id": "KPM-NI0005874",
+  "pkey": "5874",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県；琉球列島八重山諸島西表島"
+ },
+ "13458": {
+  "kpm_id": "KPM-NI0013983",
+  "pkey": "13458",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県，琉球列島沖縄諸島沖縄島"
+ },
+ "378870": {
+  "kpm_id": "KPM-NI0021779",
+  "pkey": "378870",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "383971": {
+  "kpm_id": "KPM-NI0022476",
+  "pkey": "383971",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "383972": {
+  "kpm_id": "KPM-NI0022479",
+  "pkey": "383972",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "383973": {
+  "kpm_id": "KPM-NI0022480",
+  "pkey": "383973",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "沖縄県，琉球列島八重山諸島西表島"
+ },
+ "404257": {
+  "kpm_id": "KPM-NI0024244",
+  "pkey": "404257",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "鹿児島県，大隅諸島屋久島"
+ },
+ "404258": {
+  "kpm_id": "KPM-NI0024245",
+  "pkey": "404258",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "鹿児島県，大隅諸島屋久島"
+ },
+ "453934": {
+  "kpm_id": "KPM-NI0028770",
+  "pkey": "453934",
+  "family_ja": "ハゼ科",
+  "name_ja": "スイシャハゼ",
+  "name_lat": "Rhinogobius candidianus (Regan, 1908)",
+  "locality": "東アジア，台湾"
+ },
+ "453935": {
+  "kpm_id": "KPM-NI0028772",
+  "pkey": "453935",
+  "family_ja": "ハゼ科",
+  "name_ja": "スイシャハゼ",
+  "name_lat": "Rhinogobius candidianus (Regan, 1908)",
+  "locality": "東アジア，台湾"
+ },
+ "453936": {
+  "kpm_id": "KPM-NI0028771",
+  "pkey": "453936",
+  "family_ja": "ハゼ科",
+  "name_ja": "スイシャハゼ",
+  "name_lat": "Rhinogobius candidianus (Regan, 1908)",
+  "locality": "東アジア，台湾"
+ },
+ "453937": {
+  "kpm_id": "KPM-NI0028773",
+  "pkey": "453937",
+  "family_ja": "ハゼ科",
+  "name_ja": "リノゴビウス・ルブロマキュラータス",
+  "name_lat": "Rhinogobius rubromaculatus Lee et Chang, 1996",
+  "locality": "東アジア，台湾"
+ },
+ "453938": {
+  "kpm_id": "KPM-NI0028774",
+  "pkey": "453938",
+  "family_ja": "ハゼ科",
+  "name_ja": "リノゴビウス・ルブロマキュラータス",
+  "name_lat": "Rhinogobius rubromaculatus Lee et Chang, 1996",
+  "locality": "東アジア，台湾"
+ },
+ "496196": {
+  "kpm_id": "KPM-NI0031862",
+  "pkey": "496196",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "496197": {
+  "kpm_id": "KPM-NI0031863",
+  "pkey": "496197",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "496201": {
+  "kpm_id": "KPM-NI0031867",
+  "pkey": "496201",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "496202": {
+  "kpm_id": "KPM-NI0031868",
+  "pkey": "496202",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "496204": {
+  "kpm_id": "KPM-NI0031870",
+  "pkey": "496204",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "496206": {
+  "kpm_id": "KPM-NI0031872",
+  "pkey": "496206",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "500279": {
+  "kpm_id": "KPM-NI0035204",
+  "pkey": "500279",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "静岡県"
+ },
+ "563583": {
+  "kpm_id": "KPM-NI0039748",
+  "pkey": "563583",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "神奈川県"
+ },
+ "590311": {
+  "kpm_id": "KPM-NI0040410",
+  "pkey": "590311",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "590313": {
+  "kpm_id": "KPM-NI0040411",
+  "pkey": "590313",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "591756": {
+  "kpm_id": "KPM-NI0040661",
+  "pkey": "591756",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "595201": {
+  "kpm_id": "KPM-NI0040918",
+  "pkey": "595201",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "神奈川県"
+ },
+ "641749": {
+  "kpm_id": "KPM-NI0045229",
+  "pkey": "641749",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "京都府"
+ },
+ "653689": {
+  "kpm_id": "KPM-NI0047621",
+  "pkey": "653689",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653690": {
+  "kpm_id": "KPM-NI0047622",
+  "pkey": "653690",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653691": {
+  "kpm_id": "KPM-NI0047623",
+  "pkey": "653691",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653692": {
+  "kpm_id": "KPM-NI0047624",
+  "pkey": "653692",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653693": {
+  "kpm_id": "KPM-NI0047625",
+  "pkey": "653693",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653694": {
+  "kpm_id": "KPM-NI0047626",
+  "pkey": "653694",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653695": {
+  "kpm_id": "KPM-NI0047627",
+  "pkey": "653695",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653706": {
+  "kpm_id": "KPM-NI0047628",
+  "pkey": "653706",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653707": {
+  "kpm_id": "KPM-NI0047629",
+  "pkey": "653707",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653708": {
+  "kpm_id": "KPM-NI0047630",
+  "pkey": "653708",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653709": {
+  "kpm_id": "KPM-NI0047631",
+  "pkey": "653709",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653710": {
+  "kpm_id": "KPM-NI0047632",
+  "pkey": "653710",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653711": {
+  "kpm_id": "KPM-NI0047633",
+  "pkey": "653711",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "653712": {
+  "kpm_id": "KPM-NI0047634",
+  "pkey": "653712",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "656185": {
+  "kpm_id": "KPM-NI0047698",
+  "pkey": "656185",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656188": {
+  "kpm_id": "KPM-NI0047700",
+  "pkey": "656188",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656189": {
+  "kpm_id": "KPM-NI0047702",
+  "pkey": "656189",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656191": {
+  "kpm_id": "KPM-NI0047699",
+  "pkey": "656191",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656192": {
+  "kpm_id": "KPM-NI0047701",
+  "pkey": "656192",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656193": {
+  "kpm_id": "KPM-NI0047703",
+  "pkey": "656193",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656194": {
+  "kpm_id": "KPM-NI0047704",
+  "pkey": "656194",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656195": {
+  "kpm_id": "KPM-NI0047705",
+  "pkey": "656195",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656196": {
+  "kpm_id": "KPM-NI0047706",
+  "pkey": "656196",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656197": {
+  "kpm_id": "KPM-NI0047707",
+  "pkey": "656197",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656359": {
+  "kpm_id": "KPM-NI0047726",
+  "pkey": "656359",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656360": {
+  "kpm_id": "KPM-NI0047727",
+  "pkey": "656360",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656361": {
+  "kpm_id": "KPM-NI0047728",
+  "pkey": "656361",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656362": {
+  "kpm_id": "KPM-NI0047729",
+  "pkey": "656362",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656363": {
+  "kpm_id": "KPM-NI0047730",
+  "pkey": "656363",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656364": {
+  "kpm_id": "KPM-NI0047731",
+  "pkey": "656364",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656365": {
+  "kpm_id": "KPM-NI0047732",
+  "pkey": "656365",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656366": {
+  "kpm_id": "KPM-NI0047733",
+  "pkey": "656366",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656367": {
+  "kpm_id": "KPM-NI0047734",
+  "pkey": "656367",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656368": {
+  "kpm_id": "KPM-NI0047735",
+  "pkey": "656368",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656369": {
+  "kpm_id": "KPM-NI0047736",
+  "pkey": "656369",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656370": {
+  "kpm_id": "KPM-NI0047737",
+  "pkey": "656370",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656448": {
+  "kpm_id": "KPM-NI0047796",
+  "pkey": "656448",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656449": {
+  "kpm_id": "KPM-NI0047798",
+  "pkey": "656449",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656450": {
+  "kpm_id": "KPM-NI0047800",
+  "pkey": "656450",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656451": {
+  "kpm_id": "KPM-NI0047797",
+  "pkey": "656451",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656452": {
+  "kpm_id": "KPM-NI0047799",
+  "pkey": "656452",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656454": {
+  "kpm_id": "KPM-NI0047802",
+  "pkey": "656454",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "656455": {
+  "kpm_id": "KPM-NI0047803",
+  "pkey": "656455",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "659432": {
+  "kpm_id": "KPM-NI0048529",
+  "pkey": "659432",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "659433": {
+  "kpm_id": "KPM-NI0048530",
+  "pkey": "659433",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "659434": {
+  "kpm_id": "KPM-NI0048531",
+  "pkey": "659434",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "659435": {
+  "kpm_id": "KPM-NI0048532",
+  "pkey": "659435",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "659436": {
+  "kpm_id": "KPM-NI0048533",
+  "pkey": "659436",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "659437": {
+  "kpm_id": "KPM-NI0048534",
+  "pkey": "659437",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "659438": {
+  "kpm_id": "KPM-NI0048535",
+  "pkey": "659438",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660067": {
+  "kpm_id": "KPM-NI0048920",
+  "pkey": "660067",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660068": {
+  "kpm_id": "KPM-NI0048921",
+  "pkey": "660068",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660530": {
+  "kpm_id": "KPM-NI0048984",
+  "pkey": "660530",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660531": {
+  "kpm_id": "KPM-NI0048985",
+  "pkey": "660531",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660532": {
+  "kpm_id": "KPM-NI0048986",
+  "pkey": "660532",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660533": {
+  "kpm_id": "KPM-NI0048987",
+  "pkey": "660533",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660534": {
+  "kpm_id": "KPM-NI0048988",
+  "pkey": "660534",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "660535": {
+  "kpm_id": "KPM-NI0048989",
+  "pkey": "660535",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661380": {
+  "kpm_id": "KPM-NI0049668",
+  "pkey": "661380",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661381": {
+  "kpm_id": "KPM-NI0049669",
+  "pkey": "661381",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661382": {
+  "kpm_id": "KPM-NI0049670",
+  "pkey": "661382",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661383": {
+  "kpm_id": "KPM-NI0049671",
+  "pkey": "661383",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661384": {
+  "kpm_id": "KPM-NI0049672",
+  "pkey": "661384",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661385": {
+  "kpm_id": "KPM-NI0049673",
+  "pkey": "661385",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661386": {
+  "kpm_id": "KPM-NI0049674",
+  "pkey": "661386",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "661387": {
+  "kpm_id": "KPM-NI0049675",
+  "pkey": "661387",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "662513": {
+  "kpm_id": "KPM-NI0049963",
+  "pkey": "662513",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "栃木県"
+ },
+ "662514": {
+  "kpm_id": "KPM-NI0049964",
+  "pkey": "662514",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "栃木県"
+ },
+ "662520": {
+  "kpm_id": "KPM-NI0049911",
+  "pkey": "662520",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "662521": {
+  "kpm_id": "KPM-NI0049912",
+  "pkey": "662521",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "662522": {
+  "kpm_id": "KPM-NI0049913",
+  "pkey": "662522",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "662559": {
+  "kpm_id": "KPM-NI0049921",
+  "pkey": "662559",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "667597": {
+  "kpm_id": "KPM-NI0050261",
+  "pkey": "667597",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "667598": {
+  "kpm_id": "KPM-NI0050262",
+  "pkey": "667598",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "667599": {
+  "kpm_id": "KPM-NI0050263",
+  "pkey": "667599",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "667600": {
+  "kpm_id": "KPM-NI0050264",
+  "pkey": "667600",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "667635": {
+  "kpm_id": "KPM-NI0050286",
+  "pkey": "667635",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "667823": {
+  "kpm_id": "KPM-NI0050303",
+  "pkey": "667823",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667824": {
+  "kpm_id": "KPM-NI0050304",
+  "pkey": "667824",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667825": {
+  "kpm_id": "KPM-NI0050305",
+  "pkey": "667825",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667826": {
+  "kpm_id": "KPM-NI0050306",
+  "pkey": "667826",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667827": {
+  "kpm_id": "KPM-NI0050307",
+  "pkey": "667827",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667828": {
+  "kpm_id": "KPM-NI0050308",
+  "pkey": "667828",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667829": {
+  "kpm_id": "KPM-NI0050315",
+  "pkey": "667829",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667830": {
+  "kpm_id": "KPM-NI0050309",
+  "pkey": "667830",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667831": {
+  "kpm_id": "KPM-NI0050310",
+  "pkey": "667831",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667832": {
+  "kpm_id": "KPM-NI0050311",
+  "pkey": "667832",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667833": {
+  "kpm_id": "KPM-NI0050313",
+  "pkey": "667833",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667834": {
+  "kpm_id": "KPM-NI0050320",
+  "pkey": "667834",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667835": {
+  "kpm_id": "KPM-NI0050312",
+  "pkey": "667835",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667836": {
+  "kpm_id": "KPM-NI0050314",
+  "pkey": "667836",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667837": {
+  "kpm_id": "KPM-NI0050316",
+  "pkey": "667837",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667838": {
+  "kpm_id": "KPM-NI0050317",
+  "pkey": "667838",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667839": {
+  "kpm_id": "KPM-NI0050318",
+  "pkey": "667839",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "667840": {
+  "kpm_id": "KPM-NI0050319",
+  "pkey": "667840",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "681216": {
+  "kpm_id": "KPM-NI0051761",
+  "pkey": "681216",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "681217": {
+  "kpm_id": "KPM-NI0051762",
+  "pkey": "681217",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "681218": {
+  "kpm_id": "KPM-NI0051763",
+  "pkey": "681218",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "681219": {
+  "kpm_id": "KPM-NI0051764",
+  "pkey": "681219",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "681220": {
+  "kpm_id": "KPM-NI0051765",
+  "pkey": "681220",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "711480": {
+  "kpm_id": "KPM-NI0054370",
+  "pkey": "711480",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "711481": {
+  "kpm_id": "KPM-NI0054371",
+  "pkey": "711481",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "711482": {
+  "kpm_id": "KPM-NI0054372",
+  "pkey": "711482",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "711483": {
+  "kpm_id": "KPM-NI0054373",
+  "pkey": "711483",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "720400": {
+  "kpm_id": "KPM-NI0056591",
+  "pkey": "720400",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "741244": {
+  "kpm_id": "KPM-NI0059887",
+  "pkey": "741244",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "741245": {
+  "kpm_id": "KPM-NI0059888",
+  "pkey": "741245",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "741246": {
+  "kpm_id": "KPM-NI0059889",
+  "pkey": "741246",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "741247": {
+  "kpm_id": "KPM-NI0059890",
+  "pkey": "741247",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "741248": {
+  "kpm_id": "KPM-NI0059891",
+  "pkey": "741248",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "741249": {
+  "kpm_id": "KPM-NI0059892",
+  "pkey": "741249",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "744511": {
+  "kpm_id": "KPM-NI0060901",
+  "pkey": "744511",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "744512": {
+  "kpm_id": "KPM-NI0060902",
+  "pkey": "744512",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "744513": {
+  "kpm_id": "KPM-NI0060903",
+  "pkey": "744513",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "744514": {
+  "kpm_id": "KPM-NI0060904",
+  "pkey": "744514",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "744515": {
+  "kpm_id": "KPM-NI0060905",
+  "pkey": "744515",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "744516": {
+  "kpm_id": "KPM-NI0060906",
+  "pkey": "744516",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "744517": {
+  "kpm_id": "KPM-NI0060907",
+  "pkey": "744517",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "761863": {
+  "kpm_id": "KPM-NI0066050",
+  "pkey": "761863",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767830": {
+  "kpm_id": "KPM-NI0071034",
+  "pkey": "767830",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767831": {
+  "kpm_id": "KPM-NI0071035",
+  "pkey": "767831",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767832": {
+  "kpm_id": "KPM-NI0071036",
+  "pkey": "767832",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767833": {
+  "kpm_id": "KPM-NI0071037",
+  "pkey": "767833",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767834": {
+  "kpm_id": "KPM-NI0071208",
+  "pkey": "767834",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767835": {
+  "kpm_id": "KPM-NI0071209",
+  "pkey": "767835",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767836": {
+  "kpm_id": "KPM-NI0071038",
+  "pkey": "767836",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767837": {
+  "kpm_id": "KPM-NI0071039",
+  "pkey": "767837",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767838": {
+  "kpm_id": "KPM-NI0071040",
+  "pkey": "767838",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767839": {
+  "kpm_id": "KPM-NI0071041",
+  "pkey": "767839",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767840": {
+  "kpm_id": "KPM-NI0071042",
+  "pkey": "767840",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767841": {
+  "kpm_id": "KPM-NI0071043",
+  "pkey": "767841",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767842": {
+  "kpm_id": "KPM-NI0071044",
+  "pkey": "767842",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767843": {
+  "kpm_id": "KPM-NI0071045",
+  "pkey": "767843",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767844": {
+  "kpm_id": "KPM-NI0071046",
+  "pkey": "767844",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767845": {
+  "kpm_id": "KPM-NI0071047",
+  "pkey": "767845",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767846": {
+  "kpm_id": "KPM-NI0071048",
+  "pkey": "767846",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767847": {
+  "kpm_id": "KPM-NI0071049",
+  "pkey": "767847",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767848": {
+  "kpm_id": "KPM-NI0071050",
+  "pkey": "767848",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767849": {
+  "kpm_id": "KPM-NI0071051",
+  "pkey": "767849",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767850": {
+  "kpm_id": "KPM-NI0071052",
+  "pkey": "767850",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767851": {
+  "kpm_id": "KPM-NI0071053",
+  "pkey": "767851",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767852": {
+  "kpm_id": "KPM-NI0071054",
+  "pkey": "767852",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767853": {
+  "kpm_id": "KPM-NI0071055",
+  "pkey": "767853",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767854": {
+  "kpm_id": "KPM-NI0071056",
+  "pkey": "767854",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767855": {
+  "kpm_id": "KPM-NI0071057",
+  "pkey": "767855",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767856": {
+  "kpm_id": "KPM-NI0071058",
+  "pkey": "767856",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767857": {
+  "kpm_id": "KPM-NI0071059",
+  "pkey": "767857",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767858": {
+  "kpm_id": "KPM-NI0071060",
+  "pkey": "767858",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767859": {
+  "kpm_id": "KPM-NI0071061",
+  "pkey": "767859",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767860": {
+  "kpm_id": "KPM-NI0071062",
+  "pkey": "767860",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767861": {
+  "kpm_id": "KPM-NI0071063",
+  "pkey": "767861",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767862": {
+  "kpm_id": "KPM-NI0071064",
+  "pkey": "767862",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767863": {
+  "kpm_id": "KPM-NI0071065",
+  "pkey": "767863",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767864": {
+  "kpm_id": "KPM-NI0071066",
+  "pkey": "767864",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767865": {
+  "kpm_id": "KPM-NI0071067",
+  "pkey": "767865",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767866": {
+  "kpm_id": "KPM-NI0071068",
+  "pkey": "767866",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767867": {
+  "kpm_id": "KPM-NI0071069",
+  "pkey": "767867",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767868": {
+  "kpm_id": "KPM-NI0071070",
+  "pkey": "767868",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767869": {
+  "kpm_id": "KPM-NI0071071",
+  "pkey": "767869",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767870": {
+  "kpm_id": "KPM-NI0071072",
+  "pkey": "767870",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767871": {
+  "kpm_id": "KPM-NI0071073",
+  "pkey": "767871",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767872": {
+  "kpm_id": "KPM-NI0071074",
+  "pkey": "767872",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767873": {
+  "kpm_id": "KPM-NI0071075",
+  "pkey": "767873",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767874": {
+  "kpm_id": "KPM-NI0071076",
+  "pkey": "767874",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767875": {
+  "kpm_id": "KPM-NI0071077",
+  "pkey": "767875",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767876": {
+  "kpm_id": "KPM-NI0071078",
+  "pkey": "767876",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767877": {
+  "kpm_id": "KPM-NI0071079",
+  "pkey": "767877",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767878": {
+  "kpm_id": "KPM-NI0071080",
+  "pkey": "767878",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767879": {
+  "kpm_id": "KPM-NI0071081",
+  "pkey": "767879",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "767880": {
+  "kpm_id": "KPM-NI0071082",
+  "pkey": "767880",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "787315": {
+  "kpm_id": "KPM-NI0072519",
+  "pkey": "787315",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "809181": {
+  "kpm_id": "KPM-NI0077288",
+  "pkey": "809181",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "長崎県；対馬"
+ },
+ "809189": {
+  "kpm_id": "KPM-NI0077296",
+  "pkey": "809189",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "809190": {
+  "kpm_id": "KPM-NI0077297",
+  "pkey": "809190",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "809191": {
+  "kpm_id": "KPM-NI0077298",
+  "pkey": "809191",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "811791": {
+  "kpm_id": "KPM-NI0077613",
+  "pkey": "811791",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "811792": {
+  "kpm_id": "KPM-NI0077614",
+  "pkey": "811792",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "811793": {
+  "kpm_id": "KPM-NI0077615",
+  "pkey": "811793",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "811794": {
+  "kpm_id": "KPM-NI0077616",
+  "pkey": "811794",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "811795": {
+  "kpm_id": "KPM-NI0077617",
+  "pkey": "811795",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "811806": {
+  "kpm_id": "KPM-NI0077628",
+  "pkey": "811806",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "811807": {
+  "kpm_id": "KPM-NI0077629",
+  "pkey": "811807",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825029": {
+  "kpm_id": "KPM-NI0079018",
+  "pkey": "825029",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825031": {
+  "kpm_id": "KPM-NI0079020",
+  "pkey": "825031",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "825032": {
+  "kpm_id": "KPM-NI0079021",
+  "pkey": "825032",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "825033": {
+  "kpm_id": "KPM-NI0079022",
+  "pkey": "825033",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825034": {
+  "kpm_id": "KPM-NI0079023",
+  "pkey": "825034",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825035": {
+  "kpm_id": "KPM-NI0079024",
+  "pkey": "825035",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825054": {
+  "kpm_id": "KPM-NI0079043",
+  "pkey": "825054",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825064": {
+  "kpm_id": "KPM-NI0079053",
+  "pkey": "825064",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "茨城県"
+ },
+ "825068": {
+  "kpm_id": "KPM-NI0079057",
+  "pkey": "825068",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "千葉県"
+ },
+ "825070": {
+  "kpm_id": "KPM-NI0079059",
+  "pkey": "825070",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825071": {
+  "kpm_id": "KPM-NI0079060",
+  "pkey": "825071",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825092": {
+  "kpm_id": "KPM-NI0079081",
+  "pkey": "825092",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "825093": {
+  "kpm_id": "KPM-NI0079082",
+  "pkey": "825093",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "825100": {
+  "kpm_id": "KPM-NI0079089",
+  "pkey": "825100",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "東京都"
+ },
+ "825103": {
+  "kpm_id": "KPM-NI0079092",
+  "pkey": "825103",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "825104": {
+  "kpm_id": "KPM-NI0079093",
+  "pkey": "825104",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "埼玉県"
+ },
+ "854658": {
+  "kpm_id": "KPM-NI0090931",
+  "pkey": "854658",
+  "family_ja": "ハゼ科",
+  "name_ja": "クロダハゼ",
+  "name_lat": "Rhinogobius kurodai (Tanaka, 1908)",
+  "locality": "神奈川県"
+ },
+ "854798": {
+  "kpm_id": "KPM-NI0091071",
+  "pkey": "854798",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "神奈川県；相模湾"
+ },
+ "854935": {
+  "kpm_id": "KPM-NI0091208",
+  "pkey": "854935",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "神奈川県"
+ },
+ "855576": {
+  "kpm_id": "KPM-NI0091457",
+  "pkey": "855576",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "静岡県"
+ },
+ "856324": {
+  "kpm_id": "KPM-NI0092004",
+  "pkey": "856324",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "神奈川県；相模湾"
+ },
+ "868338": {
+  "kpm_id": "KPM-NI0097410",
+  "pkey": "868338",
+  "family_ja": "ハゼ科",
+  "name_ja": "ゴクラクハゼ",
+  "name_lat": "Rhinogobius similis Gill, 1859",
+  "locality": "愛媛県；重信川"
+ }
+}

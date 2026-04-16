@@ -1,0 +1,626 @@
+Volume 19       Issue 6                                                                                               Article 15
+
+
+A NEW SPECIES OF RHINOGOBIUS GILL, 1859 (TELEOSTEI: GOBIIDAE)
+FROM THE BONIN ISLANDS, JAPAN
+Toshiyuki Suzuki
+Kawanishi-midoridai Senior High School, 1-8 Kouyoudai, Kawanishi, Hyogo 666-0115, Japan.
+
+I-Shiung Chen
+Institute of Marine Biology & CMBB, National Taiwan Ocean University, Keelung 202, Taiwan, ROC., isc@ntou.edu.tw
+
+Hiroshi Senou
+Kanagawa Prefectural Museum of Natural History, 499, Iryuda, Odawara, Kanagawa 250-0031, Japan.
+
+
+
+
+Follow this and additional works at: https://jmstt.ntou.edu.tw/journal
+
+    Part of the Engineering Commons
+
+
+Recommended Citation
+Suzuki, Toshiyuki; Chen, I-Shiung; and Senou, Hiroshi (2011) "A NEW SPECIES OF RHINOGOBIUS GILL, 1859
+(TELEOSTEI: GOBIIDAE) FROM THE BONIN ISLANDS, JAPAN," Journal of Marine Science and Technology: Vol. 19: Iss.
+6, Article 15.
+DOI: 10.51400/2709-6998.2213
+Available at: https://jmstt.ntou.edu.tw/journal/vol19/iss6/15
+
+This Research Article is brought to you for free and open access by Journal of Marine Science and Technology. It has been
+accepted for inclusion in Journal of Marine Science and Technology by an authorized editor of Journal of Marine Science and
+Technology.
+A NEW SPECIES OF RHINOGOBIUS GILL, 1859 (TELEOSTEI: GOBIIDAE) FROM
+THE BONIN ISLANDS, JAPAN
+Acknowledgements
+We are very grateful to G. Fukagawa (Nagasaki Food Hygiene Assciatio), K. Hatooka (OMNH), A. Iwata
+(Kyoto University), T. Mukai (Gifu University) for their kind cooperation in the present study. We are also
+very grateful to K. Tamada (Toyo Public Junior High School, Japan) for his kindly providing his
+unpublished oocyte data of Rhinogobius brunneus for the comparison of this research. ISC wishes to
+thank the support from the research grant of NSC, Taipei.
+
+
+
+
+    This research article is available in Journal of Marine Science and Technology: https://jmstt.ntou.edu.tw/journal/
+                                                                                                        vol19/iss6/15
+Journal of Marine Science and Technology, Vol. 19, No. 6, pp. 693-701 (2011)                                                             693
+
+
+
+
+           A NEW SPECIES OF RHINOGOBIUS GILL,
+           1859 (TELEOSTEI: GOBIIDAE) FROM THE
+                   BONIN ISLANDS, JAPAN
+
+                         Toshiyuki Suzuki*, I-Shiung Chen**, and Hiroshi Senou***
+
+
+Key words: Gobiidae, Rhinogobius ogasawaraensis sp. nov., egg               8]; Chen and Fang [5]; Huang and Chen [19]). The life his-
+           size, amphidromous, fish taxonomy, West Pacific.                 tories of Rhinogobius species indicate that the genus com-
+                                                                            prises amphidromous species, nondiadromous, fluvial species
+                                                                            and lentic species (Mizuno [26]; Mizuno and Goto [27]; Ta-
+                           ABSTRACT
+                                                                            kahashi and Okazaki [42]; Akihito et al. [2]).
+   A new freshwater goby, Rhinogobius ogasawaraensis was                       In Japan, there are at least 15 discrete species have been
+collected from streams of the Bonin Islands (Ogasawara Group),              recorded and accounted including R. flumineus (Mizuno, 1960
+Japan. The species can be distinguished from all congeneric                 [26]), R. giurinus (Rutter, 1897 [33]), R. sp. BB (Blue belly), R.
+species by the following combination of characters: (1) mer-                sp. BF (Banded fin), R. sp. BI (Bonin Islands), R. sp. BW (Lake
+istic features: second dorsal fin rays I, 8-9; pectoral fin rays            Biwa), R. sp. CB (Cross band), R. sp. CO (Cobalt) , R. sp. DA
+18-20; predorsal scales 7-16; longitudinal scale rows usually               (Dark), R. sp. DL (Depressed large dark), R. sp. LD (Large
+32-34; vertebral count 26; and (2) specific colouration: check              dark), R. sp. MO (Mosaic), R. sp. OR (Orange), R. sp. TO
+with some red spots, nape with several longitudinal dark                    (Tokai), and R. sp. YB (Yellow belly). They can be grouped in
+stripes, upper part of pectoral fin base with a horizontal deep             R. brunneus (Temminck and Schelegel, 1845 [47]) species
+brown bar, intermittent dark dotted rows along middle axis of               complex with normal vertebral count 26 except the fluvial
+body, no saddle shaped patch of dark dots on dorsal side of                 species of R. flumineus (Mizuno, 1960 [26]) as high vertebral
+body, ventral side of body yellowish white, caudal fin with                 count up to 27-28 and R. giurinus (Akihito et al. [2]; Suzuki et
+some dark dotted rows on middle region and the base with a                  al. [39]; Suzuki and Sakamoto [40]; Suzuki and Shibukawa
+pair of dark brown bars which vertically to each other. The                 [41]; Takahashi and Okazaki [42]). In Taiwan, all nine
+ripe oocyte diameter of this new species suggests that it be-               nominal Rhinogobius species are endemic to the island in-
+longs to a member of typical amphidromous species.                          cluding except R. giurinus (Lee and Chang [22]; Chen and
+                                                                            Shao [13]; Chen and Fang [4]).
+                                                                               There are seven nominal species of Rhinogobius which
+                      I. INTRODUCTION
+                                                                            have been described so far in Japan: R. brunneus (Temmick
+   The Asiatic freshwater goby genus Rhinogobius Gill, 1859                 and Schelegel) from Bay of Nagasaki, Nagasaki Pref., the East
+[16] is widely distributed on islands of the West Pacific, in-              China Sea coast of Kyushu; R. similis Gill, 1859 [16] from
+cluding Japan (Akihito et al. [1, 2]; Masuda et al. [24]); Tai-             Shimoda, Izu Prov., Shizuoka Pref., the Pacific coast of Honshu;
+wan (Aonuma and Chen [3]; Chen and Shao [13]; Lee and                       R. nagoyae Jordan & Seale, 1906 [20] from Nagoya, Aichi
+Chang [22]; Chen et al. [11]); Hainan (Wu and Ni [50]; Chen                 Pref., the Pacific coast of Honshu; R. kurodai (Tanaka, 1908
+et al. [12]); and the Philippines (Herre [18]; Chen in prepara-             [45]) from Tokyo Pref., the Pacific coast of Honshu; R. katonis
+tion), and also in continental Asia in Russia, Korea, China,                (Tanaka, 1908 [45]) from Kanazawa, Ishikawa Pref., the Sea
+Vietnam, Laos, Cambodia, and Thailand (Kottelat [21]; Chen                  of Japan coast of Honshu; R. fluviatilis Tanaka, 1925 [46] from
+and Miller [10]; Chen et al. [9, 14, 15]; Chen and Kottelat [6, 7,          Himeji, Hyogo Pref., the coast of the Inland Sea of Seto in
+                                                                            Honshu. R. flumineus from Sôshagawa R., Ehime Pref., Shi-
+                                                                            koku.
+Paper submitted 09/27/10; revised 05/12/11, accepted 05/12/11. Author for      More recently in early 2011, Oijen et al. [29] have con-
+correspondence: I-Shiung Chen (e-mail: isc@ntou.edu.tw).                    cluded that R. sp. DA should be regarded as the earliest pub-
+*Kawanishi-midoridai Senior High School, 1-8 Kouyoudai, Kawanishi, Hyogo    lished species for the genus, R. brunneus; Suzuki and Chen [41]
+666-0115, Japan.                                                            have re-described that both R. sp. LD and R. sp. OR should be
+**Institute of Marine Biology & CMBB, National Taiwan Ocean University,
+Keelung 202, Taiwan, ROC.
+                                                                            grouped as R. fluviatilis and R. kurodai respectively.
+***Kanagawa Prefectural Museum of Natural History, 499, Iryuda, Oda-           In Taiwanese waters, nine endemic nominal species of
+wara, Kanagawa 250-0031, Japan.                                             Rhinogobius have been described including as follows:
+694                               Journal of Marine Science and Technology, Vol. 19, No. 6 (2011)
+
+
+
+
+R. candidianus (Regan, 1908 [32]), R. formosanus Oshima,                                   III. SYSTEMATICS
+1919 [30]; R. rubromaculatus Lee and Chang, 1996 [22]; R.
+gigas Aonuma and Chen, 1996 [3]; R. nantaiensis Aonuma                                  Rhinogobius Gill, 1859
+and Chen, 1996 [3]; R. maculafasciatus Chen and Shao, 1996                        Rhinogobius ogasawaraensis sp. nov.
+[13]; R. delicatus Chen and Shao, 1996 [13]; R. henchuenensis                   (Japanese name: Ogasawara-yoshinobori)
+Chen and Shao, 1996 [13]; and R. lanyuensis Chen et al.,                                   (Table 1; Figs. 1-5)
+1998 [11].                                                          Rhinogobius sp. BI Suzuki, 1992 [35]: 5 (Chichijima Island); Masuda and
+   So-called, “Ogawasawa-yosinobori”, R. sp. BI is regarded         Kobayashi 1994 [23]: 378 (Ogasawara Group); Suzuki, 2001 [36]: 589
+as the “Bonin Islands (Ogasawara group)”-endemic species to         (Chichijima Island and Hahajima Island); Suzuki, 2003 [37]: 134 (Anijima
+be distributed over the Anijima Island, Chichijima Islands,         Isand, Chichijima Island and Hahajima Island); Yokoi and Hosoya, 2003 [52]:
+Hahajima Islands and Ootouto Island. R. sp. BI is endangered        9 (Chichijima Island and Hahajima Island); Suzuki and Shibukawa, 2004 [41]:
+amphidromous goby, and is distinguished from other Japanese         454 (Anijima Isand, Chichijima Island and Hahajima Island); Yokoi, 2009
+Rhinogobius complex [34-36, 51-54].                                 [51]: 145 (Chichijima Island, Hahajima Island and Otoutojima Island); Yokoi
+   Furthermore, Mukai et al. [28] investigated the mitogenetic      et al., 2009 [54]: 67 (Anijima Island, Chichijima Island, Hahajima Island and
+differentiation between R. sp. BI and other congeneric species      Otoutojima Island).
+of the Japan-Ryukyu Archipelagos, and concluded that it has
+retained its own mtDNA lineage in Ogasawara Group for               1. Material examined
+millions of years.                                                     Holotype: OMNH-P 8278, 65.1 mm SL, Yatsusegawa River,
+   However, those nominal species are known only from               Chichijima Island, the Bonin Islands (Ogasawara Group),
+major Japanese Islands, Korean Peninsula and even Taiwan            Japan, coll. T. Suzuki & M. Suzuki, 30 July 1992.
+but are never recorded and distributed around the far away             Paratypes: NTOU P 2007-02-882 & 2007-02-883, 2 speci-
+area: Bonin Islands (Ogasawara Group). Also R. giurinus is          mens, 39.9-46.5 mm SL, A small stream of Oki village, Ha-
+distributed on major Japanese Islands and the Ryukyu Islands        hajima Ialand, the Bonin Islands (Ogasawara Group), Japan,
+but it has never distributed over Bonin Islands (Ogasawara          coll. T. Mukai, 24 November 2001; KPM-NI 3839-3845
+Group).                                                             (KPM-NR 52867-52873) & 3846, 30 specimens, 15.9-49.7
+   The aim of this paper is to formally describe R. sp. BI as a     mm SL, coll. H. Senou, 3 July 1997, other data same as holo-
+new species under the specific name of R. ogasawaraensis.           type; OMNH-P 8256 (KPM-NR 702), 1 specimen, 29.8 mm
+                                                                    SL, Minamifukurozawa stream, 26 July 1992, other data same
+                                                                    as holotype; OMNH-P 8257 (KPM-NR 741) & 8258, 2 speci-
+          II. MATERIALS AND METHODS                                 mens, 32.3-35.5 mm SL, A small stream of Ohmura village, 28
+   All type specimens of the new species were collected by          July 1992, other data same as holotype; OMNH-P 8259-8261
+hand-net. All counts and measurements were made from                (KPM-NR 746-748), 3 specimens, 40.1-43.5 mm SL, Oku-
+specimens preserved in 70% ethanol. Morphmoetric meth-              mugawa River, 28 July 1992, other data same as holotype;
+ods follow Miller [25] and meristic methods follow Akihito          OMNH-P 8262 (KPM-NR 773), 8263-8270, 8274-8277 &
+et al. [1], Chen and Shao [10] and Chen et al. [9, 14, 15].         holotype; OMNH-P 8272, 1 specimen, 53.8 mm SL, A small
+Terminology of cephalic sensory canals and free neuromast           stream of Sakaiura 8279-8282, 17 specimens, 36.7-75.2 mm
+organ (sensory papillae) is from Wongrat and Miller [46],           SL, 30 July 1992, other data same as village, 1 August 1992,
+based on Sanzo [33]. The oocyte diameter from this new              other data same as holotype; OMNH-P 8273, 1 specimen, 53.6
+species and 4 typically amphidromous species with small-egg         mm SL, 1 August 1992, other data same as holotype.
+size of Taiwan were measured under the microscope by
+sampling from adult females. Type specimens are deposited           2. Diagnosis
+at the Osaka Museum of Natural History, Osaka (OMNH),                  Rhinogobius ogasawaraensis is distinguished from all con-
+Japan; Kanagawa Prefectural Museum of Natural History,              generic species by the following unique combination of fea-
+Kanagawa (KPM), Japan and the Pisces collection of Insti-           tures: second dorsal fin rays I, 8-9, pectoral fin rays 18-20,
+tute of Marine Biology, National Taiwan Ocean University,           predorsal scales 7-16, vertebral count 26, cheek with some red
+Keelung (NTOU P), Taiwan. Meristic abbreviations: A, anal           spots, nape with several longitudinal dark stripes, upper part of
+fin; C, caudal fin; D1, and D2, 1st and 2nd dorsal fins re-         pectoral fin base with a dark blotch, intermittent dark dotted
+spectively; LR, longitudinal scale series; P, pectoral fin; PreD,   rows along middle axis of body, no saddle shaped patch of
+predorsal scales; SDP, scale series from origin of 1st dorsal       dark dots on dorsal side of body, ventral side of body yellow-
+fin to upper pectoral fin origin.; TR, transverse scale series      ish white, caudal fin with some dark dotted rows on middle
+from second dorsal to anal fins; V, pelvic fin; VC, vertebral       region and the base with a pair of dark brown bars which
+count. All fish lengths are standard length (SL). Colour            vertically to each other.
+when fresh is based on the photographs in the Image Data-
+base of Fishes in the Kanagawa Prefectural Museum of                3. Description
+Natural History (KPM-NR).                                              Body rather cylindrical anteriorly, compressed posteriorly.
+                               T. Suzuki et al.: A New Freshwater Goby from the Bonin Islands, Japan                                  695
+
+
+
+
+                                   Table 1. Morphometry of Rhinogobius ogawasaraensis n. sp.
+                                   Holotype                                        Paratypes
+              Sex                   Male                 Male                                          Female
+       No. of specimens               1                   15                                             9
+                                              min        max        Mean        STD         min         max        Mean        STD
+            SL (mm)                  65.1     43.5       75.2                               29.8        63.8
+            % in SL
+          Head length               30.3%     29.6%     34.2%      31.7%        1.5%       26.5%       30.0%      28.0%        1.2%
+        Predorsal length            40.5%     37.8%     41.6%      40.1%        1.0%       36.9%       41.0%      38.9%        1.3%
+   Snout to 2nd dorsal origin       60.4%     55.8%     61.4%      59.7%        1.3%       57.1%       61.7%      59.9%        1.4%
+         Snout to anus              59.3%     55.5%     61.6%      58.6%        1.6%       55.0%       60.3%      58.3%        1.9%
+     Snout to anal fin origin       63.1%     61.0%     64.7%      62.9%        1.1%       59.4%       64.5%      62.5%        1.8%
+        Prepelvic length            29.7%     28.6%     32.2%      30.5%        1.0%       25.0%       28.7%      27.1%        1.2%
+     Caudal peduncle length         24.9%     23.3%     26.0%      24.8%        0.8%       23.9%       28.2%      25.7%        1.4%
+     Caudal peduncle depth          12.7%     12.1%     14.0%      12.8%        0.6%       10.9%       12.8%      12.1%        0.6%
+       1st dorsal fin base          14.0%     14.0%     17.6%      15.5%        1.0%       12.8%       16.2%      14.9%        1.2%
+    length of longest D1 ray        20.6%     17.9%     29.1%      23.6%        3.4%       10.7%       16.7%      13.8%        1.8%
+       2nd dorsal fin base          16.8%     15.9%     18.5%      17.3%        0.8%       14.6%       17.2%      15.9%        0.8%
+      Length of last D2 ray         17.8%     16.5%     26.4%      21.9%        3.1%        9.6%       13.9%      12.1%        1.5%
+         Anal fin base              14.1%     12.8%     16.8%      13.7%        1.0%       11.0%       13.7%      12.4%        0.9%
+        Caudal fin length           21.7%     21.7%     28.2%      25.4%        2.0%       21.6%       25.8%      23.5%        1.4%
+       Pectoral fin length          19.5%     19.5%     25.8%      22.7%        1.8%       21.4%       26.7%      23.1%        1.5%
+        Pelvic fin length           13.0%     11.1%     16.3%      14.3%        1.4%       12.8%       17.3%      14.9%        1.5%
+ Body depth of pelvic fin origin    18.3%     14.8%     18.7%      17.2%        1.1%       14.8%       19.0%      16.7%        1.6%
+  Body depth of anal fin origin     15.9%     14.3%     17.6%      15.6%        1.0%       13.7%       17.5%      15.2%        1.1%
+  Body width of anal fin origin     13.7%      9.8%     14.7%      12.3%        1.3%       10.7%       14.6%      12.8%        1.5%
+    Pelvic fin origin to anus       30.6%     26.3%     32.3%      29.5%        2.0%       25.0%       34.1%      31.6%        2.8%
+            % in HL
+          Snout length              40.5%     35.5%     48.3%      40.6%        3.4%       27.6%       38.3%      35.6%        3.4%
+          Eye diameter              15.9%     14.5%     18.7%      16.6%        1.2%       18.2%       24.4%      20.9%        2.3%
+       Postorbital length           47.2%     42.5%     48.8%      45.5%        2.0%       45.4%       51.8%      48.0%        1.7%
+          Cheek depth               28.4%     23.7%     30.0%      26.1%        1.9%       18.5%       28.2%      24.2%        2.6%
+Head width in upper gill opening    48.7%     41.8%     53.4%      45.6%        3.0%       41.7%       58.8%      49.4%        4.8%
+   Head width in maximum            56.3%     52.7%     64.0%      56.9%        3.1%       53.1%       73.9%      61.9%        6.0%
+     Bony interorbital width         6.2%      5.8%     10.4%       7.7%        1.2%        5.6%        9.6%       7.7%        1.2%
+   Fleshy interorbital width        35.6%     28.0%     36.3%      33.0%        2.3%       33.2%       40.6%      37.4%        2.2%
+        Lower jaw length            39.2%     36.1%     41.5%      39.2%        1.7%       27.3%       34.3%      32.2%        2.2%
+  % in Caudal peduncle length
+     Caudal peduncle depth          51.2%     47.2%     53.5%      51.1%        2.1%       43.1%       51.5%      47.1%        3.0%
+
+
+Head moderately large, slightly depressed in adult male and         (modally I, 8); A rays I, 8 (26), I, 9 (2) (modally I, 8); P rays 18
+sub-cylindrical in female. Eye large, dorsal lateral. Cheek         (15), 19 (32), 20 (9) (usually 18-19); V rays I, 5 (28). D1
+somewhat fleshy in male. Lips thick and fleshy, upper lip           always with 2nd spinous ray longest especially in adult male,
+somewhat prominent than lower lip. Mouth oblique and the            and the rear tip of D1 extending to base of 2nd to 6th branched
+rear margin usually extending near vertical of anterior margin      rays of D2 when depressed in male; and almost reaching or
+of eye in male, and not extending to the vertical in female.        just beyond origin of D2 when depressed in female. Origin of
+Both jaws with 3-5 rows of conical teeth and outer rows             A inserted below the middle vertical line of 1st and 2nd
+enlarged. Tongue margin somewhat truncate. Anterior nasal           branched rays of D2. The rear tip of D2 rays when depressed
+opening as a short tube and posterior one as a round hole.          always beyond the procurrent rays of C in male but not reach-
+Gill-opening extending ventrally slightly beyond the midline        ing this point in female. P large and oblong, its rear extension
+vertical of opercle. Isthmus broad. 10 + 16 = 26 vertebrae (n =     always close to but not reaching vertical through anus in male,
+10). Body proportions as Table 1.                                   but far from this vertical in female. V disc rounded, spinous
+                                                                    rays with pointed membranous lobe, the 1st branched ray
+  Fins. − D1 rays VI (n = 28); D2 rays I, 8 (22), I, 9 (6)          longer than the spinous ray. C elliptical, rear edge rounded.
+696                                               Journal of Marine Science and Technology, Vol. 19, No. 6 (2011)
+
+
+
+
+                                                                                          (a)
+
+
+
+
+                                  κ
+                      λ
+                σ                  ω
+                                          n
+                                                  x1
+                                                           ρ x2 θ
+                                          α
+                          a                        z           γ            τ    as
+                                                                   δ
+
+
+                                                 x2                                       (b)
+                                             x1                              τ
+                                                ρ θ                              as
+                                           α zγ                             os
+                σ             a                    b       δ ot
+                                      c
+                                          cp           ε               oi
+                              d
+                                                           i
+                                              e
+
+
+
+
+                                                           ε ot
+
+                              e
+                                                                                      Fig. 2. Head pigmentation pattern of Rhinogobius ogasawaraensis, (a)
+                                  j
+                                                                                              male, OMNH P8272, paratype, 53.8 mm SL; (b) female, NTOU
+                                                                                              P2007-02-883, paratype, 46.5 mm SL. Bar = 1 mm. (Illustration
+            f                                                                                 by I-S. Chen)
+
+
+                                                                                      terminal pore ρ. Posterior oculoscapular canal with two ter-
+                                                                                      minal pores θ and ι. Gap between anterior and posterior ocu-
+                                                                                      loscapular canals somewhat smaller than the length of poste-
+Fig. 1. Head lateral-line system of Rhinogobius ogasawaraensis, OMNH-P
+        8263, male, paratype, 51.7 mm SL. Bar = 1 mm. (Illustration by
+                                                                                      rior oculoscapular canal. Preopercular canal present, with
+        I-S. Chen)                                                                    three pores γ, δ, and ε.
+
+                                                                                         Sensory papillae. − Row a longitudinal and loosely ar-
+Scales. − Body with moderately large ctenoid scales on pos-                           ranged and extending forward near the vertical through ante-
+terior body and smaller cycloid scales on anterior half. Belly                        rior margin of orbit. Row b longitudinal and very long as
+with tiny cycloid scales. Anterior predorsal region naked. LR                         densely set and the length about 1.5 times of orbit diameter.
+31 (1), 32 (14), 33 (25), 34 (14), 35 (2) (usually 32-34); TR 11                      Rows c and d longitudinal and long, but still not extending
+(20), 12 (8) (modally 11); PreD 7 (1), 8 (4), 9 (2), 10 (4), 11 (2),                  beyond vertical line of rear margin of orbit. A single cp papilla.
+12 (3), 13 (4), 14 (4), 15 (2), 16 (2); SDP 9 (1), 10 (16), 11 (11)                   Row f paired. The anterior edge of opercular rows oi and ot
+(modally 10). Head and prepelvic region naked. Predorsal                              well separated.
+squamation with trifurcate anterior edge and anterior exten-
+sion of middle series usually extending to the vertical through                          Colouration when fresh. (Figs. 2-5) Body and head light
+upper origin of gill-opening in male, and usually with further                        brown to brown. Head light brown to brown. Cheek with
+extension forward around the midline vertical of opercle in                           6-10 orange red spots in male, and less than 5 blackish brown
+female.                                                                               to brownish red spots in female. Snout with a pair of broad
+                                                                                      deep red stripes united on the snout tip. A red to brownish red
+   Head lateral-line system. (Fig. 1) Canals. − Nasal exten-                          oblique thin stripe below eye with lower shiny blue margin.
+sion of anterior oculoscapular canal with terminal pore σ lo-                         Opercle pale brown with two horizontal deep brown stripes on
+cated above the cross-line of rear margin between two anterior                        upper region. Nape with several longitudinal reddish brown to
+nostrils. Anterior interorbital sections of oculoscapular canal                       deep brown stripes. Branchiostegal membrane without shiny
+separated, with paired pore λ. A single pore κ in posterior                           spots and marks in both sexes. Lateral body with a middle
+region. Pore ω present near posterior edge of eye. Lateral                            series of 8 somewhat rounded grayish brown blotches. First
+section of anterior oculoscapular canal with corner pore α and                        dorsal fin grayish with yellowish ante rior region on upper half
+                                 T. Suzuki et al.: A New Freshwater Goby from the Bonin Islands, Japan                                        697
+
+
+
+
+(a)                                                                       (a)
+
+
+
+
+(b)                                                                       (b)
+
+
+
+
+Fig. 3. Rhinogobius ogasawaraensis, fresh specimens, (a) OMNH-P 8278,
+        male, holotype, 65.1 mm SL; (b) OMNH-P 8262 (KPM-NR 773),
+        male, paratype, 58.3 mm SL, Yatsusegawa River, Chichijima Is-
+        land, the Bonin Islands (Ogasawara Group), Japan. (Photograph    Fig. 5. Alive colouration of Rhinogobius ogasawaraensis, (a) male, OMNH-P
+        by T. Suzuki)                                                            8279; (b) female, OMNH-P 8282. (Photograph by T. Suzuki)
+
+
+
+                                                                         ovaries. This new species was randomly sampled 30 ripe oo-
+                                                                         cytes for measuring the oocyte diameter to be measured and
+                                                                         tried to check and estimate the possibility of life history. The
+                                                                         ripe oocyte diameter of Rhinogobius osagawaraensis is 0.69-
+                                                                         0.88 mm as the average 0.77 mm with standard deviation 0.05
+                                                                         mm. Other comparative studies of four amphirdomous Rhi-
+                                                                         nogobius species from Taiwan were also conducted here and
+Fig. 4. Rhinogobius ogasawaraensis, fresh specimen, NTOU P 2007-02-
+        88-883, female, paratype, 46.5 mm SL, A small stream of Oki
+                                                                         also some published and even unpublished comparative data
+        village, Hahajima Island, the Bonin Islands (Ogasawara Group),   from three amphidromous species of mainland Japan from
+        Japan. (Photograph by T. Suzuki)                                 Tamada ([44, 45]; and personal communication). The size of
+                                                                         egg of this new species seems to be close to the range but
+                                                                         slightly larger among size range of small-egg species with am-
+of membrane in front of third spine and with deep brown
+                                                                         phidromous life history from other Taiwanese and Japanese
+spines. First dorsal fin pale with crescent grayish black region
+                                                                         species. However, the size is actually still smaller than other
+after the spines especially in female. Second dorsal fin with
+                                                                         several medium-egg species from Okinawa, Japana and Tai-
+3-4 longitudinal rows of grayish brown spots in female but
+                                                                         wan (Chen, unpubl. data; Suzuki, unpubl. data). It can be
+always spotless in male. Caudal fin base with a pair of dark
+                                                                         strongly suggested as a typically small-egg amphidromous
+brown bars which vertically to each other and more con-
+                                                                         species.
+spicuous larger in female. Caudal fin with 3-5 vertical rows of
+stripes or spots in middle region. Pectoral fin base with a
+horizontal, deep black diaper mark in upper half. Anal fin                                      IV. DISCUSSION
+grayish brown with darker rays in male and somewhat trans-
+lucent and grayish in female. Pelvic fin whitish or grayish              1. Morphological Comparison of Related Nominal
+brown.                                                                      Rhinogobius Species
+   All shiny and brilliant colouration and marks faded after                Rhinogobius ogasawaraensis can be shared the common
+long preservation.                                                       features as typically longitudinal infraorbital sensory pa-
+   Distribution. This species is only known and possibly                 pillae, trifurcate anterior margin of predorsal squamation,
+merely endemic from Anijima Island, Chichijima Island,                   snout with red to brownish red stripes on snout, rounded
+Hahajima Island and Otoutojima Island, the Bonin Islands                 pelvic fin with other typical Yoshinobories which can be
+(Ogasawara group), Japan.                                                immediately separated from R. giurinus with transverse
+   Etymology. The specific name, ogasawaraensis, refers to               infraorbital papillae.
+the type locality “Ogasawara Group”, Japan.                                 R. ogasawaraensis can be well distinguished from fluvial
+   Ripe egg-size of adult females. From the dissection data              species, R. flumineus by pectoral fin rays 18-20, and vertebral
+of 3 adult female, only two individuals have ripe eggs in their          counts 26 vs. pectoral fin rays 15-17, and vertebral counts
+698                               Journal of Marine Science and Technology, Vol. 19, No. 6 (2011)
+
+
+
+
+usually 27-28. Among them, the species assigned as endemic          similarity of typically well developed canal system, high
+species of Ryukyu Archipelagos (including R. sp. BB, DL,            pectoral fin rays counts, low vertebral count 26 as well as
+MO, and YB) have been considered as undescribed species;            reproducing small egg-size with following four nominal spe-
+and all Japanese Yoshinobories should be simplified and             cies: R. formosanus Oshima, R. gigas Aonuma and Chen, R.
+grouped to eight mainland species (including R. sp. BW, BF,         lanyuensis Chen et al., and R. maculafasciatus Chen and Shao.
+CB, CO, DA, LD, TO and three morphotypes of OR) of                  However, it can be well distinguished from R. formosanus by
+mainland Japan with low vertebral count 26 as following             cheek and body coloration pattern. R. ogasawaraensis seems
+amphidromous or lacustrine Rhinogobius species: six species         shared the homology of spotted cheek in male with the re-
+names as R. brunneus (Temmick and Schelegel), R. similis            maining three Rhinogobius species of Taiwan mentioned
+Gill, R. nagoyae Jordan and Seale, R. kurodai (Tanaka),             above. However, R. ogasawaraensis can be easily distin-
+R. katonis (Tanaka) (as the junior synonym of R. nagoyae),          guished from these three species by pectoral fin with a dark
+and R. fluviatilis Tanaka from mainland Japan (Chen and             horizontal bar; unlike that with three vertical lines in both R.
+Suzuki unpublished data).                                           gigas Aonuma and Chen and R. lanyuensis Chen et al., and
+   Among the morphological comparison of congeneric spe-            that with a dark brown to red vertical stripe or dotted line in R.
+cies with vertebral count 26 from mainland Japan, R. ogasa-         maculafasciatus Chen and Shao.
+waraensis seems to be most similar to R. brunneus (Temminck
+and Schelegel) (= R. sp. DA). R. ogasawaraensis in having           2. The Egg-Size Comparison among Amphidromous
+pectoral fin with a horizontal deep brown mark on upper base,          Rhinogobius Species of Japan
+and lacking any patches of dark dots on dorsal side of body vs.        In Bonin islands (Ogasawara Group) of Japan, the endemic
+R. brunneus (Temminck and Schelegel) in having pectoral fin         R. ogawaraensis seems to represent the larger oocyte diameter
+with a crescent shaped deep brown mark on base, and four            0.77 mm than any other amphidromous species of mainland
+saddle shaped patches of deep brown dots on dorsal side of          Japan with smaller oocyte diameter from 0.53 (for R. sp.
+body. Compared to other remaining nominal and undescribed           CO) — 0.72 (for R. brunneus) mm (Tamada [43, 44]). How-
+species, R. ogasawaraensis is distinguished from R. sp. CB          ever, such size of diameter in R. ogawaraensis seems to be
+from mainland Japan by cheek without wavy or radiating lines        quite smaller than the egg-size of all typical “medium-egg
+from eye but presence of orange red spots vs. cheek with many       species/morphotype” of both Taiwanese and Japanese fresh-
+wavy or radiating lines from eye; R. ogasawaraensis is dis-         waters (Chen, unpubl. data; Suzuki, unpubl. data).
+tinguished from R. sp. CO by cheek with orange red spot but            The species origin of endemic R. ogasawaraensis may
+lacking cobalt blue spots, and caudal fin with some dotted          colonize by occasional dispersal of ancestral amphidromous
+deep brown rows on middle region vs. cheek merely with              species with long duration postlarval stage. It is very inter-
+several cobalt blue spots, and caudal fin with blackish brown       esting that R. ogasawaraensis is not directly evolved from all
+rays; R. ogasawaraensis is distinguished from R. fluviatilis        members of amphidromous Rhinogobius species of mainland
+Tanaka (= R. sp. LD) by caudal fin with a pair of dark brown        Japan by mitogenetic survey (Mukai et al. [30]), but highly
+bars which vertically each other and some dotted deep brown         possibly shared common ancestor with other certain species
+rows on middle region vs. caudal fin with a distinct vertical       group which far from the Ryukyu isles of Japan, Taiwan or
+blackish brown band on base and deep gray rays; R. ogasa-           even the Philippines then via the northward dispersal process
+waraensis is distinguished from R. kurodai Tanaka, morpho-          by Kuroshio current. However, this evolutionary hypothesis
+type “Gi-tohsyoku” (= R. sp. OR “Gi-tohsyoku”) and R. sp. BF        will be proved by the further more molecular phylogenetic
+by first dorsal fin with elongated spinous rays in male vs. first   approach including more comprehensive species among those
+dorsal fin without elongated spines in male; and R. ogasa-          geographical regions (Chen et al., in prep.).
+waraensis is distinguished from R. kurodai Tanaka, morpho-             The currently larger oocyte of R. ogasawaraensis may lead
+type “Shinjiko” and “Tohshoku” (R. sp. OR morphotype                to produce its shorter postlarval duration and it would be pro-
+“Shinjiko” and “Tohshoku”) by caudal fin in lacking a large         vided positively impact on good chance of success for locating
+orange mark and deep brown rays vs. caudal fin with a large         larval populations nearby the coastal area and then ascending
+orange mark on upper basal region and deep brown rays;              to insular basins while growing and help better achievement
+R. ogasawaraensis is distinguished from Biwa Lake endemic           on efficient life-history of small-scale amphidromy. Due to
+R. sp. BW by 7-16 predorsal scales vs. always lacking pre-          already on the red-list of freshwater fish in Japan for such very
+dorsal midline squamation; and R. ogasawaraensis is distin-         restricted populations of endemic goby: R. ogasawarensis
+guished from R. sp. TO by the presence of normal preoper-           under the tentatively name as R. BI morphotype before (Su-
+cular canal with 3 pores vs. complete reduction and absence         zuki [37]), the serious concern for protecting the original
+of preopercular canal (Akihito et al. [2]; Suzuki [35, 36];         vegetation along river bank and natural river channels would
+Suzuki et al. [39]; Suzuki and Sakamoto [40]; Yokoi and             be very important to maintain the annually essential recruit-
+Hosoya [52]).                                                       ment of their larval fish ascending migration to freshwaters to
+   Among the comparison with nine endemic species of Rhi-           complete their amphidromy in the Bonin islands (Ogasawara
+nogobius from Taiwan, R. ogasawaraensis shares the overall          Group).
+                            T. Suzuki et al.: A New Freshwater Goby from the Bonin Islands, Japan                        699
+
+
+
+
+3. Comparative Materials                                         Hyogo Pref., Japan; OMNH-P 15253-15255, 3 specimens,
+                                                                 50.1-67.4 mm SL, 28 October 1994, Maruyama River, Hyogo
+1) JAPAN                                                         Pref., Japan; OMNH-P 21179-21181, 10 specimens, 39.3-58.4
+   Rhinogobius flumineus: OMNH-P 5628 & 5629, 2 speci-           mm SL, 27 October 2005, Hidaka River, Wakayama Pref.,
+mens, 43.0-51.8 mm SL, 4 May 1991, Yubune River, Hyogo           Japan; OMNH-P 32108 & 32109, 2 specimen, 45.2-45.6 mm
+Pref., Japan; OMNH-P 11929 & 11930, 2 specimens, 42.6-           SL, 5 May 1985, Seto River, Shizuoka Pref., Japan.
+43.1 mm SL, 27 August 1997, Kako River, Hyogo Pref., Japan;         Rhinogobius sp. CO: OMNH-P 11588, 11589, & 11591, 3
+OMNH-P 12460, 1 specimen, 33.9 mm SL, 11 June 1997,              specimen, 51.3-68.9 mm SL, 17 September 1998, Nakatsu
+Tigusa River, Hyogo Pref., Japan; OMNH-P 12795 & 12796,          River, Hyogo Pref., Japan; OMNH-P 11590, 1 specimen, 77.1
+2 specimens, 40.2-41.4 mm SL, 12 September 1998, Ibana           mm SL, 17 September 1998, Ai River, Hyogo Pref., Japan;
+River, Hyogo Pref., Japan; OMNH-P 13296, 1 specimens,            OMNH-P 18426-18428, 3 specimens, 48.4-62.9 mm SL, 24
+44.4 SL, 21 August 1998, Ibo River, Hyogo Pref., Japan;          October 2003, Nabeno River, Kagoshima Pref., Japan; OMNH-P
+OMNH-P 15256 & 15257, 2 specimens, 36.4-38.3 mm SL, 28           21177 & 21178, 2 specimens, 48.0-51.0 mm SL, 27 October
+October 1994, Maruyama River, Hyogo Pref., Japan; OMNH-P         2005, Hidaka River, Wakayama Pref., Japan; OMNH-P 32110-
+15959 & 15960, 2 specimens, 43.2-46.5 mm SL, 25 July 2002,       32112, 10 specimen, 49.4-72.0 mm SL, 15 September 1981,
+Yura River, Kyoto Pref., Japan; OMNH-P 18355 & 18356, 2          Nishiurakawachi River, Shizuoka Pref., Japan; OMNH-P
+specimens, 54.5-58.0 mm SL, 26 May 2003, Mizukoe River,          32113 & 31999, 2 specimen, 35.8-46.5 mm SL, 9 June 2001,
+Osaka, Japan; OMNH-P 18407 & 18408, 2 specimens, 53.5-           Nigo River, Hirosima Pref., Japan.
+56.9 mm SL, 20 October 2003, Takatsu River, Shimane Pref.,          Rhinogobius brunneus (= R. sp. DA): RMNH 1923,
+Japan; OMNH-P 21183, 1 specimen, 34.8 mm SL, 27 October          holotype, 46.0 mm SL, Nagasaki Bay, Japan; OMNH-P 8221
+2005, Hidaka River, Wakayama Pref., Japan; OMNH-P 32002,         & 8222, 2 specimens, 31.6-34.1 mm SL, 14 September 1998,
+1 specimen, 45.5 mm SL, 7 March 2006, Kumozu River, Mie          Honjyu River, Hyogo Pref., Japan; OMNH-P 8230 & 8235, 2
+Pref., Japan; OMNH-P 32003 & 32004, 2 specimens, 41.9-           specimens, 34.1-67.8 mm SL, 14 September 1998, Oo River,
+44.1 mm SL, 6 May 2001, Ina River, Hyogo Pref., Japan.           Hyogo Pref., Japan; OMNH-P 8236-8240, 5 specimens, 52.5-
+   Rhinogobius giurinus: OMNH-P 5760 & 5761, 2 speci-            66.8 mm SL, 14 September 1998, Habu stream, Hyogo Pref.,
+mens, 30.8-31.5 mm SL, 16 June 1991, Yada River, Hyogo           Japan; OMNH-P 8241, 7 specimens, 46.3-57.2 mm SL, 12 Sep-
+Pref., Japan; OMNH-P 7890 & 7891, 2 specimens, 24.2- 26.7        tember 1998, Sumoto River, Hyogo Pref., Japan; OMNH-P
+mm SL, 7 May 1994, OMNH-P 7960 & 7961, 2 specimens,              11583 & 11584, 2 specimens, 59.3-65.4 mm SL, 16 September
+63.3-74.8 mm SL, 4 September 1994, Sazu River, Hyogo Pref.,      1998, Mihara River, Hyogo Pref., Japan; OMNH-P 12781,
+Japan; OMNH-P 11892 & 11893, 2 specimens, 42.4-46.6 mm           12782, 12788 & 12789, 4 specimens, 47.2-59.0 mm SL, 12
+SL, 12 August 1997, OMNH-P 11903 & 11904, 2 specimens,           September 1998, Ibana River, Hyogo Pref., Japan; OMNH-P
+39.0-49.0 mm SL, 17 August 1997, OMNH-P 12171, 1 speci-          12808-12810, 3 specimens, 33.0-40.6 mm SL, 14 September
+men, 51.4 mm SL, 16 October 1997, OMNH-P 15679, 1 speci-         1998, Honjyu River, Hyogo Pref., Japan; OMNH-P 15248, 1
+men, 59.5 mm SL, 9 June 2002, Kako River, Hyogo Pref.,           specimen, 78.0 mm SL, 1 September 1994, Sazu River, Hyogo
+Japan; OMNH-P 12846, 1 specimen, 39.4 mm SL, 14 May              Pref., Japan; OMNH-P 15249, 1 specimen, 69.1 mm SL, 29
+1999, OMNH-P 12863, 1 specimen, 60.5 mm SL, 13 May               August 1993, Nishi River, Hyogo Pref., Japan; OMNH-P
+1999, OMNH-P 14918, 1 specimen, 46.9 mm SL, 28 August            32106 & 32107, 2 specimen, 46.1-50.7 mm SL, 29 July 1985,
+1999, Maruyama River, Hyogo Pref., Japan; OMNH-P 13348,          Suzuri River, Shizuoka Pref., Japan.
+1 specimen, 61.8 mm SL, 18 August 1998, OMNH-P 16014, 1             Rhinogobius fluviatilis (= R. sp. LD): ZUMT 9108, holo-
+specimen, 42.4 mm SL, 1 September 2002, Ibo River, Hyogo         type, 74.5 mm SL, Himenji, Hyogo Prefecture, Japan; OMNH-P
+Pref., Japan; OMNH-P 32000 & 32001, 4 specimens, 34.9-           11585-11587, 3 specimens, 52.1-64.5 mm SL, 16 September
+57.1 mm SL, 14 October 2000, Umeda River, Aichi Pref.,           1998, Mihara River, Hyogo Pref., Japan; OMNH-P 12791-
+Japan.                                                           12793, 3 specimens, 34.9-57.0 mm SL, 12 September 1998,
+   Rhinogobius sp. CB: (types of Ctenogobis katonis), ZUMT       Ibana River, Hyogo Pref., Japan; OMNH-P 15251, 1 specimen,
+2002, holotype, 60.0 mm SL, Kanazawa, Kaga, Japan; ZUMT          59.0 mm SL, 29 August 1993, Nishi River, Hyogo Pref., Japan;
+57509-11, paratypes, 3 specimens, 43.7-56.8 mm SL, all other     OMNH-P 18391-18394, 4 specimens, 70.1-86.2 mm SL, 9
+data as holotype; OMNH-P 12778, 1 specimen, 38.7 mm SL,          September 2003, Komenotsu River, Kagoshima Pref., Japan;
+12 September 1998, Sumoto River, Hyogo Pref., Japan;             OMNH-P 18429, 1 specimen, 69.8 mm SL, 24 October 2003,
+OMNH-P 12784-12786, 3 specimens, 35.7-48.8 mm SL, 12             Nabeno River, Kagoshima Pref., Japan; OMNH-P 18436, 1
+Sep-tember 1998, Ibana River, Hyogo Pref., Japan; OMNH-P         specimen, 83.9 mm SL, 31 October 2003, Kuzuryu River,
+15234-15236, 3 specimens, 48.8-57.7 mm SL, 15 Septem-            Fukui Pref., Japan; OMNH-P 21175, 21176, 21182, 4 speci-
+ber 1995, Maruyama River, Hyogo Pref., Japan; OMNH-P             mens, 54.4-72.0 mm SL, 27 October 2005, Hidaka River,
+15244 & 15245, 2 specimens, 37.8-51.7 mm SL, 4 September         Wakayama Pref., Japan; OMNH-P 32104, 32105 & 32114, 10
+1994, Sazu River, Hyogo Pref., Japan; OMNH-P 15252, 1            specimens, 44.9-66.7 mm SL, 15 October 1984, Seto River,
+specimen, 59.4 mm SL, 11 November 1993, Takeno River,            Shizuoka Pref., Japan; OMNH-P 32115-32117, 3 specimens,
+700                             Journal of Marine Science and Technology, Vol. 19, No. 6 (2011)
+
+
+
+
+63.0-70.5 mm SL, 4 September 1995, Kuzuryu River, Fukui           Tamada (Toyo Public Junior High School, Japan) for his
+Pref., Japan.                                                     kindly providing his unpublished oocyte data of Rhinogobius
+   Rhinogobius kurodai morphotype “Gi-tohsyoku” (= R.             brunneus for the comparison of this research. ISC wishes to
+sp. OR morphotype “Gi-tohsyoku”): (types of Ctenogobius           thank the support from the research grant of NSC, Taipei.
+kurodai), ZUMT 2008, holotype, 33.9 mm SL, 27 Sept. 1908,
+Freshwater pond in garden of Marquis Kuroda, Tokyo, Japan;
+ZUMT 2009, paratypes, 10 specimens, 20.6-28.9 mm SL, all                                     REFERENCES
+other data as holotype; OMNH-P 32013-32015, 3 specimens,           1. Akihito, Prince, Hayashi, M., and Yoshino, T., “Suborder Gobioidei,” in:
+36.1-40.4 mm SL, 4 June 2002, Tama River, Tyokyo, Japan;              Masuda, H., Amaoka, A., Araga, C., Uyeno, T., and Yoshino, T. (Eds.),
+OMNH-P 21132-21136, 5 specimens, 37.3-46.8 mm SL, 20                  The Fishes of the Japanese Archipelago, Tokai University Press, Tokyo,
+June 2005, Shiratori Moat, Tyokyo, Japan.                             pp. 228-289 (1984).
+                                                                   2. Akihito, Sakamoto, K., Ikeda, Y., and Sugiyama, K., “Gobioidei,” in
+   Rhinogobius kurodai morphotype “Shinjiko” (= R. sp.
+                                                                      Nakabo, T. (Ed.), Fishes of Japan with Pictorial Keys to the Species, 2nd
+OR morphotype “Shinjiko”): OMNH-P 5441 & 5442, 2                      English Edition, Tokai University Press, Tokyo, pp. 1139-1310, 1596-
+specimens, 53.3 & 53.9 mm SL, 26 October 1994, OMNH-P                 1619 (2002).
+5411-5415, 7 specimens, 56.5-70.7 mm SL, 11 November               3. Aonuma, Y. and Chen, I-S., “Two new species of Rhinogobius (Pisces,
+1994, OMNH-P 5416, 5417 & 5419, 3 specimens, 49.1-56.5                Gobiidae) from Taiwan,” Journal of Taiwan Museum, Vol. 49, pp. 7-16
+                                                                      (1996).
+mm SL, 12 November 1994, OMNH-P 5423, 15 specimens,
+                                                                   4. Chen, I-S. and Fang, L. S., The Freshwater and Estuarine Fishes of
+44.7-58.0 mm SL, 15 November 1994, Maruyama River,                    Taiwan, National Museum of Marine Biology and Aquarium Press,
+Hyogo Pref., Japan.                                                   Pingtung (1999). (in Chinese)
+   Rhinogobius kurodai morphotype “Toshoku” (= R. sp.              5. Chen, I-S. and Fang, L. S., “A new species of Rhinogobius (Teleostei:
+OR morphotype “Toshoku”): OMNH-P 32005-32009, 5                       Gobiidae) from the Hanjiang basin, in Guangdong Province, China,”
+                                                                      Ichthyological Research, Vol. 53, pp. 247-253 (2006).
+specimens, 41.7-52.9 mm SL, 19 November 1996, Yasu River,
+                                                                   6. Chen, I-S. and Kottelat, M., “Rhinogobius maculicervix, a new species of
+Shiga Pref., Japan; OMNH-P 32010 & 32011, 2 specimens,                goby from the Mekong basin in northern Laos,” Ichthyological Explora-
+35.6, 43.7 mm SL, 29 July 2001, Hino River, Shiga Pref.,              tion of Freshwaters, Vol. 11, pp. 81-87 (2000).
+Japan; OMNH-P 32012, 1 specimen, 65.2 mm SL, 18 Sep-               7. Chen, I-S. and Kottelat, M., “Three new freshwater gobies of the genus,
+tember 2002, Jyasa River, Shiga Pref., Japan.                         Rhinogobius (Teleostei: Gobiidae) from northeastern Laos,” The Raffles
+                                                                      Bulletin of Zoology, Vol. 51, pp. 87-95 (2003).
+   Rhinogobius sp. BF: OMNH-P 5882 & 5883, 2 specimens,
+                                                                   8. Chen, I-S. and Kottelat, M., “Four new freshwater gobies of the genus
+27.9 & 37.0 mm SL, 18 March 1995; OMNH-P 5890-5892 &                  Rhinogobius (Teleostei: Gobiidae) from northern Vietnam,” Journal of
+8033-8037, 8 specimens, 25.7-37.4 mm SL, 24 March 1995;               Natural History, Vol. 39, pp. 1407-1429 (2005).
+OMNH-P 8076 & 8077, 2 specimens, 30.0 & 35.0 mm SL, 15             9. Chen, I-S., Kottelat, M., and Miller, P. J., “Freshwater gobies the genus
+September 1995, Maruyama River, Hyogo Pref., Japan.                   Rhinogobius from the Mekong basin in Thailand and Laos, with descrip-
+                                                                      tions of three new species,” Zoological Studies, Vol. 38, pp. 19-32 (1999).
+   Rhinogobius sp. BW: BLIH 20010402-20010408, 11 speci-
+                                                                  10. Chen, I-S. and Miller, P. J., “Redescription of Gobius davidi (Teleostei:
+mens, 29.1-35.2 mm SL, 1 July 2001, Lake Biwa, Shiga Pref.,           Gobiidae) and comparison with Rhinogobius lentiginis,” Cybium, Vol. 22,
+Japan.                                                                pp. 211-221 (1998).
+   Rhinogobius sp. TO: BLIH 20000256-20000267, 14 speci-          11. Chen, I-S., Miller, P. J., and Fang, L. S., “A new species of freshwater
+mens, 28.3-37.8 mm SL, 1 April 2000, Yahagi River, Aichi              goby from Lanyu (Orchid Island), off Taiwan,” Ichthyological Explora-
+                                                                      tion of Freshwaters, Vol. 9, pp. 255-261 (1998).
+Pref., Japan; BLIH 20000268, 1 specimen, 28.7 mm SL, 1
+                                                                  12. Chen, I-S., Miller, P. J., Wu, H. L., and Fang, L. S., “Taxonomy and mito-
+April 2000, Toki River, Gifu Pref., Japan; BLIH 20000269, 4           chondrial sequence evolution in non-diadromous species of Rhinogobius
+specimens, 26.8-32.8 mm SL, 13 September 2000, Pond of                (Teleostei: Gobiidae) of Hainan Island, southern China,” Marine and
+Nagakute Cho, Aichi Pref., Japan; BLIH 20010400, 1                    Freshwater Research, Vol. 53, pp. 259-273 (2002).
+specimen, 30.7 mm SL, 6 April 2001, Pond of Toyokawa city,        13. Chen, I-S. and Shao, K. T., “A taxonomic review of the gobiid fish genus
+                                                                      Rhinogobius Gill, 1859, from Taiwan with descriptions of three new
+Aichi Pref., Japan; BLIH 20010401, 1 specimen, 33.0 mm SL,
+                                                                      species,” Zoological Studies, Vol. 35, pp. 200-214 (1996).
+13 November 2001, Ibi River, Gifu Pref., Japan.                   14. Chen, I-S., Wu, H. L., and Shao, K. T., “A new species of Rhinogobius
+                                                                      (Teleostei: Gobiidae) from Fujian Province, China,” Ichthyological Re-
+2) TAIWAN                                                             search, Vol. 46, pp. 171-178 (1999).
+   All examined materials of nine nominal species of Rhi-         15. Chen, I-S., Yang, J. X., and Chen, Y. R., “A new species of Rhinogobius
+                                                                      (Teleostei: Gobiidae) from the Honghe basin, Yunnan Province,” Acta
+nogobius from Taiwan are listed in Aonuma and Chen [3],
+                                                                      Zoologica Taiwanica, Vol. 10, pp. 45-52 (1999).
+Chen, Miller and Fang [12] and Chen and Shao [13].                16. Gill, T. N., “Notes on a collection of Japanese fishes, made by Dr. J.
+                                                                      Morrow,” Proceedings of Academy of Natural Sciences Philadelphia, Vol.
+                                                                      11, pp. 144-150 (1859).
+               ACKNOWLEDGMENTS                                    17. Ginsburg, I., “On two species of fishes from the Yalu River, China,”
+                                                                      Proceedings of the United States National Museum, Vol. 54, pp. 99-101
+   We are very grateful to G. Fukagawa (Nagasaki Food Hy-
+                                                                      (1917).
+giene Assciatio), K. Hatooka (OMNH), A. Iwata (Kyoto              18. Herre, A. W. C. T., “Gobies of Philippines and China Sea,” Monograph of
+University), T. Mukai (Gifu University) for their kind coop-          Bureau Science Manila, Vol. 23, pp. 1-352 (1927).
+eration in the present study. We are also very grateful to K.     19. Huang, S. P. and Chen, I-S., “Three new species of Rhinogobius Gill,
+                                      T. Suzuki et al.: A New Freshwater Goby from the Bonin Islands, Japan                                                   701
+
+
+
+
+    1859 (Teleostei: Gobiidae) from the Hanjiang basin, southern China,” The           search Center, Tokyo, Japan, pp. 134-135 (2003). (in Japanese)
+    Raffles Bulletin of Zoology Supplements, Vol. 14, pp. 101-110 (2007).          38. Suzuki, T. and Chen, I-S., “Redescriptions of three species of genus
+20. Jordan, D. S. and Seale, A., “Descriptions of six new species of fishes            Rhinogobius Perciformes, Gobiidae) described by Dr. Shigeho Tanaka,”
+    from Japan,” Proceedings of the United States National Museum, Vol. 30,            Bulletin of the Osaka Museum of Natural History, Vol. 65, pp. 9-24
+    pp. 143-148 (1906).                                                                (2011). (in Japanese with English abstract)
+21. Kottelat, M., “Zoogeography of the fishes from Indochinese inland waters       39. Suzuki, T., Mukai, T., Yoshigou, H., Oseko, N., and Tyon, D., “Redefini-
+    with an annotated check-list,” Bulletin Zoölogisch Museum, Universiteit            tion and proposal of the new standard Japanese name for Rhinogobius sp.
+    van Amsterdam, Vol. 12, pp. 1-55 (1989).                                           OR morphotype “Shimahire” (Perciformes, Gobiidae),” Bulletin of the
+22. Lee, S. C. and Chang, L. T., “A new goby, Rhinogobius rubromaculatus               Osaka Museum of Natural History, Vol. 64, pp. 1-14 (2010). (in Japanese
+    (Teleostei: Gobiidae) from Taiwan,” Zoological Studies, Vol. 35, pp. 30-           with English abstract)
+    35 (1996).                                                                     40. Suzuki, T. and Sakamoto, K., “Record of a gobiid fish, Rhinogobius sp.
+23. Masuda, H. and Kobayashi, Y., Grand Atlas of Fish Life Modes, Tokai                TO (Perciformes, Gobiidae) from the Noubi and Okazaki plains, Japan,”
+    University Press, Tokyo (1994). (in Japanese)                                      Bulletin of the Biogeographical Society of Japan, Vol. 60, pp. 13-20 (2005).
+24. Masuda, Y., Ozawa, T., and Enami, S., “Genetic differentiation of among            (in Japanese with English abstract)
+    eight color types of the freshwater goby, Rhinogobius brunneus, from           41. Suzuki, T. and Shibukawa, K., “Genus Rhinogobius,” in: Senou, H. (Ed.),
+    western Japan,” Japanese Journal of Ichthyology, Vol. 36, pp. 30-41 (1989).        A Photographic Guide to the Gobioid Fishes of Japan, Heibonsha, Tokyo,
+25. Miller, P. J., “New species of Corcyrogobius, Thorogobius and Wheele-              pp. 445-461 (2004). (in Japanese)
+    rigobius from west Africa (Teleostei: Gobiidae),” Journal of Natural           42. Takahashi, S. and Okazaki, T., “A new lentic form of the “yoshinobori”
+    History, Vol. 22, pp. 1245-1262 (1988).                                            species complex, Rhinogobius spp. from Lake Biwa, Japan, compared
+26. Mizuno, N., “Description of a new freshwater goby from Japan,” Mem-                with lake-river migrating Rhinogobius sp. OR,” Ichthyological Research,
+    oirs of the College of Science, Kyoto University (Ser. B), Vol. 27, pp. 117-       Vol. 49, pp. 333-339 (2002).
+    119 (1960).                                                                    43. Tamada, K., “Clutch size and egg size in three species of Rhinogobius
+27. Mizuno, N. and Goto, A., Japanese Freshwater Fishes, and Their Dis-                complex dwelling in a single stream,” Japanese Journal of Ichthyology,
+    tribution, Variation and Speciation, Tokai University Press, Tokyo, pp.            Vol. 48, pp. 49-52 (2001). (in Japanese with English abstract)
+    1-244 (1987). (in Japanese)                                                    44. Tamada, K., “Clutch and egg size in Rhinogobius sp. DA inhabiting small
+28. Mukai, T., Nakamura, S., Suzuki, T., and Nishida, M., “Mitochondrial               rivers,” Japanese Journal of Ichthyology, Vol. 52, pp. 17-20 (2005). (in
+    DNA divergence in yoshinobori gobies (Rhinogobius species complex)                 Japanese with English abstract)
+    between the Bonin Islands and the Japan‐Ryukyu Archipelago,” Ichthy-           45. Tanaka, S., “Descriptions of eight new species of fishes from Japan,” An-
+    ological Research, Vol. 52, pp. 410-413 (2005).                                    notationes Zoologicae Japonenses, Vol. 7, pp. 27-47 (1908).
+29. Oijen, M. J. P., Suzuki, T., and Chen, I-S., “On the earliest published        46. Tanaka, S., “Figures and descriptions of the fishes of Japan including
+    species of Rhinogobius. With a redescription of Gobius brunneus Tem-               Riukiu Islands, Bonin Islands, Formosa, Kurile Islands, Korea and south-
+    minck and Schlegel, 1845,” Journal of the National Taiwan Museum, Vol.             ern Sakhalin,” Figures and Descriptions of the Fishes of Japan, Vol. 34,
+    64, pp. 1-17 (2011).                                                               pp. 629-644 (1925). (in Japanese and English)
+30. Oshima, M., “Contributions to the study of the fresh water fishes of the       47. Temminck, C. J. and Schlegel, H., “Pisces,” Fauna Japonica, Parts 7-9,
+    island of Formosa,” Annals of the Carnegie Museum, Vol. 12, pp. 169-               pp. 113-172 (1845).
+    328 (1919).                                                                    48. Wongrat, P. and Miller, P. J., “The innervation of head neuromast rows in
+31. Regan, C. T., “The Duke of Bedford's Zoological Exploration in eastern             eleotridine gobies (Teleostei: Gobiidae),” Journal of Zoology, London,
+    Asia.--VIII. A collection of freshwater fishes from Corea,” Proceedings            Vol. 225, pp. 27-42 (1991).
+    of the General Meetings for Scientific Business of the Zoological Society      49. Wu, H. L. (Ed.), Fauna Sinica, Ostichthys, Perciformes (V) Gobioidei,
+    of London, Vol. 1908, pp. 59-63 (1908a).                                           Science Press, Beijing, pp. 1-952 (2008). (in Chinese)
+32. Regan, C. T., “Description of new fishes from Lake Candidius, Formosa,         50. Wu, H. L. and Ni, Y., “Gobiidae,” in: Anonnymous (Ed.), The Freshwater
+    collected by Dr. A. Moltrecht,” Annals and Magazine of Natural History             and Estuarine Fishes of Hainan Island, Guangdong Sciecne and Tech-
+    (Series 8), Vol. 2, pp. 358-360 (1908b).                                           nology Press, Guangzhou, pp. 259-314 (1986).
+33. Rutter, C. M., “A collection of fishes obtained in Swatow, China, by Miss      51. Yokoi, K., “Study on the protection for the endangered freshwater goby,
+    Adele M. Fielde,” Proceedings of the Academy of Natural Sciences of                Rhinogobius sp. BI. from the Bonin Islands,” Memoirs of the Faculty of
+    Philadelphia, Vol. 49, pp. 56-90 (1897).                                           Agriculture of Kinki University, Vol. 42, pp. 145- 201 (2009). (in Japanese
+34. Sanzo, L., “Distribuzione delle papille cutanee (organi ciatiformi) e suo          with English abstract)
+    valore sistematico nei gobi,” Mitteilungen aus der zoologischen Sation zu      52. Yokoi, K. and Hosoya, K., “Distribution and present status of the habitat
+    Neapel, Vol. 20, pp. 249-328 (1911). (in Italian)                                  in Rhinogobius sp. BI (Gobiidae) from the Bonin Islands,” Bulletin of the
+35. Suzuki, T., “Preliminary study of Rhinogobius sp. BI collected from                Biogeographical Society of Japan, Vol. 58, pp. 1-14 (2003). (in Japanese)
+    Chichijima Island, Ogasawara Islands,” Hyogo Rikusui Seibutsu, Vol. 42,        53. Yokoi, K. and Hosoya, K., “Larval salinity tolerance in the endangered
+    pp. 5-12 (1992). (in Japanese)                                                     goby Rhinogobius sp. BI (Gobiidae) from the Bonin Islands,” Japanese
+36. Suzuki, T., “Rhinogobius sp. BI, Ogasawara-yoshinobori,” in: Kawanabe,             Journal of Ichthyology, Vol. 52, pp. 31-34 (2005). (in Japanese with
+    H., Mizuno, N., and Hosoya, K. (Eds.), Revised Freshwater Fishes of                English abstract)
+    Japan, Yama-Kei Publishing Company Ltd, Tokyo, pp. 588-589 (2001).             54. Yokoi, K., Sasaki, T., and Suzuki, T., “Ogasawara-yoshinobori (Rhi-
+    (in Japanese)                                                                      nogobius sp. BI): aspects of the conservation of freshwater ecosystems on
+37. Suzuki, T., “Rhinogobius sp., Ogasawara-yoshinobori,” in: Ministry of              oceanic islands,” Japanese Journal of Ichthyology, Vol. 56, pp. 67-70
+    the Environment (Ed.), Threatened Wildlife of Japan: Red Data Book 2nd             (2009). (In Japanese)
+    Ed.: Volume 4, Pisces - Brackish and Freshwater Fishes, Wildlife Re-
+

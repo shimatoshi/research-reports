@@ -1,0 +1,750 @@
+{
+  "1": [
+    {
+      "type": "paragraph",
+      "text": "Bulletin of the Osaka Museum\nof Natural History, No.65\np. 9-24; March 31, 2011"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "田中茂穂博士により記載されたヨシノボリ属3種"
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之*・陳 義雄**"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Redescriptions of three species of genus Rhinogobius (Perciformes, Gobiidae) described by Dr. Shigeho Tanaka."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toshiyuki SUZUKI* and I-Shiung CHEN**"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract: Taxonomy of the gobiid fish genus Rhinogobius from Japan is now in the state of flux. Although 15 species of Rhinogobius are currently recognized from Japan, the specific names of 13 of these are still not detected. In order to improve that, the type specimens of three nominal species of Rhinogobius described from Japan by Dr. Shigeho Tanaka, viz., Ctenogobius katonis, Ctenogobius kurodai, Rhinogobius fluviatilis, are reinvestigated in detail. Morphological comparisons with all Rhinogobius species in Japanese waters reveal that Ctenogobius katonis, Ctenogobius kurodai and Rhinogobius fluviatilis are congeneric with three species of Rhinogobius from Japan with the vernacular names Rhinogobius sp. CB \"Shima-yoshinobori\", Rhinogobius sp. OR \"Tou-yoshinobori\" and Rhinogobius sp. LD \"Oo-yoshinobori\", respectively. The morphological features of these three nominal species of Rhinogobius were described, and their nomenclatural statuses are discussed."
+    },
+    {
+      "type": "paragraph",
+      "text": "抄録：日本産ハゼ科ヨシノボリ属（Rhinogobius）魚類の分類は現在混乱している．日本産本属魚類は15種が確認されているが，そのうちの13種の学名（種小名）は未だ確定されていない．そうした状況を改善するため，今回，田中茂穂博士により日本産標本を基に記載されたヨシノボリ属の名義種Ctenogobius katonis, Ctenogobius kurodai, Rhinogobius fluviatilisのタイプ標本を精査したところ，それぞれシマヨシノボリRhinogobius sp. CB, トウヨシノボリ偽橙色型Rhinogobius sp. OR, オオヨシノボリRhinogobius sp. LDによく一致した．本報告では，それぞれの名義種の形態的特徴を再記載し，適用すべき標準和名を整理し，学名の有効性を論議した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Key Words: Ctenogobius katonis; Ctenogobius kurodai; Rhinogobius fluviatilis; Gobiidae; Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリ属（Rhinogobius Gill, 1859）は，河川や湖沼に生息する小型のハゼ科魚類で，ロシア極東部からタイにかけての大陸部や周辺の島嶼部，日本，フィリピンに分布し，少なくとも80種以上を含むとされている（Yang et al., 2008）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "日本では，これまで15種のヨシノボリ属魚類が形態・生態・遺伝子といったさまざまな面からの検討によって認識されている．このうち小笠原諸島をのぞく九州以北に生息するものは，ゴクラク"
+    },
+    {
+      "type": "paragraph",
+      "text": "大阪市立自然史博物館業績第424号（2011年3月6日受理）\n*兵庫県立川西緑台高等学校 〒666-0115 兵庫県川西市向陽台1-8\nKawanishi-midoridai Senior High School, 1-8 Kouyoudai, Kawanishi, Hyogo 666-0115, Japan.\nE-mail: trimma-toshiyuki@hop.ocn.ne.jp\n**中華民國 國立台灣海洋大學 海洋生物研究所 〒202 臺灣省基隆市北寧路2號\nInstitute of Marine Biology, National Taiwan Ocean University, No. 2 Pei-Ning Road, Keelung 202, Taiwan, ROC.\nE-mail: isc@mail.ntou.edu.tw"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "ハゼRhinogobius giurinus (Rutter, 1897) とカワヨシノボリRhinogobius flumineus (Mizuno, 1960) のほか，学名未確定のオオヨシノボリRhinogobius sp. LD，クロヨシノボリRhinogobius sp. DA，シマヨシノボリRhinogobius sp. CB，シマヒレヨシノボリRhinogobius sp. BF，トウカイヨシノボリRhinogobius sp. TO，トウヨシノボリRhinogobius sp. OR (本種はさらに形態により橙色，宍道湖，偽橙色の3型に，ミトコンドリアDNAハプロタイプにより北日本，琵琶湖，西九州の3系に分けられている)，ビワヨシノボリRhinogobius sp. BW，ルリヨシノボリRhinogobius sp. COの計10種である (明仁ほか，2000; 向井ほか，2003; 向井・高橋，2010; 鈴木・渋川，2004; 鈴木ほか，2010; 鈴木・坂本，2005)．"
+    },
+    {
+      "type": "paragraph",
+      "text": "小笠原諸島をのぞく九州以北から採集された標本を基に記載されたヨシノボリ属と考えられる名義種には，先に述べたカワヨシノボリRhinogobius flumineusのほかに6種が知られている (高木，1962; Tomiyama, 1936) : Ctenogobius katonis Tanaka, 1908, Ctenogobius kurodai (Tanaka, 1908), Gobius brunneus Temmick and Schlegel, 1845, Rhinogobius similis Gill, 1859, Rhinogobius nagoyae Jordan and Seale, 1906, Rhinogobius fluviatilis Tanaka, 1925. これまで，これら6名義種と九州以北 (小笠原諸島をのぞく) に生息する学名未確定種8種との関係は，水岡 (1967)，Mizuoka (1978)，水野 (1976, 1981) により指摘はされているが，詳しい比較検討はほとんど行われていない．また学名未確定の状態は水野ほか (1989) 以来，20年以上続いている．"
+    },
+    {
+      "type": "paragraph",
+      "text": "そこで著者らは，現在進めている日本産ヨシノボリ属魚類の学名確定を含む分類学的研究の一環として，上記6名義種のうち，田中茂穂博士により記載されたCtenogobius katonis, Ctenogobius kurodai, Rhinogobius fluviatilisのタイプ標本を精査した．その結果，それぞれシマヨシノボリRhinogobius sp. CB，トウヨシノボリ偽橙色型Rhinogobius sp. OR，オオヨシノボリRhinogobius sp. LDによく一致した．本報告では，Ctenogobius katonis, Ctenogobius kurodai, Rhinogobius fluviatilisの形態的特徴を記載し，適用すべき標準和名を整理した．また学名の有効性についても論議を行った．"
+    },
+    {
+      "type": "paragraph",
+      "text": "計数，計測方法はChen and Miller (2008) に従った．第1背鰭担鰭骨と神経棘の関係式 (P-V)，頭部感覚器官の名称は明仁親王 (1984) に従ったが，そこに掲載されていない小開孔は “a” で示した．計測にはマイクロメーターを使用した．中軸骨格の特徴の確認は，軟エックス線写真を用いて行った．頭部感覚器官，鱗の分布と数はサイアニンブルー染色を施して観察した．色彩の記載に用いた色の名称は財団法人日本色彩研究所 (1995) に従った．計数形質の記載は最初にホロタイプの値を，その後にパラタイプの値をホロタイプと違いがある場合にカッコ内に個体数とともに示した．他の特徴の記載はホロタイプについて行ったが，必要に応じてパラタイプの特徴も記載した．雌雄は生殖突起の形状により判断した．計測値はTable 1に示した．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rhinogobius katonis (Tanaka, 1908)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Fig. 1, Plate I & Table 1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "?Rhinogobius nagoyae Jordan and Seale, 1906: 147, fig. 5 (タイプ産地：名古屋) (Rhinogobius katonisの古参異名?) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ctenogobius katonis Tanaka, 1908: 35 (タイプ産地：石川県金沢) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. CB：水野ほか，1989: 586 (北海道をのぞく日本全国) ; 明仁ほか，2000: 1251 (青森県から南西諸島，朝鮮半島，台湾) ; 鈴木・渋川，2004 (青森県以南の本州，四国，九州〜西表島，隠岐，壱岐，対馬，五島列島; 朝鮮半島，台湾) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "観察標本 ZUMT (東京大学総合研究博物館動物資料部門魚類資料) 2002, ホロタイプ, 雌, 60.0"
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "mm SL, 石川県金沢; ZUMT 57509-57511, パラタイプ, 雌3個体, 43.7-56.8 mm SL, 石川県金沢."
+    },
+    {
+      "type": "paragraph",
+      "text": "記 載 第1背鰭6棘; 第2背鰭1棘8 (9: 1個体) 軟条; 臀鰭1棘8軟条; 胸鰭19 (20: 1個体, 21: 1個体) 軟条; 腹鰭1棘5軟条; 尾鰭分岐鰭条数7+7=14; 尾鰭分節鰭条数9+8=17; 脊椎骨数 (腹椎+尾椎) 10+16=26; P-V 3 / II II I 10 / 9; 縦列鱗数 33 (32: 3個体); 横列鱗数9 (10: 2個体); 背鰭前方鱗数13 (9: 1個体, 15: 1個体); 第1背鰭起点-胸鰭基底上端間の鱗数9 (7: 1個体, 8: 1個体)."
+    },
+    {
+      "type": "paragraph",
+      "text": "頭部感覚管開孔は, 前眼肩甲管に開孔B'・C・D(S)・E・F・H' がある. 後眼肩甲管にL'とK'がある. 前鰓蓋管に右側ではM'とO'があり, 左側ではM'・N・O'がある (両側ともにM'・N・O'がある: 2個体). 頭部の孔器配列はFig. 1に示した."
+    },
+    {
+      "type": "paragraph",
+      "text": "体側には櫛鱗が分布し, 正中線上や後方で大きい. 第1背鰭起点と主鰓蓋部後縁上端を結ぶ線より前方の頭部背面には小円鱗が分布する. 頭部背面被鱗域前縁は小鱗2-3枚分浅く湾入したω形を呈し, 中央および両側の前端が左右の後眼肩甲管開孔K' を結ぶ線に達する. 胸部は無鱗, 胸鰭基底と腹部には小円鱗を被る. 被鱗域は体側より尾鰭 (鰭上では小円鱗) に達する."
+    },
+    {
+      "type": "paragraph",
+      "text": "第1背鰭は第2棘が最長であるが伸長せず, 形は三角形で, 倒しても第2背鰭に達しない. 第2背鰭と臀鰭の後部は伸長しない. 腹鰭は左右に長い楕円形で, 吸盤状をなす. 胸鰭と尾鰭は団扇形である."
+    },
+    {
+      "type": "paragraph",
+      "text": "体色はクリーム色 (うすい黄) で, 背側に飴色 (こいオレンジ) の6鞍状斑をもつ. 腹部腹中線付近の腹膜は青みがかる. 各鰭の鰭膜は半透明で, 鰭条は黄土色 (あさい黄みのブラウン) である. 第2背鰭に黄土色の6縦点列, 尾鰭全体に黄土色の7横点列がある. 胸鰭基底上端に瞳径大の飴色の菱形斑が, 胸鰭基底と胸鰭前部に飴色の2三日月斑がある (Plate IA). パラタイプ (ZUMT 57510) では, さらに頬に数本のミミズ状斑, 尾鰭基底にカイザル髭状斑がある (Plate IB)."
+    },
+    {
+      "type": "paragraph",
+      "text": "備 考 Ctenogobius katonisのタイプ標本は, Yang et al. (2008) が示したヨシノボリ属の標徴によく一致する. さらにホロタイプは胸鰭基底と胸鰭前部に数個の三日月斑がある, 尾鰭全体に数本の横点列がある, 腹部腹中線付近の腹膜は青みがかるなどの特徴から, パラタイプはさらに頬に数本のミミズ状斑がある, 尾鰭基底にカイザル髭状斑があるなどの特徴から, シマヨシノボリ Rhinogobius sp. CBとよく一致する (明仁ほか, 2000; 水野ほか, 1989; 鈴木・渋川, 2004; 本調査) (Plate I). これらの特徴は, Jordan and Seale (1906) が名古屋産標本を基に記載した Rhinogobius nagoyaeの原記載や図にもよく一致するため, 水岡 (1967), Mizuoka (1978), 水野 (1976, 1981) がそのことを簡単に指摘した (ただし当時, シマヨシノボリはヨシノボリ横斑型と呼ばれていた). またChen and Shao (1996) は台湾産のシマヨシノボリにRhinogobius nagoyae formosanus Oshima, 1919の学名を, Wu et al. (2008) は中国産のシマヨシノボリにRhinogobius nagoyae Jordan and Seale, 1906の学名を採用している. しかし, それ"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1. The cephalic sensory system of Ctenogobius katonis, ZUMT 2002, holotype, Dorsal (top), lateral (middle) and ventral (bottom) views of head. The alphabets indicate the cephalic sensory canal pores. Dots represent the sensory papillae. AN and PN indicate anterior and posterior nares, respectively. Arrows show position where gill membrane is attached to isthmus.",
+      "bbox": [
+        0.52,
+        0.46,
+        0.88,
+        0.77
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/suzuki_chen_2011_katonis_kurodai_fluviatilis_extracted/Fig._1._The_cephalic_sensory_system_of_Ctenogobius_katonis,_ZUMT_2002,_holotype,.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. The cephalic sensory system of Ctenogobius katonis, ZUMT 2002, holotype, Dorsal (top), lateral (middle) and ventral (bottom) views of head. The alphabets indicate the cephalic sensory canal pores. Dots represent the sensory papillae. AN and PN indicate anterior and posterior nares, respectively. Arrows show position where gill membrane is attached to isthmus."
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・陳 義雄"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. Measurement for the type specimens of three species of Rhinogobius."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Measurement for the type specimens of three species of Rhinogobius.",
+      "bbox": [
+        0.105,
+        0.11,
+        0.91,
+        0.905
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/suzuki_chen_2011_katonis_kurodai_fluviatilis_extracted/Table_1._Measurement_for_the_type_specimens_of_three_species_of_Rhinogobius..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "*: 2nd or 3rd"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "らの報告ではRhinogobius nagoyaeのタイプ標本について十分述べられたとは言い難い．著者らはタイプ標本を検討し，シマヨシノボリとRhinogobius nagoyaeが同種であるとの結論を得て，再記載の準備を進めている（Chen and Suzuki, 未発表）．したがって，国際動物命名規約（動物命名法国際審議会, 2005）が示す先取権の原則により，Rhinogobius nagoyaeがシマヨシノボリの有効な学名となる可能性が高い．"
+    },
+    {
+      "type": "paragraph",
+      "text": "今回観察した3名義種は，いずれもRhinogobius brunneus (Temminck and Schlegel, 1845) やRhinogobius similis Gill, 1859の新参異名とされることが多かった（Tomiyama, 1936 ; 高木, 1962）．筆者らはRhinogobius brunneusのホロタイプを精査し，それがクロヨシノボリであることを突き止めている（Oijen, Suzuki and Chen, in press）．他方のRhinogobius similisは，現在そのタイプ標本の所在が不明となっており，検討することができない．Eschmeyer et al. (Catalogue of fishes online version, updated 5 January 2011. http://research.calacademy.org/redirect?url=http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp) は米国スミソニアン自然史博物館所蔵の1標本をRhinogobius similisのタイプ標本の可能性があるとしたが，その情報が的確か否かについては確認されていない．ヨシノボリ属のタイプ種でもあるRhinogobius similisの扱いにはさらに慎重な検討が必要だが，このままタイプ標本が再発見されないのであれば，この名をあえて，該当する名義種のあるシマヨシノボリに充てる理由は特にない．なお岩田・青沼（1997）は，他に名義種の見当たらないルリヨシノボリRhinogobius sp. COにRhinogobius similisを該当させる素案を提示している（ただし正式な分類学的整理は，その後されていない）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリ属魚類は，日本のみならずラオスを西限とする東アジアに広く分布し，これまで本属魚類と考えられてきたことのある名義種は118種に達する．(Eschmeyer et al. Catalogue of fishes online version, updated 5 January 2011; 本調査)．そのうち，次の63種が有効種と考えられる（明仁ほか, 2000; Chen and Fang, 1999, 2006; Chen and Kottelat, 2000, 2003, 2005; Chen and Miller, 1998, 2008; Chen and Shao, 1996; Chen et al., 1998, 1999a-c, 2002, 2008; Huang and Chen, 2007; Li and Zhong, 2007, 2009; Sakai et al., 2000; 鈴木・渋川, 2004; Vasil'eva, 2007; Wu et al., 2008; Yang et al., 2008; 本調査）．すなわち，Rhinogobius albimaculatus Chen, Kottelat and Miller, 1999; R. aporus (Zhong and Wu, 1998); R. boa Chen and Kottelat, 2005; R. brunneus (Temminck & Schlegel, 1845); R. candidianus (Regan, 1908); R. changjiangensis Chen, Miller, Wu and Fang, 2002; R. changtinensis Huang & Chen, 2007; R. cheni (Nichols, 1931); R. chiengmaiensis Fowler, 1934; R. cliffordpopei (Nichols, 1925); R. davidi (Sauvage and Dabry de Thiersant, 1874); R. delicatus Chen and Shao, 1996; R. duospilus (Herre, 1935); R. filamentosus (Wu, 1939); R. flumineus (Mizuno, 1960); R. fluviatilis Tanaka, 1925; R. fukushimai (Mori, 1934); R. genanematus Zhong & Tzeng, 1998; R. gigas Aonuma and Chen, 1996; R. giurinus (Rutter, 1897); R. henchuenensis Chen and Shao, 1996; R. henryi (Herre, 1938); R. honghensis Chen, Yang and Chen, 1999; R. kurodai (Tanaka, 1908); R. lanyuensis Chen, Miller and Fang, 1998; R. leavelli (Herre, 1935); R. lentiginis (Wu and Zheng, 1985); R. lindbergi (Berg, 1933); R. lineatus Chen, Kottelat and Miller, 1999; R. linshuiensis Chen, Miller, Wu and Fang, 2002; R. liui Chen and Wu, 2008; R. longyanensis Chen, Cheng and Shao, 2008; R. lungwoensis Huang and Chen, 2007; R. maculafasciatus Chen and Shao, 1996; R. maculicervix Chen and Kottelat, 2000; R. mekongianus (Pellegrin and Fang, 1940); R. milleri Chen and Kottelat, 2001; R. multimaculatus (Wu and Zheng, 1985); R. nagoyae Jordan and Seale, 1906; R. nammaensis Chen and Kottelat, 2001; R. nandujiangensis Chen, Miller, Wu and Fang, 2002; R. nantaiensis Aonuma and Chen, 1996; R. parvus (Luo, 1989); R. ponkouensis Huang and Chen, 2007; R. reticulatus Li, Zhong"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "and Wu, 2007; R. rubrolineatus Chen and Miller, 2008; R. rubromaculatus Lee and Chang, 1996; R. sagittus Chen and Miller, 2008; R. shennongensis Yang and Xie, 1983; R. sowerbyi (Ginsberg, 1917); R. sulcatus Chen and Kottelat, 2005; R. szechuanensis (Liu, 1940); R. taenigena Chen, Kottelat and Miller, 1999; R. variolatus Chen and Kottelat, 2005; R. vermiculatus Chen and Kottelat, 2001; R. virgigena Chen and Kottelat, 2005; R. wangchuangensis Chen, Miller, Wu and Fang, 2002; R. wangi Chen and Fang, 2006; R. wuyanlingensis Yang, Wu and Chen, 2008; R. wuyiensis Li and Zhong, 2007; R. xianshuiensis Chen, Wu and Shao, 1999; R. yaoshanensis Luo, 1989; R. zhoui Li and Zhong, 2009 の63種である．これらの63種のうち，Rhinogobius nagoyaeよりに先に公表された学名としてRhinogobius brunneus, Rhinogobius davidi, Rhinogobius giurinusがある．しかしRhinogobius brunneusは先に述べたように，クロヨシノボリであり，頬の黒色小点，黄色い腹部，尾鰭基底の細い八の字斑で，Rhinogobius davidiは脊椎骨数が28であることで，Rhinogobius giurinusゴクラクハゼは頭部背面に眼の直後まで鱗があることで，それぞれRhinogobius nagoyaeと容易に区別できる（鈴木・渋川，2004; Chen and Miller, 1998）．一方，118名義種のうち先に述べた Rhinogobius simili を含む10種 [Ctenogobius aterrimus (Herre, 1935); Ctenogobius clarki Evermann and Shaw, 1927; R. aestivaregia Mori, 1934; R. carpenteri Seale, 1910; R. flavoventris Herre, 1927; R. imfasciocaudatus Nguyen and Vo, 2005; R. longipinnis Nguyen and Vo 2005; Tukogonius bucculentus Herre, 1927; T. philippinus (Herre, 1927)] の学名については有効性を現在検討中であり，まだ解明には至っていない．しかし，Rhinogobius nagoyaeより先に公表された学名はRhinogobius similis以外にない．したがって，Rhinogobius nagoyaeは現時点で有効な学名である．"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上のことから，シマヨシノボリの学名にはRhinogobius nagoyaeが最適であるが，今後Rhinogobius nagoyaeがシマヨシノボリであることが確認されるまでは，学名の断定は避けたい．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka (1908) は原記載の中で，Rhinogobius katonisの和名として，タイプ産地である石川県加賀の地方名「キンカン」を紹介し，Jordan et al. (1913) では「キンカン」を和名としている．またJordan et al. (1913) はRhinogobius katonisと同種である可能性の高いRhinogobius nagoyaeに対して「ナゴヤハゼ」，大島 (1922) はRhinogobius formosanus Oshima, 1919 [Chen and Shao (1996) はRhinogobius nagoyaeの新参異名としている] に対して「ハゲハゼ」の和名をそれぞれ与えている．それに対してシマヨシノボリという和名は，より後年に水野ほか (1989) が提唱したものである．しかし日本魚類学会標準和名検討委員会 (2005) は，答申「魚類の標準和名の定義等について」のなかで，「日本産の魚類の標準和名は，原則として『日本産魚類検索：全種の同定，第二版』（中坊徹次編，東海大学出版会，2000）を起点とする」としている．ここではその原則に従い，本種の標準和名として，明仁ほか (2000) がRhinogobius sp. CBの和名として用いたシマヨシノボリを採用する．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rhinogobius kurodai (Tanaka, 1908)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Fig. 2, Plate II & Table 1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ctenogobius kurodai Tanaka, 1908: 32（タイプ産地：東京，黒田侯爵邸庭園内の池）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. OR：水野ほか，1989: 594（一部；琉球列島をのぞく日本全国）；明仁ほか，2000: 1254（一部；青森県から九州，朝鮮半島，台湾）；鈴木・渋川，2004: 456（一部；北海道，本州，四国，九州，朝鮮半島）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "観察標本 ZUMT 2008, ホロタイプ，雄，33.9 mm SL，東京都港区，黒田侯爵邸庭園内の池；"
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "ZUMT 2009, パラタイプ, 雄4個体・雌6個体, 20.6-28.9 mm SL, 採集地はホロタイプに同じ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "記 載"
+    },
+    {
+      "type": "paragraph",
+      "text": "第1背鰭6棘; 第2背鰭1棘7 (8: 5個体, 9: 1個体) 軟条; 臀鰭1棘8 (7: 3個体, 9: 1個体) 軟条; 胸鰭18 (19: 4個体, 20: 4個体) 軟条; 腹鰭1棘5軟条; 尾鰭分岐鰭条数7+6=13 (7+7: 2個体, 6+6: 2個体, 6+5: 1個体, 8+7: 1個体); 尾鰭分節鰭条数9+8=17; 脊椎骨数 (腹椎+尾椎) 10+16=26; P-V 3 / Ⅱ Ⅱ Ⅰ 10 / 9 (3 / Ⅱ Ⅱ Ⅰ 10 / 9: 3個体, 3 / Ⅰ Ⅱ Ⅱ 10 / 9: 3個体); 縦列鱗数 31 (28: 2個体, 29: 5個体, 30: 3個体); 横列鱗数10 (7: 2個体, 8: 7個体, 9: 1個体); 背鰭前方鱗数15 (6: 1個体, 8: 1個体, 10: 4個体, 11: 1個体, 12: 3個体); 第1背鰭起点-胸鰭基底上端間の鱗数7 (6: 5個体)."
+    },
+    {
+      "type": "paragraph",
+      "text": "頭部感覚管開孔はホロタイプでは前眼肩甲管に開孔B'・C・D・E・F・H'が観察されるのみで他は破損している. パラタイプでは前眼肩甲管の開孔はB'・C・D(S)・E・F・H' (1個体), B'・C・D (S)・E・F・G・H' (1個体), B'・C・a (S)・D (S)・E・F' (1個体), B'・C・a・D (S)・a・E・F', G'・H' (1個体), B'・C・D (S)・a・E・F' (1個体), B'・C・D・a・E・F', G'・H' (1個体), B'・C・D・E・F' (1個体), B'・C・D・E・F・H' (3個体) と変異が多く, 左右の開孔も一致しない. 後眼肩甲管の開孔は左右とも無い (9個体), 左側にのみL'・K' (1個体) である. 前鰓蓋管の開孔は左右とも無い (4個体), 両側にM'・N・O' (1個体), 両側にN'・O' (4個体), 左側のみN'・O' (1個体) である. 頭部の孔器配列はFig. 2に示した."
+    },
+    {
+      "type": "paragraph",
+      "text": "体側には櫛鱗が分布する. 第1背鰭第4棘基部と主鰓蓋部後縁上端を結ぶ線より前方の頭部背面には小円鱗が分布する. 頭部背面被鱗域前縁は小鱗4枚分湾入したω形を呈し, 中央前端が左右の前鰓蓋骨後縁を結ぶ線に, 両側前端が主鰓蓋骨上端中央上方に達する. 胸部, 胸鰭基底, 腹部側面には小円鱗を被る. 腹部正中線上は無鱗である. 被鱗域は体側より尾柄後端に達する."
+    },
+    {
+      "type": "paragraph",
+      "text": "第1背鰭は第2棘が最長であるが伸長せず, 形は将棋の駒形で, 倒しても第2背鰭に達しない. 第2背鰭と臀鰭の後部は伸長しない. 胸鰭と腹鰭は縦長の楕円形, 尾鰭は団扇形である."
+    },
+    {
+      "type": "paragraph",
+      "text": "体色はベージュ色 (うすい黄) で, 体後半部の背側にらくだ色 (あさいブラウン) の不明瞭な鞍状斑である. 各鰭と尾鰭の鰭条は一様にベージュ色, 尾鰭の鰭膜は半透明である. 体と鰭に目立った斑紋はない (Plate ⅡA). パラタイプの雌 (ZUMT 2009-2 : 26.4 mm SL) では, さらに第2背鰭にベージュ色の3-4縦点列, 尾鰭中央にベージュ色の4横点列がある (Plate Ⅱ B)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "備 考"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ctenogobius kurodaiのタイプ標本は, Yang et al. (2008) が示したヨシノボリ属の標徴によく一致する. さらに雄のタイプ標本の第1背鰭が伸長せず将棋の駒形であること, 第2背鰭と尾鰭に点列がないこと, 雌のタイプ標本の第2背鰭と尾鰭に点列があることで, 東京都千代田区で採集されたトウヨシノボリ偽橙色型 Rhinogobius sp. ORによく一致する (明仁ほか, 2000; 鈴木ほか, 2010; 本調査) (Plate Ⅱ)."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. The cephalic sensory system of Ctenogobius kurodai, ZUMT 2009-1, the largest paratype, 28.9 mm SL, Dorsal (top), lateral (middle) and ventral (bottom) views of head. The alphabets indicate the cephalic sensory canal pores. Dots represent the sensory papillae. AN and PN indicate anterior and posterior nares, respectively. Arrows show position where gill membrane is attached to isthmus.",
+      "bbox": [
+        0.505,
+        0.485,
+        0.885,
+        0.785
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/suzuki_chen_2011_katonis_kurodai_fluviatilis_extracted/Fig._2._The_cephalic_sensory_system_of_Ctenogobius_kurodai,_ZUMT_2009-1,_the_lar.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. The cephalic sensory system of Ctenogobius kurodai, ZUMT 2009-1, the largest paratype, 28.9 mm SL, Dorsal (top), lateral (middle) and ventral (bottom) views of head. The alphabets indicate the cephalic sensory canal pores. Dots represent the sensory papillae. AN and PN indicate anterior and posterior nares, respectively. Arrows show position where gill membrane is attached to isthmus."
+    }
+  ],
+  "8": [
+    {
+      "type": "paragraph",
+      "text": "Mizuoka (1978) はCtenogobius kurodaiの記載がトウヨシノボリ橙色型または宍道湖型（当時はヨシノボリ橙色型または宍道湖型）に似るとしたが，トウヨシノボリ偽橙色型は雄の第1背鰭が伸長せず台形か将棋の駒形，その高さが第2背鰭とほぼ同程度であることで，それが伸長し烏帽子形になるトウヨシノボリ橙色型や宍道湖型とは異なっている．またトウヨシノボリ偽橙色型のこの特徴は，シマヒレヨシノボリ，トウカイヨシノボリ，ビワヨシノボリも共有し，互いによく類似する．しかしシマヒレヨシノボリの雌雄の第2背鰭と尾鰭に点列があること，トウカイヨシノボリの雌雄の第1背鰭に横斑列，雌雄の第2背鰭と尾鰭に点列があること，ビワヨシノボリの頭部背面に鱗がなく，雌雄の第1背鰭に横斑列があることでトウヨシノボリ偽橙色型と区別できる（鈴木ほか，2010；本調査）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "先に述べたヨシノボリ属の有効種と考えられる63種のうち，Rhinogobius kurodaiより先に公表された学名としてRhinogobius brunneus, Rhinogobius davidi, Rhinogobius giurinus, Rhinogobius nagoyae, Rhinogobius candidianusがあるが，Rhinogobius davidiは脊椎骨数が28であることで，残る4種は雄の第1背鰭が伸長し烏帽子形になることで，Rhinogobius kurodaiからそれぞれ容易に区別できる（Chen and Miller, 1989; Chen and Shao, 1996; 鈴木・渋川, 2004）．一方，10種の“有効性不明名義種”のうち，Rhinogobius kurodaiより先に公表された学名は，Rhinogobius smilis以外にない（Rhinogobius smilisについては先に述べた）．したがって，Rhinogobius kurodaiは現時点で有効な学名である．"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上のことから，トウヨシノボリの学名には，トウヨシノボリ偽橙色型以外の型や系に該当する学名がない現状を考え合わせると，Rhinogobius kurodaiを用いるのが，現在のところ最も適切である．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka (1908) は原記載の中で，Rhinogobius kurodaiに和名を与えていないが，その後，Jordan et al. (1913) は「クロダハゼ」という和名を与えている．それに対してトウヨシノボリという和名は，より後年に水野ほか (1989) が提唱したものである．しかし本報告では，本種の標準和名として，日本魚類学会標準和名検討委員会 (2005) の答申に従い，明仁ほか (2000) がRhinogobius sp. ORの和名として用いたトウヨシノボリを採用する．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rhinogobius fluviatilis Tanaka, 1925"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Fig. 3, Plate. III & Table 1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius fluviatilis Tanaka, 1925: 641, pl. 151 (figs. 417-418)（タイプ産地：兵庫県姫路）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. LD：水野ほか，1989: 590（北海道をのぞく日本全国）；明仁ほか，2000: 1251（宮城県・青森県から九州）；鈴木・渋川, 2004: 449（宮城県・青森県以南の本州，四国，九州）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "観察標本 ZUMT 9108, ホロタイプ，雄，74.5 mm SL, 兵庫県姫路．"
+    },
+    {
+      "type": "paragraph",
+      "text": "記 載 第1背鰭6棘；第2背鰭1棘8軟条；臀鰭1棘8軟条；胸鰭21軟条；腹鰭1棘5軟条；尾鰭分岐鰭条数8+7=14；尾鰭分節鰭条数9+8=17;脊椎骨数（腹椎+尾椎）10+16=26; P-V 3 / II II I 0 / 9; 縦列鱗数32; 横列鱗数9; 背鰭前方鱗数13; 第1背鰭起点－胸鰭基底上端間の鱗数8．"
+    },
+    {
+      "type": "paragraph",
+      "text": "頭部感覚管開孔は前眼肩甲管に開孔B'・C・D(S)・E・F・H' がある．後眼肩甲管にL'とK'がある．前鰓蓋管にM'・N・O'がある．頭部の孔器配列はFig. 3に示した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "体側には櫛鱗が分布し，正中線上や後方で大きい．第1背鰭起点部と主鰓蓋部後縁上端を結ぶ線より前方の頭部背面には小円鱗が分布する．頭部背面被鱗域前縁は小鱗2枚分浅く湾入したω形を呈し，中央前端が左右の後眼肩甲管開孔K' を結ぶ線に，両側前端が後眼肩甲管開孔K' とL' 間に達する．胸部は無鱗，腹部には小円鱗を被る．胸鰭基底は無鱗もしくは脱落した可能性がある．被鱗域は体側より尾鰭（鰭上では小円鱗）に達する．"
+    },
+    {
+      "type": "paragraph",
+      "text": "第1背鰭は第2棘が伸長し，形は烏帽子型で，倒すと第2背鰭起点部を超える．第2背鰭と臀鰭の後部"
+    }
+  ],
+  "9": [
+    {
+      "type": "error",
+      "message": "Image size (325327640 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "(Seale, 1910)．したがって，Rhinogobius fluviatilisは現時点で有効な学名である．"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上のことから，オオヨシノボリの学名にはRhinogobius fluviatilisを用いるのが，現在のところ最も適切である．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka (1925) は原記載の中で，Rhinogobius fluviatilisの和名として「ヨシノボリ」を使用している．それに対してオオヨシノボリという和名は，より後年に水野ほか (1989) が提唱したものである．しかし「ヨシノボリ」はゴクラクハゼをのぞく本属魚類の総称として使われることが多く，特定の種に対する和名としては不適当である．本報告では，本種の標準和名として，日本魚類学会標準和名検討委員会 (2005) の答申に従い，明仁ほか (2000) がRhinogobius sp. LDの和名として用いたオオヨシノボリを採用する．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "謝 辞"
+    },
+    {
+      "type": "paragraph",
+      "text": "稿稿を進めるにあたり，タイプ標本の借用にご協力いただいた坂本一男氏（東京大学総合研究博物館），採集の協力や標本・情報の提供などをいただいた鄭達壽（故人），坂本勝一（元宮内庁侍従職），米沢俊彦（鹿児島県環境技術協会）各氏，文献収集にご協力いただいた瀬能宏氏（神奈川県立生命の星・地球博物館），原稿校閲をいただいた渋川浩一氏（長尾環境財団），標本の登録・保管をいただいた波戸岡清峰（大阪市立自然史博物館），坂本勝一（元宮内庁侍従職）各氏に対し深く感謝する．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "引用文献"
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁・坂本勝一・池田祐二・岩田明久 2000. “ハゼ亜目” 中坊徹次編，日本産魚類検索 全種の同定 第二版．東海大学出版会，東京，p. 1139-1310, 1606-1628."
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁親王・林 公義・吉野哲夫 1984. “ハゼ亜目” 益田 一・尼岡邦夫・荒賀忠一・上野輝弥・吉野哲夫編，日本産魚類大図鑑．東海大学出版会，東京，p. 228-289."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S. and Fang, L. S. 1999. The freshwater and estuarine fishes of Taiwan (in Chinese). National Museum of Marine Biology and Aquarium. Press., Pingtung, 288p."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S. and Fang, L.S. 2006. A new species of Rhinogobius (Teleostei: Gobiidae) from the Hanjiang basin, in Guangdong Province, China. Ichthyol. Res. 53: 247-253."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S. and Kottelat, M. 2000. Rhinogobius maculicervix, a new species of goby from the Mekong basin in northern Laos. Ichthyol. Explor. Freshw. 11: 81-87."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S. and Kottelat, M. 2003. Three new species of the genus Rhinogobius (Teleostei: Gobiidae) from northeastern Laos. Raffles Bull. Zool. 51: 87-95."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S. and Kottelat, M. 2005. Four new freshwater gobies of the genus Rhinogobius (Teleostei: Gobiidae) from northern Vietnam. J. Nat. Hist. 39: 1407-1429."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S. and Miller, P. J. 1998. Redescription of Gobius davidi (Teleostei: Gobiidae) and comparison with Rhinogobius lentiginis. Cybium 22: 211-221."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S. and Shao, K. T. 1996. A taxonomic review of the gobiid fish genus Rhinogobius Gill, 1859, from Taiwan with descriptions of three new species. Zool. Stud. 35: 200-214."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S., Cheng, Y.H. and Shao, K.T. 2008. A new species of Rhinogobius (Teleostei: Gobiidae) from the Julongjiang Basin in Fujian Province. Ichthyol. Res. 55: 335-343."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S., Kottelat, M. and Miller, P.J. 1999a. Freshwater gobies of the genus Rhinogobius from the Mekong basin in Thailand and Laos, with descriptions of three new species. Zool. Stud. 38: 19-32."
+    }
+  ],
+  "11": [
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S., Miller, P.J. and Fang, L.S. 1998. A new freshwater goby from Lanyu (Orchid island), Taiwan. Ichthyol. Explor. Freshw. 9: 255-261."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I.-S., Miller P.-J., Wu H. L. and Fang, L.-S. 2002. Taxonomy and mitochondrial sequence in non-diadromous species of Rhinogobius (Teleostei: Gobiidae) of Hainan Island, southern China. Mar. Freshw. Res. 53(2): 259-273."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S., Wu, H.L. and Shao, K.T. 1999b. A new species of Rhinogobius (Teleostei: Gobiidae) from Fujian Province, China. Ichthyol. Res. 46: 171-178."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S., Yang, J.X. and Chen, Y.R. 1999c. A new species of Rhinogobius (Teleostei: Gobiidae) from the Honhe basin, Yunnan Province, China. Acta Zool. Taiwan. 10: 45-52."
+    },
+    {
+      "type": "paragraph",
+      "text": "動物命名法国際審議会 2005. 国際動物命名規約 第4版 日本語版 [追補]. 日本分類学会連合, 東京, 135 p."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evermann, B. W. and Shaw, T. 1927. Fishes from eastern China, with descriptions of new species. Proc. Calif. Acad. Sci. (Ser. 4) 16 (4): 97-122."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gill, T. N. 1859. Notes on a collection of Japanese fishes, made by Dr. J. Morrow. Proc. Acad. Nat. Sci. Phila. 11: 144-150."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ginsburg, I. 1917. On two species of fishes from the Yalu River, China. Proc. U. S. Natl. Mus. 54 (2228): 99-101."
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre, A. W. C. T. 1927. Gobies of the Philippines and the China Sea. Monogr. Bur. Sci. Manila Monogr. 23: 1-352."
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre, A. W. C. T. 1927. Four new fishes from Lake Taal (Bombon). Philipp. J. Sci. 34 (3): 273-279."
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre, A. W. C. T. 1935. New fishes obtained by the Crane Pacific expedition. Field Museum of Natural History, Publications, Zoölogical Series 18 (12): 383-438."
+    },
+    {
+      "type": "paragraph",
+      "text": "Huang, S.-P. and Chen, I-S. 2007. Three new species of Rhinogobius Gill, 1859 (Teleeostei: Gobiidae) from the Hanjiang Basin, southern China. Bull. Raffles Mus. Suppl. 14: 101-110."
+    },
+    {
+      "type": "paragraph",
+      "text": "兵庫陸水生物研究会編 2008. 兵庫県の淡水魚. 兵庫県立人と自然の博物館 自然環境モノグラフ 4: 1-244."
+    },
+    {
+      "type": "paragraph",
+      "text": "岩田明久・青沼佳方 1997. 日本産ヨシノボリ類の種名. 1997年度日本魚類学会シンポジウム「ヨシノボリ類を中心とした両側回遊性淡水魚の生態と進化」要旨集. p.4."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan, D. S. and Seale, A. 1906. Descriptions of six new species of fishes from Japan. Proc. U. S. Natn. Mus. 30(1445): 143-148."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan, D. S., Tanaka S. and Snyder J. O. 1913. A catalogue of the fishes of Japan. J. Coll. Sci., Tokyo Imperial Uni. 33. Art. 1: 1-497."
+    },
+    {
+      "type": "paragraph",
+      "text": "Li, F. and Zhong, J.-S. 2007. A new Rhinogobius species from Zhejiang Province, China (Teleostei: Gobiidae). Zool. Res. 28 (5): 539-544."
+    },
+    {
+      "type": "paragraph",
+      "text": "Li, F. and Zhong, J.-S. 2009. Rhinogobius zhoui, a new goby (Perciformes: Gobiidae) from Guangdong Province, China. Zool. Res. 30 (3): 327-333."
+    },
+    {
+      "type": "paragraph",
+      "text": "水野信彦 1976. ヨシノボリの研究III 四国と九州での4型の分布. 生理生態 17 (1/2): 373-381."
+    },
+    {
+      "type": "paragraph",
+      "text": "水野信彦 1981. ヨシノボリ学入門. 淡水魚 (7): 7-13."
+    },
+    {
+      "type": "paragraph",
+      "text": "水野信彦・辻 幸一・鈴木寿之・越川敏樹 1989. “ヨシノボリ属” 川那部浩哉・水野信彦編・監修, 日本の淡水魚. 山と渓谷社, 東京, p. 584-603."
+    },
+    {
+      "type": "paragraph",
+      "text": "水岡繁登 1967. ヨシノボリにおける流れに沿う変異の研究IV 斑紋型および胸びれのひれ条数に"
+    }
+  ],
+  "12": [
+    {
+      "type": "paragraph",
+      "text": "ついて. 広島大学教育学部紀要 3(16): 43-52."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka S. 1978. Studies on the variation of \"Yoshinibori\" Rhinogobius similis Gill. Bull. Fac. School Educ. Hiroshima Univ. 1: 147-168."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mori, T. 1934. The fresh water fishes of Jehol. Rep. First Sci. Exped. Manchoukuo, Tokyo Sec, 5 Pt 1: 1-61."
+    },
+    {
+      "type": "paragraph",
+      "text": "向井貴彦・高橋 洋 2010. “種間交雑を伴う系統地理：種の実体と分布域形成” 渡辺勝敏・高橋 洋編著, 淡水魚類地理の自然史. 北海道大学出版会, 札幌, p. 137-152."
+    },
+    {
+      "type": "paragraph",
+      "text": "向井貴彦・鈴木寿之・西田 睦 2003. 日本産ヨシノボリ類におけるミトコンドリアDNAの遺伝子浸透. 2003年度日本魚類学会年会講演要旨 86."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nguyen, V. H. 2005. Ca Nuoc Ngot Viet Nam. Tap III. [Freshwater fishes of Vietnam]. Ca Nuoc Ngot Viet Nam. Tap III. 3: 1-759."
+    },
+    {
+      "type": "paragraph",
+      "text": "日本魚類学会標準和名検討委員会 (編) 2005. 魚類の標準和名の定義等について (答申). 魚類学雑誌 52: 179."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oijen, M. J. P., Suzuki T. and Chen, I-S. in press. On the earliest published species of Rhinogobius. with a redescription of Gobius brunneus Temminck and Schlegel, 1845. J. Natn. Taiwan Mus."
+    },
+    {
+      "type": "paragraph",
+      "text": "大島正満 1922. 日月潭に棲息する魚類に就いて. 動物学雑誌 34(403): 602-609."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai, H. Ikoma, K., Frolov S. V., Yamazaki, Y., Takahashi H. and Ida, H. 2000. Morphological features of a Russian freshwater goby, Rhinogobius lindbergi (Pisces: Gobiidae), and its genetic relationships to Japanese species. Biogeography 2: 51-61."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seale, A. 1910. New species of Philippine fishes. Philipp. J. Sci. Sec. A 4 (6): 491-543, Pls. 1-13."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・坂本勝一 2005. 岐阜県と愛知県で採集されたトウカイヨシノボリ (新称). 日本生物地理学会誌 60: 13-20."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・渋川浩一 2004. “ヨシノボリ属” 瀬能 宏編, 決定版日本のハゼ. 平凡社, 東京, p. 445-461."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・向井貴彦・吉郷英範・大迫尚晴・鄭 達壽 2010. トウヨシノボリ縞鰭型の再定義と新標準和名の提唱. 大阪市立自然史博物館研究報告 64: 1-14."
+    },
+    {
+      "type": "paragraph",
+      "text": "高木和徳 1962. 日本産ハゼ亜目魚類の1種, ヨシノボリに適用される種名. 動物学雑誌 70: 295-300."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka, S. 1908. Descriptions of eight new species of fishes from Japan. Annot. Zoo. Japon. 7: 27-47."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka, S. 1925. Figures and descriptions of the fishes of Japan including Riukiu Islands, Bonin Islands, Formosa, Kurile Islands, Korea and southern Sakhalin. Figures and descriptions of the fishes of Japan 34: 629-644."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tomiyama, I. 1936. Gobiidae of Japan. Japan. J. Zool. 7(1): 37-112."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vasil'eva, E. D. 2007. Gobies of the genus Rhinogobius (Gobiidae) from Primor'e and water bodies of central Asia and Kazakhstan: I. Morphological characteric and taxonomic status. Jour. Ichthyol. 46 (9): 691-700."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wu, H.-L., Zhong J. et al. (ed.) 2008. Fauna Sinica, Osteichthyes, Perciformes (V), Gobioidei. Science Press, Beijing, 951p."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yang, J.Q., Wu, H.L. and Chen, I-S. 2008. A new species of Rhinogobius (Teleostei: Gobiidae) from Feiyunjiang basin in Zhejiang Province, China. Ichthyol. Res. 55: 279-285."
+    },
+    {
+      "type": "paragraph",
+      "text": "財団法人日本色彩研究所 (監修) 1995. 改訂版色名小事典第13刷. 日本色研事業株式会社, 東京, 90 p."
+    }
+  ],
+  "13": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Appendix."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comparative materials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. BF: OMNH (Osaka Museum of Natural History)-P 5882 & 5883, 2 specimens, 27.9 & 37.0 mm SL, 18 March 1995, OMNH-P 5890-5892 & 8033-8037, 8 specimens, 25.7-37.4 mm SL, 24 March 1995, OMNH-P 8076 & 8077, 2 specimens, 30.0 & 35.0 mm SL, 15 September 1995, Maruyama River, Hyogo Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. BW: BLIH (Biological Laboratory, Imperial Household, Tokyo) 20010402-20010408, 11 specimens, 29.1-35.2 mm SL, 1 July 2001, Lake Biwa, Shiga Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. CB: OMNH-P 12778, 1 specimen, 38.7 mm SL, 12 September 1998, Sumoto River, Hyogo Pref., Japan; OMNH-P 12784-12786, 3 specimens, 35.7-48.8 mm SL, 12 September 1998, Ibana River, Hyogo Pref., Japan; OMNH-P 15234-15236, 3 specimens, 48.8-57.7 mm SL, 15 September 1995, Maruyama River, Hyogo Pref., Japan; OMNH-P 15244 & 15245, 2 specimens, 37.8-51.7 mm SL, 4 September 1994, Sazu River, Hyogo Pref., Japan; OMNH-P 15252, 1 specimen, 59.4 mm SL, 11 November 1993, Takeno River, Hyogo Pref., Japan; OMNH-P 15253-15255, 3 specimens, 50.1-67.4 mm SL, 28 October 1994, Maruyama River, Hyogo Pref., Japan; OMNH-P 21179-21181, 10 specimens, 39.3-58.4 mm SL, 27 October 2005, Hidaka River, Wakayama Pref., Japan; OMNH-P 32108 & 32109, 2 specimens, 45.2-45.6 mm SL, 5 May 1985, Seto River, Shizuoka Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. CO: OMNH-P 11588, 11589, & 11591, 3 specimens, 51.3-68.9 mm SL, 17 September 1998, Nakatsu River, Hyogo Pref., Japan; OMNH-P 11590, 1 specimen, 77.1 mm SL, 17 September 1998, Ai River, Hyogo Pref., Japan; OMNH-P 18426-18428, 3 specimens, 48.4-62.9 mm SL, 24 October 2003, Nabeno River, Kagoshima Pref., Japan; OMNH-P 21177 & 21178, 2 specimens, 48.0-51.0 mm SL, 27 October 2005, Hidaka River, Wakayama Pref., Japan; OMNH-P 32110-32112, 10 specimens, 49.4-72.0 mm SL, 15 September 1981, Nishiurakawachi River, Shizuoka Pref., Japan; OMNH-P 32113 & 31999, 2 specimens, 35.8-46.5 mm SL, 9 June 2001, Nigo River, Hirosima Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. DA: OMNH-P 8221 & 8222, 2 specimens, 31.6-34.1 mm SL, 14 September 1998, Honjyu River, Hyogo Pref., Japan; OMNH-P 8230 & 8235, 2 specimens, 34.1-67.8 mm SL, 14 September 1998, Oo River, Hyogo Pref., Japan; OMNH-P 8236-8240, 5 specimens, 52.5-66.8 mm SL, 14 September 1998, Habu stream, Hyogo Pref., Japan; OMNH-P 8241, 7 specimens, 46.3-57.2 mm SL, 12 September 1998, Sumoto River, Hyogo Pref., Japan; OMNH-P 11583 & 11584, 2 specimens, 59.3-65.4 mm SL, 16 September 1998, Mihara River, Hyogo Pref., Japan; OMNH-P 12781, 12782, 12788 & 12789, 4 specimens, 47.2-59.0 mm SL, 12 September 1998, Ibana River, Hyogo Pref., Japan; OMNH-P 12808-12810, 3 specimens, 33.0-40.6 mm SL, 14 September 1998, Honjyu River, Hyogo Pref., Japan; OMNH-P 15248, 1 specimen, 78.0 mm SL, 1 September 1994, Sazu River, Hyogo Pref., Japan; OMNH-P 15249, 1 specimen, 69.1 mm SL, 29 August 1993, Nishi River, Hyogo Pref., Japan; OMNH-P 32106 & 32107, 2 specimens, 46.1-50.7 mm SL, 29 July 1985, Suzuri River, Shizuoka Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. LD: OMNH-P 11585-11587, 3 specimens, 52.1-64.5 mm SL, 16 September 1998, Mihara River, Hyogo Pref., Japan; OMNH-P 12791-12793, 3 specimens, 34.9-57.0 mm SL, 12 September 1998, Ibana River, Hyogo Pref., Japan; OMNH-P 15251, 1 specimen, 59.0 mm SL, 29 August 1993, Nishi River, Hyogo Pref., Japan; OMNH-P 18391-18394, 4 specimens, 70.1-86.2 mm SL, 9 September 2003, Komenotsu River, Kagoshima Pref., Japan; OMNH-P 18429, 1 specimen, 69.8 mm SL, 24 October 2003, Nabeno River, Kagoshima Pref., Japan; OMNH-P 18436, 1 specimen, 83.9 mm SL, 31 October 2003, Kuzuryu River, Fukui Pref., Japan;"
+    }
+  ],
+  "14": [
+    {
+      "type": "paragraph",
+      "text": "OMNH-P 21175, 21176, 21182, 4 specimens, 54.4-72.0 mm SL, 27 October 2005, Hidaka River, Wakayama Pref., Japan; OMNH-P 32104, 32105 & 32114, 10 specimens, 44.9-66.7 mm SL, 15 October 1984, Seto River, Shizuoka Pref., Japan; OMNH-P 32115-32117, 3 specimens, 63.0-70.5 mm SL, 4 September 1995, Kuzuryu River, Fukui Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. OR \"Gi-tohsyoku type\": OMNH-P 21132-21136, 5 specimens, 37.3-46.8 mm SL, 20 June 2005, Shiratori Moat, Tokyo, Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. OR \"Shinjiko type\": OMNH-P 5441 & 5442, 2 specimens, 53.3 & 53.9 mm SL, 26 October 1994, OMNH-P 5411-5415, 7 specimens, 56.5-70.7 mm SL, 11 November 1994, OMNH-P 5416, 5417 & 5419, 3 specimens, 49.1-56.5 mm SL, 12 November 1994, OMNH-P 5423, 15 specimens, 44.7-58.0 mm SL, 15 November 1994, Maruyama River, Hyogo Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. OR \"Nishi-Kyushu group by mtDNA haplotype\": OMNH-P 35446, 1 specimen, Ichinokawa River, Nagasaki Pref., Japan, OMNH-P35449 &37526, 2 specimens, Gohanda River, Kagoshima Pref., Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. TO: BLIH 20000256-20000267, 14 specimens, 28.3-37.8 mm SL, 1 April 2000, Yahagi River, Aichi Pref., Japan; BLIH 20000268, 1 specimen, 28.7 mm SL, 1 April 2000, Toki River, Gifu Pref., Japan; BLIH 20000269, 4 specimens, 26.8-32.8 mm SL, 13 September 2000, Pond of Nagakute Cho, Aichi Pref., Japan; BLIH 20010400, 1 specimen, 30.7 mm SL, 6 April 2001, Pond of Toyokawa city, Aichi Pref., Japan; BLIH 20010401, 1 specimen, 33.0 mm SL, 13 November 2001, Ibi River, Gifu Pref., Japan."
+    }
+  ],
+  "15": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Plate I"
+    },
+    {
+      "type": "figure",
+      "label": "A: Holotype of Ctenogobius katonis, ZUMT 2002, female, 60.0 mm SL, Kanazawa, Ishikawa Pref., Japan. B: Paratype of C. katonis, ZUMT 57510, female, 43.7 mm SL, same data as holotype. C: シマヨシノボリ Rhinogobius sp. CB, OMNH-P 36053, female, 86.2 mm SL, Maruyama River, Hyogo Pref., Japan.",
+      "bbox": [
+        0.12,
+        0.51,
+        0.67,
+        0.89
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/suzuki_chen_2011_katonis_kurodai_fluviatilis_extracted/A_Holotype_of_Ctenogobius_katonis,_ZUMT_2002,_female,_60.0_mm_SL,_Kanazawa,_Ishi.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "A: Holotype of Ctenogobius katonis, ZUMT 2002, female, 60.0 mm SL, Kanazawa, Ishikawa Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "B: Paratype of C. katonis, ZUMT 57510, female, 43.7 mm SL, same data as holotype."
+    },
+    {
+      "type": "paragraph",
+      "text": "C: シマヨシノボリ Rhinogobius sp. CB, OMNH-P 36053, female, 86.2 mm SL, Maruyama River, Hyogo Pref., Japan."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Plate II"
+    },
+    {
+      "type": "figure",
+      "label": "A: Holotype of Ctenogobius kurodai Tanaka, 1908, ZUMT 2008, 33.9 mm SL, male, Freshwater pond in garden of Marquis Kuroda, Tokyo Pref., Japan. B: Paratype of Ctenogobius kurodai, ZUMT 2009-2, 26.4 mm SL, female, same data as holotype. C & D: トウヨシノボリ Rhinogobius sp. OR “Gi-tohsyoku type”, Chiyoda, Tokyo Pref., Japan. C: OMNH-P 21132, male, 46.8 mm SL, D: OMNH-P 21136, female.",
+      "bbox": [
+        0.12,
+        0.12,
+        0.74,
+        0.5
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/suzuki_chen_2011_katonis_kurodai_fluviatilis_extracted/A_Holotype_of_Ctenogobius_kurodai_Tanaka,_1908,_ZUMT_2008,_33.9_mm_SL,_male,_Fre.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "A: Holotype of Ctenogobius kurodai Tanaka, 1908, ZUMT 2008, 33.9 mm SL, male, Freshwater pond in garden of Marquis Kuroda, Tokyo Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "B: Paratype of Ctenogobius kurodai, ZUMT 2009-2, 26.4 mm SL, female, same data as holotype."
+    },
+    {
+      "type": "paragraph",
+      "text": "C & D: トウヨシノボリ Rhinogobius sp. OR “Gi-tohsyoku type”, Chiyoda, Tokyo Pref., Japan. C: OMNH-P 21132, male, 46.8 mm SL, D: OMNH-P 21136, female."
+    }
+  ],
+  "16": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Plate III"
+    },
+    {
+      "type": "figure",
+      "label": "A: Holotype of Rhinogobius fluviatilis Tanaka, 1925, ZUMT 9108, male, 74.5 mm SL, Himeji, Hyogo Pref., Japan. B: オオヨシノボリ Rhinogobius sp. LD, OMNH-P 18391, male, 86.2 mm SL, Komenotsu River, Kagoshima Pref., Japan.",
+      "bbox": [
+        0.145,
+        0.518,
+        0.505,
+        0.885
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/suzuki_chen_2011_katonis_kurodai_fluviatilis_extracted/A_Holotype_of_Rhinogobius_fluviatilis_Tanaka,_1925,_ZUMT_9108,_male,_74.5_mm_SL,.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "A: Holotype of Rhinogobius fluviatilis Tanaka, 1925, ZUMT 9108, male, 74.5 mm SL, Himeji, Hyogo Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "B: オオヨシノボリ Rhinogobius sp. LD, OMNH-P 18391, male, 86.2 mm SL, Komenotsu River, Kagoshima Pref., Japan."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Plate IV"
+    },
+    {
+      "type": "figure",
+      "label": "A: ルリヨシノボリ Rhinogobius sp. CO, OMNH-P 18428, male, 62.9 mm SL, Nabeno River, Kagoshima Pref., Japan. B: トウヨシノボリ宍道湖型 Rhinogobius sp. OR “Shinjiko type”, OMNH-P 5411, male, 65.5 mm SL, Maruyama River, Hyogo Pref., Japan. C: トウヨシノボリ西九州系 Rhinogobius sp. OR “Nishi-Kyushu group”, OMNH-P 37526, male, Gohanda River, Kagoshima Pref., Japan.",
+      "bbox": [
+        0.125,
+        0.125,
+        0.495,
+        0.495
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/suzuki_chen_2011_katonis_kurodai_fluviatilis_extracted/A_ルリヨシノボリ_Rhinogobius_sp._CO,_OMNH-P_18428,_male,_62.9_mm_SL,_Nabeno_River,_Kago.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "A: ルリヨシノボリ Rhinogobius sp. CO, OMNH-P 18428, male, 62.9 mm SL, Nabeno River, Kagoshima Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "B: トウヨシノボリ宍道湖型 Rhinogobius sp. OR “Shinjiko type”, OMNH-P 5411, male, 65.5 mm SL, Maruyama River, Hyogo Pref., Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "C: トウヨシノボリ西九州系 Rhinogobius sp. OR “Nishi-Kyushu group”, OMNH-P 37526, male, Gohanda River, Kagoshima Pref., Japan."
+    }
+  ]
+}

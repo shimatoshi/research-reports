@@ -1,0 +1,530 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "沖縄島に生息する中卵型ヨシノボリ2種の卵内発生および仔稚魚の成長に伴う形態変化"
+    },
+    {
+      "type": "paragraph",
+      "text": "平嶋健太郎 1,2・立原一憲 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 〒903-0213 沖縄県中頭郡西原町字千原1 琉球大学理学部海洋自然科学科 (電子メール: ktachiha@sci.u-ryukyu.ac.jp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 現住所: 〒642-0001 和歌山県海南市船尾370 和歌山県立自然博物館 (電子メール: ZAP00640@nifty.ne.jp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(1999年7月7日受付; 1999年12月17日改訂; 2000年2月7日受理)"
+    },
+    {
+      "type": "paragraph",
+      "text": "キーワード: アオバラヨシノボリ, キバラヨシノボリ, 河川陸封, 初期生活史, 沖縄島"
+    },
+    {
+      "type": "paragraph",
+      "text": "魚類学雑誌\nJapanese Journal of Ichthyology\n© The Ichthyological Society of Japan 2000"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kentarou Hirashima and Katsunori Tachihara*. 2000. Embryonic development and morphological changes in larvae and juveniles of two land-locked gobies, Rhinogobius spp. (Gobiidae), on Okinawa Island. Japan. J. Ichthyol., 47 (1): 29–41."
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract Members of the genus Rhinogobius are widely distributed in Far East Asia, at least 11 species having been recognized in Japan. Of the six species recorded from Okinawa Island, two are land-locked (“aobara-yoshinobori” R. sp. BB and “kibara-yoshinobori” R. sp. YB) and the remainder amphidromous. Embryonic development and morphological changes in the two land-locked species are described from artifically-reared eggs, larvae and juveniles. Survival and growth of the two species were compared under different salinities (0—35‰) during a 21-day period following hatching. Although egg diameters of both species were almost the same (“aobara-yoshinobori”; 4.3±0.1 mm, “kibara-yoshinobori”; 4.3±0.2 mm), newly-hatched larval morphology, and larval and juvenile salinity tolerance clearly differed. Newly-hatched larvae of “aobara-yoshinobori” had a flexed notochord and caudal fin rays already developed. The yolk was completely consumed 3 days after hatching. By comparison, “kibara-yoshinobori” hatched at an earlier developmental stage, having a straight notochord. The yolk disappeared 7 days after hatching. Larvae and juveniles of “aobara-yoshinobori” were less tolerant in high salinity than those of “kibara-yoshinobori”. The results suggested that the two land-locked gobies have become adapted to a wholly fluvial life cycle, through somewhat different strategies."
+    },
+    {
+      "type": "paragraph",
+      "text": "* Corresponding author: Katsunori Tachihara, Laboratory of Fisheries Biology & Coral Reef Studies, Faculty of Science, University of the Ryukyus, Senbaru 1, Nishihara-cho, Nakagami-gun, Okinawa 903-0213, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "現在日本列島には少なくとも11種のヨシノボリ類が確認されている (西島, 1968; 岩田, 1981; 越川, 1989; Masuda et al., 1989; 水野, 1987, 1989; 鈴木, 1989, 1992; 高橋, 1997)。これらのうち, カワヨシノボリ Rhinogobius flumineus, アオバラヨシノボリ Rhinogobius sp. BB およびキバラヨシノボリ Rhinogobius sp. YB 以外は河川性両側"
+    },
+    {
+      "type": "paragraph",
+      "text": "回遊型の生活史をもち, 一部が個体群レベルで湖沼陸封型にもなることが確認されている (水野, 1989)。この両生活型は基本的に可逆的である (水野, 1961; 菊地・大城, 1987)。一方, ヨシノボリは河川陸封型の生活史をもつハゼ科魚類として, 水野 (1961) によって記載された。本種は他のヨシノボリ類より大きい卵をもち, 胸鰭条"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "数などの形態的側面のみならず, アロザイム分析による遺伝的側面からも両側回遊型や湖沼陸封型 のヨシノボリ類と明瞭に区別される (Shimizu et al., 1993). また, アオバラヨシノボリとキバラヨシノ ボリは, カワヨシノボリと両側回遊型ヨシノボリ の中間的な大きさの卵を産むものとして西島 (1968) および中山 (1975) によって報告された. こ れらのヨシノボリは中卵型と呼ばれ, 河川陸封型 の生活史を送ることが報告されており (西島, 1968), 前者は沖縄島, 後者は琉球列島固有種 (瀬能, 1985) で, それぞれ異なる祖先型から分化 したことも明らかとなっている (Katoh and Nishida, 1994; 西田, 1994)."
+    },
+    {
+      "type": "paragraph",
+      "text": "琉球列島に生息するテナガエビ類やコエビ類で も卵サイズに小卵, 中卵, 大卵が認められ, それ ぞれの初期生活史や系統関係, 流水への適応戦略 などが詳しく論じられている (諸喜田, 1979, 1996). しかし, ヨシノボリ中卵型2種について生 活史の詳細な報告や両者を比較した研究は少な い. 本研究では, 沖縄島産のアオバラヨシノボリ とキバラヨシノボリを飼育し, 卵内発生と仔稚魚 の成長に伴う形態変化, および異なる塩分条件下 での生残率や成長の違いを明らかにし, 両種の初 期生活史を比較することを目的とした."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "材 料 と 方 法"
+    },
+    {
+      "type": "paragraph",
+      "text": "和名と学名 本論文で使用したヨシノボリ属の 和名と学名の表記は, いずれも水野 (1989) に従っ た."
+    },
+    {
+      "type": "paragraph",
+      "text": "卵内発生 1996年5月27日に沖縄県名護市の 源河川 (げんかがわ) で採集したアオバラヨシノボ リの卵を, ヒーターとサーモスタットを用いて水 温22.0±1.0℃に設定した30l円形ポリカーボネイ ト水槽で孵化させた. また, 1997年4月2日に沖 縄県名護市の数久田川 (すくたがわ) で採集した キバラヨシノボリ (雄2個体, 体長28.3, 32.9 mm; 雌6個体, 30.7-40.5 mm) を60×30×30 cm ガラス水槽で飼育し, これらが1997年4月15日に 産んだ卵を水温20.0±0℃に設定した30l円形ポリ カーボネイト水槽で孵化させた. 両種とも卵を適 宜顕微鏡下で観察し, 卵内発生の経過を記録し た."
+    },
+    {
+      "type": "paragraph",
+      "text": "仔稚魚の形態変化 孵化後, アオバラヨシノボ リは日齢30まで, キバラヨシノボリは日齢45まで, ヒーターとサーモスタットを用いて水温調整した 100l円形ポリカーボネイト水槽で飼育した. 飼育 水温はアオバラヨシノボリでは24.8±0.7℃, キバラヨシノボリでは24.1±1.1℃に設定した. アオバラヨシノボリは日齢30, キバラヨシノボリは日齢 45以降, 60×30×30 cmのガラス水槽に移し, 自 然水温で飼育した. 初期餌料にはアルテミア *Artemia salina* と市販の乾燥餌料 (Tetra Fin, Tetra 社) を与えた. 仔稚魚はそれぞれ, 孵化から日齢7 までは毎日, 日齢9-21は1日毎, 日齢30以降は 30日毎に5または10%中性ホルマリンで固定し, 万能投影機, 実体顕微鏡を用いてスケッチした. 同時に各個体の全長, 脊索長あるいは標準体長, 肛門前長, 背鰭前長, 頭長, 眼径, 上顎長, 吻 長, 体高および尾柄高を実体顕微鏡下で計測した. これらの標本は, 琉球大学理学部の登録標本 (URM-P40284-40301) として保管された."
+    },
+    {
+      "type": "paragraph",
+      "text": "骨格系の観察 成長に伴う骨格系の発達経過を みるため, Dingerkus and Uhler (1977) に従い, ア リザリンレッドSとアルシアンブルー8GNを用 いて二重染色を施し, 実体顕微鏡下で観察した. 各骨の名称は藤田 (1990) に従った."
+    },
+    {
+      "type": "paragraph",
+      "text": "至適塩分条件 仔稚魚の成長と生残に及ぼす塩 分の影響をみるため, 0-35‰を5‰毎に8段階に 区分し, 500 mlビーカーに孵化仔魚を10個体ず つ収容した. 実験水温は, 両種とも20.0±0℃に 設定し, 日齢21まで飼育した."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "結 果"
+    },
+    {
+      "type": "paragraph",
+      "text": "アオバラヨシノボリ 卵は長径4.3±0.3 (平均± 標準偏差) mm, 短径1.5±0.1 mm (n=30) の紡錘型 で, 付着糸により石の下面に付着していた. 本種 の産卵床は流れの緩やかな平瀬に多く認められ, 雌が卵を保護していた. 野外で採集した産着卵11 例のうち2例では, 発生段階の異なる2卵塊が産 み込まれていた. 2例とも孵化直前の卵と発眼直 後の卵塊であり, いずれも1個体の雄が保護して いた. 卵内発生を観察した卵塊 (78粒) は, 1996 年5月27日午後8時30分の時点 (孵化194時間30 分前) で, すでに後期桑実胚に達しており, 多数 の油球が認められた (Fig. 1A). その1時間30分後, 卵は胞胚期に達し (Fig. 1B), 5時間15分後, 嚢 胚初期に達し (Fig. 1C), 9時間33分後には被包が 卵軸の3/4以上を覆い, 嚢胚後期になった (Fig. 1D). 11時間30分後には, 原口の陥入がほぼ終了 し (Fig. 1E), 15時間後には胚体が出現し (Fig. 1F), 19時間後には眼胞が形成され (Fig. 1G), 23時間後 には耳胞と12筋節が形成された (Fig. 1H). 27時間 後にはレンズが形成され, 脳が分化し始めた (Fig. 1I). 42時間後, 眼の黒化が始まった. 尾部は伸張"
+    }
+  ],
+  "3": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "中卵型ヨシノボリの卵と仔稚魚"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1. Embryonic development of “aobara-yoshinobori” *Rhinogobius* sp. BB. A) Morula stage, beginning of the observation; B) Blastura stage, 1 h 30 min. after observation; C) Early gastrula stage, 5 h 15 min; D) Late gastrula stage, 9 h 33 min; E) 11 h 10 min; F) Appearance of embryo, 15 h 19 min; G) Appearance of optic vesicle, 18 h 49 min; H) Appearance of auditory vesicle and 12 myomeres, 23 h 20 min; I) Formation of the lens and development of brainc, 27 h; J) Beginning of the eye pigmentation and appearance of melanophores, 41 h 57 min; K) Appearance of heart and pelvic fin, 70 h 7 min; L) Eye fully pigmented, mouth opened and formation of gas bladder, 117 h 55 min; M) Flexion of notochord, 174 h 31 min. 20 hours before hatching.",
+      "bbox": [
+        0.18,
+        0.15,
+        0.82,
+        0.7
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._1._Embryonic_development_of_“aobara-yoshinobori”_Rhinogobius_sp._BB._A)_Mor.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Embryonic development of “aobara-yoshinobori” *Rhinogobius* sp. BB. A) Morula stage, beginning of the observation; B) Blastura stage, 1 h 30 min. after observation; C) Early gastrula stage, 5 h 15 min; D) Late gastrula stage, 9 h 33 min; E) 11 h 10 min; F) Appearance of embryo, 15 h 19 min; G) Appearance of optic vesicle, 18 h 49 min; H) Appearance of auditory vesicle and 12 myomeres, 23 h 20 min; I) Formation of the lens and development of brainc, 27 h; J) Beginning of the eye pigmentation and appearance of melanophores, 41 h 57 min; K) Appearance of heart and pelvic fin, 70 h 7 min; L) Eye fully pigmented, mouth opened and formation of gas bladder, 117 h 55 min; M) Flexion of notochord, 174 h 31 min. 20 hours before hatching."
+    },
+    {
+      "type": "paragraph",
+      "text": "し,肛門が開いた.また,黒色素胞と黄色素胞が頭頂と体側および躯幹部と尾部の背,腹縁辺部に現れ,油球が融合し始めた(Fig. 1J).70時間後,"
+    },
+    {
+      "type": "paragraph",
+      "text": "心臓と胸鰭原基が形成された.尾部はさらに伸張し,油球が合一した(Fig. 1K).118時間後,口が開き,鰾が形成された.吻部にも黒色素胞と黄色"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. Morphological changes of reared larvae of “aobara-yoshinobori” Rhinogobius sp. BB with its growth. A) Newly hatched larva, 5.8 mm in standard length (SL), URM–P40284; B) 3 days after hatching, 6.2 mm SL, URM–P40285; C) 4 days, 7.3 mm SL, URM–P40286; D) 7 days, 7.6 mm SL, URM–P40287; E) 13 days, 10.1 mm SL, URM–P40288."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. Morphological changes of reared larvae of “aobara-yoshinobori” Rhinogobius sp. BB with its growth. A) Newly hatched larva, 5.8 mm in standard length (SL), URM–P40284; B) 3 days after hatching, 6.2 mm SL, URM–P40285; C) 4 days, 7.3 mm SL, URM–P40286; D) 7 days, 7.6 mm SL, URM–P40287; E) 13 days, 10.1 mm SL, URM–P40288.",
+      "bbox": [
+        0.145,
+        0.085,
+        0.846,
+        0.513
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._2._Morphological_changes_of_reared_larvae_of_“aobara-yoshinobori”_Rhinogobi.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "素胞が現れた．体側と卵黄上の黒色素胞が増加した (Fig. 1L). 174時間30分後, 脊索の末端が上屈し, 尾鰭鰭条が現れた (Fig. 1M). この20時間後に約50%の卵が孵化した．\n孵化仔魚は体長5.8 mmで, 下顎関節部に1棘を有し, 第2背鰭と臀鰭の原基が形成されていた．飼育条件下では活発に遊泳し, 孵化直後にアルテ"
+    },
+    {
+      "type": "paragraph",
+      "text": "ミアや乾燥餌料を摂餌した．また, 黒色素胞と黄色素胞が両顎, 吻端, 頭頂, 卵黄下面, 鰓, 躯幹部および尾部の背面, 経絡部に発達していた (Fig. 2A). 日齢3, 体長6.2 mmで卵黄を完全に吸収し, 第2背鰭, 臀鰭が発達した．鰓周辺の黒色素胞が増加した (Fig. 2B). 日齢4, 体長6.7 mmで膜鰭が消失し, 腹鰭原基が形成された (Fig. 2C). 日齢7,"
+    }
+  ],
+  "5": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "中卵型ヨシノボリの卵と仔稚魚"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3. Morphological changes of reared juveniles of “aobara-yoshinobori” Rhinogobius sp. BB with its growth. A) 15 days after hatching, 11.2 mm in standard length (SL), URM–P40290; B) 17 days, 12.4 mm SL, URM–P40289; C) 21 days, 13.4 mm SL, URM–P40290; D) 30 days, 13.2 mm SL, URM–P40291; E) 60 days, 18.1 mm SL, URM–P40293.",
+      "bbox": [
+        0.15,
+        0.15,
+        0.85,
+        0.68
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._3._Morphological_changes_of_reared_juveniles_of_“aobara-yoshinobori”_Rhinog.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. Morphological changes of reared juveniles of “aobara-yoshinobori” Rhinogobius sp. BB with its growth. A) 15 days after hatching, 11.2 mm in standard length (SL), URM–P40290; B) 17 days, 12.4 mm SL, URM–P40289; C) 21 days, 13.4 mm SL, URM–P40290; D) 30 days, 13.2 mm SL, URM–P40291; E) 60 days, 18.1 mm SL, URM–P40293."
+    },
+    {
+      "type": "paragraph",
+      "text": "体長7.6mmで第1背鰭の原基が現れ (Fig. 2D), 日齢11, 体長9.8mmで腹鰭と胸鰭の鰭条が形成され た (Fig. 2E). 日齢13, 体長11.7mmになると腹鰭が 発達し, 日齢11から13の間に多くの個体が着底 し始めた (Fig. 3A). 日齢17, 体長12.4mmで体側 に多数の黒色素胞が出現し, 尾柄から第2背鰭後 端にかけて鱗が形成された (Fig. 3B). 日齢21, 体 長13.2mmには被鱗域が第1背鰭に達した (Fig. 3C). 日齢30, 体長13.4mmになると胸鰭基部の上 部に青緑色の斑紋が現れた (Fig. 3D). 日齢60, 体"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "Fig. 4. Development of caudal skeleton and accessory cartilage in “aobara-yoshinobori” Rhinogobius sp. BB. A) 5.8 mm in standard length (SL); B) 8.0 mm SL; C) 9.5 mm SL; D) 10.9 mm SL; E) 17.8 mm SL; EP—epural; HY—hypural; PH—parhypural; CINPU—inter-neural spine cartilage of post-epural cartilage; CPEP—post-epural cartilage; CIHPU—inter-haemal spine cartilage of preural centrum. Stiple areas show cartilage. Scales indicate 0.3 mm."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 4. Development of caudal skeleton and accessory cartilage in “aobara-yoshinobori” Rhinogobius sp. BB. A) 5.8 mm in standard length (SL); B) 8.0 mm SL; C) 9.5 mm SL; D) 10.9 mm SL; E) 17.8 mm SL; EP—epural; HY—hypural; PH—parhypural; CINPU—inter-neural spine cartilage of post-epural cartilage; CPEP—post-epural cartilage; CIHPU—inter-haemal spine cartilage of preural centrum. Stiple areas show cartilage. Scales indicate 0.3 mm.",
+      "bbox": [
+        0.2,
+        0.125,
+        0.824,
+        0.408
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._4._Development_of_caudal_skeleton_and_accessory_cartilage_in_“aobara-yoshin.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "長18.1 mmで鰭が頭部背面に達し, 成魚と同様の形態となった (Fig. 3E)."
+    },
+    {
+      "type": "paragraph",
+      "text": "アオバラヨシノボリは, 体長5.8 mmで脊索の末端が上屈し, 上尾骨 (EP1, 2) と下尾骨 (HY1+2, 3, 4), および準下尾骨 (PH) が軟骨で形成されていた. 下尾骨の1+2と3は, すでに中央部から硬骨化し始めていた (Fig. 4A). 体長8.0 mmで椎体の硬骨化が終了し (Fig. 4B), 尾鰭椎前第3椎体神経棘間軟骨+第1上尾骨後軟骨 (CINPU3+CPEP1) と尾鰭椎前第3椎体血管棘間軟骨 (CIHPU3) が現れた. 下尾骨1と2が融合し, 硬骨化した. また, 尾鰭椎前第3椎体神経棘が肥大し始めた. 体長9.5 mmで上尾骨5と下尾骨が硬骨化し始めた (Fig. 4C). 体長10.9 mmで上尾骨の硬骨化が始まった (Fig. 4D). 体長17.8 mmで尾鰭椎の硬骨化が終了し (Fig. 4E), 上尾骨と下尾骨が肥大した."
+    },
+    {
+      "type": "paragraph",
+      "text": "各塩分条件下におけるアオバラヨシノボリ仔稚魚の生残率は, 0, 5, 10‰区がいずれも100%, 15‰区が90%, 20‰区が70%, 25‰区が50%, 30‰区が40%, 35‰区が0%であった (Fig. 5A). 純海水の35‰区では, 6時間以内に全ての個体が斃死した. また, 21日後の平均標準体長は, 0‰区が11.9 mm, 5‰区が12.4 mm, 10‰区が12.0 mm, 15‰区が11.5 mm, 20‰区が10.6 mm, 25‰区が9.4 mm, 30‰区が9.3 mmであった (Fig. 5B). このうち, 最大は5‰区の12.8 mm, 最小は25‰区の8.8 mmであった."
+    },
+    {
+      "type": "paragraph",
+      "text": "キバラヨシノボリ 卵は長径4.3±0.2 (平均±標準偏差) mm, 短径1.4±0.1 mm (n=30) で, 飼育水槽内の石の下面に331個産み付けられていた. 卵内発生を観察した卵塊は, 1997年4月15日午前9時30分の段階 (孵化160時間30分前) で, すでに胚体が形成され, 多数の油球が散在していた (Fig. 6A). 6時間30分後, 脳と眼胞が分化し (Fig. 6B), 11時間30分後, 筋節が現れた (Fig. 6C). 21時間後, 耳胞が形成され, 油球が癒合し始め, その数"
+    }
+  ],
+  "7": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "中卵型ヨシノボリの卵と仔稚魚"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 5. Survivorship (A) and growth (B) of larvae and juveniles of \"aoba-yoshinobori\" *Rhinogobius* sp. BB under different salinity conditions during 21 days after hatching. Vertical bars show range of standard length. ■—0‰; ●—5‰; ▲—10‰; □—15‰; ○—20‰; △—25‰; ◇—30‰; ●—35‰.",
+      "bbox": [
+        0.145,
+        0.171,
+        0.846,
+        0.573
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._5._Survivorship_(A)_and_growth_(B)_of_larvae_and_juveniles_of_aoba-yoshinob.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5. Survivorship (A) and growth (B) of larvae and juveniles of \"aoba-yoshinobori\" *Rhinogobius* sp. BB under different salinity conditions during 21 days after hatching. Vertical bars show range of standard length. ■—0‰; ●—5‰; ▲—10‰; □—15‰; ○—20‰; △—25‰; ◇—30‰; ●—35‰."
+    },
+    {
+      "type": "paragraph",
+      "text": "が減少した (Fig. 6D). 27時間30分後に筋節数は21になり, 油球が合一した (Fig. 6E). 46時間後, 肛門が開き, 黒色素胞が頭部, 卵黄下面, 消化管背・腹面に現れた (Fig. 6F). 54時間後, 眼の黒化が始まり, 心臓が現れた (Fig. 6G). 103時間30分後に眼の黒化がほぼ終了し, 口と胸鰭が形成された (Fig. 6H). 150時間30分後に開鰓し, その上面に黒色素胞と黄色素胞が現れた (Fig. 6I). この10時間後に卵の75%が孵化した.\n孵化仔魚は, 脊索長5.3mmで開口しており, 黒色素胞が頭頂, 卵黄全面, 尾部の背面 (第15-20筋節) および躯幹部と尾部の腹面 (第5-21筋節) に認められた. 黄色素胞は, 卵黄上, 躯幹部の背・腹両縁に現れたが, アオバヨシノボリの孵"
+    },
+    {
+      "type": "paragraph",
+      "text": "化仔魚に比べ少なかった (Fig. 7A). 日齢5, 脊索長5.9mmで下尾骨原基と尾鰭鰭条が形成され, 頭部の黒色素胞が増加した (Fig. 7B). 日齢7, 脊索長6.1mmで卵黄を完全に吸収し, 第2背鰭と臀鰭の原基が形成された (Fig. 7C). 日齢11, 標準体長5.8mmで脊索末端の上屈がほぼ終了した (Fig. 7D).\n日齢15, 体長6.6mmで腹鰭と第1背鰭の原基が現れた (Fig. 8A). 日齢21, 体長7.3mmには胸鰭の鰭条が形成され始めた (Fig. 8B). 日齢30, 体長13.2mmで各鰭の鰭条数が定数に達した. この時期には尾柄部から鱗が形成され始め, 日齢21から30の期間に多くのものが着底した (Fig. 8C). 日齢60, 体長19.7mmで被鱗域が頭部背面に達し, 成魚とほぼ同じ形態となった (Fig. 8D)."
+    }
+  ],
+  "8": [
+    {
+      "type": "figure",
+      "label": "Fig. 6. Embryonic development of “kibara-yoshinobori” Rhinogobius sp. YB. A) Appearance of embryo, beginning of observation; B) Appearance of optic vesicle, 6 h 30 min. after observation; C) Appearance of myomeres, 11 h 30 min; D) Appearance of auditory vesicle, 21 h; E) 21 myomeres, 27 h 30 min; F) Appearance of melanophores, 46 h; G) Appearance of heart and biginning of eye pigmentation, 54 h; H) Eye fully pigmented, 103 h 30 min; I) Formation of gas bladder, 150 h 30 min. 10 hours before hatching.",
+      "bbox": [
+        0.085,
+        0.1,
+        0.915,
+        0.67
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._6._Embryonic_development_of_“kibara-yoshinobori”_Rhinogobius_sp._YB._A)_App.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 6. Embryonic development of “kibara-yoshinobori” Rhinogobius sp. YB. A) Appearance of embryo, beginning of observation; B) Appearance of optic vesicle, 6 h 30 min. after observation; C) Appearance of myomeres, 11 h 30 min; D) Appearance of auditory vesicle, 21 h; E) 21 myomeres, 27 h 30 min; F) Appearance of melanophores, 46 h; G) Appearance of heart and biginning of eye pigmentation, 54 h; H) Eye fully pigmented, 103 h 30 min; I) Formation of gas bladder, 150 h 30 min. 10 hours before hatching."
+    },
+    {
+      "type": "paragraph",
+      "text": "キバラヨシノボリの尾部骨格は，孵化直後の5.3 mmでは脊索が直線状に伸張したままであったが (Fig. 9A)，標準体長5.8 mmで脊索末端の上屈が始まり，下尾骨 (1+2, 3+4) と準下尾骨が軟骨で現れた (Fig. 9B)。体長6.7 mmで上尾骨が軟骨で現れた (Fig. 9C)。体長7.3 mmで椎体の硬骨化が終了し，準下尾骨の骨化が始まった。また，下尾骨5とCIHPU3+CPEP1, CPHPU3が現れた (Fig. 9D)。体長8.2 mmで尾鰭前第2椎体血管棘の前方が肥大してCIHPU3と接した (Fig. 9F)。"
+    },
+    {
+      "type": "paragraph",
+      "text": "各塩分条件下におけるキバラヨシノボリ仔稚魚の生残率は，0‰区が70%，5‰区が90%，10‰区が40%，15‰区が70%，20‰区が40%，25‰区が80%，30および35‰区がともに20%であった (Fig. 10A)。孵化後21日の平均体長は，0‰区が8.8 mm，5‰区が9.6 mm，10‰区が9.3 mm，15‰区が10.6 mm，20‰区が9.5 mm，25‰区が9.9 mm，30‰区が11.5 mm，35‰区が10.5 mmであった (Fig. 10B)。以上から，高塩分の30, 35‰区では，生残率が低い傾向が認められた。しかし，アオバラヨシノボリのように全個体が斃死することはなく，高塩分条件下でも30日後には着底するものも現れた。飼育終了時の最小体長は0, 10‰区の7.0 mm，最大は30‰区の12.4 mmであった。"
+    }
+  ],
+  "9": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "中卵型ヨシノボリの卵と仔稚魚"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 7. Morphological changes of reared larvae oh “kibara-yoshinobori” *Rhinogobius* sp. YB with its growth. A) Just hatched larva, 5.3 mm in notochord length (NL), URM—P40294; B) 5 days, 5.9 mm NL, URM—P40295; C) 7 days, 6.1 mm NL, URM—P40296; D) 11 days, 5.8 mm in standard length (SL), URM—P40297.",
+      "bbox": [
+        0.109,
+        0.064,
+        0.786,
+        0.406
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._7._Morphological_changes_of_reared_larvae_oh_“kibara-yoshinobori”_Rhinogobi.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 7. Morphological changes of reared larvae oh “kibara-yoshinobori” *Rhinogobius* sp. YB with its growth. A) Just hatched larva, 5.3 mm in notochord length (NL), URM—P40294; B) 5 days, 5.9 mm NL, URM—P40295; C) 7 days, 6.1 mm NL, URM—P40296; D) 11 days, 5.8 mm in standard length (SL), URM—P40297."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "考 察"
+    },
+    {
+      "type": "paragraph",
+      "text": "アオバラヨシノボリ (4.3±0.3 mm) とキバラヨシノボリ (4.3±0.2 mm) の卵径に有意差は認められなかった。しかし、前者の孵化仔魚ではすでに脊索の上層が始まっていたのに対し、後者の孵化仔魚では脊索がまだ直線的であった。さらに、両種間には卵黄吸収 (アオバラヨシノボリ3日, キバラヨシノボリ11-13日, キバラヨシノボリ21-30日) および35‰塩分条件下での生残率 (アオバラヨシノボリ0%, キバラヨシノボリ20%) に明らかな差が認められた。"
+    },
+    {
+      "type": "paragraph",
+      "text": "アオバラヨシノボリは, カワヨシノボリ (水野, 1963, 1987), ハナカジカ *Cottus nozawae* (後藤, 1981), イシガキヌマエビ *Caridina denticulata ishigakiensis*, ショキタテナガエビ *Macrobrachium shokitai* (Shokita, 1976; 諸喜田, 1979) と同様に, 卵内でより発育を進めることによって河川陸封の生活に適応したと考えられた。本種は飼育条件下では孵化後, 直ちにアルテミア幼生餌料を摂餌し, 日齢11-13で着底した。アオバラヨシノボリは, 河川の中, 上流域に生息し (諸喜田, 1990), その仔魚は明るい淡黄色を呈し, 岸沿いのごく浅い所にいることが多い (立原・平嶋, 1998)。"
+    },
+    {
+      "type": "paragraph",
+      "text": "一方, キバラヨシノボリでは, 孵化仔魚の体長"
+    }
+  ],
+  "10": [
+    {
+      "type": "figure",
+      "label": "Fig. 8. Morphological changes of reared larvae and juveniles of “kibara-yoshinobori” Rhinogobius sp. YB with its growth. A) 15 days, 6.6 mm in standard length, URM—P40298; B) 21 days, 7.3 mm SL, URM—P40299; C) 30 days, 13.2 mm SL, URM—P40300; D) 60 days, 19.7 mm SL, URM—P40301.",
+      "bbox": [
+        0.098,
+        0.141,
+        0.902,
+        0.685
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._8._Morphological_changes_of_reared_larvae_and_juveniles_of_“kibara-yoshinob.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 8. Morphological changes of reared larvae and juveniles of “kibara-yoshinobori” Rhinogobius sp. YB with its growth. A) 15 days, 6.6 mm in standard length, URM—P40298; B) 21 days, 7.3 mm SL, URM—P40299; C) 30 days, 13.2 mm SL, URM—P40300; D) 60 days, 19.7 mm SL, URM—P40301."
+    },
+    {
+      "type": "paragraph",
+      "text": "はアオバラヨシノボリとほぼ同大であったが, 孵化仔魚の形態は, 相対的に大きな卵黄をもち, 脊索が直線的であるなど, むしろ沖縄島に生息する両側回遊型のアヤヨシノボリ Rhinogobius sp. MO, クロヨシノボリ Rhinogobius sp. DA, シマヨシノボリ Rhinogobius sp. CB の孵化仔魚 (平嶋・立原, 未発表) とよく似ていた. しかし, キバラヨシノボリは卵黄の吸収に7日間を要し, 上述の沖縄島産の両側回遊型ヨシノボリ3種 (3–5日間) や本土産のオオヨシノボリ Rhinogobius sp. LD (2日間; Sakai and Yasuda, 1978) および同属のゴクラクハゼ Rhinogobius giurinus (1日間; 道津, 1961) より顕"
+    },
+    {
+      "type": "paragraph",
+      "text": "著に長かった. 両側回遊型の仔魚では, 卵黄吸収までは摂餌が認められないが (Sakai and Yasuda, 1978), 本種の仔魚は卵黄があるにもかかわらず, 孵化翌日には乾燥餌料を摂り始めた.\n現在, 沖縄島でキバラヨシノボリの生息する河川には, いずれも比較的大きな落差をもつ滝が存在している (立原・平嶋, 1998). このような滝の存在は, ユゴイ Kuhlia marginata やギンガメアジ Caranx sexfasciatus など, 肉食性魚類の遡上を妨げ (川那部, 1973), アオバラヨシノボリより長い浮遊期間をもつキバラヨシノボリ仔魚の被食を軽減しているものと考えられる. 一方, 浮遊期の短い"
+    }
+  ],
+  "11": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "中卵型ヨシノボリの卵と仔稚魚"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 9. Development of caudal skeleton and accessory cartilage in “kibara-yoshinobori” Rhinogobius sp. YB. A) 5.3 mm in notochord length (NL); B) 5.8 mm NL; C) 6.7 mm NL; D) 7.3 mm in standard length (SL); E) 8.3 mm SL; F) 18.2 mm SL. EP—epural; HY—hypural; PH—parhypural; CINPU—inter-neural spine cartilage of preural centrum; CPEP—post-epural cartilage; CIHPU—inter-haemal spine cartilage of preural centrum. Stiple areas show cartilage. Scales indicate 0.3 mm.",
+      "bbox": [
+        0.141,
+        0.125,
+        0.882,
+        0.542
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._9._Development_of_caudal_skeleton_and_accessory_cartilage_in_“kibara-yoshin.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 9. Development of caudal skeleton and accessory cartilage in “kibara-yoshinobori” Rhinogobius sp. YB. A) 5.3 mm in notochord length (NL); B) 5.8 mm NL; C) 6.7 mm NL; D) 7.3 mm in standard length (SL); E) 8.3 mm SL; F) 18.2 mm SL. EP—epural; HY—hypural; PH—parhypural; CINPU—inter-neural spine cartilage of preural centrum; CPEP—post-epural cartilage; CIHPU—inter-haemal spine cartilage of preural centrum. Stiple areas show cartilage. Scales indicate 0.3 mm."
+    },
+    {
+      "type": "paragraph",
+      "text": "アオバラヨシノボリは，大きな渦がない比較的勾配の緩やかな河川にも分布している（立原・平嶋, 1998）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "高塩分条件下における生残率は両種とも低い値であったが，特に発育を卵内で進める方向に進んだアオバラヨシノボリでは，35‰区の全ての仔魚が6時間以内に斃死した。この結果は，孵化仔魚を低塩分から順次，馴化させて変わらなかった。また，高塩分順では生残率が低くなったことから，本種は海水適応能を失っている可能性が強く示唆された。さらに成長も低塩分ほどよくなる傾向が認められた。ここで0‰区の成長が5‰区より悪かったのは，餌として与えたアルテミアが純淡"
+    },
+    {
+      "type": "paragraph",
+      "text": "水区では短時間で死んでしまうのに対し，5‰以上の区では次回の投餌まで生存していたこと，すなわち餌条件の違いを反映したものと思われた。一方，孵化時の形態が両側回遊型に近いキバラヨシノボリでは，生残率こそ低くなるものの35‰条件下でも20%が生存し，着底する個体もいた。このように陸封種の孵化仔魚が海水中で飼育可能な例は，カジカ類も知られている（後藤, 1981）。本種の場合，アオバラヨシノボリとは異なり，海域での生活が全く不可能ではないと考えられた。しかし，キバラヨシノボリの成魚が河川の上流にのみ偏って分布し，下流で仔稚魚が採集されないこと（平嶋・立原，未発表）から，本種もアオバ"
+    }
+  ],
+  "12": [
+    {
+      "type": "figure",
+      "label": "Fig. 10. Survivorship (A) and growth (B) of larvae and juveniles of “kibara-yoshinobori” Rhinogobius sp. YB under different salinity conditions during 21 days after hatching. Vertical bars show range of standard length. ■—0‰; ●—5‰; ▲—10‰; ○—15‰; □—20‰; △—25‰; ◇—30‰; ●—35‰.",
+      "bbox": [
+        0.193,
+        0.12,
+        0.846,
+        0.453
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_okinawa_medium_egg_devel_extracted/Fig._10._Survivorship_(A)_and_growth_(B)_of_larvae_and_juveniles_of_“kibara-yosh.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 10. Survivorship (A) and growth (B) of larvae and juveniles of “kibara-yoshinobori” Rhinogobius sp. YB under different salinity conditions during 21 days after hatching. Vertical bars show range of standard length. ■—0‰; ●—5‰; ▲—10‰; ○—15‰; □—20‰; △—25‰; ◇—30‰; ●—35‰."
+    },
+    {
+      "type": "paragraph",
+      "text": "ラヨシノボリと同様，淵沼に陸封された両側回遊型ヨシノボリ類とは異なり，不可逆的な河川内陸封の生活史をもつ，あるいはその途上にあるものと考えられた。"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上から，沖縄島の中卵型ヨシノボリ2種は，河川陸封の生活環をもち，島嶼間はもとより，海域を通して隣接する河川へ分散する可能性も低いことが示唆された。そしてアオバラヨシノボリは，摂餌をしながら大きな卵黄をゆっくりと消費することで海域より動物プランクトンが少ないと考えられる河川での浮遊生活に適していることと示唆された。両側回遊型から河川陸封型への進化を考える上で，両種の発育プロセスの違いは極めて興味深い。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "謝 辞"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究を行うにあたり，御助言を頂いた琉球大学理学部海洋自然科学科の諸喜田茂充博士に深謝の意を表する。また，仔稚魚の飼育に協力して頂いた琉球大学理学部海洋学科の佐々木興氏，取りまとめに協力して頂いた琉球大学理学研究科の太田格，Emi Obara，津波古優子の諸氏に深く感謝する。最後に原稿を校閲して頂き，的確な御助言を賜った琉球大学海洋自然科学科の吉野哲夫助教授および魚類学雑誌の校閲者諸氏に厚く御礼申し上げる。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "引 用 文 献"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dingerkus, G. and L. D. Uhler. 1977. Enzyme cleaning of alcian blue stained whole small vertebrates for demonstra- tion of cartilage. Stain Technol. 52: 229-232."
+    },
+    {
+      "type": "paragraph",
+      "text": "道津善衛. 1961. ゴクラクハゼの生態・生活史. 長崎"
+    }
+  ],
+  "13": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "中卵型ヨシノボリの卵と仔稚魚"
+    },
+    {
+      "type": "paragraph",
+      "text": "大水産学部研究報告, 10: 120-125."
+    },
+    {
+      "type": "paragraph",
+      "text": "藤田 清. 1990. 魚類尾部骨格の比較形態図説. 東海大学出版会, 東京. xiii+897pp."
+    },
+    {
+      "type": "paragraph",
+      "text": "藤田 清. 1981. 淡水カジカの生活史の適応と進化. 生物科学, 33: 129-136."
+    },
+    {
+      "type": "paragraph",
+      "text": "岩田明久. 1981. 南西諸島から得られた興味あるヨシノボリの1型―モザイク型―について. 淡水魚, 7: 18-21."
+    },
+    {
+      "type": "paragraph",
+      "text": "Katoh, M. and M. Nishida. 1994. Biochemical and egg size evolution of freshwater fishes in the *Rhinogobius brunneus* complex (Pisces, Gobiidae) in Okinawa, Japan. Biol. J. Linnean Soc., 51: 325-335."
+    },
+    {
+      "type": "paragraph",
+      "text": "川那部浩哉. 1973. 沖縄島におけるヨシノボリの特異な摂食行動について. 沖縄生物学会誌, 10: 1-6."
+    },
+    {
+      "type": "paragraph",
+      "text": "越川敏樹. 1989. トウヨシノボリ. 川那部浩哉・水野信彦 (編), pp. 594-597. 日本の淡水魚. 山と渓谷社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "幸地良仁・大城 勝. 1987. ダム建設によるヨシノボリ属魚類への影響. 沖縄 生物教育研究誌, 20: 8-23."
+    },
+    {
+      "type": "paragraph",
+      "text": "Masuda, Y., T. Ozawa and S. Enami. 1989. Genetic differentiation among eight types of freshwater goby, *Rhinogobius brunneus*, from western Japan. Japan. J. Ichthyol., 36: 30-41."
+    },
+    {
+      "type": "paragraph",
+      "text": "水野信彦. 1961. ヨシノボリの研究―I. 生活史の比較. 日本水産学会誌, 27: 6-11."
+    },
+    {
+      "type": "paragraph",
+      "text": "水野信彦. 1963. カジカとカワヨシノボリの分布とくに陸封と分化の特異性に関連して. 大阪学芸大学紀要, 11: 129-161."
+    },
+    {
+      "type": "paragraph",
+      "text": "水野信彦. 1987. ヨシノボリ類. 水野信彦・後藤 晃 (編), pp. 179-188. 日本の淡水魚類 その分布, 変異, 種分化をめぐって. 東海大学出版会, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "水野信彦. 1989. ヨシノボリ属. 川那部浩哉・水野信彦 (編), pp. 584-593. 日本の淡水魚. 山と渓谷社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "中山弘美. 1975. 沖縄の河川に生息するヨシノボリについて. 淡水魚, 1: 113-115."
+    },
+    {
+      "type": "paragraph",
+      "text": "西田 睦. 1994. ヨシノボリ類における生活史変異と種"
+    },
+    {
+      "type": "paragraph",
+      "text": "分化. 後藤 晃・塚本勝巳・前川光司 (編), pp. 154-169. 川と海を回遊する淡水魚―生活史と進化. 東京大学出版会, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "西島信昇. 1968. 沖縄産ヨシノボリの2型. 動物学雑誌, 77: 397-398."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai, H. and F. Yasuda. 1978. Development of eggs and larvae of the freshwater goby, *Rhinogobius brunneus*. Japan. J. Ichthyol., 25: 92-100."
+    },
+    {
+      "type": "paragraph",
+      "text": "瀬能 宏. 1985. 沖縄の川魚絶滅の危惧. 淡水魚, 11: 73-78."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shimizu, T., N. Taniguchi and N. Mizuno. 1993. An elec-trophoretic study of genetic differentiation of a Japanese freshwater goby, *Rhinogobius flumineus*. Japan. J. Ichthyol., 39: 329-343."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之. 1989. ヒラヨシノボリ. 川那部浩哉・水野信彦 (編), pp. 589. 日本の淡水魚. 山と渓谷社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之. 1992. 小笠原諸島父島で得られたヨシノボリの1種―オガサワラヨシノボリ (新称) (予報). 兵庫陸水生物, 42: 5-12."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shokita, S. 1976. Early life-history of the land-locked atyid shrimp, *Caridina denticulata ishigakiensis* Fujino et Shokita, from the Ryukyu Islands. Res. Crustacea, 7: 1-10."
+    },
+    {
+      "type": "paragraph",
+      "text": "諸喜田茂充. 1979. テナガエビ類の初期生活史. 海洋と生物, 4: 9-17."
+    },
+    {
+      "type": "paragraph",
+      "text": "諸喜田茂充. 1990. 沖縄島山原の陸水産大型動物相とその変動. 沖縄生物学会誌, 27: 3-13."
+    },
+    {
+      "type": "paragraph",
+      "text": "諸喜田茂充. 1996. 琉球列島の河川陸封コエビ類とサワガニ類の起源論. 地学雑誌, 105: 343-353."
+    },
+    {
+      "type": "paragraph",
+      "text": "立原一憲・平嶋健太郎. 1998. 43 キバラヨシノボリ. 日本の希少な野生水生生物に関するデータブック (水産庁編), pp. 196-197. 日本水産資源保護協会, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "高橋ちち子. 1997. 琵琶湖のヨシノボリ. 1997年度日本魚類学会シンポジウム「ヨシノボリ類を中心とした両側回遊型淡水魚の生態と進化」要旨集, p. 5."
+    }
+  ]
+}

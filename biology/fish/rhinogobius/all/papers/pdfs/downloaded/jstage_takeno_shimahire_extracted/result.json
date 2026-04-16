@@ -1,0 +1,447 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "京都府竹野川水系からのシマヒレヨシノボリの初記録"
+    },
+    {
+      "type": "paragraph",
+      "text": "川中太陽¹・藤井流穂²・井上友喜³・国松翔太⁴"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Author & Article Info"
+    },
+    {
+      "type": "paragraph",
+      "text": "¹京都大学理学部理学科（京都市）"
+    },
+    {
+      "type": "paragraph",
+      "text": "kawanaka.taiyo.58j@st.kyoto-u.ac.jp (corresponding author)"
+    },
+    {
+      "type": "paragraph",
+      "text": "²京都大学農学部資源生物科学科（京都市）"
+    },
+    {
+      "type": "paragraph",
+      "text": "³立命館大学生命科学部生物工学科（草津市）"
+    },
+    {
+      "type": "paragraph",
+      "text": "⁴（長崎市）"
+    },
+    {
+      "type": "paragraph",
+      "text": "Received 30 October 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "Revised 18 November 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "Accepted 18 November 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "Published 19 November 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "DOI 10.34583/ichthy.61.0_24"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taiyo Kawanaka, Ryuho Fujii, Tomoki Inoue and Shota Kunimatsu. 2025. First record of *Rhinogobius tyoni* Suzuki, Kimura and Shibukawa (Perciformes, Gobiidae) from the Takeno-gawa River system, Kyoto Prefecture, Japan. Ichthy, Natural History of Fishes of Japan, 61: 24–32."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thirteen specimens of *Rhinogobius tyoni* Suzuki, Kimura and Shibukawa, 2019 were collected from the Takeno-gawa River system, Kyoto Prefecture, Honshu, Japan. This species mainly inhabits rivers flowing into the Seto Inland Sea and has previously been recorded from the two river systems (Maruyama-gawa and Yura-gawa river systems) flowing into the Sea of Japan in Honshu. Thus, these specimens represent the first record of *R. tyoni* from the Takeno-gawa River system and the third record from a river flowing into the Sea of Japan in Honshu. Six of the 13 specimens were identified as the species based on the following characters: predorsal area with small cycloid scales; 8–12 predorsal scales; 22 pectoral fin rays; 30–33 longitudinal scales; first dorsal fin low in males, not extending posteriorly to origin of second dorsal fin when adpressed; third spine of first dorsal fin longest; posterior oculoscapular canal usually absent; preopercular canal present; anterior part of first dorsal fin lacking large dark circle; caudal fin base without orange markings; caudal fin with 3–6 dark vertical lines; lower half of caudal fin reddish orange in males. The remaining seven specimens exhibited characters that deviated slightly from those described in the original diagnosis of the species. Such differences may represent regional morphological variation within the species."
+    },
+    {
+      "type": "paragraph",
+      "text": "シマヒレヨシノボリ *Rhinogobius tyoni* Suzuki, Kimura and Shibukawa, 2019 は, ハゼ科ヨシノボリ属 *Rhinogobius* Gill, 1859 の一種であり, 雄の第1背鰭が伸長せず, 尾鰭中央に横点列や横線があり, 生時あるいは生鮮時に雄の尾鰭下葉下部に赤色斑があることなどで日本産同属他種から区別される（鈴木ほか, 2010; Suzuki et al., 2019）. 本種は, 水野ほか（1989）が提唱したトウヨシノボリ *Rhinogobius* sp. OR の一新型「トウヨシノボリ縞鰭型」として鈴木（1996）によって提唱された. その後, 鈴木ほか（2010）により本種に *Rhinogobius* sp. BF が充てられるとともに, 標準和名「シマヒレヨシノボリ」が提唱され, 2019年の新種記載以前も区別・表記されていた（Suzuki et al., 2019）. 本種の生息地は池沼, 用水路, 河川中・下流域のワンドなどの止水域であり（鈴木ほか, 2010）, 一生を淡水域で過ごす純淡水魚である（Tsunagawa et al., 2010）. 本種の主な分布域は本州の広島県から和歌山県, および四国の愛媛県から徳島県に至る瀬戸内海集水域であり, 福岡県, 兵庫県および京都府の日本海流入河川からも記録がある（鈴木ほか, 2017; Suzuki et al., 2019; 国松・福家, 2021）. 2025年の5月と10月に京都府北部の丹後半島を流れる日本海流入河川である竹野川水系の溜池および農業用水路からシマヒレヨシノボリが13個体採集された. 竹野川水系を含む丹後半島ではこれまでに本種の記録はなく（東山・林, 1998）, 本標本が初記録となる. また, 本州の日本海流入河川ではこれまでにタイプ産地である兵庫県円山川水系と京都府由良川水系の2水系のみで記録されており（鈴木, 1996; Suzuki et al., 2019; 国松・福家, 2021）, 自然分布であるかは不明とする見解もある（藤田, 2025）. 当該標本は, 本州の日本海流入河川における3例目の記録であり, 本種の日本海側における分布域が従来考えられていたよりも広い可能性を示唆している. また, 本記録は瀬戸内海側と日本海側における淡水生物相の交流過程を解明する上での基礎的な知見となると考えられるので, ここに報告する."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "材料と方法"
+    },
+    {
+      "type": "paragraph",
+      "text": "2025年5月11日および2025年10月12日に京都府京丹後市内の竹野川水系の溜池2箇所（St. A, Bとする）お"
+    }
+  ],
+  "2": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. Maps around Tango Peninsula, Kyoto Prefecture, Japan. Solid stars indicate sampling sites of Rhinogobius tyoni in the Takeno-gawa River system.",
+      "bbox": [
+        0.04,
+        0.07,
+        0.96,
+        0.42
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_takeno_shimahire_extracted/Fig._1._Maps_around_Tango_Peninsula,_Kyoto_Prefecture,_Japan._Solid_stars_indica.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Maps around Tango Peninsula, Kyoto Prefecture, Japan. Solid stars indicate sampling sites of Rhinogobius tyoni in the Takeno-gawa River system."
+    },
+    {
+      "type": "paragraph",
+      "text": "および農業用水路 (St. C とする) においてタモ網を用い て採集調査を行った (Fig. 1)。保全上の観点から本稿ではシ マヒレヨシノボリの詳細な採集地点については公表しな い。得られたシマヒレヨシノボリの一部は現地で生時の 水槽写真を撮影した。得られた個体は持ち帰ってクロー ブの抽出液, ベンゾカインあるいは氷冷によって麻酔した のち, 本村 (2009) にしたがい標本の作成・撮影を行っ た。また, すべての標本から遺伝試料として右胸鰭を切除し, 99% エタノール中で保存した。本研究に用いた標本は京 都大学総合博物館 (FAKU) に登録・収蔵されている。また, 色彩の記載に用いた生鮮時の標本写真と, 一部の採集個体 (FAKU 212327) の水槽写真, および現地で撮影された個 体水中写真は神奈川県立生命の星・地球博物館 (KPM) の魚類写真資料 (KPM-NR) に登録されている。なお, 写 真資料番号は同館のデータベース上では 0 から始まる 7 桁 の数字で表記されるが, 本稿では本質的な有効数字を示 した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "標本の観察にはホルマリン固定後, 70% エタノール中 に保存したものを用いた。計測にはデジタルノギスを使 用し, Suzuki et al. (2019) および Endruweit (2024) にしたがっ て 0.01 mm 単位まで計測し, 小数第 2 位を四捨五入した。 第 1 背鰭最長棘条については生鮮時のデジタル写真を対象 に, ImageJ (Schneider et al., 2012) を用いて計測した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "雄の判別は Suzuki et al. (2019) にしたがい, 体色および鰭 の形態に基づいて行った。頭部感覚管および頭部感覚管開 孔の名称は明仁ほか (2013) にしたがった。頭部感覚器官 の観察はメチレンブルー水溶液で染色して行った (花崎・ 三宅, 2020 参照)。鱗および腹鰭第 5 軟条の分岐状態の観 察は 1 個体 (FAKU 212330) のみ 2% 水酸化カリウム水溶 液にアリザリン粉末を溶解させたもので染色して行い, 他 の個体は染色せずに作った。色彩の記載については生鮮標 本のデジタル写真に基づき, 生鮮写真を撮影した 12 個体 (FAKU 212327–212336, 212374, 212375) について対象とし た。標準体長は SL と略記した。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rhinogobius tyoni Suzuki, Kimura and Shibukawa, 2019 シマヒレヨシノボリ"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Figs. 2, 3; Tables 1, 2)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "標本"
+    },
+    {
+      "type": "paragraph",
+      "text": "13 個体 : FAKU 212327, 1 個体, 41.4 mm SL, 京都府京丹後市, 竹野川水系の農業用水路 (St. C), タモ網, 2025 年 5 月 11 日, 川中太陽; FAKU 212328–212336, 9 個体, 29.1–39.0 mm SL, 京都府京丹後市, 竹野川水系の溜池 (St. A), タモ網, 2025 年 5 月 11 日, 藤井琉穂・井上友喜・ 川中太陽; FAKU 212374–212376, 3 個体, 28.8–33.9 mm SL, 京都府京丹後市, 竹野川水系の溜池 (St. B), タモ網,"
+    }
+  ],
+  "3": [
+    {
+      "type": "figure",
+      "label": "Fig. 2. Rhinogobius tyoni from the Takeno-gawa River system, Kyoto Prefecture, Japan. A–B: FAKU 212327, 41.4 mm SL, male, same individual as KPM-NR 263666D and KPM-NR 26366C; C: FAKU 212331, 29.1 mm SL, male, same individual as KPM-NR 263670A; D: FAKU 212332, 30.3 mm SL, male, same individual as KPM-NR 263671B; E: FAKU 212336, 36.2 mm SL, male, same individual as KPM-NR 263675D; F: FAKU 212333, 34.2 mm SL, female, same individual as KPM-NR 263672B; G: FAKU 212374, 30.1 mm SL, male, same individual as KPM-NR 266008C; H: FAKU 212375, 28.8 mm SL, male, same individual as KPM-NR 266009B; I: live individual of R. tyoni at St. B, same individual as KPM-NR 266011. Photographed by T. Kawanaka (A), R. Fujii (B–H), and K. Kawaguchi (I).",
+      "bbox": [
+        0.1,
+        0.06,
+        0.89,
+        0.5
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_takeno_shimahire_extracted/Fig._2._Rhinogobius_tyoni_from_the_Takeno-gawa_River_system,_Kyoto_Prefecture,_J.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. Rhinogobius tyoni from the Takeno-gawa River system, Kyoto Prefecture, Japan. A–B: FAKU 212327, 41.4 mm SL, male, same individual as KPM-NR 263666D and KPM-NR 26366C; C: FAKU 212331, 29.1 mm SL, male, same individual as KPM-NR 263670A; D: FAKU 212332, 30.3 mm SL, male, same individual as KPM-NR 263671B; E: FAKU 212336, 36.2 mm SL, male, same individual as KPM-NR 263675D; F: FAKU 212333, 34.2 mm SL, female, same individual as KPM-NR 263672B; G: FAKU 212374, 30.1 mm SL, male, same individual as KPM-NR 266008C; H: FAKU 212375, 28.8 mm SL, male, same individual as KPM-NR 266009B; I: live individual of R. tyoni at St. B, same individual as KPM-NR 266011. Photographed by T. Kawanaka (A), R. Fujii (B–H), and K. Kawaguchi (I)."
+    },
+    {
+      "type": "paragraph",
+      "text": "2025 年 10 月 12 日, 藤井琉穂・川口晃志郎・川中太陽・佐藤充朗."
+    },
+    {
+      "type": "paragraph",
+      "text": "写真 KPM-NR 263666D (アルファベットは枝番号): FAKU 212327 の水槽写真, 川中太陽撮影; KPM-NR 263666A–C: FAKU 212327 の生鮮時の標本写真, 藤井琉穂撮影; KPM-NR 263667–263675: それぞれ FAKU 212328–212336 の生鮮時の標本写真, 藤井琉穂撮影; KPM-NR 266008, 266009: それぞれ FAKU 212374, 212375 の生鮮時の標本写真, 藤井琉穂撮影; KPM-NR 266010, 266011: St. B にて撮影された水中写真, 2025 年 10 月 12 日, 川口晃志郎撮影; KPM-NR 266012: St. A にて採集された個体の水槽写真, 2025 年 10 月 12 日, 川中太陽撮影."
+    },
+    {
+      "type": "paragraph",
+      "text": "記載 計数形質と各部の SL に対する割合は Table 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "に示し, 計数値の頻度分布は Table 2 に示した. 頭部はやや縦扁し, 躯幹部と尾部は後方にかむうにつれて側扁する. 体背縁は, 吻端から眼上にかけて上昇し, 眼の後縁上にかけてやや下降し, そこから前鰓蓋の後縁上方までやや腹縁は下顎先端から口角の下方までやや下降し, そこから腹鰭基部にかけてゆるやかに下降し, そこから尻鰭基部まで体軸とほぼ並行で, その後は尾鰭基底までゆるやかに上昇する. 吻は短く, 丸い. 下顎は上顎よりもやや突出する. 上顎後端は眼の前端下方を超えない. 眼は頭部側面の背側に位置し, 吻端と前鰓蓋骨後縁の中点を通る垂線よりやや前方にある. 体側には櫛鱗が分布し, 正中線上や後方で大きい. 被鱗域は体側より尾鰭に達し, 尾鰭上では 1–3"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "Kawanaka et al. — First record of *Rhinogobius tyoni* from the Takeno-gawa River, Kyoto Prefecture"
+    },
+    {
+      "type": "paragraph",
+      "text": "列の小円鱗となる。第1背鰭最終棘と胸鰭腋下方を結ぶ線より前方の背面には小円鱗が分布し,被鱗域前縁は背面から見るとW形を呈し,その最も後方に凹んでいる領域は前鰓蓋部後縁上方に達しない。躯幹部腹面は小円鱗に覆われる。腹鰭基底前方と胸鰭基底前方は無鱗である。第1背鰭は雌雄ともに伸長せず,台形か将棋駒形。第1背鰭基部は胸鰭基部の直上よりやや後方に位置する。雄では第1背鰭の第3棘が最長の個体が9個体 (FAKU 212327, 212328, 212330, 212332, 212334–212336, 212374, 212376), 第2棘が最長の個体が2個体 (FAKU 212329, 212375), 第4棘が最長の個体が1個体 (FAKU 212331) みられた。雌 (FAKU 212333) では第3棘が最長であった。雄では第1背鰭の最長の棘を倒しても第2背鰭始部に達しない個体が8個体 (FAKU 212327–212329, 212332, 212334, 212336, 212374, 212375), 達する個体が4個体 (FAKU 212330, 212331, 212335, 212376) みられ,雌では達しなかった。第1背鰭と第2背鰭の高さは概ね同程度である。第2背鰭の形状は台形に近く,雄では第7軟条以降の軟条が伸長するが,雌では軟条の伸長はみられず,第3軟条が最も長い。第2背鰭基底後端は臀鰭基底後端よりもわずかに後方"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. Counts and proportional measurements of *Rhinogobius tyoni* from the Takeno-gawa River system, Kyoto Prefecture."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Counts and proportional measurements of *Rhinogobius tyoni* from the Takeno-gawa River system, Kyoto Prefecture.",
+      "bbox": [
+        0.1076,
+        0.3444,
+        0.8923,
+        0.9444
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_takeno_shimahire_extracted/Table_1._Counts_and_proportional_measurements_of_Rhinogobius_tyoni_from_the_Take.jpg"
+    }
+  ],
+  "5": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Kawanaka et al. — First record of Rhinogobius tyoni from the Takeno-gawa River, Kyoto Prefecture"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3. Status of cephalic sensory canal pores of each specimen of Rhinogobius tyoni in the Takeno-gawa River system, Kyoto Prefecture, Japan. Orange with circle indicates single pore opening, green with square indicates both side pore opening, blue with triangle indicates only left side pore opening, pink with inverted triangle indicates only right side pore opening and gray indicates no pore opening.",
+      "bbox": [
+        0.08,
+        0.08,
+        0.92,
+        0.42
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_takeno_shimahire_extracted/Fig._3._Status_of_cephalic_sensory_canal_pores_of_each_specimen_of_Rhinogobius_t.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. Status of cephalic sensory canal pores of each specimen of Rhinogobius tyoni in the Takeno-gawa River system, Kyoto Prefecture, Japan. Orange with circle indicates single pore opening, green with square indicates both side pore opening, blue with triangle indicates only left side pore opening, pink with inverted triangle indicates only right side pore opening and gray indicates no pore opening."
+    },
+    {
+      "type": "paragraph",
+      "text": "に位置する。臀鰭起部は第2背鰭起部よりも後方に位置する。臀鰭の形状は台形に近く, 雄では第7軟条以降の軟条が伸長するが, 雌では伸長せず, 第6軟条が最も長い。尾鰭は団扇形。胸鰭は縦長の楕円形で, 胸鰭基底中央は腹鰭起部よりもやや後方に位置する。左右の腹鰭は癒着し, 縦長の楕円形の吸盤状となる。腹鰭の棘周辺は"
+    },
+    {
+      "type": "paragraph",
+      "text": "葉状に弱く突出する。腹鰭第5軟条は最初に2分岐する。頭部感覚管開孔の様式は Fig. 3 に示した。前眼肩甲管では開孔 B', C, D, E, F, H' がみられたが, 変異が多く, D が単一開孔になっているものが9個体 (FAKU 212328, 212330, 212331, 212334–212336, 212374–212376), 2つの開孔となっているものが4個体 (FAKU 212327, 212329, 212332,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2. Frequency of meristic values of Rhinogobius tyoni from the Takeno-gawa River system, Kyoto Prefecture, Japan. Males: FAKU 212327–212332, 212334–212336, 212374–212376; Female: FAKU 212333."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Frequency of meristic values of Rhinogobius tyoni from the Takeno-gawa River system, Kyoto Prefecture, Japan. Males: FAKU 212327–212332, 212334–212336, 212374–212376; Female: FAKU 212333.",
+      "bbox": [
+        0.08,
+        0.7,
+        0.92,
+        0.9
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_takeno_shimahire_extracted/Table_2._Frequency_of_meristic_values_of_Rhinogobius_tyoni_from_the_Takeno-gawa_.jpg"
+    }
+  ],
+  "6": [
+    {
+      "type": "figure",
+      "label": "Fig. 4. Collection sites of Rhinogobius tyoni in the Takeno-gawa River system, Kyoto Prefecture, Japan. A, B: St. A (pond); C: St. C (agricultural channel).",
+      "bbox": [
+        0.05,
+        0.07,
+        0.95,
+        0.4
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_takeno_shimahire_extracted/Fig._4._Collection_sites_of_Rhinogobius_tyoni_in_the_Takeno-gawa_River_system,_K.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "212333) みられた。後眼肩甲管は3個体に存在し,左右両側でK', L'をもつものが1個体 (FAKU 212331), 左側で開孔様式が異なるものが2個体 (FAKU 212328 : 左側はK', L'が開孔,右側はK'のみ開孔; FAKU 212329 : 左側は開孔がなく,右側はK'のみ開孔) みられた。前鰓蓋管では左右ともにM', N, O'をもつものが7個体 (FAKU 212327–212329, 212333–212336), M', N'をもつものが1個体 (FAKU 212376), 開孔がないものが1個体 (FAKU 212375), 左右で開孔様式が異なる個体が4個体 (FAKU 212330 : 左側はO'のみ,右側はM', O'が開孔; FAKU 212331 : 左側はM', N, O',右側はM', N'が開孔; FAKU 212332 : 左側はM', N, O'が開孔,右側は開孔がない; FAKU 212374 : 左側はM', N, O',右側はO'が開孔) みられた。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "色彩"
+    },
+    {
+      "type": "paragraph",
+      "text": "色彩 生鮮時 (Fig. 2B–H) 頭部,躯幹部,尾部の背面および側面の地色は茶色であり,頭部および躯幹部の腹面の地色は白色。体側中央には10個体 (FAKU 212327, 212328, 212331–212336, 212374, 212375) で楕円形の暗色斑が鰓蓋の後方から尾鰭基底部にかけて5–8個縦列するが,2個体 (FAKU 212329, 212330) で不明瞭。背面には暗色斑が4–6個縦列し,体側の斑紋とは不連続または,部分的につながる。胸鰭基底部には小円または小楕円形の暗色斑がある。尾鰭基底には「く」の字形の暗色斑があり,橙色斑はない。眼の前縁から吻にかけてと眼の下縁から口角にかけて,それぞれ1本の暗赤褐色線がある。頬と鰓蓋部"
+    },
+    {
+      "type": "paragraph",
+      "text": "は11個体 (FAKU 212327–212329, 212331–212336, 212374, 212375) で橙色から朱色の小点を数個もち,1個体 (FAKU 212330) で無斑。体側にはすべての個体で橙色から朱色の小点が散在する。第1背鰭は雄8個体 (FAKU 212327–212212330, 212332, 212334–212336) で無斑,雌3個体 (FAKU 212331, 212374, 212375) と雌 (FAKU 212333) で縦斑列があり,上縁は黄色がかった白色。第2背鰭は中央部に2–5本の縦斑点列があり,上縁は黄色がかった白色。臀鰭には橙色の縦帯があり,その上縁は直線状か細かい鋸歯状。臀鰭下縁は青みがかった白色。尾鰭は中央部に3–6本の横線がある。尾鰭下葉下部の赤色斑は雄にはあるが雌にはない。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "分布"
+    },
+    {
+      "type": "paragraph",
+      "text": "分布 これまで日本でのみ確認されている (Suzuki et al., 2019)。本州では,広島県,岡山県,兵庫県,大阪府,京都府,滋賀県,奈良県,和歌山県,四国では愛媛県,香川県,徳島県から記録があり,瀬戸内海に流入する河川の流域に広く分布する (石田ほか, 2007; 鈴木ほか, 2010; Suzuki et al., 2019; 尾崎ほか, 2021)。また,九州の福岡県遠賀川水系からも記録がある (鈴木ほか, 2017, 福岡県環境部自然環境課, 2025)。本州の東海地方からも記録があるが,人為移入に由来すると考えられている (向井ほか, 2012; Suzuki et al., 2019; 向井, 2019)。本州の日本海側では,これまでに本種のタイプ産地である兵庫県円山川水系と京都府由良川水系のみで記録されていたが (鈴木, 1996; Suzuki et al., 2019; 国松・福家, 2021),本研究により新たに京都府竹野川水系から本種が記録された。"
+    }
+  ],
+  "7": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "生態状況"
+    },
+    {
+      "type": "paragraph",
+      "text": "京都府京丹後市内の2つの溜池 (St. A, B) および竹野川に接続する農業用水路 (St. C) から本種が得られた (Fig. 1)。St. Aではコンクリート護岸された狭い流出口 (Fig. 4B) で多数の個体が得られ, シマヒレヨシノボリの他に魚類は採集できなかったものの, 同所的に十脚甲殻類のスジエビ Palaemon paucidens De Haan, 1844が採集された。溜池本体は水面にヒシ Trapa jeholensisの繁茂する, 砂底の谷池であった (Fig. 4A)。St. Bではコンクリート護岸された溜池本体は砂底の谷池であった。同所的にモツゴ Pseudorasbora parva (Temminck and Schlegel, 1846), また十脚甲殻類のスジエビ, アメリカザリガニ Procambarus (Scapulicambarus) clarkii (Girard, 1852) およびヌカエビ Paratya improvisa Kemp, 1917が採集された。St. C (Fig. 4C) は砂泥底で緩やかな流れのある植生豊富な環境であり, 魚類ではカワムツ Nipponocypris temminckii (Temminck and Schlegel, 1846), オイカワ Opsariichthys platypus (Temminck and Schlegel, 1846), オオシマドジョウ Cobitis sp. BIWAE type A, ドジョウ Misgurnus anguillicaudatus (Cantor, 1842), また十脚甲殻類のアメリカザリガニ, テナガエビ Macrobrachium nipponense (De Haan, 1849), カワリヌマエビ属の一種 Neocaridina sp.が同所的に得られた。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "備考"
+    },
+    {
+      "type": "paragraph",
+      "text": "13個体の竹野川水系産の記載標本のうち6個体 (FAKU 212327, 212328, 212332–212334, 212336) は, 背鰭前方に小円鱗を被ること, 背鰭前方鱗数が8–12であること, 胸鰭条数が22であること, 縦列鱗数が30–33であること, 雌雄ともに第1背鰭は伸長しないこと, 第一背鰭は第3棘が最長で倒しても第2背鰭起部に達しないこと, 腹鰭第5軟条が最初に2分岐すること, 前鰓蓋骨があること, 後眼肩甲管は通常ないこと, 第1背鰭前半部に暗色斑を欠くこと, 尾鰭基底に橙色斑を欠くこと, 尾鰭の中央部に3–6本の横線があること, 雌の尾鰭下部下部に赤色斑があることなどの特徴がSuzuki et al. (2019) の示したシマヒレヨシノボリ Rhinogobius tyoni の特徴とよく一致したため本種に同定された。なお, 後眼肩甲管は6個体中1個体 (FAKU 212328) のみに認められたが, 原記載でも10個体中1個体に同管が認められており, 本形質は個体変異の範囲と判断される (後眼肩甲管をもつFAKU 212329, 212331についても同様に個体変異の範囲と判断した)。"
+    },
+    {
+      "type": "paragraph",
+      "text": "一方, 竹野川水系産の標本のうち残りの7個体 (FAKU 212329–212331, 212335, 212374–212376) では, 一部の形質においてSuzuki et al. (2019) に示された特徴と一致しない点が認められた: FAKU 212329および212375では第1背鰭の第2棘が最長で, 第3棘はそれよりも僅かに短い; FAKU 212330および212376では第1背鰭を倒すと第2背鰭起部に達する; FAKU 212331では第1背鰭の第4棘が最長で, 第3棘はそれよりも僅かに短く, 第1背鰭を倒すと第2背鰭起部に達する; FAKU 212335では背鰭前方鱗数が6で, 第1背鰭を倒すと第2背鰭起部に達する; FAKU 212374では背鰭前方鱗数が7。ただし, 鈴木ほか (2017) ではシマヒレヨシノボリの一部個体では第1背鰭を倒すと第2背鰭起部より後方に達することが報告されている。これら7個体のそのほかの特徴は, Suzuki et al. (2019) の示したシマヒレヨシノボリの特徴とよく一致していた。また, Suzuki et al. (2019) で示された本種の形態的特徴と異がみられた形質はいずれも特異な外れ値ではなく, 集団内における連続的な変異内に位置付けられた (Table 2)。本種は地域間で顕著な遺伝的分化が認められ, その程度は他種間にみられる遺伝的分化より大きいことが知られている (Ohara et al., 2009)。したがって, 原記載と異なる上記形態差は地域集団間の変異を反映している可能性があ る。そのため, 本研究では竹野川水系で得られた13個体の標本すべてを暫定的にシマヒレヨシノボリと同定した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "なお, 本種は琵琶湖淀川水系に固有のビワヨシノボリ Rhinogobius biwaensis Takahashi and Okazaki, 2017との交雑集団で背鰭前方鱗数が少なくなる傾向が報告されている (明仁ほか, 2019)。観察標本でみられた背鰭前方鱗数の少なさは, 種間交雑に起因する可能性も考えられる。しかし, 明仁ほか (2019) が交雑個体群の特徴として挙げた, ビワヨシノボリに類似する色彩特徴, すなわち第1背鰭および第2背鰭の青みがかった白色域, 臀鰭の橙色帯の赤色が弱いこと, 尾鰭の赤色が淡く上縁および後縁に黄味を欠くといった特徴は, 背鰭前方鱗数の少ない個体 (FAKU 212335, 212374) を含め, いずれの標本にも認められなかった。また, 周辺地域を含めビワヨシノボリの移入は確認されていない。したがって, これらの個体がビワヨシノボリとの交雑個体である可能性は低いと考えられる。"
+    },
+    {
+      "type": "paragraph",
+      "text": "シマヒレヨシノボリは京都府内では淀川水系と由良川水系のみで記録がある (石田ほか, 2007; 国松・福家, 2021; 高田, 2023)。竹野川水系からの記録はこれまでに報告がなく (東山・林, 1998), 本研究が初めての確認例となる。また, 本州の日本海流入河川ではこれまでにタイプ産地である兵庫県円山川水系と京都府由良川水系の2水系からのみ記録されている (Suzuki et al., 2019; 国松・福家, 2021)。したがって, 本研究で得られた標本は, 竹野川水系における本種の初記録であるとともに, 本州の日本海流入河川における3例目の記録となる。このことは, 本種の日本海側における分布域が従来考えられていたよりも広い可能性を示唆している。"
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリ属魚類は, 形態的特徴に基づく種同定が比較的難しい。シマヒレヨシノボリは, かつては広く分布するトウヨシノボリの一部として扱われ, 独立した種として認識されていなかった。特にヨシノボリ属魚類のなかで小型である本種は, ヨシノボリ属魚類として一括して記"
+    }
+  ],
+  "8": [
+    {
+      "type": "paragraph",
+      "text": "録される場合も少なくない (例えば: 小山ほか, 2018; 廣瀬・山野, 2025 など)。さらに、ミトコンドリア DNA の短い配列では種の識別が困難であり、環境 DNA の調査ではシマヒレヨシノボリと他種は区別できない (内藤ほか, 2020; Tsuji et al., 2025)。これらの要因により、本種の日本海側における分布がこれまで見過ごされてきた可能性がある。"
+    },
+    {
+      "type": "paragraph",
+      "text": "竹野川水系において本種が溜池や水路を含む複数地点で採集されたこと, および溜池 (St. A, B) と水路 (St. C) は直線距離で 4 km 以上も離れていることから, 本種は同水系内に広く分布している可能性がある。瀬戸内海流入河川と由良川水系, および由良川水系と円山川水系の間では河川争奪があったことが推定されており (岡田・高橋, 1969), 本種はそのような河川争奪を通じて主な分布域である瀬戸内海側から日本海側に分布域を拡大した可能性が指摘されている (国松・福家, 2021)。竹野川水系と円山川水系は上流域で隣接しているため, 河川争奪を介した分散の結果として, シマヒレヨシノボリが竹野川水系に自然分布している可能性がある。一方, 東海地方などにおける本種の分布は人為移入由来である可能性が指摘されており (Suzuki et al., 2019; 向井, 2019), 竹野川水系で確認されたシマヒレヨシノボリが移入に由来する可能性も否定できない。本州の日本海流入河川における本種の分布を自然分布かどうか不明とする見解もあることから (藤田, 2025), 竹野川水系ひいては本州の日本海流入河川におけるシマヒレヨシノボリの由来を検証するには, 周辺地域での詳細な分布調査や遺伝解析による検討が必要である。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "謝辞"
+    },
+    {
+      "type": "paragraph",
+      "text": "藤原恭司博士 (京都大学総合博物館) には標本の登録および観察にご協力いただいた。和田英敏博士 (神奈川県立生命の星・地球博物館) には画像資料の登録の労を賜った。太田 翔氏 (高知大学理工学部) には文献の収集にご協力いただいた。川口晃志郎氏 (京都大学理学部) には標本の採集にご協力いただき, 水中写真を提供していただいた。佐藤充朗氏 (京都大学理学部) には標本の採集にご協力いただいた。サビぬき氏 (よくわかる！日本のヨシノボリ: URL) には京都府北部におけるシマヒレヨシノボリの分布状況に関してご教示いただいた。吉田奈央氏 (京都大学農学部地域環境工学科) には文献を提供していただいた。Ichthy 担当編集委員の井藤大樹博士および匿名の査読者には本稿の改訂にあたり有益なご助言をいただいた。この場を借りて厚く御礼申し上げる。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "引用文献"
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁・藍澤正宏・池田祐二・岸田宗範・林 公義・中山耕至・中坊次. 2019. 京都御苑の仙洞御所の池に生息するビワヨシノボリ *Rhinogobius biwaensis* とシマヒレヨシノボリ *Rhinogobius* sp. BF の野外交雑個体. 魚類学雑誌, 66: 53–62."
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁・坂本勝一・池田祐二・藍澤正宏. 2013. ハゼ亜目, pp. 1347–1608, 2109–2211. 中坊徹次 (編) 日本産魚類検索 全種の同定. 第3版. 東海大学出版会, 秦野."
+    },
+    {
+      "type": "paragraph",
+      "text": "Endruweit, M. 2024. Fishes of the Red River – Perciformes, Synbranchiformes. Endruweit, Isernhagen. 282 pp."
+    },
+    {
+      "type": "paragraph",
+      "text": "藤田朝彦. 2025. シマヒレヨシノボリ, p. 502. 細谷和海 (編) 山渓ハンディ図鑑 日本の淡水魚. 第4版. 山と溪谷社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "福岡県環境部自然環境課. 2025. 福岡県の希少野生生物—福岡レッドデータブック 2024—. 福岡県環境部環境課, 福岡. 861 pp."
+    },
+    {
+      "type": "paragraph",
+      "text": "花崎勝司・三宅壽一. 2020. 大阪府阪南市から採集されたクロヨシノボリ. きしわだ自然資料館研究報告, 6: 33–36."
+    },
+    {
+      "type": "paragraph",
+      "text": "東山憲行・林 博之. 1998. 丹後半島および半島周辺の淡水魚類相. 南紀生物, 44: 82–94."
+    },
+    {
+      "type": "paragraph",
+      "text": "廣瀬洋介・山野ひとみ. 2025. 岡山県高梁川水系の農業用水路の魚類相. 岡山県自然保護センター研究報告, 32: 1–12."
+    },
+    {
+      "type": "paragraph",
+      "text": "石田裕子・中林真人・竹門康弘・池淵周一. 2007. 堰堤で仕切られた都市河川の魚類相と生息場の特性. 京都大学防災研究所年報, 50B: 781–788."
+    },
+    {
+      "type": "paragraph",
+      "text": "小山彰彦・松永誠弥・川本朋慶・菅野一輝・澤 海人・鬼倉徳雄. 2018. 遠賀川河口部の多自然魚道で確認されたハゼ類と産卵巣. 魚類学雑誌, 65: 191–197."
+    },
+    {
+      "type": "paragraph",
+      "text": "国松翔太・福家悠介. 2021. 京都府由良川水系からのシマヒレヨシノボリの初記録および同一水系に生息するトウヨシノボリとの形態比較. Ichthy, Natural History of Fishes of Japan, 4: 12–17."
+    },
+    {
+      "type": "paragraph",
+      "text": "野信彦・辻 幸一・鈴木寿之・越川敏樹・岩田明久. 1989. ヨシノボリ属, pp. 179–188. 川那部浩哉・水野信彦 (編) 山渓カラー名鑑 日本の淡水魚. 山と溪谷社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "浩之. 2009. 魚類標本の作製と管理マニュアル. 鹿児島大学総合研究博物館, 鹿児島. 70 pp."
+    },
+    {
+      "type": "paragraph",
+      "text": "向井貴彦. 2019. シマヒレヨシノボリ, p. 196. 向井貴彦 (編) 岐阜県の魚類. 第2版. 岐阜新聞社, 岐阜."
+    },
+    {
+      "type": "paragraph",
+      "text": "向井貴彦・平嶋健太郎・古橋 芽・古田莉奈・淀 太我・中西尚文. 2012. 三重県鈴鹿市南部のため池群におけるヨシノボリ類の分布と種間交雑. 日本生物地理学会会報, 67: 15–24."
+    },
+    {
+      "type": "paragraph",
+      "text": "内藤太輔・赤松良久・都築隆禎・横山良太・畔上雅樹・宮本健也・乾 隆帝. 2020. 環境 DNA による魚類の網羅的解析の河川水辺での国勢調査への導入に関する検討. 河川技術論文集, 26: 337–342."
+    },
+    {
+      "type": "paragraph",
+      "text": "岡田篤正・高橋健一. 1969. 由良川の大規模な流路変更. 地学雑誌, 78: 19–37."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara K., M. Hotta, D. Takahashi, T. Asahida, H. Ida and T. Umino. 2009. Use of microsatellite DNA and otolith Sr:Ca ratios to infer genetic relationships and migration history of four morphotypes of *Rhinogobius* sp. OR. Ichthyological Research, 56: 373–379."
+    },
+    {
+      "type": "paragraph",
+      "text": "尾﨑友輔・川瀬成吾・中山耕至. 2021. 滋賀県琵琶湖水系から初記録のシマヒレヨシノボリ. Ichthy, Natural History of Fishes of Japan, 15: 5–9."
+    },
+    {
+      "type": "paragraph",
+      "text": "Schneider, C. A., W. S. Rasband and K. W. Eliceiri. 2012. NIH Image to ImageJ: 25 years of image analysis. Nature Methods, 9: 671–675."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之. 1996. 兵庫県円山川で採集されたトウヨシノボリの1新型. 兵庫陸水生物, 47: 1–9."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・藍澤正宏・渋川浩一. 2017. クロダハゼ: シマヒレヨシノボリとの識別点と“トウヨシノボリ偽橙色型”との関係. 東海自然誌, 10: 57–66."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., S. Kimura and K. Shibukawa. 2019. Two new lentic, dwarf species of *Rhinogobius* Gill, 1859 (Gobiidae) from Japan. Bulletin of Kanagawa Prefectural Museum (Natural Science), 48: 21–36."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・向井貴彦・吉郷英範・大迫尚晴・鄭 達壽. 2010. トウヨシノボリ縞鰭型の再定義と新標準和名の提唱. 大阪市立自然史博物館研究報告, 64: 1–14."
+    },
+    {
+      "type": "paragraph",
+      "text": "高田喜光. 2023. シマヒレヨシノボリ, p. 128. 京都大学淡水生物研究会 (編) 鴨川の魚図鑑 洛中洛外魚類図. 京都大学淡水生物研究会, 京都."
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "Kawanaka et al. — First record of Rhinogobius tyoni from the Takeno-gawa River, Kyoto Prefecture"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsuji, S., S. Kunimatsu and K. Watanabe. 2025. Environmental DNA comparative phylogeography: simultaneous estimation of population structures within a species-rich group of freshwater gobies. Molecular Ecology, doi.org/10.1111/mec.70059 (Nov. 2025)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa, T., T. Suzuki and T. Arai. 2010. Migratory history of Rhinogobius sp. OR morphotype “Shimahire” as revealed by otolith Sr:Ca ratios. Ichthyological Research, 57: 10–15."
+    }
+  ]
+}

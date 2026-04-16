@@ -1,0 +1,463 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ORIGINAL PAPER"
+    },
+    {
+      "type": "paragraph",
+      "text": "高木基裕1・関谷一平2・柴河亮平2・清水孝昭3・河西亮太4・井上幹生4：加茂川および中山川水系におけるダムによる隔離がヨシノボリ類 Rhinogobius spp. の遺伝的構成に及ぼす影響．応用生態工学 15 (2), 161-170, 2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "1 愛媛大学南予水産研究センター樽味分室 〒790-8566 愛媛県松山市樽味 3-5-7"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 愛媛大学農学部 〒790-8566 愛媛県松山市樽味 3-5-7"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 愛媛県水産研究センター 〒799-3125 愛媛県伊予市森 121-3"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 愛媛大学大学院理工学研究科 〒790-8577 愛媛県松山市文京町 2-5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Motohiro TAKAGI1, Ippei SEKIYA2, Ryohei SHIBAKAWA2, Takaaki SHIMIZU3, Ryota KAWANISHI4, Mikio INOUE4: Genetic influence of the dam isolations in the Kamo and Nakayama River systems on the common fresh water goby populations Rhinogobius spp. Ecol. Civil Eng. 15 (2), 161-170, 2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "1 South Ehime Fisheries Research Center Tarumi branch, Ehime University, Tarumi Matsuyama, Ehime 790-8566, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Faculty of Agriculture, Ehime University, Tarumi Matsuyama, Ehime 790-8566, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Ehime Fisheries Research Center, Mori Iyo, Ehime 799-3125, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Graduate School of Science and Engineering, Ehime University, Bunkyo-cho Matsuyama, Ehime 790-8577, Japan"
+    },
+    {
+      "type": "figure",
+      "label": "Ecology and Civil Engineering 応用生態工学",
+      "bbox": [
+        0.745,
+        0.34,
+        0.885,
+        0.435
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Ecology_and_Civil_Engineering_応用生態工学.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract: Influence of the dams in the Kamo and Nakayama River systems in the Ehime Prefecture on the common freshwater gobies Rhinogobius flumineus (non-diadromous species), R. sp. CB, R. fluviatilis and R. kurodai (amphidromous species) were surveyed using three microsatellite loci. Genetic variability was high in R. sp. CB (0.900-0.919) and low in R. flumineus (0.191-0.278). Considerable genetic differences were observed among the species. The effects of a dam with a reservoir were examined for R. flumineus and R. sp. CB. In R. flumineus (non-diadromous species), genetic differences were not observed between populations above and below the Nakayama-gawa Dam (Nakayama R.). In R. sp. CB (amphidromous species), migratory history was also examined using otolith Sr:Ca ratio. The otolith Sr:Ca ratio analysis confirmed that the population above the Kurose Dam (Kamo R.) was landlocked by the dam. However, genetic heterogeneity was not observed between populations above and below the Kurose Dam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key words: dam, genetic differentiation, microsatellite, otolith Sr:Ca, Rhinogobius"
+    },
+    {
+      "type": "paragraph",
+      "text": "わが国の河川には，治水や利水を目的に多くのダムが建設されている．ダムの建設は，河川の連続性を分断し，河川環境を大きく変化させるため，そこに生息する生物に多大な影響を及ぼすことが知られている（例えば，森，2004）．"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "本研究では，高知県仁淀川水系の支流である土居川において，ダム建設によって生じた孤立個体群の生活史を明らかにするため，耳石の Sr/Ca 比分析およびミトコンドリア DNA の塩基配列分析を行った．"
+    },
+    {
+      "type": "paragraph",
+      "text": "材料と方法"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "調査場所"
+    },
+    {
+      "type": "paragraph",
+      "text": "調査は，高知県吾川郡仁淀川町を流れる仁淀川水系土居川（流路延長 28 km，流域面積 23 km²）で行った（Fig. 1）．土居川には，河口から約 62 km 地点に中奥ダム（堤高 10 m，流域面積 1.4 km²，湛水面積 0.015 km²）が建設されている．中奥ダムは 1973 年に完成した発電用ダムであり，魚道の設置はない（Table 1; Fig. 1）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "土居川には，中奥ダムより下流に大久保堰堤，音関堰堤の 3 つの取水堰堤が存在する（Table 1; Fig. 1）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "採集調査は，中奥ダム上流の 2 地点（Kaminakaya，Yutaniguchi）およびダム下流の 2 地点（Nakaoku，Tani R.）の計 4 地点で行った（Fig. 1）．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "標本の採集"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011 年 9 月に，各調査地点においてエレクトリックショッカー（SMITH-ROOT 社製，LR24）を用いて採集を行った．採集した個体は，氷冷して持ち帰り，体長（SL）を 0.1 mm 単位で測定した後，分析に供するまで -20℃ で冷凍保存した（Table 1; Fig. 1）．"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1 Map of the study area in the Doi River, a tributary of the Niyodo River system, Kochi Prefecture, Japan.",
+      "bbox": [
+        0.51,
+        0.15,
+        0.95,
+        0.45
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Fig._1_Map_of_the_study_area_in_the_Doi_River,_a_tributary_of_the_Niyodo_River_s.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "Table 1 Sampling locations and characteristics of dams and weirs in the Doi River.",
+      "bbox": [
+        0.51,
+        0.48,
+        0.95,
+        0.65
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Table_1_Sampling_locations_and_characteristics_of_dams_and_weirs_in_the_Doi_Rive.jpg"
+    }
+  ],
+  "3": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "全個体の筋肉組織から、Quick gene 99 (Fuji) を用いて、DNAを抽出した。抽出したDNAは、20℃で保存した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "マイクロサテライトDNA分析は、Ohara et al. (2004) が開発した3遺伝子座 (Rhi 5, 7, 11) を用いて行った。PCR反応液は、10 ngの鋳型DNA、各0.1 μMのプライマー、0.2 mM dNTPs、2.5 unit Taq Polymerase (TAKARA) を含む全量5 μlとした。PCRの反応条件は、PCRの初期変性を94℃で7分間行い、その後、90℃で72秒、30℃で30秒、72℃で33秒のサイクルを33回繰り返した。DNAの伸長反応は、72℃で30分間行った。なお、Rhi 5については、アニーリング温度を55℃、Rhi 7および11については、60℃とした。"
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR産物は、Hi-Di Formamide (Applied Biosystems) で5倍に希釈し、その0.5 μlを、内部サイズ標準のApplied Biosystems GeneScan 600 LIZ Size Standard (95℃で2分間熱変性させたもの) とともに、ABI PRISM 310 Genetic Analyzer (Applied Biosystems) で電気泳動した。得られたデータは、GeneMapper (Applied Biosystems) を用いて解析した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "遺伝的多様性の指標として、FSTAT version 2.9.3.2を用いて、対立遺伝子数 (Allelic richness) および近交係数 (Fis) を算出した。また、Population pairwise Fst (Slatkin 1995) を算出した。Hardy-Weinberg平衡からのずれの検定は、ARLEQUIN version 3.0 (Excoffier et al. 2005) のMarkovchain procedure (Guo and Thompson 1992) を用いて行った。"
+    },
+    {
+      "type": "paragraph",
+      "text": "集団間の遺伝的距離は、PHYLIP version 3.2 (Felsenstein 1994) を用いて、Nei (1972) の遺伝的距離を算出し、UPGMA法により系統樹を作成した。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "耳石Sr/Ca比分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "耳石のSrおよびCa濃度の測定は、Electoric Particle Micro Analyzer (EPMA) を用いて行った。測定は、耳石の核から縁辺部に向かって、3 μm間隔で行った。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "結果"
+    },
+    {
+      "type": "paragraph",
+      "text": "マイクロサテライトDNA分析の結果、Table 2に示すように、各遺伝子座において、0.1から0.556の範囲で対立遺伝子が確認された。Rhi 5では、145, 155, 153などの対立遺伝子が、Rhi 7では、143, 183, 175, 179などの対立遺伝子が、Rhi 11では、159, 179, 183, 185, 223, 227, 231などの対立遺伝子が確認された。また、各集団における対立遺伝子数は、119から183の範囲であった。"
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. マイクロサテライトDNA分析の結果",
+      "bbox": [
+        0.51,
+        0.28,
+        0.92,
+        0.68
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Table_2._マイクロサテライトDNA分析の結果.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "遺伝的多様性の指標をTable 3に示す。対立遺伝子数は、16.1から17.3の範囲であり、期待ヘテロ接合度は、0.900から0.921、観察ヘテロ接合度は、0.869から0.889の範囲であった。Fis値は、0.192から0.271の範囲であり、すべての集団において、Hardy-Weinberg平衡から有意にずれていた。"
+    },
+    {
+      "type": "figure",
+      "label": "Table 3. 各集団における遺伝的多様性の指標",
+      "bbox": [
+        0.51,
+        0.71,
+        0.92,
+        0.88
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Table_3._各集団における遺伝的多様性の指標.jpg"
+    }
+  ],
+  "5": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "6": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "Table 4. Result of population pairwise FSTs in Rhinogobius sp. CB, R. flumineus, R. fluviatilis and R. kurodai."
+    },
+    {
+      "type": "figure",
+      "label": "Table 4. Result of population pairwise FSTs in Rhinogobius sp. CB, R. flumineus, R. fluviatilis and R. kurodai.",
+      "bbox": [
+        0.108,
+        0.101,
+        0.891,
+        0.328
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Table_4._Result_of_population_pairwise_FSTs_in_Rhinogobius_sp._CB,_R._flumineus,.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. UPGMA dendrogram among Rhinogobius species examined.",
+      "bbox": [
+        0.115,
+        0.355,
+        0.485,
+        0.545
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Fig._2._UPGMA_dendrogram_among_Rhinogobius_species_examined..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. UPGMA dendrogram among Rhinogobius species examined."
+    },
+    {
+      "type": "paragraph",
+      "text": "KN CB KO CB NO CB SD CB KT LD SF LD KN OR NK FL NY FL SN FL Genetic distance 0.1 Ca Sr Sr Ca Sr Ca DNA 2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "200 μm 280 μm 450 μm Fig. 3 Sr Ca 170 μm Fig. 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Sr Ca 18.7 22.3 0.900 0.921 13.3 19.3"
+    }
+  ],
+  "8": [
+    {
+      "type": "figure",
+      "label": "Fig. 3. Change of Sr/Ca ratio (‰) along the measurement line of otolith cross section of Rhinogobius sp. CB.",
+      "bbox": [
+        0.108,
+        0.102,
+        0.885,
+        0.408
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_kamogawa_ece_extracted/Fig._3._Change_of_SrCa_ratio_(‰)_along_the_measurement_line_of_otolith_cross_sec.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. Change of Sr/Ca ratio (‰) along the measurement line of otolith cross section of Rhinogobius sp. CB."
+    },
+    {
+      "type": "paragraph",
+      "text": "0.843および0.889であり，2011年の調査結果と同様に，耳石のSr/Ca比は全個体で核付近から縁辺部まで低値（平均2.0‰以下）で推移していた（Fig. 3）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr/Ca比の分析結果から，加茂川中奥地点で採集された個体は，ふ化から採集時まで一貫して淡水域に生息していたことが示唆された。12 mの落差がある中奥ダムの上流側に位置する中奥地点では，2011年の調査結果と同様に，陸封化した個体群が維持されていることが推察された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "加茂川大久保地点および中山川音関地点で採集された個体は，耳石の核付近でSr/Ca比が高値（約10‰）を示し，その後，縁辺部に向かって急激に低下して低値（2.0‰以下）で推移していた（Fig. 3）。Ito et al. (2006) によれば，ヨシノボリ属魚類の耳石Sr/Ca比が10‰前後の高値を示す場合は海域生活期，2.0‰以下の低値を示す場合は淡水生活期に対応するとされている。"
+    },
+    {
+      "type": "paragraph",
+      "text": "したがって，大久保地点および音関地点で採集された個体は，ふ化後に海へ下り，その後，河川へ遡上した両側回遊個体であると判断された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "1989年に竣工した加茂川の大久保堰堤は，堤高10 m，集水面積0.015 km²の小規模な取水堰であるが，魚道は設置されていない。しかし，今回の調査結果から，大久保堰堤の上流側においても両側回遊個体が生息していることが明らかとなった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "一方，中山川の音関地点は，河口から約12 km上流に位置し，その下流には1973年に竣工した中山川堰（可動堰）が存在する。中山川堰には魚道が設置されているが，音関地点で採集された個体はすべて両側回遊型であった（Table 1）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011年の調査では，中山川のさらに上流に位置する鞍瀬川（河口から約27 km）においても両側回遊個体が確認されている。中山川本流には，堤高214 mの黒瀬ダム（1973年竣工）が存在するが，今回の調査地点である音関地点はダムの下流側（河口から約10 km）に位置している。音関地点の上流約28.64 kmには，堤高120 mの石鎚ダムが存在するが，今回の調査範囲ではダムによる遮断の影響は認められなかった。"
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "6"
+    },
+    {
+      "type": "paragraph",
+      "text": "20"
+    },
+    {
+      "type": "paragraph",
+      "text": "39"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 5 7 11"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.900 0.921"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.869 0.889"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.777"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.192 0.271"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Excoffier L., Laval G. & Schneider S. 2005 Arlequin version 3.0: An integrated software package for population genetics date analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Felsenstein J. 1994 PHYLIP version 3.5. Department of Genetics University of Washington, Seattle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guo S. & Thompson E. 1992 Performing the exact test of Hardy-Weinberg proportion for multiple allele. Biometrics 48: 361 372."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ito S., Koike H., Omori K., & Inoue M. 2006 Comparison of current-velocity tolerance among six stream gobies of the genus Rhinogobius. Ichthyological Research 53: 301 305."
+    },
+    {
+      "type": "paragraph",
+      "text": "1996 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "1989 pp. 584 603"
+    },
+    {
+      "type": "paragraph",
+      "text": "1979 IV 4 29: 137 147."
+    },
+    {
+      "type": "paragraph",
+      "text": "Morita K. & Yamamoto S. 2002 Effects of habitat fragmentation by damming on the persistence of stream-dwelling charr populations. Conservation Biology 16: 1318 1323."
+    },
+    {
+      "type": "paragraph",
+      "text": "2004 pp. 281 312"
+    },
+    {
+      "type": "paragraph",
+      "text": "Morita K. & Yokota A. 2002 Population viability of stream-resident salmonids after habitat fragmentation: a case study with white-spotted charr Salvelinus leucomaenis by an individual based model. Ecological Modelling 155: 85 94."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nei M. 1972 Genetic distance between populations. American Naturalist 106: 283 292."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara K., Takahashi D. & Takagi M. 2004 Isolation of microsatellite loci in the freshwater goby Rhinogobius sp. Gobiidae . Molecular Ecology Note 4: 449 451."
+    },
+    {
+      "type": "paragraph",
+      "text": "Slatkin M. 1995 A measure of population subdivision based on microsatellite allele frequencies. Genetics 139: 457 462."
+    },
+    {
+      "type": "paragraph",
+      "text": "2004 Rhinogobius sp CO 51: 175 180."
+    },
+    {
+      "type": "paragraph",
+      "text": "2006"
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "16: 65-114."
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 65: 9-24."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sone S., Inoue M., & Yanagisawa Y. 2001 Habitat use and diet of two stream gobies of the genus Rhinogobius in south-western Japan. Ecological Research 16: 205-219."
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "14: 35-44."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa T. & Arai T. 2008 Flexible migration of Japanese freshwater gobies Rhinogobius spp. as revealed by otolith Sr:Ca ratios. Journal of Fish Biology 73: 2421-2433."
+    }
+  ]
+}

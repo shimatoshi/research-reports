@@ -1,0 +1,222 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SHORT REPORT"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Otolith Sr:Ca ratios of freshwater goby Rhinogobius sp. TO indicating absence of sea migrating traits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takatoshi Tsunagawa · Toshiyuki Suzuki · Takaomi Arai"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract The strontium and calcium concentration ratios in the otoliths of Rhinogobius sp. TO collected from the river flowing from a pond of Aichi Expo Park, a waterway from the Yahagi and Kushida Rivers and the Yahagifuru River, Japan, were studied to confirm the presence or absence of sea migrating traits during the larval period. The ratios of all samples showed consistently low ratios from the core to the edge, suggesting that the Rhinogobius sp. TO has a freshwater resident lifestyle. Therefore, conservation of river ecosystems is essential to protect the natural populations of this goby."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keywords Freshwater goby · Rhinogobius sp. TO · Migration · Otolith · Sr:Ca ratios"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Rhinogobius species of freshwater goby is distributed widely in the Japanese Archipelago, and more than 13 species have been reported (Suzuki and Shibukawa 2004). These species have been grouped into four life history-based categories, including fluvial, amphidromous, landlocked, and lentic types (Mizuno 1961; Akihito et al. 2002; Takahashi and Okazaki 2002; Tsunagawa et al. 2010). Fluvial species like Rhinogobius flumineus spend their whole life in a freshwater environment (Mizuno 1961; Akihito et al. 2002). The lentic species like Rhinogobius sp. OR morpho-type “Shimahire” and Rhinogobius sp. BW inhabiting a freshwater environment do not make the seaward migration and lake-river migration, respectively (Tsunagawa et al. 2010; Takahashi and Okazaki 2002). Amphidromous spe-cies like Rhinogobius giurinus are swept downstream to the sea after hatching in a freshwater area and return to the river after a pelagic life (Mizuno 1961; Akihito et al. 2002). In addition, some fishes of amphidromous Rhinogobius species have a landlocked life history in lakes, freshwater marshes, and reservoirs above dams (Akihito et al. 2002; Sakai et al. 2004; Tsunagawa and Arai 2008)."
+    },
+    {
+      "type": "paragraph",
+      "text": "T. Tsunagawa\nLaboratory of Ecophysiology, Graduate School of Fisheries Sciences, Kitasato University, 160-4 Sanriku, Ofunato, Iwate 022-0101, Japan\ne-mail: f04113e@st.kitasato-u.ac.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "T. Suzuki\nAmagasaki Senior High School, 5-40-1 Tsukaguchi, Amagasaki, Hyogo 661-0002, Japan\ne-mail: trimma-toshiyuki@hop.ocn.ne.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "T. Arai (✉)\nInternational Coastal Research Center, Ocean Research Institute, The University of Tokyo, 2-106-1 Akahama, Otsuchi, Iwate 028-1102, Japan\ne-mail: arai@ori.u-tokyo.ac.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Rhinogobius sp. TO (sensu Suzuki and Sakamoto 2005; Japanese name: Toukai-yoshinobori) is a recently recorded species whose distribution is limited to the periphery of the Noubi and Okazaki plains in Aichi, Gifu, and Mie prefectures (Suzuki and Sakamoto 2005; Ministry of Land, Infrastructure and Transport 2006). It appears to have a lentic lifestyle, inhabiting lentic water areas such as ponds, waterways, and slower current areas along river banks (Suzuki and Sakamoto 2005). Since habitat disap-pearance has been caused by artificial river improvement and landfill of ponds (Suzuki and Sakamoto 2005), practical measures must be taken to protect the natural populations of this goby. Ecological information about this goby is vital to implementing effective protective measures, but little is known about their migration history, specifically whether this fish runs down to the sea during the larval period."
+    }
+  ],
+  "2": [
+    {
+      "type": "figure",
+      "label": "Fig. 1 Sampling sites of two Rhinogobius species in Aichi and Mie prefectures, Japan: Rhinogobius sp. TO (circle) and Rhinogobius giurinus (triangle)",
+      "bbox": [
+        0.069,
+        0.057,
+        0.482,
+        0.319
+      ],
+      "_saved": "kurodai/papers/tsunagawa2010_telma_otolith_extracted/Fig._1_Sampling_sites_of_two_Rhinogobius_species_in_Aichi_and_Mie_prefectures,_J.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1 Sampling sites of two Rhinogobius species in Aichi and Mie prefectures, Japan: Rhinogobius sp. TO (circle) and Rhinogobius giurinus (triangle)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The migratory history of diadromous fishes can be reconstructed through otolith microchemistry, particularly via the utilization of strontium to calcium concentration ratios (Campana 1999; Arai 2002). Fresh water contains low levels of Sr, while sea water contains high levels. Although the values of Sr:Ca ratios in otoliths are highly variable among species, ambient salinity is positively related to the Sr:Ca ratios of almost all fish species studied (Secor and Rooker 2000). Recently, Tsunagawa and Arai (2008, 2009) found that the otolith Sr:Ca ratios were positively related with ambient water salinity in Rhinogobius species. Therefore, this technique can be applied to reveal the migratory patterns of Rhinogobius sp. TO."
+    },
+    {
+      "type": "paragraph",
+      "text": "The objective of the present study was to examine whether the Rhinogobius sp. TO migrate to the sea during the larval period by otolith microchemical analysis. The results provide a basis of the life history in this species as well as information that should prove useful for attempts to protect them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Materials and methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fish. The Rhinogobius fishes used in this study were collected from four locations in Aichi and Mie prefectures, Japan, from 18 October 2008 to 9 May 2009 using dip nets (Fig. 1; Table 1). Rhinogobius sp. TO were collected from the river flowing from a pond of Aichi Expo Park (Shounai River system) in a waterway from the Yahagi River and the Kushida River, and from the mainstream of the Yahagifuru River. Rhinogobius giurinus were also collected from a sympatric habitat with Rhinogobius sp. TO in the Yahagifuru River. All sampling sites were freshwater environments with no influence from the rising tide. After collection, all specimens were fixed immediately with 99% ethanol. A total of 31 specimens were used for the otolith microchemical analysis (Table 1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Classification. Rhinogobius sp. TO was distinguished from other congeneric species according to morphological differences. Details of the classification method have been described in Suzuki and Sakamoto (2005). Furthermore, identification of Rhinogobius giurinus followed Akihito et al. (2002)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otolith preparation and otolith X-ray microprobe analysis. Sagittal otoliths were ground and polished for otolith microchemical analysis after we measured the standard length of each fish. The otoliths from all specimens were used for life-history transect analysis of Sr and Ca concentrations, which were measured along a line down the longest axis of each otolith from the core to the edge using a wavelength dispersive X-ray electron microprobe (JEOL JXA-8900R). Details of both otolith preparation and microchemical analysis have been described by Tsunagawa and Arai (2008, 2009) and Tsunagawa et al. (2010)."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1 Rhinogobius sp. TO and Rhinogobius giurinus specimens used for otolith microchemistry analysis",
+      "bbox": [
+        0.069,
+        0.456,
+        0.734,
+        0.615
+      ],
+      "_saved": "kurodai/papers/tsunagawa2010_telma_otolith_extracted/Table_1_Rhinogobius_sp._TO_and_Rhinogobius_giurinus_specimens_used_for_otolith_m.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 Rhinogobius sp. TO and Rhinogobius giurinus specimens used for otolith microchemistry analysis"
+    }
+  ],
+  "3": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Results and discussion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sr:Ca ratios measured along a transect from the center to the otolith edge of all Rhinogobius sp. TO samples were consistently low with mean values ranging from 0.96 × 10⁻³ to 2.69 × 10⁻³, indicating a wholly fresh-water lifestyle (Fig. 2a–d). Rhinogobius giurinus collected from a sympatric habitat with Rhinogobius sp. TO in the Yahagifuru River also had uniformly low Sr:Ca ratios throughout the otolith, with a mean value of 1.95 × 10⁻³ (Fig. 2e), although this fish is generally known as an amphidromous species (Tsuji 2001). This result suggests that this sampling site may be a landlocked environment in which upstream and downstream migration is obstructed by artificial steps."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2 Changes in the otolith Sr:Ca ratios along line transects from the core to the edge of the sagittal otoliths for each individual sample of Rhinogobius species. Rhinogobius sp. TO from a river flow in a pond of the Aichi Expo Park, n = 5; b a waterway from the Yahagi River, n = 5; c a waterway from the Kushida River, n = 5; and d the Yahagifuru River, n = 14. e Rhinogobius giurinus from the Yahagifuru River, n = 2",
+      "bbox": [
+        0.133,
+        0.155,
+        0.483,
+        0.881
+      ],
+      "_saved": "kurodai/papers/tsunagawa2010_telma_otolith_extracted/Fig._2_Changes_in_the_otolith_SrCa_ratios_along_line_transects_from_the_core_to_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2 Changes in the otolith Sr:Ca ratios along line transects from the core to the edge of the sagittal otoliths for each individual sample of Rhinogobius species. Rhinogobius sp. TO from a river flow in a pond of the Aichi Expo Park, n = 5; b a waterway from the Yahagi River, n = 5; c a waterway from the Kushida River, n = 5; and d the Yahagifuru River, n = 14. e Rhinogobius giurinus from the Yahagifuru River, n = 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this study, none of the Rhinogobius sp. TO species showed sea migrating traits during the larval period, although the fish we collected may have been landlocked by artificial steps. The microhabitat environment feature of the Rhinogobius sp. TO inhabiting lentic water areas such as ponds, waterways, and slower current areas in river bank is fairly similar to that inhabited by Rhinogobius sp. OR morphotype “Shimahire” (Suzuki 1996; Suzuki and Sakamoto 2005). Tsunagawa et al. (2010) suggest that the Rhinogobius sp. OR morphotype “Shimahire” are fresh-water residents adapting to a lentic water environment, and they do not migrate to the sea during the larval period. Furthermore, Hirashima (unpublished data) suggests that the salinity adaptation ability in Rhinogobius sp. TO and Rhinogobius sp. OR morphotype “Shimahire” is low; salinity tolerance in hatched larvae of these species are respectively 10 and 15‰, although that of Rhinogobius sp. OR morphotype “Shinjiko” known as an amphidromous species is 35‰. Rhinogobius sp. TO are also thought to be pure freshwater fish, indicating an absence of seaward migration during the larval period, like the fluvial and lentic Rhinogobius species."
+    },
+    {
+      "type": "paragraph",
+      "text": "The distributional area of the Rhinogobius sp. TO is limited to the waters around the Toukai region (Suzuki and Sakamoto 2005). This species is thought to have a sus-ceptibility to human activity such as artificial river improvement and landfill of ponds, because they live in a freshwater environment their whole life, which in many cases is very close to human habitation. Therefore, con-servation of river ecosystems is essential to protect the natural populations of this goby. Further studies are needed to clarify the detailed life history of Rhinogobius sp. TO in their entire range by ecological investigation of their dis-tribution, reproduction, and feeding habits. Establishment"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "of ecological information will be useful for attempts to protect them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "paragraph",
+      "text": "We would like to thank Ms. M. Otsuki (Ocean Research Institute, The University of Tokyo) for assistance with the chemical analysis of Ca and Sr. We are grateful to Mr. K. Arao (Environmental Science Laboratory) for offering us samples. This work was supported in part by Grant-in-Aid No. 20688008 from the Ministry of Education, Culture, Sports, Science and Technology of Japan."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Sakamoto K, Ikeda Y, Sugiyama K (2002) Gobioidei. In: Nakabo T (ed) Fishes of Japan with pictorial keys to the species, English edn. Tokai University Press, Tokyo, pp 1139–1310, 1596–1619"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arai T (2002) Migratory history of fishes: present status and perspectives of the analytical methods. Jpn J Ichthyol 49:1–23"
+    },
+    {
+      "type": "paragraph",
+      "text": "Campana SE (1999) Chemistry and composition of fish otolith: pathways, mechanisms and applications. Mar Ecol Prog Ser 188:263–297"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ministry of Land, Infrastructure and Transport (2006) The National Census on River Environments, 2006. Chubu Regional Bureau, Ministry of Land, Infrastructure and Transport"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1961) Study on the gobioid fish, “Yoshinobori” *Rhinogobius similis* Gill–1. Comparison of life histories of three ecological types. Bull Jpn Soc Sci Fish 27:6–11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai H, Arai T, Imai C, Sugiyama H, Sato H, Jeon SR (2004) Landlocked populations of an amphidromous goby, *Rhinogobius* sp. CO. Japan. Jpn J Ichthyol 51:175–180"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secor DH, Rooker JR (2000) Is otolith strontium a useful scalar of life cycles in estuarine fishes? Fish Res 46:359–371"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T (1996) A new morphotype of *Rhinogobius* sp. OR collected from the Maruyama River in Hyogo Prefecture. Hyogo-rikusuiseibutsu 47:1–9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Sakamoto K (2005) Record of a gobiid fish, *Rhinogobius* sp. TO (Perciformes, Gobiidae) from the Noubi and Okazaki plains, Japan. Bull Biogeogr Soc Jpn 60:13–20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Shibukawa K (2004) Genus *Rhinogobius*. In: Senou H (ed) A photographic guide to the gobioid fishes of Japan. Heibonsha, Tokyo, pp 445–461"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S, Okazaki T (2002) A new lentic form of the “yoshinobori” species complex, *Rhinogobius* spp. from Lake Biwa, Japan, compared with lake–river migrating *Rhinogobius* sp. OR. Ichthyol Res 49:333–339"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsuji K (2001) *Rhinogobius giurinus*. In: Kawanabe H, Mizuno N, Hosoya K (eds) Freshwater fishes of Japan. Yamatokeikokusha, Tokyo, p 585"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa T, Arai T (2008) Flexible migration of Japanese freshwater gobies *Rhinogobius* spp. as revealed by otolith Sr:Ca ratios. J Fish Biol 73:2421–2433"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa T, Arai T (2009) Migration diversity of the freshwater goby *Rhinogobius* sp. BI, as revealed by otolith Sr:Ca ratios. Aquat Biol 5:187–194"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa T, Suzuki T, Arai T (2010) Migratory history of *Rhinogobius* sp. OR morphotype “Shimahire” as revealed by otolith Sr:Ca ratios. Ichthyol Res 57:10–15"
+    }
+  ]
+}

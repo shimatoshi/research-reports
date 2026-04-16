@@ -1,0 +1,237 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pleistocene Gobiid Fishes of the Genus Rhinogobius from Kusu Basin, Oita Prefecture, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yoshitaka YABUMOTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kitakyushu Museum of Natural History, Nishihonmachi, Kitakyushu, 805 Japan (Received August 21, 1987)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Two species of Pleistocene gobiid fishes, Rhinogobius giurinus and R. brunneus, were collected from the diatomite bed at Kusu Basin in Oita Prefecture, Japan. These species are identified by characters of the pelvic fin and scales. From Kusu Basin, a salmonid species, Oncorhynchus cf. O. masou or O. rhodurus, and three cyprinid species Hemibarbus barbus, Zacco temminckii, and Acheilognathus lanceolata were reported by UYENO et al. (1975). This is the first record of gobiid fishes which were found from this deposit."
+    },
+    {
+      "type": "paragraph",
+      "text": "A number of fossil specimens belonging to the family Gobiidae were collected from Nogami Member in Kusu Formation at Nogami in Kusu Basin, Oita Prefecture. This Formation and Member were first described by SHUTO (1953) who made a geological survey of the upper area of Kusu River, and named it as Kusu Formation and recognized three Members: Hōsenji, Nogami, and Hijiu Member in order from bottom to top. The age of Nogami Member is Middle Pleistocene (IWAUCHI and HASE, 1987). UYENO, et al. (1975) reported freshwater fish fossils from Nogami Member. These are a salmonid species, Oncorhynchus cf. O. masou or O. rhodurus, and three cyprinid species, Hemibarbus barbus, Zacco temminckii, and Acheilognathus lanceolata. Two species of gobiid fossil fishes of the genus Rhinogobius are reported here for the first time from Kusu Basin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am very grateful to Dr. Teruya UYENO of the National Science Museum for his invaluable advice and critical reading of the manuscript. I would like to express my sincere gratitude to Mr. Akinori TAKAYAMA of the Hakusan Kōgyō Corporation for the donation of his specimens and his cooperation in collecting other specimens. I thank Mr. Tsugito NAGASHIMA for the first information of the yielding of the specimens. I am grateful to Dr. Nobuaki MIZUNO of Ehime University for the donation of some forms of Recent specimens of R. brunneus, and to Mr. Muneyoshi HAYASHI of the Yokosuka City Museum for information on the distribution of Recent species of the genus Rhinogobius. I am also grateful to Dr. Ryuzo TORIYAMA and Dr. Masamichi OTA of the Kitakyushu Museum of Natural History for their constant encouragement."
+    }
+  ],
+  "2": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 2828, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 2253}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "3": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 3473, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 2898}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "4": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 3788, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 3213}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "5": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 2287, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 1712}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "6": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 3202, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 2627}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "7": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 3015, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 2440}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "8": [
+    {
+      "type": "paragraph",
+      "text": "Yoshitaka YABUMOTO"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 6. Figure of the skeleton of Recent Rhinogobius brunneus, large dark type, KMNH VP 100,094.",
+      "bbox": [
+        0.15,
+        0.11,
+        0.7,
+        0.85
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_pleistocene_kusu_extracted/Fig._6._Figure_of_the_skeleton_of_Recent_Rhinogobius_brunneus,_large_dark_type,_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 6. Figure of the skeleton of Recent Rhinogobius brunneus, large dark type, KMNH VP 100,094."
+    }
+  ],
+  "9": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"finishReason\": \"RECITATION\", \"index\": 0}], \"usageMetadata\": {\"promptTokenCount\": 575, \"totalTokenCount\": 2917, \"promptTokensDetails\": [{\"modality\": \"TEXT\", \"tokenCount\": 317}, {\"modality\": \"IMAGE\", \"tokenCount\": 258}], \"thoughtsTokenCount\": 2342}, \"modelVersion\": \"gemini-2.5-flash\""
+    }
+  ],
+  "10": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pleistocene Gobiid Fishes of the Genus Rhinogobius from Kusu Basin, Oita Prefecture, Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yoshitaka YABUMOTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plates 1–2"
+    }
+  ],
+  "11": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Explanation of Plate 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Photographs of the fossils of Rhinogobius giurinus (RUTTER) from Kusu Basin, Oita Prefecture."
+    },
+    {
+      "type": "paragraph",
+      "text": "A. lateral view of the left side (KMNH VP 100,118)."
+    },
+    {
+      "type": "paragraph",
+      "text": "B. ventral view (KMNH VP 100,119)."
+    },
+    {
+      "type": "paragraph",
+      "text": "C. dorsal view (KMNH VP 100,117)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scales indicate 10 mm."
+    }
+  ],
+  "12": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "YABUMOTO, Y. Pleistocene gobiid fishes from Oita"
+    },
+    {
+      "type": "figure",
+      "label": "",
+      "bbox": [
+        0.09,
+        0.092,
+        0.91,
+        0.276
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_pleistocene_kusu_extracted/p12_fig0.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "",
+      "bbox": [
+        0.09,
+        0.283,
+        0.91,
+        0.474
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_pleistocene_kusu_extracted/p12_fig1.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "",
+      "bbox": [
+        0.09,
+        0.481,
+        0.91,
+        0.672
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_pleistocene_kusu_extracted/p12_fig2.jpg"
+    }
+  ],
+  "13": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Plate 2"
+    }
+  ],
+  "14": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Explanation of Plate 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Photographs of the fossils of Rhinogobius brunneus (TEMMINCK et SCHLEGEL) from Kusu Basin, Oita Prefecture.\nA. lateral view of the left side (KMNH VP 100,125).\nB. lateral view of the left side (KMNH VP 100,129).\nC. lateral view of the right side (KMNH VP 100,132).\nScales indicate 10 mm."
+    }
+  ],
+  "15": [
+    {
+      "type": "figure",
+      "label": "A",
+      "bbox": [
+        0.07,
+        0.061,
+        0.93,
+        0.256
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_pleistocene_kusu_extracted/A.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "B",
+      "bbox": [
+        0.07,
+        0.259,
+        0.93,
+        0.454
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_pleistocene_kusu_extracted/B.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "C",
+      "bbox": [
+        0.07,
+        0.457,
+        0.93,
+        0.652
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_pleistocene_kusu_extracted/C.jpg"
+    }
+  ]
+}

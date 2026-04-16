@@ -1,0 +1,308 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ヨシノボリの研究―II. 形態の比較*"
+    },
+    {
+      "type": "paragraph",
+      "text": "水野 信彦**"
+    },
+    {
+      "type": "paragraph",
+      "text": "(1960 年 12 月 15 日受理)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "STUDY ON THE GOBIOID FISH, \"YOSHINOBORI\" Rhinogobius similis GILL—II. COMPARISON OF MORPHOLOGICAL CHARACTERS OF THREE ECOLOGICAL TYPES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nobuhiko MIZUNO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Succeeding the life history study in the previous paper of three ecological types of \"Rhinogobius similis\", the morphological characters of adult fish are compared in the present paper. In spite of the apparent similarities in the body form, the fluvial type is clearly different from the other two types (the amphidromous and lacustrine types) in the colour pattern on the body side (Fig. 1), and in the number of vertebrae, pectoral and first dorsal fin rays (Table 1; Fig. 2). Considering the more distinctive features in the size and number of mature eggs, in hatched larvae as reported in the previous paper, it seems appropriate to conclude that the fluvial type is to be referred to the genus Tukugobius HERRE, 1927 instead of the genus Rhinogobius. The other two types, i. e., amphidromous and lacustrine types have no more distinctions with each other than intraspecific variations (Table 1; Figs. 2 and 3). Thus, the fluvial type is named as Tukugobius flumineus and the other two types retain the customary name Rhinogobius similis GILL."
+    },
+    {
+      "type": "paragraph",
+      "text": "前報ではヨシノボリの発育史・生活史についてのべ, 生態的にみて, これには3つの型 (両側遡遊型・湖沼型・河川型**) があること, そのうち河川型の発育史・生活史は他の2型にくらべていちじるしくちがっており, 同一種とは考えられないこと, などを報告した。本報では成魚の形態的な特徴を比較した上で, その類縁関係を考察し, 河川型は他の2型とは属を別にするのが適当であることをのべる。 調査にあたっては多くの方々の御援助を得た。京都大学の宮地伝三郎教授・森主一助教授は本研究を指導して下さり, 河川生態研究グループの川那部浩哉・児玉浩憲の両氏は調査に協力して下さり, 東京大学の畠山一郎教授, 東京水産大学の高木和徳博士, 淡水区水産研究所の小野寺好之氏ほか所員の方々からは数々の助言を頂いた。ここにこころをこめて感謝の意を表する。なお研究の一部は文部省科学研究費と水産庁・淡水区水産研究所の京都府に対する委託研究費によって行なった。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. 外部形態の比較"
+    },
+    {
+      "type": "paragraph",
+      "text": "斑紋 ヨシノボリでもつとも眼につく斑紋は体側にある。それは3型とも変異に富んではいるが, 両側遡遊型と河川型のそれはわりあいはつきりと区別できる (Fig. 1)。すなわち前者の体側にからむ約7個の大褐色斑は上下に長く, 多くのものには両側のこの斑紋が背の正中線にあたるところでそれぞれ合一し,"
+    },
+    {
+      "type": "paragraph",
+      "text": "* 報文内容の一部は昭和 34 年度水産学会年会で口頭発表した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "** 現在の所属は大阪学芸大学生物学教室 (Biological Laboratory, Osaka Gakugei Univ.)。本調査の主要部分は京都大学理学部動物学教室で行なつた。"
+    },
+    {
+      "type": "paragraph",
+      "text": "*** 両側遡遊型はふ化後まもなく海にくだり, 幼期の一部をそこですごした後, 川へ遡上して成長・産卵する。湖沼型と河川型はそれぞれ湖・池と川に陸封されているものを指す。"
+    }
+  ],
+  "2": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. 両側遡遊型 (A), 湖沼型 (B) および河川型 (C) の雌成魚 Female adults of amphidromous type (A), lacustrine type (B) and fluvial type (C).",
+      "bbox": [
+        0.29,
+        0.12,
+        0.7,
+        0.49
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_II_morphology_1962_extracted/Fig._1._両側遡遊型_(A),_湖沼型_(B)_および河川型_(C)_の雌成魚_Female_adults_of_amphidromous_type_(A.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. 両側遡遊型 (A), 湖沼型 (B) および河川型 (C) の雌成魚 Female adults of amphidromous type (A), lacustrine type (B) and fluvial type (C)."
+    },
+    {
+      "type": "paragraph",
+      "text": "鞍状斑紋となっている。後者にはこのようにはつきりとした横斑がみられず, 体側の中心に沿つて, 地色よりわずかに濃色の小縦斑が 5~10 個ならんでい る。地色がきわめて濃いばあいとか, 黒点病に強く犯されている個体では, これらの斑紋もほとんど見えな い。湖沼型の斑紋はもつとも変化に富み, 河川型のそれに似ているものがなかにはあるけれども, 多くの成 魚は両側遡遊型と同じような斑紋をもつている。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "体各部の大きさの比"
+    },
+    {
+      "type": "paragraph",
+      "text": "体長/頭長・体長/尾柄長・尾柄高・頭長/眼径について, 3 型ともそれぞ れ 14~31 個体づつ測定した。琵琶湖産の湖沼型は他の2型にくらべて, 頭がやや大きいし, 尾柄高は両側 遡遊型がやや小さいなど, 3 型の間に多少のちがいがみとめられた。しかし同じ型でも川によつて平均値に かなりのちがいがみられること, また平均個体そのふれが大きいことから, いずれの形質についても3型の 間に統計的に有意の差 (95% の信頼度, 以下いずれも同 じ) はみとめられなかつた。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ひれ条数*"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 型のおのおのについて約 70~200 個体調査した結果をまとめたのが Table 1 である。尻"
+    },
+    {
+      "type": "paragraph",
+      "text": "* 計測法は松原 (1955) に従つた。"
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "ひれ・胸びれ・尾びれの各ひれ条数の平均値には3型の間で有意の差がある。なかでも河川型は第2背びれ以外のすべてのひれ条数で, 他の2型とは有意の差を示しており, とくに胸びれの条数は河川型が15〜18本なのに, 後二者は18〜22本であり, 18本のものは3型とも100個体中に2〜4個体いるにすぎない (Fig. 2)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. ひれ条数と脊椎骨数の平均値とその信頼巾 (信頼度: 95%)。 ( )内の数字は調査個体数。 Average values and those confidence intervals (reliability: 95%) of numbers of fin rays and vertebrae. The numbers of examined specimens were put in parentheses."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. ひれ条数と脊椎骨数の平均値とその信頼巾 (信頼度: 95%)。 ( )内の数字は調査個体数。 Average values and those confidence intervals (reliability: 95%) of numbers of fin rays and vertebrae. The numbers of examined specimens were put in parentheses.",
+      "bbox": [
+        0.217,
+        0.261,
+        0.87,
+        0.465
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_II_morphology_1962_extracted/Table_1._ひれ条数と脊椎骨数の平均値とその信頼巾_(信頼度_95%)。_(_)内の数字は調査個体数。_Average_values_and_those_.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. ひれ条数と脊椎骨数の分布 Distributions of numbers of fin rays and vertebrae.",
+      "bbox": [
+        0.217,
+        0.475,
+        0.87,
+        0.879
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_II_morphology_1962_extracted/Fig._2._ひれ条数と脊椎骨数の分布_Distributions_of_numbers_of_fin_rays_and_vertebrae..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. ひれ条数と脊椎骨数の分布 Distributions of numbers of fin rays and vertebrae."
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "平均値も河川型の 16.41 ± 0.09 に対して 19.71 ± 0.14, 20.57 ± 0.16 とその間に大差がある。10 個体以上を調査したすべての川について, 両側遡遊型と河川型を比較しても, また同じ川で採集した両者のそれをくらべても, 差は明らかに有意であった⁸)。そのうえ第1背びれ条数7本のものが, 河川型では100個体中10個体はみられるのに, 他の2型ではまったくみられない (Fig. 2)。それにくらべれば, 両側遡遊型と湖沼型のちがいはそう大きなものではなく, たとえ調査個体全部の平均値には有意の差があっても, 個々の川と池で比較すると有意でないことが多かった。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "その他の形質"
+    },
+    {
+      "type": "paragraph",
+      "text": "縦列鱗数は河川型が他の2型にくらべてやや多い程度で, 大きなちがいはみとめられない (Fig. 3, C)。頭部に鱗のないことは, 従来からヨシノボリの主要特徴のひとつとされていた。その点3型とも同じであるが, そのうしろから第1背びれにかけての鱗の数には3型の間で多少の差があり, 両側遡遊型でもっとも多くて, 河川型ではもっとも少ない。湖沼型の状態は両者の中間にある (Fig. 3, D)。"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3. いくつかの形質の計測値の分布 Distributions of measurements of some characters.",
+      "bbox": [
+        0.186,
+        0.292,
+        0.856,
+        0.552
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_II_morphology_1962_extracted/Fig._3._いくつかの形質の計測値の分布_Distributions_of_measurements_of_some_characters..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "A: 腹びれの形 (a: 左右に長い, b: 円形, c: 前後に長い) B: 腹側の鱗 (e: 見えない, f: かすかに見える, c: はっきり見える) C: 縦列鱗数 D: 第1背びれの前 の鱗数 × と ……: *Rhinogobius giurinus*. 他の線は Fig. 2 のばあいと同じ。 A: Form of ventral fin (a: broaber than long, b: circular, c: longer than broad). B: Scales on the belly (e: not seen, f: slightly seen, g: clearly seen). C: Number of the scales in a lateral series. D: Number of the scales before the first dorsal. × or ……: *Rhinogobius giurinus*. The other lines show the same type as in Fig. 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. いくつかの形質の計測値の分布 Distributions of measurements of some characters."
+    },
+    {
+      "type": "paragraph",
+      "text": "一方, 腹側の鱗は3型ともにあ るのだが, 肉眼によるとはつきりとは見えないことがある。河川型と湖沼型にはそのような個体が多いけれども, 両側遡遊型ではよく見える (Fig. 3, B)。 本種の腹びれが本種のもじろい特徴となっていることは, すでに HERRE が本種のもじろい特徴と してあげている。⁸) 腹びれがもっともよく発達したときは, 左右に大きくひろがっただ円形となっている。幼魚のそれは前後 に長い長円形 で, ゴクラクハゼ成魚の腹びれに近い形をしている。前者のような腹びれは両側遡遊型に多く, 後者のようなものは湖沼型に多い。河川型は両者の中間の状態にある (Fig. 3, A)。湖や池, とくに波のおだやかな池に生息している湖沼型成魚の腹びれが, 他の2型ほどに発達していないのは, その機能から考えても当然といえる。"
+    },
+    {
+      "type": "paragraph",
+      "text": "体を支えるものとしては他に胸びれがある。流れの石の上にいるヨシノボリを観察すると, 胸びれの下半分を石にピッタリと押しつけて, 体を支えている。このような機能を反映して, この部分のひれ条は上半分のそれより太く, よく分枝している。しかし池にいる湖沼型の成魚では, 胸びれのひれ条がすべて細く, あまり分枝していない。石の上に静止しているときも, 頭を高くあげて, いわばソッとのつっているにすぎない。胸びれや腹びれにみられる湖沼型の特異性も, 幼魚期から成魚期にいたる行動様式がもたらしたものであろう。"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "う。sensory canal pores の数と配列は TAKAGI⁴) の調べた本種のそれと同じであり, 3型の間ではほとんどちがいがない。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. 内部形態の比較"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "脊椎骨数"
+    },
+    {
+      "type": "paragraph",
+      "text": "3型についてそれぞれ80~160個体調査した。両側廻遊型と湖沼型の間には差がないけれども, 河川型とのちがいは大きく, このばあいには重なりはまつたくみとめられない (Fig. 2 と Table 1)。すなわち脊椎骨の基本的な数は河川型が28 (腹椎11+尾椎17) であり, 他の2型は26 (10+16) である。同じ川で採集したものについても, この差は明らかにみとめられた⁸)。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "歯・舌咽骨・鰓その他"
+    },
+    {
+      "type": "paragraph",
+      "text": "歯列はずれも3列前後で, 成魚においても個体間の差が大きく, 生態型によるちがいははつきりとはみられない。舌咽骨は3型とも単一型⁵) のもので, 河川型の舌咽骨角が他の2型よりやや大きい程度にすぎない。鰓はいずれも4枚であるが, 鰓耙数は河川型の2+5に対して他の2型は2+7~8で, 各鰓耙も河川型より長くて細い。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. 考 察"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "種の異同について"
+    },
+    {
+      "type": "paragraph",
+      "text": "従来1種とされていただけに, 3型とも似てはいるが, 河川型は胸びれ条数・脊椎骨数・鰓耙数・第1背びれ条数・体側の斑紋で他の2型とはちがつており, とくに前2つの形質でははつきりと区別できる。外部形態だけでも胸びれ条数と斑紋をみれば, ほとんど間違いなく区別できる。前報で, 卵の大きさ・体内卵数・ふ化直後の形態的特徴なども, 河川型が他の2型とひどくちがっていて, この差を同一種内の変異と考えるのは無理であろうとのおべいた。これにくらべれば, 両側廻遊型と湖沼型とは第1背びれの前や腹側にある鱗の状態と, 胸びれ・腹びれの形にいくぶんのちがいがみられるだけで, 両者の差はそれほど大きなものではない。卵の大きさや発育にともなう形態変化も両者はほぼ同じである¹)。すなわちこの両者の差は同種内の変異とみてよいが, 河川型がこれに優るとも劣らない。脊椎骨数が変異することはよく知られていても, このばあいはわずかなものであり, 地理的な変異もほとんどみとめられない。その上, 産卵期がほぼ同じであるのに¹), 同じ地点で採集されたものでも, 河川型と両側廻遊型でははつきりした差があるのでから, 脊椎骨数のちがいは環境条件によるものではない。"
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリと同属の別種であるゴクラクハゼの計測値を Table 1 と Fig. 3 に附記しておいたが, 縦列鱗数以外は両側廻遊型・湖沼型の計測値とほぼ同じである。後頭部の鱗の状態と縦列鱗数がゴクラクハゼとヨシノボリの主要な区別点であることを考えても, 河川型は種を別にすべきであろう。"
+    },
+    {
+      "type": "paragraph",
+      "text": "従来, ヨシノボリが変異に富んだ種であるとして, (多少の疑問はもたれつつも) 1種であるとされていたのが似ているうえ, それらが斑紋と同様に変異に富み, その3型の一般的体制 (体各部の比や鱗の状態) が似ているのに加えて, 胸びれの条数があまり注意されなかつたためか, 後に述べるように, 日本産のヨシノボリとして記載されたものの多くは (後にこれの synonym とされたものを含めて), 両側廻遊型か湖沼型にあたると思われるので, この両型は従来どおりのヨシノボリの名をあて, 河川型は川に陸封されているという特異性を重視して, カワヨシノボリと名づけたい。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ヨシノボリとカワヨシノボリの類縁について"
+    },
+    {
+      "type": "paragraph",
+      "text": "ハゼ類の種類間の類縁関係をくわしく調査したものとしては, 高木の業績以外にないようである。それでは鱗や舌咽骨の形態, sensory canal pores の数や配列を精査することによつて, 類縁関係が考察されている⁴)⁵)⁶)。ヨシノボリとカワヨシノボリがともに櫛鱗を主体とし, 単一型の舌咽骨をもち, sensory canal pores の数や配列もほとんど同じであることは前に述べた。一般的体制・歯列・犬歯の有無にも大きなちがいがない。その点, 両者の類縁はそう遠くはなれたものではないようである。"
+    },
+    {
+      "type": "paragraph",
+      "text": "しかし, ヨシノボリ属の種類は第1背びれの条数がすべて6であり⁷), 調査された種の脊椎骨はすべて26を基本としている (道津, 未発表原稿)。これに対してカワヨシノボリは脊椎骨数 28 が基本であり, 第"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "1背びれ条数7のものが 10 個体に平均1個体は含まれている。だからカワヨシノボリはヨシノボリ属の1種ではなく, ヨシノボリ属に近縁の属に入るものと見てよいだろう。1931年までに記載された属7)のうち, カワヨシノボリに対応するものとしては, ヨシノボリ属にごく近縁の Tukugobius HERRE 1927* 以外にはないようである。原記載によつて Tukugobius の3種やそれに近縁の種と比較した結果, カワヨシノボリを T. flumineus と命名した8)9)。\n以上をまとめると, 従来のヨシノボリはカワヨシノボリ T. flumineus とヨシノボリ Rhinogobius similis GILL とに分けられ, 後者に両側遡遊型と湖沼型の生態的な2つの型が含まれていることになる。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "要 約"
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリ Rhinogobius similis の3生態型について, 成魚の形態を比較し, おたがいの関係について考察した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) 両側遡遊型と湖沼型の形態的なちがいは同種内の変異とみなせるが, 河川型は胸びれ条数・第1背びれ条数・脊椎骨数・鰓耙数・斑紋が明らかにつがっており, 卵の大きさや発育史にみられた特異性を考慮すれば, 前2者とは種が別である。また脊椎骨数と第1背びれ条数からみて, 河川型はヨシノボリ属に近縁の他の属に入る。"
+    },
+    {
+      "type": "paragraph",
+      "text": "2) 両側遡遊型と湖沼型をヨシノボリ Rhinogobius similis とし, 河川型をカワヨシノボリ Tukugobius flumineus と呼ぶことにした。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "引 用 文 献"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) 水野信彦: ヨシノボリの研究―I. 生活史の比較. 本誌 27: 6~11 (1961)."
+    },
+    {
+      "type": "paragraph",
+      "text": "2) 松原喜代松: 魚類の形態と検索. 石崎書店, 東京 (1955)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3) HERRE, A. W.: Science, 78: 265 (1933)."
+    },
+    {
+      "type": "paragraph",
+      "text": "4) TAKAGI, K.: J. Tokyo Univ. Fish., 43: 97~126 (1957)."
+    },
+    {
+      "type": "paragraph",
+      "text": "5) 高木和徳: 魚雑, 1: 37~52 (1950)."
+    },
+    {
+      "type": "paragraph",
+      "text": "6) TAKAGI, K.: J. Tokyo Univ. Fish., 39: 231~253 (1953)."
+    },
+    {
+      "type": "paragraph",
+      "text": "7) KOUMANS, F. P.: A preliminary revision of the genera of the gobioid fishes with united ventral fins. Lisse (1941)."
+    },
+    {
+      "type": "paragraph",
+      "text": "8) MIZUNO, N.: Mem. Coll. Sci. Univ. Kyoto, (B), 27: 97~115."
+    },
+    {
+      "type": "paragraph",
+      "text": "9) —: 同上, 27: 116~119."
+    },
+    {
+      "type": "paragraph",
+      "text": "* HERRE は 1933 年にこれを Rhinogobius GILL, 1859 の synonym としている8)。"
+    }
+  ]
+}

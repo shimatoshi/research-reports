@@ -1,0 +1,509 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Genetic Differentiation among Eight Color Types of the Freshwater Goby, Rhinogobius brunneus, from Western Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yasuji Masuda, Takakazu Ozawa and Sumio Enami"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Received June 6, 1988)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract Genetic differentiation among eight color types of the freshwater goby, Rhinogobius brunneus, from the western part of Japan was investigated by using electrophoretic methods. Four sympatric types (Cross-band, Dark, Cobalt and Large-Dark (A) types) did not share alleles at between one and six loci out of 12 loci tested. No hybrid specimens were found among these types. The average genetic distances among these four types ranged from 0.13 to 0.72, which fall within the range of values among congeneric species of fishes. The average genetic distances among the other four types, Large-Dark (B), Orange, Shinji-Lake and Boso types, were only 0.01 to 0.03, and fall within the range of values among conspecific populations. These results suggest that the former four types are clearly discrete species and the latter four types may be considered as intraspecific variations of a fifth species."
+    },
+    {
+      "type": "paragraph",
+      "text": "The gobiid genus Rhinogobius is a common group of freshwater fishes in Japan. At present three species are recognized (Hayashi, 1984): R. giurinus (Rutter), R. brunneus (Temminck et Schlegel), and R. flumineus (Mizuno). Among these species, R. brunneus is the most abundant and well-known in the country, but its taxonomy is very confusing because of its wide color variations."
+    },
+    {
+      "type": "paragraph",
+      "text": "R. brunneus was first recorded by Gill in 1859 (Jordan and Snyder, 1901b) and since then, many species names have been assigned, e.g. Rhinogobius nagoyae by Jordan and Seal (1906), Ctenogobius kurodai and Ctenogobius katonis by Tanaka (1908), and Rhinogobius fluviatilis by Tanaka (1925). However, Jordan and Tanaka (1927) regarded these nominal species as a synonym of Rhinogobius similis, and Tomiyama (1936) as that of Gobius similis. Later, Takagi (1962) revised the name Rhinogobius similis into R. brunneus, which has since been generally adopted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno (1960a, b) re-examined the gobies collected from the Japanese Archipelago and recognized two species, R. similis (=R. brunneus) and Tukugobius flumineus (=R. flumineus), on the basis of their morphological and ecological differences. Moreover, in 1967, R. similis was separated into two color types (Mizuoka, 1967), and since then 11 types have been identified (Nishijima, 1968; Mizuoka, 1974, 1978; Nakayama, 1975; Mizuno, 1976; Uehara, 1980; Iwata, 1981). However, the specific status of these color types remains uncertain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka (1976) compared the muscle and blood proteins of three species of Rhinogobius while Mizuno and Azakami (1981) studied courtship behavior among the color types of R. brunneus kept in an aquaria. Neither of these studies was able to resolve the taxonomic status of the color types."
+    },
+    {
+      "type": "paragraph",
+      "text": "This study examines the degree of genetic differentiation among the eight color types of R. brunneus and the other two species, R. flumineus and R. giurinus, and clarifies the taxonomic status of the color types by using electrophoretic techniques."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Materials and methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "Samples of the three species of the genus Rhinogobius were collected from 16 localities in the western part of Japan (Fig. 1). The samples collected were as follows: R. brunneus, five samples of Cross-band type (CR#1-5), one of Dark type (DA#1), three of Cobalt type (CO#1-3), three of Large-Dark type A (LA#1-3), three of Large-Dark type B (LB#1-3), one of Orange type (OR#1), one of Shinji-Lake type (SH#1), and one of Boso type (BO#1); R. flumineus, three samples (#1-3); R. giurinus, five samples (#1-5). Details of sampling locality, date of collection, number of fish examined and range in standard length are"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "Masuda et al.: Genetic Differentiation of Rhinogobius"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1. Sampling localities of three species of Rhinogobius.",
+      "bbox": [
+        0.21,
+        0.1,
+        0.78,
+        0.35
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_masuda_1989_brunneus_8types_extracted/Fig._1._Sampling_localities_of_three_species_of_Rhinogobius..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Sampling localities of three species of Rhinogobius."
+    },
+    {
+      "type": "paragraph",
+      "text": "given in Table 1. All fishes were taken by scoop net and frozen immediately in dry ice before transporting to the Laboratory of Fisheries Resources, Kagoshima University. The specimens were stored at -30°C until tested."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before electrophoresis, the specimens were thawed and identified as to species or type according to color pattern and external morpho-"
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Sample data for three species of Rhinogobius used in electrophoretic analyses.",
+      "bbox": [
+        0.12,
+        0.44,
+        0.87,
+        0.91
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_masuda_1989_brunneus_8types_extracted/Table_1._Sample_data_for_three_species_of_Rhinogobius_used_in_electrophoretic_an.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. Sample data for three species of Rhinogobius used in electrophoretic analyses."
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "logical characters described by Mizuoka (1974, 1978), Mizuno (1976), Miyadi et al. (1976) and Hayashi (1984). For the electrophoretic analyses, the whole liver and small pieces of the lateral muscle were dissected and homogenized in an equal volume of distilled water. The homogenates were absorbed onto filter paper wicks (No. 51A, Toyo Filter Paper Co., Tokyo, Japan) and subjected to horizontal starch gel electrophoresis. Gels were prepared by using 12.5% Electrostarch (Electrostarch Co., Madison, Wisconsin, U.S.A.) and two buffer systems: CAEA (citric acid, N-(3-aminopropyl) diethanolamin), pH 7.0 and CAPM (citric acid, N-(3-aminopropyl) morpholine), pH 6.0 (Clayton and Tretiake, 1972)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The enzymes and proteins assayed, tissues examined, buffer systems and staining procedures used are presented in Table 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loci and alleles were assigned each a number and a letter, respectively, in order of decreasing anodal mobility."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Results"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Electrophoretic variation in enzymes and protein."
+    },
+    {
+      "type": "paragraph",
+      "text": "Twelve gene loci coding for eight enzymes and general protein were scored in the three species of Rhinogobius. Relative mobility of allelic products and allele frequencies for each locus are given in Fig. 2 and Tables 3-5, respectively. The results for each enzyme and protein scored are described below:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fumarate hydratase (FH): One Fh locus was scored in muscle extracts. Heterozygotes exhibited a clear five-banded pattern characteristic of tetramaric enzymes. In populations of R. brunneus and R. flumineus the Fha allele occurred at high frequency (>0.72), whereas R. giurinus was fixed for Fhb allele."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glucosephosphate isomerase (GPI): Two Gpi loci were observed in muscle extracts and the heterozygotes were three-banded for both loci. At the Gpi-1 locus, the populations of the CR, DA and CO types of R. brunneus carried the Gpi-1d allele in high frequency (>0.83), while the populations of the LA type were polymorphic for Gpi-1d and Gpi-1h. In the LB, OR, SH and BO types of R. brunneus, Gpi-1h and Gpi-1e were common. Populations of R. flumineus were polymorphic for the three alleles (Gpi-1d, Gpi-1h and Gpi-1i) or fixed for Gpi-1d. R. giurinus carried the Gpi-1g allele in high frequency (>0.97). At the Gpi-2 locus, the populations of CR and LA types of R. brunneus carried the Gpi-2g allele in high frequency (>0.96), whereas the populations of DA and CO types of R. brunneus had the Gpi-2d and Gpi-2e alleles in high frequency, respectively. In the LB, OR, SH and BO types of R. brunneus, the Gpi-2f allele was in high frequency (>0.70). The populations of R. flumineus were polymorphic for the three alleles (Gpi-2g, Gpi-2a and Gpi-2e) or fixed for the Gpi-2g allele. R. giurinus carried the Gpi-2i allele in high frequency (>0.92)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Isocitrate dehydrogenase (IDH): Two loci were observed for IDH. This enzyme is a dimer since"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2. Enzymes and proteins, tissue source, buffer systems and staining procedures used in electrophoretic analyses of three species of Rhinogobius."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Enzymes and proteins, tissue source, buffer systems and staining procedures used in electrophoretic analyses of three species of Rhinogobius.",
+      "bbox": [
+        0.088,
+        0.64,
+        0.87,
+        0.905
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_masuda_1989_brunneus_8types_extracted/Table_2._Enzymes_and_proteins,_tissue_source,_buffer_systems_and_staining_proced.jpg"
+    }
+  ],
+  "4": [
+    {
+      "type": "error",
+      "message": "Image size (1197149625 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "heterozygotes exhibited a three-banded pattern. At the liver specific locus, Idh-1, populations of the CR type of R. brunneus were fixed for the Idh-1^g allele, whereas other types of R. brunneus carried the Idh-1^e allele in high frequency except for the OR type which was polymorphic for Idh-1^e, Idh-1^b and Idh-1^a. The populations of R. flumineus were fixed for Idh-1^d while those of R. giurinus carried the Idh-1^f allele in high frequency (>0.98). At the muscle-specific locus, Idh-2, all populations of Rhinogobius were essentially monomorphic for either Idh-2^a or Idh-2^d."
+    },
+    {
+      "type": "paragraph",
+      "text": "α-Glycerophosphate dehydrogenase (α-GPD): Only the α-Glycerophosphate dehydrogenase system with the least anodal mobility could be scored consistently in muscle extracts. Heterozygotes showed a three-banded pattern. Populations of the CR and CO types of R. brunneus carried the α-Gpd^c allele in high frequency, while the DA type was polymorphic for α-Gpd^g and α-Gpd^d. The populations of the LA type were fixed for α-Gpd^g, but the LB, OR, SH and BO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3. Allele frequencies at Fh, Gpi-1, Gpi-2 and Idh-1 loci in three species of Rhinogobius. CR, Cross-band type; DA, Dark type; CO, Cobalt type; LA, Large-Dark type (A); LB, Large-Dark type (B); OR, Orange type; SH, Shinji-Lake type; BO, Boso type."
+    },
+    {
+      "type": "figure",
+      "label": "Table 3. Allele frequencies at Fh, Gpi-1, Gpi-2 and Idh-1 loci in three species of Rhinogobius. CR, Cross-band type; DA, Dark type; CO, Cobalt type; LA, Large-Dark type (A); LB, Large-Dark type (B); OR, Orange type; SH, Shinji-Lake type; BO, Boso type.",
+      "bbox": [
+        0.092,
+        0.301,
+        0.871,
+        0.912
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_masuda_1989_brunneus_8types_extracted/Table_3._Allele_frequencies_at_Fh,_Gpi-1,_Gpi-2_and_Idh-1_loci_in_three_species_.jpg"
+    }
+  ],
+  "6": [
+    {
+      "type": "error",
+      "message": "Image size (883315125 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "types were polymorphic for α-Gpd^g and α-Gpd^e. Populations of R. flumineus were either polymorphic for α-Gpd^g and α-Gpd^e or fixed for α-Gpd^g. R. giurinus carried the α-Gpd^k allele in high frequency (>0.94)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Malate dehydrogenase (MDH): One Mdh locus was scored in liver extracts and heterozygotes could easily be distinguished by their three-banded pattern. All populations were essentially monomorphic for the Mdh^d allele."
+    },
+    {
+      "type": "paragraph",
+      "text": "Malic enzyme (ME): Two zones were observed in muscle extracts, but only the more anodal zone could be scored. Heterozygotes exhibited a clear five-banded pattern characteristic of tetrameric enzymes. Populations of the CR and CO types of R. brunneus carried unique alleles, Me^b and Me^a, respectively. The other types of R. brunneus and R. flumineus had a third allele, Me^d, while R. giurinus was fixed for another allele Me^c."
+    },
+    {
+      "type": "paragraph",
+      "text": "Phosphoglucomutase (PGM): One Pgm locus was scored in muscle extracts and heterozygotes were two-banded. All populations of R. brunneus and R. flumineus carried the Pgm^d allele in high frequency (>0.78), while R. giurinus was essentially monomorphic for Pgm^e."
+    },
+    {
+      "type": "paragraph",
+      "text": "Superoxide dismutase (SOD): One Sod locus was scored in liver extracts and heterozygotes were three-banded. Populations of the CR type of R. brunneus were polymorphic for Sod^a and Sod^e, whereas the other types of R. brunneus were fixed for Sod^e except for the OR type, which also carried the Sod^d allele in low frequency. R. flumineus and R. giurinus were fixed for Sod^d and Sod^b, respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "General protein (PROT): Two strongly stained zones were observed in muscle extracts and were scored as products of the two loci (Prot-1 and Prot-2). At the Prot-1 locus, heterozygotes exhibited a two-banded pattern. Populations of the CR and LA types of R. brunneus were fixed for Prot-1^e and the DA type carried this allele in high frequency (0.99). Populations of the CO type had a unique allele, Prot-1^f, while the LB, OR, SH and BO types carried Prot-1^a in high frequency (>0.93). R. flumineus and R. giurinus were fixed for Prot-1^e and Prot-1^d, respectively. At the Prot-2 locus, all populations were fixed for Prot-2^a allele."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Genetic distances among populations."
+    },
+    {
+      "type": "paragraph",
+      "text": "To estimate the degree of genetic differentiation among populations, Nei's measurement of genetic distance was used (Nei, 1972). This was calculated directly from the allele frequencies shown in Tables 3-5. The average genetic distances among populations are presented in Table 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among local populations of the same type or species, low average genetic distances were observed: 0.00-0.01 in each type of R. brunneus and R. giurinus, and 0.07 in R. flumineus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the eight color types of R. brunneus, the average genetic distances ranged from 0.01 to 0.78. Low values (0.01-0.03) were observed between pairs of the LB, OR, SH and BO types, but high genetic distances (0.13-0.78) were recorded between the remaining pairs of the color types."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the species level, average genetic distances among the three species were high (0.35-1.77); R. giurinus was more distant from the other species (Table 6, Fig. 3)."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Discussion"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Genetic differentiation among local populations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the technique of gel electrophoresis of protein was introduced to taxonomic studies, much information has been accumulated on the degree of genetic differentiation at various taxonomic levels (e.g. local populations, species and genera) of fishes. At the local population level, the average genetic distances ranged from 0.002 to 0.01 in marine fishes and from 0.002 to 0.13 in freshwater fishes on the basis of the following data: marine fishes, 0.002 in milkfish Chanos chanos (Winans, 1980), 0.008 in anemonefish Amphiprion clarkii (Bell et al., 1982), 0.01 in flatfish (Ward and Galleguillos, 1983), 0.0028 in masu salmon Oncorhynchus masou (Okazaki, 1986) and 0.0020 in red seabream Pagrus major (Taniguchi et al., 1986); freshwater fishes, 0.027 in bluegill Lepomis macrochirus macrochirus and 0.004 in L. m. purpurescens (Avise and Smith, 1977), 0.13 in stoneroller Campostoma anomalum and 0.03 in C. oligolepis (Buth and Burr, 1978), 0.0017 in ayu Plecoglossus altivelis (Taniguchi et al., 1983) and 0.056 in Japanese dace Tribolodon hakonensis (Hanzawa et al., 1988). Thus, in general, the average genetic distances among local populations of freshwater fishes tend to be higher than in marine fishes, since the degree of geographical isolation in freshwater fishes is usually higher than in marine fishes."
+    }
+  ],
+  "8": [
+    {
+      "type": "error",
+      "message": "Image size (1199205000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "In this study, the average genetic distances between pairs of local populations within R. brunneus and within R. giurinus were very low (0.00-0.01), while that within R. flumineus was higher (0.07) (Table 6). As compared with the average genetic distances described above, the former values are typical of those in marine fishes and the latter in freshwater fishes. These results may reflect ecological differences among the three species: R. brunneus and R. giurinus usually migrate between river and sea according to their development (amphidromous type), while R. flumineus is typically a river fish (fluvial type) (Miyadi et al., 1976; Hayashi, 1984). Thus, the degree of gene mixing among local populations of R. brunneus and of R. giurinus is expected to be higher than that of R. flumineus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Genetic differentiation among color types. The average genetic distances between pairs of the LB, OR, SH and BO types were low (0.01-0.03), while those between the remaining pairs of the color types were high (0.13-0.78) (Table 6). Shaklee et al. (1982) reviewed the genetic distances in many marine and freshwater fishes and found out that the average genetic distance between conspecific populations was 0.05 (range 0.002-0.065) and that between species was 0.30 (0.025-0.609). Similarly, Thorpe (1983) examined the distributions of Nei's genetic identity (I) for a large number of conspecific populations and congeneric species of various organisms and found out that the I values between most pairs (98%) of conspecific populations were above 0.9, whereas between congeneric species most (99.5%) were below 0.9. Transforming these I values to genetic distances (D) by using the formula, D = -log_e I, D was found to be less than 0.105 between conspecific populations and more than 0.105 between congeneric species. As compared with these genetic distances, the present values between pairs of the LB, OR, SH and BO types fall within the range of conspecific populations and the values between the remaining pairs of the color types fall within the range of congeneric species."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 7. Number of loci at which the four sympatric types of Rhinogobius brunneus (Hirose River) did not share alleles. Gene loci examined = 12."
+    },
+    {
+      "type": "figure",
+      "label": "Table 7. Number of loci at which the four sympatric types of Rhinogobius brunneus (Hirose River) did not share alleles. Gene loci examined = 12.",
+      "bbox": [
+        0.072,
+        0.755,
+        0.452,
+        0.905
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_masuda_1989_brunneus_8types_extracted/Table_7._Number_of_loci_at_which_the_four_sympatric_types_of_Rhinogobius_brunneu.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 7 shows the number of loci at which the four sympatric types (CR, DA, CO and LA types caught in Hirose River) did not share alleles. On the basis of this table, these four types did not share alleles at between one and six loci out of the 12 examined. Moreover, no hybrid specimens have been detected in these sympatric populations. These findings indicate that the four types of R. brunneus maintain separate gene pools and are reproductively isolated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno et al. (1979) investigated the ecological differences of these four sympatric types (CR, DA, CO and LA types) and observed clear habitat segregation among them. Moreover, the four types are quite distinct in coloration, while the other four types (LB, OR, SH and BO types) closely resemble each other (Mizuoka, 1974; Mizuno, 1976; Uehara, 1980). Mizuno and Azakami (1981) examined the courting behavior among the six color types of R. brunneus in an aquaria. They observed frequent courting between OR and SH types, and infrequent courting between CR, DA, CO, LA and OR (or SH) types."
+    },
+    {
+      "type": "paragraph",
+      "text": "From these results, the CR, DA, CO and LA types of R. brunneus are clearly discrete species and the other four types, LB, OR, SH and BO, may be considered as intraspecific variations of a fifth species."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among these discrete species, the CR, DA and LA color types have been described as different species (Mizuno, 1976): the CR type as Rhinogobius nagoyae by Jordan and Seale (1906), the DA type as Ctenogobius similis by Jordan and Snyder (1901a), and the LA type as Rhinogobius fluviatilis by Tanaka (1925). Scientific names of the other color types await further morphological studies and search of original descriptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Ryukyu Archipelago, three more color types of R. brunneus have been reported (Nishijima, 1968; Nakayama, 1975; Iwata, 1981; Hayashi, 1984). To establish the taxonomy of these types, further electrophoretic analyses are needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Genetic differentiation among species. The average genetic distances among the three species of the genus Rhinogobius were high (0.35-1.77), especially for R. giurinus which showed considerably higher values (>1.29) than the other two species (Table 6). In Fig. 3, the phenetic rela-"
+    }
+  ],
+  "10": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "11": [
+    {
+      "type": "paragraph",
+      "text": "Mar. Biol., 72: 99-108."
+    },
+    {
+      "type": "paragraph",
+      "text": "Buth, D. G. and B. M. Burr. 1978. Isozyme variability in the cyprinid genus Campostoma. Copeia, 1978 (2): 298-311."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clayton, J. W. and D. N. Tretiak. 1972. Amine-citrate buffers for pH control in starch gel electrophoresis. J. Fish. Res. Bd. Can., 29(8): 1169-1172."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gill, T. 1859. Notes on a collection of Japanese fishes, made by Dr. J. Morrow. Proc. Acad. Nat. Sci. Philad., 1859: 144-149."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hanzawa, N., N. Taniguchi and K. Numachi. 1988. Geographical differentiation in populations of Japanese dace Tribolodon hakonensis deduced from allozymic variation. Zool. Sci., 5: 449-461."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hayashi, M. 1984. Rhinogobius giurinus, Rhinogobius brunneus and Rhinogobius flumineus. Pages 269-271, pls. 248-249 in H. Masuda, K. Amaoka, C. Araga, T. Uyeno and T. Yoshino, eds. The fishes of the Japanese Archipelago. English text and plates. Tokai Univ. Press, Tokyo, 437 pp., 370 pls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Iwata, A. 1981. A new color type of freshwater goby, Rhinogobius brunneus, from Nansei Islands, Japan. Freshw. Fish., (7): 18-21. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan, D. S. and A. Seale. 1906. Descriptions of six new species of fishes from Japan. Proc. U. S. Natn. Mus., 30(1445): 143-148."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan, D. S. and J. O. Snyder. 1901a. List of fishes collected in 1883 and 1885 by Pierre Louis Jouy and preserved in the United States National Museum, with descriptions of six new species. Proc. U. S. Natn. Mus., 23(1235): 739-769, pls. 31-38."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan, D. S. and J. O. Snyder. 1901b. A review of the gobioid fishes of Japan, with descriptions of twenty-one new species. Proc. U. S. Natn. Mus., 24(1244): 33-132."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan, D. S. and S. Tanaka. 1927. The fresh water fishes of the Riukiu Islands, Japan. Ann. Carnegie Mus., 17(2): 259-278, pls. 22-23."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyadi, D., H. Kawanabe and N. Mizuno. 1976. Coloured illustrations of the freshwater fishes of Japan. New ed. Hoikusha, Osaka, 462 pp., 56 pls. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N. 1960a. Study on a freshwater goby, Rhinogobius similis Gill, with a proposition on the relationships between land-locking and speciation of some freshwater gobies in Japan. Mem. Coll. Sci. Univ. Kyoto, Ser. B, 27(2): 97-115."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N. 1960b. Description of a new freshwater goby from Japan. Mem. Coll. Sci. Univ. Kyoto, Ser. B, 27(2): 117-119."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N. 1976. Studies on a freshwater fish, Rhinogobius brunneus (Pisces: Gobiidae) III. Distribution of four colour types in Shikoku and Kyushu Islands. Physiol. Ecol. Japan, 17: 373-381. (In Japanese with English synopsis.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N. and T. Azakami. 1981. Mate preference among various types of a freshwater goby, Rhinogobius brunneus. Advance Abstracts for the 14th Annual Meeting of the Ichthyological Society of Japan, p. 17. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N., S. Uehara and M. Maki. 1979. Studies on a freshwater fish, Rhinogobius brunneus (Gobiidae) IV. Habitat segregation among sympatric populations of 4 colour types. Japan. J. Ecol., 29(2): 137-147. (In Japanese with English synopsis.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka, S. 1967. Studies on fluvial variations in the gobioid fish, \"yoshinobori\" IV. Distributions and variations in color pattern and the pectoral fin ray numbers. Bull. Fac. Educ. Hiroshima Univ., Part 3, (16): 43-52. (In Japanese with English summary.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka, S. 1974. Studies on the variation of Rhinogobius brunneus (Temminck et Schlegel) III. On the six types of body color and color pattern in the Sanin district, the Hokuriku district, the Sanyo district, and the Goto Islands. Bull. Fac. Educ. Hiroshima Univ., Part 3, (23): 31-40. (In Japanese with English summary.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka, S. 1976. Electrophoretic studies on some gobiid fishes on Rhinogobius flumineus, Rhinogobius giurinus and the six types of Rhinogobius brunneus. Bull. Fac. Educ. Hiroshima Univ., Part 3, (25): 23-32. (In Japanese with English summary.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka, S. 1978. Studies on the variation of \"yoshinobori\", Rhinogobius similis Gill. Bull. Fac. Sch. Educ. Hiroshima Univ., Part 2, 1: 147-168."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nakayama, H. 1975. A freshwater goby, Rhinogobius brunneus, from Okinawa Island, Japan. Freshw. Fish., (1): 113-115. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nei, M. 1972. Genetic distance between populations. Amer. Nat., 106(949): 283-292."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishijima, S. 1968. Two forms of the gobioid fish Rhinogobius brunneus from Okinawa-Jima, Ryukyu Islands. Zool. Mag., 77: 397-398. (In Japanese with English abstract.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Numachi, K. 1970. Lactate and malate dehydrogenase isozyme patterns in fish and marine mammals. Bull. Japan. Soc. Sci. Fish., 36(10): 1067-1077."
+    },
+    {
+      "type": "paragraph",
+      "text": "Numachi, K. 1971. Genetic polymorphism of α-glycerophosphate dehydrogenase in saury, Cololabis saira-I. Seven variant forms and genetic control. Bull. Japan. Soc. Sci. Fish., 37(8): 755-760."
+    },
+    {
+      "type": "paragraph",
+      "text": "Numachi, K. 1972. Genetic polymorphism of tetrazolium oxidase in black rockfish. Bull. Japan. Soc. Sci. Fish., 38(7): 789."
+    },
+    {
+      "type": "paragraph",
+      "text": "Okazaki, T. 1986. Genetic variation and population structure in masu salmon Oncorhynchus masou of Japan. Bull. Japan. Soc. Sci. Fish., 52(8): 1365-1376."
+    }
+  ],
+  "12": [
+    {
+      "type": "paragraph",
+      "text": "Masuda et al.: Genetic Differentiation of Rhinogobius"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shaklee, J. B., C. S. Tamaru and R. S. Waples. 1982. Speciation and evolution of marine fishes studied by the electrophoretic analysis of proteins. Pacif. Sci., 36(2): 141-157."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shaw, C. R. and R. Prasad. 1970. Starch gel electrophoresis of enzymes—a compilation of recipes. Biochem. Genet., 4: 297-320."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sneath, P. H. A. and R. R. Sokal. 1973. Numerical taxonomy. W. H. Freeman and Co., San Francisco, 573 pp."
+    },
+    {
+      "type": "paragraph",
+      "text": "Takagi, K. 1962. Nomenclatural status of Gobius brunneus Temminck et Schlegel, 1845, a gobioid species from Japan. Zool. Mag., 71: 295-300. (In Japanese with English abstract.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka, S. 1908. Descriptions of eight new species of fishes from Japan. Annot. Zool. Japon., 7(1): 27-47."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka, S. 1925. Figures and descriptions of the fishes of Japan. 34. Maruzen, Tokyo, pp. 629-644, pls. 151-153."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taniguchi, N. and Y. Konishi. 1971. Muscle protein polymorphism in frigate mackerel collected from the coastal region of Kochi Pref., Japan. Bull. Japan. Soc. Sci. Fish., 37(7): 571-576."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taniguchi, N. and K. Numachi. 1978. Genetic variation of 6-phosphogluconate dehydrogenase, isocitrate dehydrogenase, and glutamic-oxaloacetic transaminase in the liver of Japanese eel. Bull. Japan. Soc. Sci. Fish., 44(12): 1351-1355."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taniguchi, N., S. Seki and Y. Inada. 1983. Genic variability and differentiation of amphidromous, landlocked, and hatchery populations of ayu Plecoglossus altivelis. Bull. Japan. Soc. Sci. Fish., 49(11): 1655-1663. (In Japanese with English abstract.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taniguchi, N., M. Fujita and M. Akazaki. 1986. Genetic divergence and systematics in sparid fish from Japan. Pages 849-858 in T. Uyeno, R. Arai, T. Taniuchi and K. Matsuura, eds. Indo-Pacific fish biology: Proc. of the 2nd Internat. Conf. on Indo-Pacific Fishes. Ichthyological Soc. of Japan, Tokyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thorpe, J. P. 1983. Enzyme variation, genetic distance and evolutionary divergence in relation to levels of taxonomic separation. Pages 131-152 in G. S. Oxford and D. Rollinson, eds. Protein polymorphism: Adaptive and taxonomic significance. Academic Press, London and New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tomiyama, I. 1936. Gobiidae of Japan. Japan. J. Zool., 7(1): 37-112."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uehara, S. 1980. Distributions of five colour types of a fresh water goby, Rhinogobius brunneus, in the Boso Peninsula, Japan. Sci. Rep. Yokosuka City Mus., (27): 19-35. (In Japanese with English abstract.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ward, R. D. and R. A. Galleguillos. 1983. Biochemical systematics and genetic variation in flatfish of the family Pleuronectidae. Pages 165-178 in G. S. Oxford and D. Rollinson, eds. Protein polymorphism: Adaptive and taxonomic significance. Academic Press, London and New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "Winans, G. A. 1980. Geographic variation in the milkfish Chanos chanos. I. Biochemical evidence. Evolution, 34: 558-574."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Faculty of Fisheries, Kagoshima University, Kagoshima 890, Japan)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ヨシノボリ8型の遺伝的分化"
+    },
+    {
+      "type": "paragraph",
+      "text": "増田育司・小沢貴和・江波澄雄"
+    },
+    {
+      "type": "paragraph",
+      "text": "西日本の河川域から採集したヨシノボリ8型について電気泳動法による遺伝的比較を行った. その結果, 同一河川で採集した横斑型・黒色型・るり型・黒色大型Aの4型は, 分析した12遺伝子座のうち1-6遺伝子座で異なった遺伝子を保有し, かつ各型間の交雑個体は1個体も見出されなかった. これら4型間の遺伝距離は0.13-0.72であり, 魚類の同属種間で得られる値の範囲内にあった. 一方, 黒色大型B・橙色型・宍道湖型・房総型の4型間の遺伝距離は0.01-0.03と低く, 同種個体群間で得られる値の範囲内にあった. これらの結果から, 前4型は明らかに別種であり, 後4型は同一種 (第5番目の種) に属するものと思われる."
+    },
+    {
+      "type": "paragraph",
+      "text": "(890 鹿児島市下荒田 4-50-20 鹿児島大学水産学部)"
+    }
+  ]
+}

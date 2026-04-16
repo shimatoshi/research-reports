@@ -1,0 +1,307 @@
+{
+  "1": [
+    {
+      "type": "paragraph",
+      "text": "Biogeography 2.\n51-61. Aug. 28, 2000"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Morphological Features of a Russian Freshwater Goby, Rhinogobius lindbergi (Pisces: Gobiidae), and Its Genetic Relationships to Japanese Species"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harumi Sakai¹, Ken Ikoma¹, Sergei V. Frolov², Yuji Yamazaki³, Hiroshi Takahashi⁴ and Hitoshi Ida⁵"
+    },
+    {
+      "type": "paragraph",
+      "text": "¹Department of Applied Aquabiology, National Fisheries University, Nagatahonmachi, Shimonoseki, Yamaguchi 759-6595, Japan (e-mail: sakaih@fish-u.ac.jp)\n²Institute of Marine Biology, Far East Branch, Russian Academy of Science, Vladivostok 690041, Russia\n³Ocean Research Institute, University of Tokyo, 1-15-1 Minamidai, Nakano-ku, Tokyo 164-8639, Japan\n⁴Faculty of Fisheries, Hokkaido University, Hakodate 041-8611, Japan\n⁵School of Fisheries Sciences, Kitasato University, Sanriku, Kesen, Iwate 022-0101, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract. Russian freshwater goby Rhinogobius lindbergi from the Amur River basin is the northernmost species of the genus. It is diagnosed from about 50 congeners by the following combination of characteristics: preopercular canal with two open pores, vertebrae 27, pectoral fin rays 19-20, no predorsal scales, and a distinct dark spot between the 1st and the 2nd rays of the first dorsal fin in male. Whether R. lindbergi is a fluvial or an amphidromous species is unknown. It is also probable that R. lindbergi yields small floating larvae, but they never go to the sea. Allozyme comparisons with seven Japanese congeners indicate that this species is genetically less related to them, being slightly closer to an amphidromous species, Rhinogobius sp. LD \"Oo-yoshinobori\" sensu Kawanabe & Mizuno (1989)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key words: Far East, Amur River, electrophoresis, allozyme, genetic distance, cephalic lateralis, amphidromy."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Far Eastern freshwater goby Rhinogobius Gill, 1859, comprises about 50 species (Chen et al., 1999a), exhibiting an amphidromous or a fluvial mode of life. Their taxonomy and speciation problem involving the differentiation of the fluvial species have drawn much attention in Japan (Mizuno, 1987; Masuda et al., 1989; Shimizu et al., 1993; Katoh & Nishida, 1994; Nishida, 1994; Aonuma et al., 1998), Korea (Jeon & Aonuma, 1995), China (Chen et al., 1999b), Taiwan Island (Chen & Shao, 1996), Thailand and Laos (Chen et al., 1999a), etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "Russian R. lindbergi (Berg, 1933) from the Amur River basin (Fig. 1) is the northernmost species of the genus. As the mouth of the Amur River opens to east (see Fig. 2), it may be possible that R. lindbergi has closer relationship to the Japanese congeners than others, having an amphidromous origin. Another possibility may be that R. lindbergi is a fluvial species and it had invaded the Amur basin from Chinese rivers through such a tributary change event as"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "Russian Freshwater Goby from the Amur River"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1. Rhinogobius lindbergi from Amur River basin. A, HUMZ 164191, male, 38.7 mm SL, Kyiya River; B, HUMZ 164197, female, 27.2 mm SL, Oligovta River.",
+      "bbox": [
+        0.188,
+        0.119,
+        0.812,
+        0.405
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_lindbergi_morphology_biogeo_extracted/Fig._1._Rhinogobius_lindbergi_from_Amur_River_basin._A,_HUMZ_164191,_male,_38.7_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Rhinogobius lindbergi from Amur River basin. A, HUMZ 164191, male, 38.7 mm SL, Kyiya River; B, HUMZ 164197, female, 27.2 mm SL, Oligovta River."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. Map showing collecting sites of Rhinogobius lindbergi (Amur River basin) and 7 Japanese Rhinogobius species (Yamaguchi Prefecture).",
+      "bbox": [
+        0.125,
+        0.49,
+        0.52,
+        0.805
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_lindbergi_morphology_biogeo_extracted/Fig._2._Map_showing_collecting_sites_of_Rhinogobius_lindbergi_(Amur_River_basin).jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. Map showing collecting sites of Rhinogobius lindbergi (Amur River basin) and 7 Japanese Rhinogobius species (Yamaguchi Prefecture)."
+    },
+    {
+      "type": "paragraph",
+      "text": "hypothesized by Nishimura (1967)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In mainland Japan, one fluvial species, R. flumineus (Mizuno, 1960) \"Kawa-yoshinobori\", one amphidromous species, R. giurinus (Rutter, 1897) \"Gokuraku-haze\", and five amphidromous species of the so-called R. brunneus (Temminck & Schlegel, 1845) species group, namely, R. sp. CB \"Shima-yoshinobori\", R. sp. DA \"Kuro-yoshinobori\", R. sp. LD \"Oo-yoshinobori\", R. sp. CO \"Ruri-yoshinobori\", and R. sp. OR \"Tou-yoshinobori\" are known (sensu Kawanabe & Mizuno, 1989; Akihito et al., 1993)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first place to know the derivation of R. lindbergi, we observe its morphological features, examine its allozyme allelic composition, compare with those of the Japanese congeners, and try to estimate the above first possibility of relationships between R. lindbergi and the Japanese mainland congeners."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Material and Methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "Specimens of Rhinogobius lindbergi were collected from some tributaries of the Amur River basin (Table 1, Fig. 2), and all the Japanese species were caught from rivers of Yamaguchi Prefecture,"
+    }
+  ],
+  "3": [
+    {
+      "type": "error",
+      "message": "Image size (658369920 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "4": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "5": [
+    {
+      "type": "error",
+      "message": "broken data stream when writing image file"
+    }
+  ],
+  "6": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "7": [
+    {
+      "type": "error",
+      "message": "Image size (1684497440 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "8": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Russian Freshwater Goby from the Amur River"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 5. Continued."
+    },
+    {
+      "type": "figure",
+      "label": "Table 5. Continued.",
+      "bbox": [
+        0.145,
+        0.118,
+        0.905,
+        0.742
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_lindbergi_morphology_biogeo_extracted/Table_5._Continued..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "LI, Rhinogobius lindbergi ; CB, R. sp. CB ; DA, R. sp. DA ; CO, R. sp. CO ; LD, R. sp. LD ; OR, R. sp. OR ; FL, R. flumineus ; GI, R. giurinus."
+    }
+  ],
+  "9": [
+    {
+      "type": "error",
+      "message": "Image size (465878700 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "Russian Freshwater Goby from the Amur River"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are grateful to Dr Akira Goto, Hokkaido University, Dr Keisuke Takata, Shinshu University, Drs Mikhail P. Tiunov, Tatyana M. Tiunova and Miss Tatyana I. Arefina, Russian Academy of Science, and Mr Victor V. Tsiger, TINRO Center, for field assistance in Russia, and to Messrs Tomohisa Watanabe, Yukimasa Ito, Norikazu Maruoka, Tomoko Kawano, Kyouichi Matsuoka and Naomi Furutani, students of the National Fisheries University, for help in collecting Japanese specimens. Thanks also go to Dr Akihisa Iwata, Kyoto University, for providing valuable suggestions and literatures, and to Drs Hiroshi Kohno and Masato Motegi, Tokyo University of Fisheries, for radiographs. This study was partly supported by Grants-in-Aid for Overseas Scientific Survey No. 06041004 and 09041138 from the Ministry of Education, Science, Sports and Culture, Japan."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Literature cited"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito Prince, Hayashi, M. & Yoshino, T. 1984. Suborder Gobioidei. In Masuda, H., Amaoka, K., Araga, C., Uyeno, T. & Yoshino, T. (Eds), The Fishes of the Japanese Archipelago: 228-289. Tokai University Press, Tokyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Iwata, A., Sakamoto, K. & Ikeda, Y. 1993. Suborder Gobioidei. In Nakabo, T. (Ed.), Fishes of Japan with pictorial Keys to the Species: 997-1392. Tokai University Press, Tokyo. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aonuma, Y., Asahida, T., Ida, H., Iwata, A. & Kobayashi, T. 1998. Genetic variation of Rhinogobius fishes (Pisces: Gobiidae) around the East China Sea with notes on its zoogeography. DNA Polymorph., 6: 116-122. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I.-S., Kottelat, M. & Miller, P. J. 1999a. Freshwater gobies of the genus Rhinogobius from the Mekong Basin in Thailand and Laos, with descriptions of three new species. Zool. Stud., 38: 19-32."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I.-S. & Shao, K.-T. 1996. A taxonomic review of the gobiid fish genus Rhinogobius Gill, 1859, from Taiwan, with descriptions of three new species. Zool. Stud., 35: 200-214."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I.-S., Wu, H.-L. & Shao, K.-T. 1999b. A new species of Rhinogobius (Teleostei: Gobiidae) from Fujian Province, China. Ichthyol. Res., 46: 171-178."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clayton, J. W. & Tretiak, D. N. 1972. Amine-citrate buffers for pH control in starch gel electrophoresis. J. Fish. Res. Bd Can., 29: 1169-1172."
+    },
+    {
+      "type": "paragraph",
+      "text": "Felsenstein, J. 1995. PHYLIP (Phylogeny Inference Package), version 3.57c. University of Washington, Seattle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeon, S.-R. & Aonuma, Y. 1995. Studies on the key and distribution of the genus Rhinogobius (Pisces: Gobiidae) from Korea. J. nat. Sci., Sang Myung Women's Univ., 2: 1-32. (In Korean with English abstract.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Katoh, M. & Nishida, M. 1994. Biochemical and egg size evolution of freshwater fishes in the Rhinogobius brunneus complex (Pisces, Gobiidae) in Okinawa, Japan. Biol. J. Linn. Soc., 51: 325-335."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kawanabe, H. & Mizuno, N. (Eds). 1989. Freshwater Fishes of Japan. 719 pp. Yama-Kei Publishers, Tokyo. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lee, S.-C. & Chang, J.-T. 1996. A new goby, Rhinogobius rubromaculatus (Teleostei: Gobiidae) from Taiwan. Zool. Stud., 35: 30-35."
+    },
+    {
+      "type": "paragraph",
+      "text": "Masuda, Y., Ozawa, T. & Enami, S. 1989. Genetic differentiation among eight color types of freshwater goby, Rhinogobius brunneus, from western Japan. Jap. J. Ichthyol., 36: 30-51."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyadi, D., Kawanabe, H. & Mizuno, N. 1976. Colored Illustrations of the Freshwater Fishes of Japan (new edn). 462 pp. Hoiku-sha, Osaka. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N. 1960. Description of a new freshwater goby from Japan. Mem. Coll. Sci. Univ. Kyoto, 27: 117-119."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N. 1987. Yoshinobori gobies. In Mizuno, N. & Goto, A. (Eds), Japanese Freshwater Fishes, and their Distribution, Variation and Speciation: 179-188. Tokai University Press, Tokyo. (In"
+    }
+  ],
+  "11": [
+    {
+      "type": "paragraph",
+      "text": "Harumi Sakai, Ken Ikoma, Sergei V. Frolov, Yuji Yamazaki, Hiroshi Takahashi and Hitoshi Ida"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Murphy, R. W., Sites, J. W., Buth, D. G. & Haufler, C. H. 1990. Proteins I: isozyme electrophoresis. In Hillis, D. M. & Moritz, C. (Eds), Molecular Systematics: 45-126. Sinauer Associates, Sunderland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishida, M. 1994. Life-history variation and speciation in Yoshinobori fishes. In Goto, A., Tsukamoto, K. & Maekawa, K. (Eds), Migrating Freshwater Fishes between Rivers and the Sea: Life History and Evolution: 154-169. Tokai University Press, Tokyo. (In Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishimura, S. 1967. Origin and history of the Far-Eastern freshwater serranid Siniperca and its allied genera (Teleostei: Percida). Bull. Osaka Mus. nat. Hist., (20): 13-30. (In Japanese with English abstract.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ridgway, G. L., Sherburne, S. W. & Lewis, R. D. 1970. Polymorphism in the esterases of Atlantic herring. Trans. Am. Fish. Soc., 99: 147-151."
+    },
+    {
+      "type": "paragraph",
+      "text": "Saitou, N. & Nei, M. 1987. The neighbor-joining method: A new method for reconstructing phylogenetic trees. Molec. Biol. Evol., 4: 406-425."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai, H., Ito, D., Watanabe, T., Idei, K., Ito, Y.,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsubara, H. Takagi, M. & Ikeda, I. 1999. Distribution of freshwater gobies in Yamaguchi Prefecture. J. natn. Fish. Univ., 48: 49-56. (In Japanese with English abstract.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai, H., Iwata, A. & Jeon, S.-R. 1993. Genetic evidence supporting the existence of three distinct species in the genus Odontobutis (Gobiidae) from Japan and Korea. Jap. J. Ichthyol., 40: 61-64."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shaklee, J. B., Allendorf, F. W., Moritz, D. C. & Whitt, G. S. 1990. Genetic nomenclature of protein-coding loci in fish: proposed guidelines. Trans. Am. Fish. Soc., 119: 2-15."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shaw, C. R. & Prasad, R. 1970. Starch gel electrophoresis of enzymes - a compilation of recipes. Biochem. Genet., 4: 297-320."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shimizu, T., Taniguchi, N. & Mizuno, N. 1993. An electrophoretic study of genetic differentiation of a Japanese freshwater goby, Rhinogobius flumineus. Jap. J. Ichthyol., 39: 329-343."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sneath, P. H. A. and Sokal, R. R. 1973. Numerical Taxonomy, the Principles and Practice of numerical Classification. 573 pp. W. H. Freeman and Company, San Francisco."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Accepted June 5, 2000)"
+    }
+  ]
+}

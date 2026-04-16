@@ -1,0 +1,550 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "原著論文 Original Paper"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "京都御苑の仙洞御所の池に生息するビワヨシノボリ Rhinogobius biwaensis とシマヒレヨシノボリ Rhinogobius sp. BF の野外交雑個体"
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁¹・藍澤正宏²,³・池田祐二²・岸田宗範²・林 公義²・中山耕至⁴・中坊徹次⁵"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Masahiro Aizawa, Yuji Ikeda*, Munenori Kishida, Masayoshi Hayashi, Kouji Nakayama and Tetsuji Nakabo. 2019. Rhinogobius biwaensis (“Biwayoshinobori”) × Rhinogobius sp. BF (“Shimahireyoshinobori”) hybrids from the ponds of Sento Imperial Palace, Kyoto City, Japan. Japan. J. Ichthyol., 66(1): 53–62. DOI: 10.11369/jji.18-044."
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract Hybrids of Rhinogobius biwaensis and Rhinogobius sp. BF were identified in the ponds of Sento Imperial Palace, Kyoto City, Japan, from microsatellite and mitochondrial DNA markers. Mitochondrial DNA analysis indicated that five of seven Rhinogobius specimens had R. biwaensis haplotypes, the remaining specimens having those of Rhinogobius sp. BF. In DAPC and STRUCTURE analyses based on microsatellite data, all specimens examined showed intermediate status between R. biwaensis and Rhinogobius sp. BF, the two species being considered to have formed a hybrid swarm in the ponds because genetically pure individuals of either were not found. This is the first report of recent hybridization under field conditions in Rhinogobius fishes from Japan, confirmed by nuclear and mitochondrial DNA data. Hybrid Rhinogobius specimens from the ponds had 5–17 predorsal scales, an intermediate range between those of non-hybrid R. biwaensis (0–6) and Rhinogobius sp. BF (11–20). However, in appearance they were more similar to R. biwaensis than Rhinogobius sp. BF, having bluish-white distal coloring anteriorly on the first and second dorsal fins, a reduced reddish longitudinal band on the anal fin, and lacking yellowish dorsal and posterior margins on the caudal fin. However, they differed from R. biwaensis in having a narrower white posterior caudal fin margin. Further morphological differentiation of the hybrid specimens was not apparent."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Corresponding author: Imperial Household Agency, 1–1 Chiyoda, Chiyoda-ku, Tokyo 100–8111, Japan (e-mail: seiken-ikeda@circus.ocn.ne.jp)"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "本研究では，2013年に皇居吹上御苑の池で採集されたハゼ科魚類5個体について，形態的特徴を精査するとともに，ミトコンドリアDNA（mtDNA）の塩基配列を決定し，2018年までに皇居から報告されているハゼ科魚類（明仁ほか，2018）との比較を行った．"
+    },
+    {
+      "type": "paragraph",
+      "text": "その結果，これら5個体は，これまで皇居から報告されているハゼ科魚類とは形態的特徴が一致せず，2010年に新種として記載されたセボシタビラクチ（明仁ほか，2010）に酷似していた．そこで，2012年にセボシタビラクチのタイプ産地である有明海沿岸で採集された3個体，および2003年に岡山県で採集されたセボシタビラクチ（明仁ほか，2010）の標本と比較検討を行った．"
+    },
+    {
+      "type": "paragraph",
+      "text": "また，本研究で得られた個体と，明仁ほか（2018）によって皇居から報告されているハゼ科魚類，および渋川ほか（2007）や明仁ほか（2013）によって報告されている日本産ハゼ科魚類との比較も行った．"
+    },
+    {
+      "type": "paragraph",
+      "text": "その結果，本研究で得られた5個体は，形態的特徴およびmtDNAの塩基配列において，セボシタビラクチと一致することが判明した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "セボシタビラクチは，1890年に記載されたタビラクチのシノニムとされていたが，1991年に再検討が行われ，独立した種であることが示唆された．その後，2003年に岡山県で採集された個体に基づき，新種として記載されたものである．"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究により，皇居吹上御苑の池において，セボシタビラクチの生息が初めて確認された．本種は，これまで有明海沿岸および岡山県からのみ報告されており，本報告は本種の分布域の東限を大きく広げるものである．"
+    },
+    {
+      "type": "paragraph",
+      "text": "なお，本研究で用いたDNA抽出およびmtDNAの解析手法は，明仁ほか（2000）に従った．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "材料と方法"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "採集地"
+    },
+    {
+      "type": "paragraph",
+      "text": "調査は，東京都千代田区にある皇居吹上御苑内の池（面積約354.8 m²，水深約1.1 m，標高約399.5 m）において行った．この池は，周囲を樹林に囲まれ，底質は泥質である．水温は，夏季には30℃を超え，冬季には1.6 mまで低下する．塩分濃度は6.4–10.2，pHは7.9，溶存酸素量はmあたり44.5 m，透明度は0.6–1.0 mであった．池の周囲には，アシやガマなどの抽水植物が繁茂している（Fig. 1）．"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1",
+      "bbox": [
+        0.51,
+        0.34,
+        0.87,
+        0.42
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_biwaensis_BF_hybrid_extracted/Fig._1.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "採集は，1891年から1912年にかけて行われた調査に基づき，2009年および1992年にも実施された．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "標本"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究で用いた標本は，2018年に皇居吹上御苑の池で採集された5個体である．これらの標本は，10%ホルマリン溶液で固定した後，70%エタノール溶液で保存した．標本は，国立科学博物館（NSMT）に保管されている．"
+    },
+    {
+      "type": "paragraph",
+      "text": "比較標本として，有明海沿岸および岡山県で採集されたセボシタビラクチの標本を用いた．"
+    },
+    {
+      "type": "paragraph",
+      "text": "形態測定および計数は，明仁ほか（2013）に従った．"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNAの解析には，各個体の右側胸鰭の一部を用いた．DNAの抽出，増幅および塩基配列の決定は，既報のプライマーを用い，常法に従って行った．得られた塩基配列の相同性は，BLAST検索により確認した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究で得られた塩基配列は，DDBJ/EMBL/GenBank国際塩基配列データベースに登録した（アクセッション番号：BLIP20130281*3，BLIP20130699*4）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "調査個体：NSMT-P 20130525*2，20130919*1，28.4–37.0 mm SL，2013年6月24日採集；NSMT-P 20130920*1，20140345-20140346*4，20140712*4，20141469–20141473*1，23.3–39.8 mm SL，2013年9月26日採集．"
+    },
+    {
+      "type": "paragraph",
+      "text": "比較個体：NSMT-P BLIP20110651–"
+    }
+  ],
+  "3": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. Location of the ponds of Sento Imperial Palace, Kyoto City, Kyoto Prefecture, Japan (a, b). Collection site of Rhinogobius fishes in the ponds (c).",
+      "bbox": [
+        0.191,
+        0.104,
+        0.808,
+        0.342
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_biwaensis_BF_hybrid_extracted/Fig._1._Location_of_the_ponds_of_Sento_Imperial_Palace,_Kyoto_City,_Kyoto_Prefec.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Location of the ponds of Sento Imperial Palace, Kyoto City, Kyoto Prefecture, Japan (a, b). Collection site of Rhinogobius fishes in the ponds (c)."
+    },
+    {
+      "type": "paragraph",
+      "text": "20110655*1 30.0–34.9 mm SL 2010 6 11 BLIP20130495–20130499*2 20130697–20130698*3 20130921–20130927*1 31.1–42.6 mm SL 2013 7 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20141256–20141272*1 29.1–35.8 mm SL 2014 4 23"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20140525*3 31.2 mm SL 2014 6 17 BLIP20140560*3 26.6 mm SL 2014 6 20 BLIP20140714*3 34.5 mm SL 2014 4 21"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20130928*1 20130930*1 28.4–37.9 mm SL 2013 9 29"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20151001–20151005*1 34.6–41.7 mm SL 2015 10 5–6"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20100370–20100372*2 20100377–20100378*2 29.1–35.8 mm SL 2009 7 26"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20141062–20141063*3 20141941–20141945*1 20141946–20141953*2 22.2–38.3 mm SL 2014 10 30"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20130911–20130913 20130915–20130916 35.7–44.1 mm SL 2013 7 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20141221–20141225 20141227–20141228 27.8–41.6 mm SL 2013 8 18 BLIP20141229–20141230 34.7–42.5 mm SL 2014 4 20"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20141237–20141246 27.9–40.2 mm SL 2014 4 22"
+    },
+    {
+      "type": "paragraph",
+      "text": "BLIP20121201–20121203 26.4–32.2 mm SL 2012 6 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "遺伝学的分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 29 12 24 99% Wizard Genomic DNA Purification Kit DNA L15924 5'-AGCTCAGCGCCAGAGCGCCGGT CTTGTAAA-3' Kocher et al., 1993 H16498 5'-CCTGAAGTAGGAACCAGATG-3' Meyer et al., 1990 mtDNA RNApro PCR PCR ExoSAP-IT PCR Product Cleanup Reagent BigDye Terminator Cycle Sequencing Kit ver. 1.1 ABI 310 Genetic Analyzer MEGA7 Kumar et al., 2016 Kimura"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "2-parameter モデル，HKY モデルを用いた．ブートストラップ値は 5 ％以上のものを表示した．ギャップの扱いは Complete-Deletion とし，ブートストラップ回数は 10,000 回とした．"
+    },
+    {
+      "type": "paragraph",
+      "text": "マイクロサテライト DNA 分析には，Rhi-2，Rhi-3，Rhi-7，Rhi-8，Rhi-9，Rhi-10，Rhi-11，Rhi-12，Rhi-13（Ohara et al., 2004；kibara05；Koizumi et al., 2015）の 10 遺伝子座を用いた．Type-it Microsatellite Kit を用いて PCR を行い，ABI 310 Genetic Analyzer で解析した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "MICRO-CHECKER 2.2.3（Van Oosterhout et al., 2004）を用いて，ヌル対立遺伝子の有無を確認した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARLEQUIN 3.5（Excoffier et al., 2005）を用いて，各遺伝子座のヘテロ接合度を算出した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi-2，Rhi-3，Rhi-7，Rhi-8，Rhi-9，Rhi-10，Rhi-11，Rhi-12，Rhi-13 の各遺伝子座について，対立遺伝子頻度を算出した（Ohara et al., 2004；kibara05）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "R 言語（R core team, 2017）のパッケージ adegenet 2.1.1（Jombart, 2008）を用いて，Discriminant analysis of principal components（DAPC；Jombart et al., 2010）による集団構造解析を行った．"
+    },
+    {
+      "type": "paragraph",
+      "text": "また，STRUCTURE 2.3.4（Pritchard et al., 2000）を用いて，ベイズ法による集団構造解析を行った．Admixture Model を用い，Burn-in を 300,000 回，MCMC を 10 万回とした．CLUMPP ver. 1.1.2（Jakobsson and Rosenberg, 2007）および DISTRUCT ver. 1.1（Rosenberg, 2004）を用いて，Vähä and Primmer（2006）に従い，Q 値が 0.9 以上の個体を純系とした．"
+    },
+    {
+      "type": "paragraph",
+      "text": "NEWHYBRIDS ver. 1.0（Anderson and Thompson, 2002）を用いて，雑種第 1 代，雑種第 2 代，戻し交配個体の判別を行った．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "形態学的分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "形態学的特徴の比較は，Takahashi and Okazaki（2002）および 2017 年の調査に基づき，体長，頭長，眼径，吻長，上顎長，下顎長，背鰭基底長，臀鰭基底長，尾柄長，尾柄高の 12 形質について，34 個体の計測を行った．また，25 項目の計数形質についても比較を行った．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "結 果"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "mtDNA 分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "ミトコンドリア DNA の 474-475 塩基対の配列を決定した．得られた DNA 配列は DDBJ に登録した（アクセッション番号：LC435271-LC435345）．"
+    },
+    {
+      "type": "paragraph",
+      "text": "系統解析の結果，2 つの大きなグループ（A および B）が認められた（Fig. 2）．グループ A は，さらに細分化された．"
+    },
+    {
+      "type": "paragraph",
+      "text": "グループ A 内の塩基配列の一致度は 96% から 98% であった．一方，グループ B 内の塩基配列の一致度は 99% から 99% であった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "グループ A は，さらにサブグループ A1（ブートストラップ値 61% および 64%）と A2（ブートストラップ値 71% および 62%）に分かれた．A1 はさらに細分化され，A2 も同様であった．A2 はさらに A2a と A2b に分かれ，それぞれのブートストラップ値は 99% および 99% であった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "グループ B のブートストラップ値は 94% から 97% であった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "これら 2 つのグループのうち，A2a の 5 個体とグループ B の 7 個体について，詳細な解析を行った．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "マイクロサテライト DNA 分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi-12 を除く 9 遺伝子座（kibara05, Rhi-2, Rhi-3, Rhi-7, Rhi-8, Rhi-9, Rhi-10, Rhi-11, Rhi-13）において，多型が認められた．"
+    },
+    {
+      "type": "paragraph",
+      "text": "各集団における対立遺伝子数は，a 集団で 4 から 2.11 であった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "期待ヘテロ接合度（He）および観察ヘテロ接合度（Ho）は，a 集団で Ho = 0.643，He = 0.280 であった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "また，別の集団（a）における Ho および He は，それぞれ 10.3 および 8.72 であり，0.601 および 0.246，0.608 および 0.315 であった．a 集団の Ho および He の平均値は，それぞれ 7.1 および 5.90，0.637 および 0.280，0.503 および 0.372 であった．"
+    }
+  ],
+  "5": [
+    {
+      "type": "error",
+      "message": "Image size (1334893770 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "6": [
+    {
+      "type": "figure",
+      "label": "Fig. 3.Scatter plots of discriminant analysis of principal components (DAPC) based on microsatellite (10 loci) data for Rhinogobius SIP, R. biwaensis, Rhinogobius sp. BF and Rhinogobius sp. OR (Lake Biwa). Discriminant analysis (DA) eigenvalues are shown at the bottom right.",
+      "bbox": [
+        0.128,
+        0.102,
+        0.478,
+        0.361
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_biwaensis_BF_hybrid_extracted/Fig._3.Scatter_plots_of_discriminant_analysis_of_principal_components_(DAPC)_bas.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3.Scatter plots of discriminant analysis of principal components (DAPC) based on microsatellite (10 loci) data for Rhinogobius SIP, R. biwaensis, Rhinogobius sp. BF and Rhinogobius sp. OR (Lake Biwa). Discriminant analysis (DA) eigenvalues are shown at the bottom right."
+    },
+    {
+      "type": "paragraph",
+      "text": "STRUCTURE DAPC 4 Fig. 4 STRUCTURE NEWHYBRIDS 7"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 4. STRUCTURE analysis (upper panel) based on microsatellite data (10 loci). Vertical bars represent individuals and probability of assignment to each cluster. Green, blue, dark blue and brown indicate R. biwaensis, Rhinogobius sp. BF (Nara), Rhinogobius sp. BF (Hyogo) and Rhinogobius sp. OR (Lake Biwa), respectively. Mitochondrial DNA haplotype (middle panel). Colors as for upper panel. NEWHYBRIDS analysis (lower panel) based on microsatellite data (10 loci). Vertical bars represent individuals and probability of assignment to each hybrid class. Green, blue, purple and orange indicate pure R. biwaensis, pure Rhinogobius sp. BF (Nara), their F1 hybrid and F2 hybrid / backcross, respectively.",
+      "bbox": [
+        0.192,
+        0.485,
+        0.808,
+        0.805
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_biwaensis_BF_hybrid_extracted/Fig._4._STRUCTURE_analysis_(upper_panel)_based_on_microsatellite_data_(10_loci)..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4. STRUCTURE analysis (upper panel) based on microsatellite data (10 loci). Vertical bars represent individuals and probability of assignment to each cluster. Green, blue, dark blue and brown indicate R. biwaensis, Rhinogobius sp. BF (Nara), Rhinogobius sp. BF (Hyogo) and Rhinogobius sp. OR (Lake Biwa), respectively. Mitochondrial DNA haplotype (middle panel). Colors as for upper panel. NEWHYBRIDS analysis (lower panel) based on microsatellite data (10 loci). Vertical bars represent individuals and probability of assignment to each hybrid class. Green, blue, purple and orange indicate pure R. biwaensis, pure Rhinogobius sp. BF (Nara), their F1 hybrid and F2 hybrid / backcross, respectively."
+    }
+  ],
+  "7": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "形態学的分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "背鰭前方鱗数は，SIPでは5–17枚（最頻値は5枚，Fig. 4），ビワヨシノボリでは0枚（31個体中1個体のみ2枚），ウシヨシノボリでは3–6枚（最頻値は6枚，1個体のみ1枚）であった．SIPの背鰭前方鱗数は，ビワヨシノボリやウシヨシノボリよりも明らかに多く（Fig. 5c, d; Table 1），既報のSIPの計数（11–20枚；Takahashi and Okazaki 2017）とほぼ一致した．"
+    },
+    {
+      "type": "paragraph",
+      "text": "体側および各鰭の色彩は，SIP（Fig. 5a, b）とウシヨシノボリ（Fig. 5e, f; Takahashi and Okazaki 2017）で類似していた．SIPの雄は，第1背鰭の第7–8棘付近に黒斑を1つ有していた．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "考察"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究で得られた2個体の交雑個体は，形態学的特徴およびMtDNAハプロタイプから，SIPの雌とビワヨシノボリの雄の交雑個体（1–3世代目）であると推定された．"
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Frequency distributions of predorsal scales of Rhinogobius SIP*, R. biwaensis, and Rhinogobius sp. BF. Numbers in parentheses indicate individuals used for DNA analyses",
+      "bbox": [
+        0.128,
+        0.394,
+        0.872,
+        0.598
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_biwaensis_BF_hybrid_extracted/Table_1._Frequency_distributions_of_predorsal_scales_of_Rhinogobius_SIP,_R._biwa.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. Frequency distributions of predorsal scales of Rhinogobius SIP*, R. biwaensis, and Rhinogobius sp. BF. Numbers in parentheses indicate individuals used for DNA analyses"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 5. Left lateral views of fresh Rhinogobius specimens. (a, b) Rhinogobius SIP (BLIP 20140346, male, 39.8 mm SL); (c, d) R. biwaensis (BLIP 20140714, male, 34.5 mm SL); (e, f) Rhinogobius sp. BF (BLIP 20141063, male, 34.3 mm SL).",
+      "bbox": [
+        0.192,
+        0.621,
+        0.808,
+        0.875
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_biwaensis_BF_hybrid_extracted/Fig._5._Left_lateral_views_of_fresh_Rhinogobius_specimens._(a,_b)_Rhinogobius_SI.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5. Left lateral views of fresh Rhinogobius specimens. (a, b) Rhinogobius SIP (BLIP 20140346, male, 39.8 mm SL); (c, d) R. biwaensis (BLIP 20140714, male, 34.5 mm SL); (e, f) Rhinogobius sp. BF (BLIP 20141063, male, 34.3 mm SL)."
+    }
+  ],
+  "8": [
+    {
+      "type": "paragraph",
+      "text": "Fig. 2 B に示した。Fig. 2 A2 の個体は、DNA 解析の結果、7 遺伝子座すべてにおいて、タイプ 7 の対立遺伝子をホモ接合で持っていた。2003 年に採集された個体は、mtDNA の解析は行われていないが、2003 年以降に採集された個体は、すべてタイプ 2 の mtDNA を持っていた。Yamasaki et al., 2015 の解析結果から、mtDNA のタイプ 2 は、タイプ 7 の核 DNA を持つ個体群に由来することが示唆されている。"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 および 2 の個体群は、それぞれ独立した遺伝的背景を持つことが示唆された。1 および 2 の個体群の間で、2010 年および 2010 年から 2018 年にかけて、2007 年から 2013 年にかけて、2010 年から 2012 年にかけて、DNA 解析の結果、STRUCTURE および NEWHYBRIDS の解析により、1 および 2 の個体群の間で、1992 年以降、DNA 解析の結果、2 つの個体群の間で、2010 年に採集された個体群において、"
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "Ohara et al. (2009) は、耳石の Sr:Ca 比の分析から、カワヨシノボリとシマヨシノボリの交雑個体は、両親種と同様に一生を淡水域で過ごす河川残留型であることを明らかにした。本研究で得られた交雑個体も、mtDNA ハプロタイプがカワヨシノボリ、核 DNA 遺伝子型がヘテロ接合体であったことから、カワヨシノボリの雌とシマヨシノボリの雄の交雑によって生じた個体であると推察される。また、本研究で得られた交雑個体は、mtDNA ハプロタイプがカワヨシノボリであったことから、カワヨシノボリの雌とシマヨシノボリの雄の交雑によって生じた個体であると推察される。本研究の結果は、野外においてヨシノボリ類が種間交雑を起こしていることを示すとともに、mtDNA と核 DNA の分析を組み合わせることで、野外における交雑個体の同定が可能であることを示している。今後は、より多くの個体について分析を行うとともに、交雑個体の形態的特徴や生態的特性を明らかにすることが、ヨシノボリ類の種分化や生殖隔離機構を理解する上で重要であると考えられる。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "謝辞"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究を進めるにあたり、標本の採集にご協力いただいた、G. S. Hardy 氏に深く感謝申し上げる。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "引用文献"
+    },
+    {
+      "type": "paragraph",
+      "text": "阿部周一. 2013. ヨシノボリ類. 日本の淡水魚 (藤田清・瀬能宏編), pp. 1347-1608. 山と溪谷社, 東京. 2109-2211."
+    },
+    {
+      "type": "paragraph",
+      "text": "藍澤正宏・瀬能宏. 2000. 日本産魚類検索 全種の同定 (中坊徹次編), pp. 1139-1310. 東海大学出版会, 秦野. 1606-1628."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anderson, E. C. and E. A. Thompson. 2002. A model-based method for identifying species hybrids using multilocus genetic data. Genetics, 160: 1217-1229."
+    },
+    {
+      "type": "paragraph",
+      "text": "Excoffier, L., G. Laval and S. Schneider. 2005. Arlequin ver. 3.0: an integrated software package for population genetics data analysis. Evol. Bioinform. Online, 1: 47-50."
+    },
+    {
+      "type": "paragraph",
+      "text": "林公義. 2018. 日本産魚類生態図鑑 (瀬能宏編), pp. 412-417. 東海大学出版部, 秦野."
+    },
+    {
+      "type": "paragraph",
+      "text": "細谷和海. 2007. 日本の淡水魚 (川那部浩哉・水野信彦編), 50B: 781-788. 山と溪谷社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "石川忠臣. 2003. ヨシノボリ類の自然交雑. 魚類学雑誌, 66: 621-626."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jakobsson, M. and N. A. Rosenberg. 2007. CLUMPP: a cluster matching and permutation program for dealing with label switching and multimodality in analysis of population structure. Bioinformatics, 23: 1801-1806."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jombart, T. 2008. adegenet: a R package for the multivariate analysis of genetic markers. Bioinformatics, 24: 1403-1405."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jombart, T., S. Devillard and F. Balloux. 2010. Discriminant analysis of principal components: a new method for the analysis of genetically structured populations. BMC Genetics, 11: 94."
+    },
+    {
+      "type": "paragraph",
+      "text": "環境省. 2013. 第4次レッドリスト. 25. 汽水・淡水魚類. 1-110."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kocher, T. D., J. A. Conroy, K. R. McKaye and J. R. Stauffer. 1993. Similar morphologies of cichlid fish in Lakes Tanganyika and Malawi are due to convergence. Mol. Phylogenet. Evol., 2: 158-165."
+    },
+    {
+      "type": "paragraph",
+      "text": "Koizumi, N., T. Moriyama, T. Yoshino, K. Nishida, A. Mori, K. Watabe and T. Takemura. 2015. Development and characterization of microsatellite loci for Rhinogobius sp. YB (Gobiidae). Conservation Genet. Resour., 7: 137-141."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kumar, S., G. Stecher and K. Tamura. 2016. MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets. Mol. Biol. Evol., 33: 1870-1874."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meyer, A., T. D. Kocher, P. Basasibwaki and A. C. Wilson. 1990. Monophyletic origin of Lake Victoria cichlid fishes suggested by mitochondrial DNA sequences. Nature, 347: 550-553."
+    },
+    {
+      "type": "paragraph",
+      "text": "向井貴彦. 2012. ヨシノボリ類の分子系統と分類. 魚類学雑誌, 67: 15-24."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara, K., M. Hotta, D. Takahashi, T. Asahida, H. Ida and T. Umino. 2009. Use of microsatellite DNA and otolith Sr:Ca ratios to infer genetic relationships and migration"
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "history of four morphotypes of Rhinogobius sp. OR. Ichthyol. Res., 56: 373–379."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara, K., D. Takahashi and M. Takagi. 2004. Isolation of microsatellite loci in the freshwater goby, Rhinogobius sp. (Gobiidae). Mol. Ecol. Notes, 4: 449–451."
+    },
+    {
+      "type": "paragraph",
+      "text": "2009 NPO 21: 6–9"
+    },
+    {
+      "type": "paragraph",
+      "text": "1991 1 426: 101–110"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pritchard, J. K., M. Stephens and P. Donnelly. 2000. Inference of population structure using multilocus genotype data. Genetics, 155: 945–959."
+    },
+    {
+      "type": "paragraph",
+      "text": "R Core Team. 2017. R: A Language and Environment for Statistical Computing. R Core Team, Vienna, Austria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rosenberg, N. A. 2004. Distruct: a program for the graphical display of population structure. Mol. Ecol. Notes, 4: 137–138."
+    },
+    {
+      "type": "paragraph",
+      "text": "2017 10: 57–66"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010 57: 176–179"
+    },
+    {
+      "type": "paragraph",
+      "text": ". 2010 Bull. Osaka Mus. Natr. Hist., 64: 10–14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi, S. and T. Okazaki. 2002. A new lentic form of the yoshinobori species complex, Rhinogobius spp. from Lake Biwa, Japan, compared with lake-river migrating Rhinogobius sp. OR. Ichthyol. Res., 49: 333–339"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi, S. and T. Okazaki. 2017. Rhinogobius biwaensis, a new gobiid fish of the yoshinobori species complex, Rhinogobius spp., endemic to Lake Biwa, Japan. Ichthyol. Res., 64: 444–457."
+    },
+    {
+      "type": "paragraph",
+      "text": "2003 25: 17–22"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vähä, J. P. and C. R. Primmer. 2006. Efficiency of model-based Bayesian methods for detecting hybrid individuals under different hybridization scenarios and with different numbers of loci. Mol. Ecol., 15:63–72."
+    },
+    {
+      "type": "paragraph",
+      "text": "Van Oosterhout, C., W. F. Hutchinson, D. P. M. Wills and P. Shipley. 2004. MICRO-CHECKER: software for identifying and correcting genotyping errors in microsatellite data. Mol. Ecol. Note, 4: 535–538."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yamasaki, Y., M. Nishida, T. Suzuki, T. Mukai and K. Watanabe. 2015. Phylogeny, hybridization, and life history evolution of Rhinogobius gobies in Japan, inferred from multiple nuclear gene sequences. Mol. Phylogenet. Evol., 90: 20–33."
+    }
+  ]
+}

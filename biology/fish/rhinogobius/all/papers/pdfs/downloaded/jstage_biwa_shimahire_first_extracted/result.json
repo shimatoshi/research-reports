@@ -1,0 +1,184 @@
+{
+  "1": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "2": [
+    {
+      "type": "error",
+      "message": "Coordinate 'lower' is less than 'upper'"
+    }
+  ],
+  "3": [
+    {
+      "type": "error",
+      "message": "Image size (1827636813 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+    }
+  ],
+  "4": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "結 果"
+    },
+    {
+      "type": "paragraph",
+      "text": "形態解析 10 個体の標準体長は 25.1–31.9 mm，胸鰭軟条数は 18–22，縦列鱗数は 29–35 であった (Table 1)．背鰭前方鱗数は 8–16 であった (Table 1)．すべての個体で前鰓蓋管が確認され，腹鰭前方鱗は無く，腹鰭第 5 軟条は最初に 2 分岐した．雄個体の第 1 背鰭はほとんど伸長せず，第 3 軟条は短かった．また，第 1 背鰭を倒しても第 2 背鰭の始部に達しなかった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "成熟した雄の第 2 背鰭，臀鰭には，シマヒレの由来となる赤色系の縦帯が並んでいた．臀鰭の縦帯は幅広かった．尾鰭には赤色系の横帯が並び，基底上部に橙色斑は無かった (Fig. 1)．"
+    },
+    {
+      "type": "paragraph",
+      "text": "遺伝解析 本研究で遺伝解析を行った 7 個体の塩基配列には 2 種類のハプロタイプが含まれた．以下，近隣結合法と最尤法で得られた樹状図の形状はほぼ同じであったため，近隣結合法の樹状図のみを示す．得られた樹状図は明仁ほか (2019) の結果と同様に，大きく 2 つのクラスター A, B に分かれた後，クラスター A は 2 つのサブクラスター A1，A2 に分かれた (Fig. 2)．クラスター A (近隣結合法および最尤法のブートストラップ確率：97%/90%) はトウヨシノボリとシマヒレヨシノボリの全個体を，クラスター B (99%/99%) はビワヨシノボリの全個体を含んでいた．サブクラスター A1 (ブートストラップ確率 69%/62%) には主にトウヨシノボリが，サブクラスター A2 (ブートストラップ確率 74%/63%) には主にシマヒレヨシノボリが含まれた．本研究で新たに配列を決定したシマヒレヨシノボリ 7 個体のうち，大戸川水系産 2 個体 (個体番号および登録番号：RGH2020-01L/LC652658, RGH2020-02L/LC652659) と大和川水系産 3 個体 (RGH2020-05L/LC652662–RGH2020-07L/LC652664) はサブクラスター A1，大和川水系産 2 個体 (RGH2020-03L/LC652660, RGH2020-04L/LC652661) はサブクラスター A2 に含まれた．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "考 察"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究で採集された標本は形態，色彩ともにシマヒレヨシノボリ (Suzuki et al., 2019) の特徴とよく一致したため，本研究で得られた個体をシマヒレヨシノボリと同定した．本研究で得られた標本は背鰭前方鱗が 2 以上であること，雄の臀鰭に幅の広い赤色斑があることでビワヨシノボリ (Takahashi and Okazaki, 2017) と，雄の第 1 背鰭第 3 軟条が伸長しないこと，腹鰭第 5 軟条が最初に 2 分岐することでトウヨシノボリと区別された．シマヒレヨシノボリは滋賀県琵琶湖水系からの初記録となる．"
+    },
+    {
+      "type": "paragraph",
+      "text": "今回採集されたため池には 2017 年に希少コイ科魚類の野生復帰のために復元放流がなされたが，その際，対象以外の魚類は放流されていない．また，池の所有者の話によると，20 年ほど前にコイの稚魚が放流されたことがあるが，その後何度か池の水抜きが行われているとのことであり，もしコイの放流時に混入があったとしてもそのまま定着したとは考えにくい．今回採集されたため池では大戸川からの逆水灌漑の水が流れ込むことから，大戸川およびその周辺に生息していたシマヒレヨシノボリが逆水によって池の中に進入，定着した可能性が高い．"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA 調節領域の部分塩基配列を用いた遺伝分析では，八尾市のため池で採集されたうちの 2 個体は兵庫県や奈良県産のシマヒレヨシノボリのクラスターに含まれたが，八尾市産の残りの 3 個体および大戸川水系で採集された個体はトウヨシノボリのクラスターに含まれた．このような形態と遺伝子の不一致は，交雑による遺伝子浸透が生じた場合や (例えばチチブ類，Mukai et al., 1997)，平行進化が起こった場合にみられる (例えばナガレホトケドジョウ類，Miyazaki et al., 2011)．大戸川が流入する瀬田川にはトウヨシノボリが生息することから，大戸川に進入したトウヨシノボリがシマヒレヨシノボリと交雑することによる mtDNA の置換が生じた可能性が考えられるが，本集団の進化的背景を明らかにするには mtDNA の他の領域や核 DNA などさらなる分子解析が必要である．"
+    },
+    {
+      "type": "paragraph",
+      "text": "上流の琵琶湖水系と下流の淀川水系で近縁種が分布する例として，ヒガイ類 (細谷, 2019)，ニゴイ類 (川瀬, 2018)，ゼゼラ類 (Watanabe et al., 2010)，シマドジョウ類 (Kitagawa et al., 2003) などが挙げられる．一般的に近縁種が接触した際，いずれかの種に置き換わったり，交雑帯を形成したり，何らかの形で“せめぎ合い”が生じる．ゼゼラ類の場合，上流から下流へ，ゼゼラ Biwia zezera (Ishikawa, 1895) からヨドゼゼラ B. yodoensis Kawase and Hosoya, 2010 への遺伝子浸透が確認されている (Watanabe et al., 2010)．このように上流に生息する種が流下することは，ビワコオオナマズ Silurus biwaensis (Tomoda, 1961) やワタカ Ischikauia steenackeri (Sauvage, 1883) が下流の淀川水系にも分布することからも想像しやすい．一方で，淀川水系に主に分布する種が上流の琵琶湖水系まで分布を拡大している代表例としてコウライニゴイが挙げられるが少数派である．シマヒレヨシノボリが琵琶湖水系で確認されたことは，少数派の事例に当てはまり興味深い．"
+    },
+    {
+      "type": "paragraph",
+      "text": "シマヒレヨシノボリが発見された大戸川流域はコウライニゴイやナガレカマツカ Pseudogobio agathonectris Tominaga and Kawase, 2019，ムギツク Pungtungia herzi (Herzenstein, 1892) などのように南湖や瀬田川など滋賀県南東部の限られた地域にしか分布しない種が生息しており，琵琶湖水系の中では特異な魚類相が形成されている．今回の発見は琵琶湖・淀川水系における魚類相の形成過程を解明する上で重要な知見になると考えられる．"
+    },
+    {
+      "type": "paragraph",
+      "text": "現在のところ，琵琶湖水系でシマヒレヨシノボリの生息が確認されているのは本報告で使用した標本の採集地の"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "みである．琵琶湖水系での本種の分布状況は明らかではないが，これまで報告がなされなかったことを鑑みると，琵琶湖水系における本種の分布は局地的であることが予想される．本種の保全のためにも，今後さらなる分布調査を行い，実態を把握する必要がある．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "謝 辞"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究を行うにあたり，ぼてじゃこトラストの武田繁氏，西村 滋氏には，調査の便宜を図っていただいた．京都大学大学院理学研究科博士課程の国松翔太氏には，今回採集された個体について貴重なご意見を頂いた．また，2名の査読者には原稿の改訂に際し有益なご助言を頂いた．この場を借りて厚く御礼申し上げる．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "引用文献"
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁・藍澤正宏・池田祐二・岸田宗範・林 公義・中山耕至・中坊徹次．2019．京都御所の仙洞御所の池に生息するビワヨシノボリ Rhinogobius biwaensis とシマヒレヨシノボリ Rhinogobius sp. BF の野外交雑個体．魚類学雑誌，66: 53–62. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁・坂本勝一・池田祐二・藍澤正宏．2013．ハゼ亜目，pp. 1347–1608, 2109–2211．中坊徹次（編）日本産魚類検索 全種の同定．第3版．東海大学出版会，秦野．"
+    },
+    {
+      "type": "paragraph",
+      "text": "平嶋健太郎．2018．トウヨシノボリ，p. 417．中坊徹次（編）小学館の図鑑 Z 日本魚類館．小学館，東京．"
+    },
+    {
+      "type": "paragraph",
+      "text": "細谷和海．2019．カワヒガイ・ビワヒガイ，pp. 138–141．細谷和海（編）山渓ハンディ図鑑 15. 増補改訂．日本の淡水魚．山と溪谷社，東京．"
+    },
+    {
+      "type": "paragraph",
+      "text": "石田裕子・安部倉 完・竹門康弘．2005．城北ワンド群におけるトウヨシノボリ縞鰭型の生息場所特性．応用生態工学，8: 1–14. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "石田裕子・中林真人・竹門康弘・池淵周一．2007．堰堤で仕切られた都市河川の魚類相と生息場の特性．京都大学防災研究所年報．Disaster Prevention Research Institute Annuals B, 50: 781–788. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "環境省．2020．環境省レッドリスト 2020 の公表について．環境省ホームページ報道発表資料 2020 年 3 月 27 日．URL (24 Nov. 2021)"
+    },
+    {
+      "type": "paragraph",
+      "text": "川瀬成吾．2018．ニゴイ・コウライニゴイ，p. 104．中坊徹次（編）小学館の図鑑 Z 日本魚類館．小学館，東京．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kitagawa, T., M. Watanabe, E. Kitagawa, M. Yoshioka, M. Kashiwagi and T. Okazaki. 2003. Phylogeography and the maternal origin of the tetraploid form of the Japanese spined loach, Cobitis biwae, revealed by mitochondrial DNA analysis. Ichthyological research, 50: 318–325."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kocher, T. D., J. A. Conroy, K. R. McKaye and J. R. Stauffer. 1993. Similar morphologies of cichlid fish in Lakes Tanganyika and Malawi are due to convergence. Molecular Phylogenetics and Evolution, 2: 158–165."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kumar, S., G. Stecher, M. Li, C. Knyaz and K. Tamura. 2018. MEGA X: molecular evolutionary genetics analysis across computing platforms. Molecular Biology and Evolution, 35(6): 1547– 1549. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maehata, M. 2020. Characteristics of the ichthyofauna of Lake Biwa, with special reference to its long-term changes, pp. 213–217. In Kawanabe, H., M. Nishino and M. Maehata (eds.) Lake Biwa: interactions between nature and people second edition. Springer, Swizerland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meyer, A., T. D. Kocher, P. Basasibwaki and A. C. Wilson. 1990. Monophyletic origin of Lake Victoria cichlid fishes suggested by mitochondrial DNA sequences. Nature, 347: 550–553."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyazaki, J. I., M. Dobashi, T. Tamura, S. Beppu, T. Sakai, M. Mihara and K. Hosoya. 2011. Parallel evolution in eight-barbel loaches of the genus Lefua (Balitoridae, Cypriniformes) revealed by mitochondrial and nuclear DNA phylogenies. Molecular Phylogenetics and Evolution, 60: 416–427."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai, T., K. Naruse, T. Sato, A. Shima and M. Morisawa. 1997. Multiregional introgressions inferred from the mitochondrial DNA phylogeny of a hybridizing species complex of gobiid fishes, genus Tridentiger. Molecular Biology and Evolution, 14: 1258–1265."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・向井貴彦・吉郷英範・大迫尚晴・鄭 達壽．2010．トウヨシノボリ縞鰭型の再定義と新標準和名の提唱．大阪市立自然史博物館報，64: 1–14. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., S. Kimura and K. Shibukawa. 2019. Two new lentic, dwarf species of Rhinogobius Gill, 1859 (Gobiidae) from Japan. Bulletin of the Kanagawa Prefectural Museum (Natural Science), 2019: 21–36. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tabata, R., R. Kakioka, K. Tominaga, T. Komiya and K. Watanabe. 2016. Phylogeny and historical demography of endemic fishes in Lake Biwa: the ancient lake as a promoter of evolution and diversification of freshwater fishes in western Japan. Ecology and Evolution, 6: 2601–2623. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi, S. and T. Okazaki. 2002. A new lentic form of the “yoshinobori” species complex, Rhinogobius spp. from Lake Biwa, Japan, compared with lake–river migrating Rhinogobius sp. OR. Ichthyological Research, 49: 333–339."
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi, S. and T. Okazaki. 2017. Rhinogobius biwaensis, a new gobiid fish of the “yoshinobori” species complex, Rhinogobius spp., endemic to Lake Biwa, Japan. Ichthyological Research, 64: 444–457."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tokui, T. and H. Kawanabe. 1984. Fishes, pp. 339–360. In Horie, S. (ed.) Lake Biwa. Dr. W. Junk Publishers, Dordrecht."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watanabe, K. 2020. Origin and evolution of fishes in Lake Biwa inferred from molecular data, pp. 219–224. In Kawanabe, H., M. Nishino and M. Maehata (eds.) Lake Biwa: interactions between nature and people second edition. Springer, Swizerland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watanabe, K., S. Kawase, T. Mukai, R. Kakioka, J. Miyazaki and K. Hosoya. 2010. Population divergence of Biwia zezera (Cyprinidae: Gobioninae) and the discovery of a cryptic species, based on mitochondrial and nuclear DNA sequence analysis. Zoological Science, 27: 647–655. URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yamazaki, Y., M. Nishida, T. Suzuki, T. Mukai and K. Watanabe. 2015. Phylogeny, hybridization, and life history evolution of Rhinogobius gobies in Japan, inferred from multiple nuclear gene sequences. Molecular Phylogenetics and Evolution, 90: 20–33. URL"
+    }
+  ]
+}

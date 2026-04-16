@@ -1,0 +1,587 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ヨシノボリの研究 IV. 4型共存河川でのすみわけ"
+    },
+    {
+      "type": "paragraph",
+      "text": "水野 信彦\n愛媛大学理学部生物学教室\n上原 伸一\n千葉県立長生高校\n牧 倫郎\n東京都府中保健所"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "STUDIES ON A FRESHWATER FISH, RHINOGOBIUS BRUNNEUS (GOBIIDAE) IV. HABITAT SEGREGATION AMONG SYMPATRIC POPULATIONS OF 4 COLOUR TYPES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nobuhiko MIZUNO, Biological Institute, Faculty of Science, Ehime University, Matsuyama, 790,\nShin-ichi UEHARA, Chosei High School, Mobara, 297,\nand\nMichio MAKI, Huchu Health Center, Huchu, 183"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Synopsis"
+    },
+    {
+      "type": "paragraph",
+      "text": "MIZUNO, Nobuhiko (Biol. Inst., Fac. Sci., Ehime Univ., Matsuyama), UEHARA, Shin-ichi (Chosei High School, Mobara) & MAKI, Michio (Huchu Health Center, Huchu). 1979. Studies on a freshwater fish, *Rhinogobius brunneus* (Gobiidae) IV. Habitat segregation among sympatric populations of 4 colour types. Jap. J. Ecol., 29: 137–147.\n*Rhinogobius brunneus* (= *R. similis*) is a common freshwater goby in Japan. Recently, from their colour patterns, these amphidromous fishes have been divided into four types, namely, Cobalt type, Large-black type, Black type and Cross-band type, out of which at least latter three types were once described as a different species. As our second report dealing with the problem of the speciation of these four types, this paper deals with the distribution of these sympatric populations in two small streams. The detailed examination revealed that they clearly segregated as for their longitudinal distributions, or, in the case of co-existence in the same reaches, as for their habitats in relation to river-bed type as well as to flow velocity. By scrutinizing the scattered informations on the distribution of these four types of *R. brunneus* and its congeneric species, the habitat segregation of these four types was concluded to be not a selective but an interactive one, and that the typical pattern of the habitat segregation in one stream among Japanese freshwater gobies of the Genus *Rhinogobius* was schematized."
+    },
+    {
+      "type": "paragraph",
+      "text": "従来, ヨシノボリと混同されていたカワヨシノボリが別種とされ, 河川陸封性の後者は回遊性の前者より分化したものと推定された (MIZUNO, 1960)。近年になって, 日本産の回遊性ヨシノボリには, 色斑の異なる横斑型・黒型・黒色大型・るり型1) の4型が含まれていることが判明し (水岡, 1967; 伊藤・水野, 1972; 水野, 1972), これら4型の種の異同や, それとカワヨシノボリとの関係について明白にする必要が生じてきた。形態・生理・生態・分布に関する調査が現在各地で実施されており (水岡, 1968, 1974; 林, 1977), 私自身も四国と九州の153河川について4型の有無を調査し, 4型が多様な組合せで共存していることを明らかにした (水野, 1976)。今回は, 4型の共存している高知県の鰭川と伊与木川での4型の分布について報告したい。"
+    },
+    {
+      "type": "paragraph",
+      "text": "1978年7月24日受理"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) 4型の外形上の区別点については, 宮地ら (1976) にくわしい。"
+    },
+    {
+      "type": "paragraph",
+      "text": "日頃ご助言を頂いている愛媛大学理学部の伊藤猛夫教授, 対島と徳之島の河川についてご教示頂いた広島大学教育学部の水岡繁登教授, 現地調査にご協力頂いた高知県幡多郡大方町の橋田拡・橋田勇の両氏と同土佐佐賀町の矢野憲一氏, 松下哲久・高田啓介両氏をはじめとする愛媛大学理学部の学生諸君に, 厚くお礼申し上げたい。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "河川の概要と調査方法"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 調査河川のあらまし"
+    },
+    {
+      "type": "paragraph",
+      "text": "調査河川の鰭 (みな) 川と伊与木 (いよき) 川は, 高知県の幡多郡にある河川で, 前者は大方町, 後者は土佐佐賀町を流れている。本流の流量と水源の海抜高度は, 前者が, 11.5kmと260m, 後者が22kmと400m程度である (Fig. 1)。"
+    },
+    {
+      "type": "paragraph",
+      "text": "鰭川の方が全体に急勾配で, 鰭川部落より下流を除く, 谷状地形であり, 流域に人家も少なく, 水もひじょうに澄んでいる。河川形態は, 仲分川部落より上流はAa型, 鰭川部落より下流がBb型で, 両者の中間はお"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "およそ Aa-Bb 移行型といえる。11月1~2日に25地点で測定した日中水温は, 仲分川より上流では14.6~17.3℃, 同下流では17.7~19.0℃を示した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "一方, 伊与木川は, 市の瀬より上流を除くと, 全体的に勾配がゆるい。片岸あるいは両岸沿いに水田が開け, 人家も比較的多い。各所に護岸工事がほどこされ, わずかではあるが水に濁りがみとめられる。河川形態のおおよその区分は, 市の瀬より上流が Aa 型, それより荷稲(かいな)付近までが Aa-Bb 移行型, 荷稲より熊井までが Bb 型, 熊井より下流は Bb-Bc 移行型である。10月29~31日に23地点で測定した日中水温は, 市の瀬より上流では12.3~15.4℃, 同下流では16.7~18.4℃であった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "なお, 両河川の河口は中間にある井の岬まわりで約10km, 直線距離で約6.5kmはなれているにすぎない。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. 調査方法"
+    },
+    {
+      "type": "paragraph",
+      "text": "1973年8月10~13日に予備調査を, 同年10月29日~11月2日に本調査を実施した。予備調査では, 両川の全般的な状態を視察すると共に, 13地点で潜水観察とヨシノボリの採集を実施し, 4型の生息を確認すると共に, 本調査の計画立案を行なった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "本調査は, 2万5千分の1地形図をもとに, 両川の本流で, 海抜約10m間隔で調査地点を設定して行なわれた。"
+    },
+    {
+      "type": "paragraph",
+      "text": "すなわち 蟾川では, 水源に当る海抜250m地点から同10m地点までの25点で, 伊与木川では海抜360m地点から同10m地点までの30点で調査を実施できた (Fig. 1の黒丸)。なお, 伊与木川の流技70m地点は, 工事による濁りで潜水観察ができず, また, 海抜230~260mの区間には落差の大きい滝が連続しているため接近困難で調査できなかった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "各地点では, 地形・河川形態・水温(とその測定時刻)を観測した後, 水中メガネをかけて潜水し, 魚の密度を次の4段階に分けて記録した。すなわち水面面積10m² (約3m四方) 当り0.5尾以下のばあいをR, 0.5~5尾をC, 5尾以上をAとし, 観察されなかったばあいをUとして記録した (Fig. 2)。なお, このばあい全魚種について, 標準体長3cm以上と目視されたもののみを記録し, ヨシノボリについては型別に記録した。各地点とも, 2単位形態以上の範囲で観察することを原則としたが, 瀬や淵の長大な下流の方では, 1単位形態の調査にとどめた地点もある。また, ヨシノボリのような底生魚は, 石などの物陰にかくれていることが多いので, 動かせる物体はできるだけ動かして魚を追い出し, 過少評価にならぬよう努力した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "なお, 蟾川では, 海抜10・20・140・210mの4地点を除く21地点について, 上記の調査にひき続いてさらに1"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1. Slopes of main courses of two streams and positions of stations (dot marks).",
+      "bbox": [
+        0.1088,
+        0.4191,
+        0.9552,
+        0.7784
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Fig._1._Slopes_of_main_courses_of_two_streams_and_positions_of_stations_(dot_mar.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Slopes of main courses of two streams and positions of stations (dot marks)."
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "単位形態の潜水観察を追加している。このばあいは, 淵・平瀬・早瀬の各河床型より1〜3m四方程度の区画を1〜数か所選び, 各区画内の体長3cm以上のヨシノボリの個体数を型別に記録した。その後, 各区画の面積を巻尺で測り, 最深部の深さともっともはやい方向の流速を実測した。流速はピンポン球の1m流れるのに要する時間を2回以上記録して算出した。その結果21地点で合計75区画を調査したことになる。"
+    },
+    {
+      "type": "paragraph",
+      "text": "さらに, 1977年6月6日には, 蜷川の伴太郎下手(海抜約90m)に1単位形態を選び, 河床形態図を作成した後, 潜水観察によってヨシノボリの1尾毎の位置を型別に記録した。この作業の後, 各河床型の長さと幅や, 各所の水深と表面流速を測定した (Fig. 3)。"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "結 果"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. 垂直分布"
+    },
+    {
+      "type": "paragraph",
+      "text": "蜷川の25地点と, 伊与木川の海抜220m以下の23地点について, ヨシノボリの型別の密度段階が, Fig. 2 にまとめられている。1973年10〜11月の本調査時には, 海抜0mに近い, 河口付近の調査を省略した。しかし蜷川の河口付近ではその後に3回潜水観察を実施している。いずれの時にも体長3cm以上のヨシノボリは1尾もみられなかったので, そのように図示した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2 でまず眼につくのは, 横斑 (cross-band) 型の分布域が下流の方にかたよっていることであろう。蜷川でも伊与木川でも, 比較的高密度 (CとAの段階) に生息していたのは海抜40〜50mまでで, それ以上では急減している。海抜60〜70mを越えると, 1尾もみられなかった。横斑型のこの分布範囲を川口からの距離で示すと, 蜷川では約7kmであるのに, 勾配のゆるい伊与木川では15km程になる (Fig. 1)。これに対して, るり (cobalt) 型・黒色大 (larg-black) 型・黒色 (black) 型の3型は, 横斑型よりもはるかに上流で分布している。その反面, 横斑型の高密度生息域では, これら3型の密度が低下する傾向がみとめられる (Fig. 2)。また, これら3型の分布上限とその付近の密度をみると, 両河川ともに, るり型がもっとも上流まで進出し, 次いで黒色大型, さらにくだって黒色型という順の分布傾向がうかがわれる。"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2 をみると。伊与木川でのヨシノボリの密度が, 蜷川よりも全体に低いのが眼につく。いま, U・R・C・Aの各段階の平均密度 (10m²当り) をそれぞれ0・0.1・1・10尾とみなして, 分布域内の全地点を通しての平均密度を一応算出してみた。るり型・黒色大型・黒色型・横斑型の密度は, 蜷川ではそれぞれ1.8・1.9・4.0・3.2であるのに, 伊与木川では0.4・0.2・0.2・2.1でしかない。さらに4型をいっしょにした総平均密度は, 蜷川の2.7に対して, 伊与木川では0.5と5分の1以下である。河川の概要の項でしるした伊与木川の環境悪化が, 両川の密度差に影響しているように思われる。た"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. Abundances of four types of *R. brunneus* in each station in two streams. U: unrecognized, R: rare (<0.5 ind./10 m²), C: common (0.5-5.0), A: abundant (>5.0). Cross-band type shows rather narrow longitudinal distribution and other three types extensive ones.",
+      "bbox": [
+        0.17896,
+        0.47899,
+        0.96735,
+        0.72269
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Fig._2._Abundances_of_four_types_of_R._brunneus_in_each_station_in_two_streams._.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. Abundances of four types of *R. brunneus* in each station in two streams. U: unrecognized, R: rare (<0.5 ind./10 m²), C: common (0.5-5.0), A: abundant (>5.0). Cross-band type shows rather narrow longitudinal distribution and other three types extensive ones."
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "だだし, ヨシノボリの個々の型についてみると, 蜷川と伊与木川の間で密度の差がもっとも大きいのは黒色型であり, もっとも小さいのは横斑型である. この理由については考察でししたい."
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリ以外の魚の垂直分布についてごくかんたんにふれておく. 蜷川では, カワムツが海抜10~210mの地点で観察され, 海抜40~150m地点でとくに高密度(段階A)であった. ボウズハゼは海抜140m地点までみられたが, 最下流の2地点を除くと, UかR程度の密度であった. このほかにはウナギがみられたにすぎない. その後, 河口域の調査でオイカワ・ゴクラクハゼ・ヒナハゼ・ウキゴリの4種が観察された. 聞きとりによると, オイカワはごく近年移入されたものらしい(ただし, 種苗の放流は一切行なわれていない). 1974年当時には河口域にR程度の密度でみられたが, 1977年春には海抜20m地点でもAに近い密度を示すようになった. 伊与木川では, カワムツが海抜30~180m地点でC段階の密度を示した(80m地点のみR). タカハヤは海抜60~210m, ウグイは20~40m, アカザは40~200m, ドンコが40~90m, ボウズハゼは40~180mの間で視認されたが, 全般的に低密度で, A段階は皆無, ほとんどがUかRの段階にとどまっていた. 両河川ともカワムツの比較的高密度に生息している区間が, 横斑型以外の3型のヨシノボリの高密度分布域にほぼ重なっていることがわかる."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. 河床型別の密度"
+    },
+    {
+      "type": "paragraph",
+      "text": "蜷川の21地点75区画での観察個体数をもとにして, ヨシノボリの型別の密度を河床型別に算出した(Table1). 淵については全地点で観察できた. しかし, 平瀬と早瀬については, 浅すぎて観察の困難な地点や, 平瀬のみと められない地点があるため, 調査河床数が淵より少な い."
+    },
+    {
+      "type": "paragraph",
+      "text": "るり型は平瀬と早瀬で, 横斑型は平瀬で, 黒色型は淵 で, それぞれ比較的高い密度を示している. しかし, 黒色大型の密度は河床型間で大差がない."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3 には, 蜷川の伴太郎下手(海抜約90m)の1単位形態について, 環境の状態と横斑型以外の3型の分 布状態が示されている. 右手の早瀬は深い所で水深40~ 50cm, 流速1m/秒余りで, 底質は岩と大石から成る. 中央の淵は, 最深部の深さが約150cmで, 流心付近の流 速は淵頭の部分をのぞくと10~30cm/秒程度である. 右岸 側の底質がほとんど砂であるのに, 左岸側には岩や大石 が多く, 増水時の流心は調査時よりも左岸側にかたよる ことを示している. 平瀬の流心付近の水深と流速はそれ ぞれ50~70cm, 毎秒50~70cm程度である. 左岸よりの 方が深くえぐれており, ヤナギにおおわれていた. 早瀬 と淵の境には, 約10cmの落差があり, 典型的な Aa 型 の河川形態を呈している."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3 Cにみられるように, るり型と黒色大型は, 早瀬と淵頭, それに平瀬の流心付近のみに分布してい る. 一方, 黒色型は淵尻と平瀬の深い側でとくに多く, 少数ではあるが平瀬右岸にある池状のプールや淵の砂底 部にもみられ, また早瀬でも大石の下のよどみに1尾 みられた. 以上のことから, るり型と黒色大型は浅い急 流部に, 黒色型は深い緩流部に, それぞれ分布している ことがわかる. 浅い急流部は早瀬だけでなく淵頭や平 瀬や早瀬にもみられる. 従って河床型別よりも, 水深 と流速の勾配に対応する密度の方が, より明確な傾向の 得られることが暗示される."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. 水深と流速に対応した密度"
+    },
+    {
+      "type": "paragraph",
+      "text": "蜷川の21地点75区画の水深・流速の測定結果は, Fig. 4 にまとめられている. 毎秒数センチ以下というような 水深は測定困難なので, すべてゼロとみなした. 図をみ る. 流速を5段階に, 水深を4段階に区切って, 20区域 を設け, 前記の75区画を配分すると, Table 2 のように"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. Mean densities (per 1 m²) of 4 types of *R. brunneus* in the River Mina-gawa. Number of stations in parentheses is that of Cross-band type. Three types without Large-black type show relatively high densities at one or two types of river-bed."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Mean densities (per 1 m²) of 4 types of *R. brunneus* in the River Mina-gawa. Number of stations in parentheses is that of Cross-band type. Three types without Large-black type show relatively high densities at one or two types of river-bed.",
+      "bbox": [
+        0.097,
+        0.705,
+        0.898,
+        0.907
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Table_1._Mean_densities_(per_1_m²)_of_4_types_of_R._brunneus_in_the_River_Mina-g.jpg"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "なる. 各区域に含まれる区画数を等しくしたいのだが, 流速が大きくて深い所が少なくなるのは, 河川の実状から止むを得ない. 水深51cm以上で流速46cm以上の2区域と, 水深40~50cmで流速46~55cmの1区域, 計3区域には, 4型の密度を調査した区画がひとつもない. また, 分布域の狭い横斑型では, 区画数全体が19と少ない"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3. An example of distribution of three types in one set of three river-bed types (altitude, about 90 m) in the R. Mina-gawa. A: Depth and velocity of flow, devision of river-bed type, and condition of stream banks. B: Distribution of substratum. C: Position of individual fish of three types observed visually through water glass. Black type distributes at the part of relatively slow flow and other two types swift one.",
+      "bbox": [
+        0.129,
+        0.171,
+        0.871,
+        0.796
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Fig._3._An_example_of_distribution_of_three_types_in_one_set_of_three_river-bed_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. An example of distribution of three types in one set of three river-bed types (altitude, about 90 m) in the R. Mina-gawa. A: Depth and velocity of flow, devision of river-bed type, and condition of stream banks. B: Distribution of substratum. C: Position of individual fish of three types observed visually through water glass. Black type distributes at the part of relatively slow flow and other two types swift one."
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "ので, 20区域のうちの半数が空白 (配分数ゼロ) となっている."
+    },
+    {
+      "type": "paragraph",
+      "text": "さて, 区画毎に算出した4型の密度を, さらに区域毎に平均して Table 3 に示した. るり型の密度は, 浅くて流れのはやい方で明らかに高い. その反対に, 黒色型は深くておそい方で高密度である. 水深 21~39cm, 流速 56cm 以上という区域でも, 黒色型は2.00という高密度を示しているが, Table 2 をみるとわかるように, これはただ1区画での観察値にすぎない. 黒色大型と横斑型は, 前2者の中間の区域で高密度であるが, どちらかというと, 前者の高密度な区域はるり型のそれに近い"
+    },
+    {
+      "type": "paragraph",
+      "text": "所にあるし, 後者のそれは黒色型の高密度な区域に近い."
+    },
+    {
+      "type": "paragraph",
+      "text": "この点を, 流速と水深に分けてさらに検討してみよう. Table 3 の横欄の平均値 (Average) は, 流速のみの勾配に対応した密度といえる. るり型の密度は, 流速のはやい方ほど明らかに高く, 黒色型はそれとまったく正反対の傾向を示している. 黒色大型と横斑型の傾向は前2者ほど明瞭ではないけれども, 前者はるり型の高密度区に, 後者は黒色型のそれに近い方で, それぞれの高密度である. すなわち今西 (1949) による, ヒラタカゲロウ類の流速に応じたすみわけの表現法を用いると, 流"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4. Scatter diagram of depth and flow velocity measured at 75 points of 21 stations in the R. Minagawa."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 4. Scatter diagram of depth and flow velocity measured at 75 points of 21 stations in the R. Minagawa.",
+      "bbox": [
+        0.19,
+        0.305,
+        0.8,
+        0.7
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Fig._4._Scatter_diagram_of_depth_and_flow_velocity_measured_at_75_points_of_21_s.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2. Number of observation points where the values shown in Table 3 were obtained. Number of points in parentheses is that for Cross-band type."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Number of observation points where the values shown in Table 3 were obtained. Number of points in parentheses is that for Cross-band type.",
+      "bbox": [
+        0.108,
+        0.81,
+        0.89,
+        0.91
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Table_2._Number_of_observation_points_where_the_values_shown_in_Table_3_were_obt.jpg"
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "Table 3. Mean densities (per 1 m²) of 4 types of R. brunneus along the gradients of water depth and flow velocity in the River Mina-gawa. Relatively high densities are shown by boldfaces. Average value in parentheses is that counted only from the depth of 10 to 50 cm."
+    },
+    {
+      "type": "figure",
+      "label": "Table 3. Mean densities (per 1 m²) of 4 types of R. brunneus along the gradients of water depth and flow velocity in the River Mina-gawa. Relatively high densities are shown by boldfaces. Average value in parentheses is that counted only from the depth of 10 to 50 cm.",
+      "bbox": [
+        0.09,
+        0.14,
+        0.91,
+        0.55
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Table_3._Mean_densities_(per_1_m²)_of_4_types_of_R._brunneus_along_the_gradients.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "*Note this abnormal value for Black type was obtained from only one observation point as shown in Tabe 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "速のおそい方からはやい方へかけて, ヨシノボリの4型は"
+    },
+    {
+      "type": "paragraph",
+      "text": "黒色型—横斑型—黒色大型—るり型"
+    },
+    {
+      "type": "paragraph",
+      "text": "の順にすみわけているといえよう。"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4 をみると, 流速10cm以上で水深60cm以下の部分には, 平瀬と早瀬の全区画が含まれている反面, 淵のそれは大部分が除外されてしまう. 従って, この部分だけについて, 流速に応じた平均密度を求めれば, その密度分布は瀬でのすみわけを反映したものとみなせるだろう. Table 3 のカッコ内の平均値 (Average) がそれであるが, 黒色大型と黒色型の緩流部での密度がやや低下して, 前者はるり型の分布傾向に, 後者は横斑型のそれにやや接近する以外には, 大差はみとめられない."
+    },
+    {
+      "type": "paragraph",
+      "text": "一方, 縦欄の平均値は, 水深のみに対応した密度を示すものと考えられる. このばあい, 黒色型の密度がもっとも明瞭な差を示し, 深い方ほど高い. るり型ではその反対の傾向がみとめられるが, 黒色型ほど明瞭ではない. 黒色大型と横斑型では, 不明瞭ながら, 中間から深"
+    },
+    {
+      "type": "paragraph",
+      "text": "い方にかけての密度が高い."
+    },
+    {
+      "type": "paragraph",
+      "text": "以上のように, るり型と黒色型は明らかに両極端に位置し, 前者は浅い急流部に, 後者は深い緩流部にそれぞれ多く, 横斑型と黒色大型は前2者の中間に位置しながら, どちらかといえば, 横斑型は緩流の深い方, 黒色大型は急流の深い方に多いといえる. この水深・流速に対応したすみわけを, Fig. 4 の水深・流速と河床型との関係をなかだちにして, 河床型との対応に機械的に言いかえると, るり型は早瀬, 黒色型は淵, 横斑型と黒色大型は平瀬にそれぞれすみわけていることになる. るり型・黒色型・横斑型のばあいには, 上の傾向は実際の観察とも一致している. しかし, 黒色大型のばあいにもっとも高密度にみられたのは淵頭の岩盤よりの部分であり, るり型と黒色型の中間ではあるが, 急流の深い方を占めるというのは, この型のばあい, 平瀬ではなく, 淵頭なのである. 従って, 蜷川での4型のすみわけを, 河床型との対応でまとめると, るり型—早瀬, 黒色型—淵, 横斑型—平瀬, 黒色大型—淵頭とあらわせる."
+    }
+  ],
+  "8": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "考 察"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. 垂直分布"
+    },
+    {
+      "type": "paragraph",
+      "text": "四国と九州の153河川について4型の有無を調査した水野 (1976) は, 4型がいろいろの組合せで共存しているけれども, 2地点以上について調べた河川では, 横斑型が下流の地点に限定されているのに対し, 他の型は上流の地点でもみられることを報告した. 1河川に多数の地点を設けて型別の分布を調査した例は多くない. 横斑型と黒色型の共存河川については大分県の伊美川 (水野, 1968 a), 横斑型と黒色大型の共存河川については高知県の仁淀川 (伊藤・水野, 1972) と島根県の高津川 (水野, 1972), 横斑型とるり型の共存河川については高知県松田川 (落合ほか, 1976) 2) がそれぞれ調べられている. そうして, 伊美川の例を除くと, いずれのばあいも横斑型は下流に, 他の型は上流に分布している. 今回の調査によって, 蜂川と伊与木川のような4型共存河川でも, 同じ分布傾向が確認されたわけである."
+    },
+    {
+      "type": "paragraph",
+      "text": "さて, 横斑型と他の3型の間にみられる上〜下流間のすみわけは, 単に生息場所選好 (habitat preference) の相違を反映したにすぎないのであろうか. それとも, 競争的排除のような相互作用も働いているのだろうか. この点を検討してみたい."
+    },
+    {
+      "type": "paragraph",
+      "text": "大分県の伊美川 (流程約12.5km) には横斑型と黒色型が生息しているが (水野, 1968 a) 3), 前者は極めて少なく, 海抜0〜40m間の3地点でいずれもR段階程度の密度であった. 一方, 黒色型は海抜0〜60m間の4地点のすべてでCあるいはA段階の密度を示していた. このうち, 下流の2地点の河川形態はBb-Bc型とBb型である (同上). この川を翌年に調査した水岡 (1971) も, 海抜60m地点で黒色型のみを53尾, 同30〜35m地点で69尾の黒色型と2尾の横斑型を採集している. ところが, これに隣接する田深川 (13.5km) には, 横斑型のみが生息し, 海抜0〜80mの4地点で, RかCの密度で分布していた (水野, 1968 b)."
+    },
+    {
+      "type": "paragraph",
+      "text": "対島と徳之島の小河川について, 横斑型と黒色型の分布を調査した水岡 (1967) によると両型の生息状態は次のように要約される (原報での地点名を5万分の1地形図で海抜高度に換算してしるす). 対島の瀬川では海抜5mと50m地点でおのおの220尾と107尾の黒色型のみが得られたのに, 州藻川の20mと30m地点では244尾と370尾の横斑型のみが得られた. また, 徳之島の佐渡川と井の川 (別名なだ川) は, 河口間の距離がわずか500mにすぎないが, 前者の20mと35m地点ではあわせて140尾の黒色型のみが, 後者の10〜15m地点では横斑型のみ160尾が, それぞれ採集されている."
+    },
+    {
+      "type": "paragraph",
+      "text": "すなわち, 横斑型がいないか, あるいははじゅうに低密度の川と, その付近のそうでない川とを比較すると, 前者では黒色型が下流にも (伊美川のばあいには海抜0m地点にも) 高密度に生息していることがわかる. 前者は対島や徳之島のような島しょ部を除くと, 西日本の大多数の川に分布しているが (宮地ら, 1976), 宍道湖と中海への流入河川には生息していない (水岡, 19714), 1974). そこには黒色大型のみが生息しているが, その分布状態は Table 4 に示す通りで, 海"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4. Number of individuals of Large-black type collected from several rivers feeding the Lakes Shinji-ko or Naka-umi. Figures with asterisks cited from Mizuoka (1971). Large-balck type distributes in the relatively lower reaches of these rivers in which Cross-band type was not found."
+    },
+    {
+      "type": "figure",
+      "label": "Table 4. Number of individuals of Large-black type collected from several rivers feeding the Lakes Shinji-ko or Naka-umi. Figures with asterisks cited from Mizuoka (1971). Large-balck type distributes in the relatively lower reaches of these rivers in which Cross-band type was not found.",
+      "bbox": [
+        0.1,
+        0.65,
+        0.9,
+        0.9
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Table_4._Number_of_individuals_of_Large-black_type_collected_from_several_rivers.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "2) ヨシノボリとカワヨシノボリとして記録されているが, 前者は横斑型, 後者はるり型と後に判明した (落合, 私信)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3) この報告では横斑型を “正常斑紋”, 黒色型を “カワヨシノボリ型斑紋” をもつものと記録された."
+    },
+    {
+      "type": "paragraph",
+      "text": "4) この報告では, 黒色大型が黒色型として記載されている."
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "抜10~30mという低い所で本型が得られている。"
+    },
+    {
+      "type": "paragraph",
+      "text": "なお, この地域の黒色大型を水岡 (1974) は宍道湖型として記載している. しかし, われわれは, 後者が前者の変異にすぎず, 型を区別するのは不適当と考えている (水野, 1976). 水岡 (1976) は, 筋肉および血液たん白の電気泳動によって, 両者は異質であると判定しているが, 1 河川ずつのサンプルによる分析結果であるから, 地理的変異の含まれている可能性があり, 型の相違と結びつけるのにはまだ疑問がある. ここでは自説に従って, 黒色大型として扱っておく."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. 河床型および流速・水深との対応"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 と 3 のように, 生息密度ゼロという河床型や水深・流速は, 4型のどの型についてもみられない. すなわち, 4型はどの河床型にも, また Table 2 で表示された範囲のあらゆる流速・水深に対して生息可能とみなせる. その一方, 各型が高密度に生息している河床や水深・流速は, 結果の項でのべたように, それぞれ異なっていた. 要約すると, 河床型に関しては, るり型=早瀬, 黒色型=淵, 横斑型=平瀬, 黒色大型=淵頭とすみわけ, 水深と流速に関しては, るり型が浅い急流部, 黒色型が深い緩流部と両極端を占め, 黒色大型と横斑型は両極の中間部に多いけれども, 前者は深い急流部, 後者は深い緩流部にそれぞれ多かった."
+    },
+    {
+      "type": "paragraph",
+      "text": "ここで問題にしたいのは, 上記のすみわけが4型の生息場所選好のみに由来するのか, あるいはその相違の上に, 競争的排除のような相互作用も関与しているのかということである. どの河床型, 鰓川のあらゆる水深・流速にも生息可能ということからも, このすみわけには相互作用が関与していることが暗示されているが, そのことをより明瞭に示しているのは Fig. 3 である. すなわち, 横斑型のいない所では, 横斑型の主生息地である平瀬に他の3型が進出している. また, ある型のみが高密度に生息している地点では, その型の主生息地を中心に, 他の河床型にも進出しているのがふつうである. たとえば, 伊与木川の海抜20m地点では, 横斑型のみが高密度になっている (Fig. 2). これに隣接する1単位形態について1m²当りの密度を調査した結果, 黒色型はゼロ, るり型と黒色大型は平瀬のみに約0.04尾ずつ生息していたのに対して, 横斑型は平瀬に0.33の割合でみられただけでなく, 早瀬と淵でもそれぞれ0.13尾と0.16尾の密度を示した."
+    },
+    {
+      "type": "paragraph",
+      "text": "以上から, 流速あるいは河床型に対するすみわけにも, 競争的排他関係の加わっていることがわかる. やはり, *Interactive segregation* であって, *Selective segregation* (BRIAN, 1956) とみなすことはできない. これまでに, 4型の分布について筆者が調査した河川数と地点数は, それぞれ150および400を越えると思われる. その調査を通じて得た印象を抽象化したばあいには, 流速や河床型に応じた4型のすみわけは, Table 1 や3の密度差で示される以上ににはっきりしている. 逆にいえば, Table 1 や3のように, 流速や河床型に応じて機械的に集計すると, 印象から抽象化されたすみわけ程には密度差はあらわれない. 河床型との関係 (Table 1) については, とくにその感が強い. 同じ河床型でも流速・水深・底質は多様であり, 各地点で4型の密度に差があるある上に, 上記の相互作用による密度の変動が加わるからであろう. たとえば, Fig. 3 に示した地点では, 黒色型のみが極端に高密度である上に, 平瀬の左岸側には淵に近い条件のところががた存在している. 機械的な集計では, このような特殊的な現象も加算されてしまうが, 印象を抽象化する際には, とうぜん捨象される. 危険を承知であえて言うならば, 河川のように, 環境条件が狭い範囲内で複雑に変化する所で, 定量的な方法とその結果のみにこだわるのは, 真の姿を見失う恐れも生ずるように思われる. 一見非科学的なようでも, 印象を抽象化する努力も重要ではあるまいか."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. まとめと付記"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上の考察をふまえて, 4型共存河川における4型間の垂直分布上のすみわけと河床型に対応したすみわけを組合せると, 次のように要約できる. 下流の横斑型の高密度分布域ではこの型が平瀬を中心に, 早瀬や淵にも進出している. その上の4型共存地域では, 横斑型が平瀬, 黒色型が淵, 黒色大型が淵頭, るり型が早瀬をおのおのの主生息地としてすみ分けている. さらに上流の横斑型がいない所では, 他の3型が平瀬にも進出し, るり型と黒色大型がその流心部を, 黒色型が岸よりの方を占めている."
+    },
+    {
+      "type": "paragraph",
+      "text": "4型間のこのようなすみわけは, 今西 (1949) がヒラタカゲロウ科幼虫のすみわけで示した第1同位構造 (垂直分布上のすみわけ) と第2同位構造 (流速に応じたすみわけ) の組合せに類似している. 今西の表現を借りれば, ヨシノボリの4型は, ひとつの同位社会を構成していることになる. ただ, 今西 (1949) は “同位社会の構成種は相対立しながら相補うもの” という表現で, 構成種間に相互作用の存在することを暗示したが, 実証はしなかった. そのため, 宮地・森 (1953) は, ヒラタカゲロウのすみわけを, 相互作用のない “第2型のすみわけ” の代表例にみなした程である. 第1と第2の同位構造を含みながら, しかも相互作用によって構成種間の分布域が拡大縮小しているいわばダイナミックなすみわけの例は, 今回のヨシノボリ型間のすみわけが最初の報告と思われる. ただし, このばあいにも, 相互作用の実態"
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "は未調査であり, 今後の課題に残されている."
+    },
+    {
+      "type": "paragraph",
+      "text": "ここで, るり型と黒色大型の関係について付記したい. 蜷川では前者が早瀬, 後者が淵頭にそれぞれ多いという形ですみわけていた. しかし, 島根県高津川のように, るり型のいない川では黒色大型が急流部に集中している (水野, 1972). 四国西部では, るり型と黒色大型は地域的にも交代しており, 足摺岬周辺の12河川にはるり型が, その両側の河川には黒色大型が分布している (水野, 1976). 両型が共存するのは, 両地域境界に位置する蜷川・伊与木川 (高知県側) ・須賀川 (愛媛県側) の3本にすぎない (同上). そうして, 一方の型のみが分布している川では, 両型のどちらかが急流部に分布しており, その生態状態は酷似している. このことから, 両型の流速・水深・河床型 (や底質) に対する選好のしかたも酷似していると思われる."
+    },
+    {
+      "type": "paragraph",
+      "text": "蜷川のばあい, るり型はいわば本来の位置を占め, 黒色大型の方が淵頭に追い出された形ですみわけていることになる. 蜷川での生息密度の総平均値は, るり型の0.37に対して黒色大型は0.26と低い (Table 1と3). 蜷川の水温条件が黒色大型により不適当とみなされる (水野, 1976) と共に, このような密度の不均衡が, 上記のようなすみわけをもたらしたと推定される. 密度や水温条件が蜷川とは逆の関係にある川では, 両型のすみわけ関係も逆転するのではあるまいか. なお, 四国西部での両型の分布域交代にも, 水温条件だけではなく, 両型間の競争的排除関係の存在が推定されることは, すでに水野 (1976) で指摘しておいた."
+    },
+    {
+      "type": "paragraph",
+      "text": "次に, ヨシノボリとカワヨシノボリのすみわけにふれてみたい. カワヨシノボリは山間部の流れに多く (Mi-"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 5. Schematic representation of habitat segregation in one stream among Japanese freshwater gobies belonging to the Genus *Rhinogobius*. Open arrows show the direction of dispersion in the case of that the fish of other type or species at the opposite side of arrows is absent (interactive segregation). The segregation between Cross-band type and *R. giurinus* seems to be selective. In the lower courses of river, Hayase-rapid isn't recognized in general.",
+      "bbox": [
+        0.075,
+        0.582,
+        0.463,
+        0.709
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_yoshinobori_IV_4types_coexist_extracted/Fig._5._Schematic_representation_of_habitat_segregation_in_one_stream_among_Japa.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5. Schematic representation of habitat segregation in one stream among Japanese freshwater gobies belonging to the Genus *Rhinogobius*. Open arrows show the direction of dispersion in the case of that the fish of other type or species at the opposite side of arrows is absent (interactive segregation). The segregation between Cross-band type and *R. giurinus* seems to be selective. In the lower courses of river, Hayase-rapid isn't recognized in general."
+    },
+    {
+      "type": "paragraph",
+      "text": "zuno, 1960), 垂直分布的には横斑型以外の3型に似ている. そうして, 横斑型や黒色大型との共存地点では, カワヨシノボリの方が流れのゆるい方にすみわける (水野, 1972). るり型との共存河川で徳島県の海部川でも同様であった. すなわち, カワヨシノボリの主生息地は黒色型のそれにひじょうによく似ているのである. かれらが共存するばあいの分布関係は興味深い問題であるが, 現在まで両者の共存している川は発見されていない. 以上のように, るり型と黒色大型, 黒色型とカワヨシノボリは, 主生息地がたがいに酷似している. 生態的同位 (ecological equivalence) の関係にあるとみなせる. Fig. 5 には, 以上の関係が単純化してまとめられている."
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリと同属の日本産淡水魚には, もう1種ゴクラクハゼがいる. 道津 (1961) によると, 本種は下流に多く, ヨシノボリとの共存河川では両者間で分布域が交代している. 筆者もそれを確認しているし, 淵尻から平瀬頭を主生息地としているようである. 調査不十分ではあるが, 日本の淡水産ヨシノボリ属魚類 の全種・全型 (琉球の中卵型を除く) の河川におけるすみわけを概観し得るよう, Fig. 5 にはゴクラクハゼも含めておいた."
+    },
+    {
+      "type": "paragraph",
+      "text": "最後に, 環境の悪化している伊与木川では, 蜷川に比べて, 黒色型の密度は激減するのに, 横斑型のそれには大差のみられない理由を付記する. 伊与木川でも, 9地点22区画で, 蜷川のばあいと同じように流速と水深が測定された (10月29~31日の本調査時). 流速30cm以上と以下に分けて区画数を集計すると, 蜷川では29と46 (Table 2) であるのに, 伊与木川では14と8になる. 横斑型の分布域だけに限定すると, 蜷川の4地点20区画は10と10に分かれるのに対して, 伊与木川の3地点8区画は8と0に分かれる. 蜷川の流れが全体的にゆるやかなのに対して, 伊与木川は水量がゆたかで全体的に流れがはやいのである. とくに Bb 型域より下流では, 淵頭部を含めて, とうとうと流れている. すでにのべた, 横斑型と黒色型の流速選好の相違を考慮すると, 両者の減少度が相違するのはとうぜんといえよう. 大分県の伊美川と田深川でも, 黒色型の優占する前者では, 横斑型のみが分布する後者よりも, 流れが全体的にゆるやかであった."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "摘 要"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. ヨシノボリの回遊性4型が共存する2小河川で, 海抜高度・河床型・流速・水深に対応する4型の分布の実態を明らかにしようとした."
+    }
+  ],
+  "11": [
+    {
+      "type": "paragraph",
+      "text": "2. 伊与木川の31地点と蜷川の25地点について4型 の密度を4段階に分けて記録した。また, 蜷川の21地点75 区画については, 生息密度と共に, 水深・流速も測定し た。"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 横斑型の密度は下流で高く, 他の3型は上流で高 密度になる。河床型との対応では黒色型が淵, 横斑型が 平瀬, 黒色大型が淵頭, るり型が早瀬にすみわけてお り, 流速の勾配 (小→大) に沿っては, 黒色型→横斑型 →黒色大型→るり型の順にすみわけている。"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 垂直分布上のすみわけにも, 河床型や流速に対応 したすみわけにも, 4型間の相互作用が重要な役割を果 たしている。"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. るり型と黒色大型, 黒色型とカワヨシノボリは, それぞれが互いに生態的同位の関係にあることを指摘し た上で, 日本の淡水産ヨシノボリ属魚類の1河川内での すみわけ関係を模式化した"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "文 献"
+    },
+    {
+      "type": "paragraph",
+      "text": "BRIAN, M. V. 1956. Segregations of species of the ant genus Myrmica. J. Anim. Ecol., 25: 319– 337."
+    },
+    {
+      "type": "paragraph",
+      "text": "道津喜衛. 1981. ゴクラクハゼの生態・生活史. 長崎大 水産研報, (10): 120–125."
+    },
+    {
+      "type": "paragraph",
+      "text": "林 公義. 1976. ヨシノボリの尾鰭骨について. 横須賀 博研報, (23): 61–70."
+    },
+    {
+      "type": "paragraph",
+      "text": "今西錦司. 1949 (1958). 生物社会の論理. 289 pp. 陸 水社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "伊藤猛夫・水野信彦. 1972. 仁淀川水系の河川環境・魚 類・漁業実態について. 281pp. 仁淀川水産資源調査 会, 高知."
+    },
+    {
+      "type": "paragraph",
+      "text": "宮地伝三郎・川那部浩哉・水野信彦. 1976. 原色日本淡 水魚類図鑑, 全改訂新版. 462pp. 保育社, 大阪."
+    },
+    {
+      "type": "paragraph",
+      "text": "森主一. 1953. 動物の生態. 6+221. 岩波書店."
+    },
+    {
+      "type": "paragraph",
+      "text": "MIZUNO, N. 1960. Study of a freshwater goby, Rhinogobius similis GILL, with a proposition on the relationships between landlocking and spe- ciation of some freshwater gobies in Japan. Mem. Col. Sci. Univ. Kyoto, Ser., B, 27: 97– 115."
+    },
+    {
+      "type": "paragraph",
+      "text": "— (水野信彦)・1968 a. 国東半島・伊美川の魚相. 関西自然科学, (19): 28–31."
+    },
+    {
+      "type": "paragraph",
+      "text": "— . 1968 b. 国東半島・田深川の魚相. 同上, (19): 32–35."
+    },
+    {
+      "type": "paragraph",
+      "text": "— . 1972. 高津川水系の魚類生態状況. 「高津川水 系の生物に関する総合開発調査」, 113–212. 島根県 漁政課. 松江."
+    },
+    {
+      "type": "paragraph",
+      "text": "— . 1976. ヨシノボリの研究Ⅲ. 四国と九州での4型 の分布, 生理状態. 17: 373–381."
+    },
+    {
+      "type": "paragraph",
+      "text": "水岡繁登. 1967. ヨシノボリにおける流れに沿う変異の 研究Ⅳ. 斑紋型および胸びれのひれ条数について. 広 島大教育紀要. 第3部, (16): 43–52."
+    },
+    {
+      "type": "paragraph",
+      "text": "— . 1968. ヨシノボリの変異に関する研究Ⅰ. 九州東 岸における体色斑紋型2型の分布. 同上, (17): 37– 42."
+    },
+    {
+      "type": "paragraph",
+      "text": "— . 1971. 同上Ⅱ. 鳥取県・島根県・山口県・九州西 岸における体色斑紋型3型について. 同上, (20): 11– 16."
+    },
+    {
+      "type": "paragraph",
+      "text": "— . 1974. 同上Ⅲ. 山陰・北陸・山陽・五島列島にお ける体色斑紋型6型について. 同上, (23): 31–40."
+    },
+    {
+      "type": "paragraph",
+      "text": "— . 1976. ハゼ科魚類の電気泳動による研究―特にヨ シノボリ6型, カワヨシノボリ, ゴクラクハゼについ て. 同上, (25): 23–32."
+    },
+    {
+      "type": "paragraph",
+      "text": "落合 明・大野正夫・谷口順彦・福島 博・高田昭典・ 古屋八重子. 1976. 松田川本流域を中心とした河川環 境と水生生物の生息実態について. 1–93, 高知県."
+    }
+  ]
+}

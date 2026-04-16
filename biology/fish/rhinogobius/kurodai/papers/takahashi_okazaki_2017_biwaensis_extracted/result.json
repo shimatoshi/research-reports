@@ -1,0 +1,708 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "FULL PAPER"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rhinogobius biwaensis, a new gobiid fish of the “yoshinobori” species complex, Rhinogobius spp., endemic to Lake Biwa, Japan"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "The endemic lentic goby of Lake Biwa in Japan, which has hitherto been designated informally as Rhinogobius sp. BW, is formally described as Rhinogobius biwaensis sp. nov. It is distinguished from other members of the genus by the following combination of characters: vertebral count 26 (rarely 27); pectoral fin rays 18–22 (mostly 20–21); longitudinal scales 31–36 (mostly 31–34, mode 32); predorsal scales absent or few; D1 low with non-filamentous spines, all of almost same length except for shorter 1st and 6th (last) spines in both sexes; pelvic fin disk composed of thin membranes, its frenum undeveloped with a low, thin lamella; cheek unmarked; back and sides of body with 5–6 unclear dark saddles and 6–9 dark blotches; D1 lacking blotches but melanized to greater or lesser degree along rays; dorsal edge of pectoral base with one small, dark spot tinged with blue metallic luster; in breeding males, yellow on suboperculum and branchiostegal region and on basal part of anal fin, blue on medial part of under jaw."
+    },
+    {
+      "type": "paragraph",
+      "text": "This article was registered in the Official Register of Zoological Nomenclature (ZooBank) as 1ACAD0D2-9936-45D1-A236-55E6681BF984."
+    },
+    {
+      "type": "paragraph",
+      "text": "This article was published as an Online First article on the online publication date shown on this page. The article should be cited by using the doi number."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Keywords"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius biwaensis · Gobiidae · Lake Biwa · Japan"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius Gill 1859 fishes are freshwater gobies that are distributed widely in East and Southeast Asia. They show a high degree of regional differentiation and comprise more than 86 species (Table 1), including the new species described herein (Wu and Zhong 2008; Akihito et al. 2013; Suzuki et al. 2015; Eschmeyer 2017). Apart from Rhinogobius similis Gill 1859, the Japanese species of this genus are very closely related and form a species complex that used to be lumped under the Japanese name “yoshinobori”. Rhinogobius similis, which was proved by Suzuki et al. (2015) to be a senior synonym of Rhinogobius giurinus (Rutter 1897), is the only species of Rhinogobius from Japan that does not belong to this “yoshinobori” species complex. The members of this “yoshinobori” species complex are referred to in this paper as “yoshinobori” species or “yoshinobori” fishes. At least 16 “yoshinobori” species are currently recognized in various parts of Japan, though nine of them have no scientific name as yet."
+    },
+    {
+      "type": "paragraph",
+      "text": "The genus Rhinogobius was erected by Gill (1859) when he described Rhinogobius similis from Japan. Afterwards, Lake Biwa was counted as one of its habitats as a result of confusion concerning this genus, and the name “yoshinobori” was cited as one of Japanese local names of R. similis (see Jordan and Snyder 1901a; Jordan and Snyder 1901b: 56–58; Jordan et al. 1913: 341–342). Tomiyama (1936: 68–70) lumped the more than ten nominal species that had been described by then and considered them to represent one polymorphic species, “yoshinobori”. As a result of reexamination of the type specimen, Gobius brunneus"
+    }
+  ],
+  "2": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "New Rhinogobius goby from Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 Meristic counts for the species of Rhinogobius compared with Rhinogobius biwaensis sp. nov."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1 Meristic counts for the species of Rhinogobius compared with Rhinogobius biwaensis sp. nov.",
+      "bbox": [
+        0.088,
+        0.19,
+        0.91,
+        0.89
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2017_biwaensis_extracted/Table_1_Meristic_counts_for_the_species_of_Rhinogobius_compared_with_Rhinogobius.jpg"
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "Table 1 continued"
+    },
+    {
+      "type": "figure",
+      "label": "Table 1 continued",
+      "bbox": [
+        0.07,
+        0.11,
+        0.93,
+        0.9
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2017_biwaensis_extracted/Table_1_continued.jpg"
+    }
+  ],
+  "4": [
+    {
+      "type": "figure",
+      "label": "Table 1 continued\na Parenthetical values represent most frequently\nb Sometimes a few\nc Nape covered with small scales\nd 0 in males, 2–4 in females",
+      "bbox": [
+        0.08,
+        0.075,
+        0.92,
+        0.365
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2017_biwaensis_extracted/Table_1_continueda_Parenthetical_values_represent_most_frequentlyb_Sometimes_a_f.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 continued"
+    },
+    {
+      "type": "paragraph",
+      "text": "a Parenthetical values represent most frequently"
+    },
+    {
+      "type": "paragraph",
+      "text": "b Sometimes a few"
+    },
+    {
+      "type": "paragraph",
+      "text": "c Nape covered with small scales"
+    },
+    {
+      "type": "paragraph",
+      "text": "d 0 in males, 2–4 in females"
+    },
+    {
+      "type": "paragraph",
+      "text": "Temminck and Schlegel (1845: 142–143) proved to belong to Rhinogobius, and R. similis came to be considered a junior synonym of the Rhinogobius brunneus (see Koumans 1935: 149; Boeseman 1947: 123; Takagi 1962; but see Suzuki et al. 2015). Rhinogobius brunneus (Temminck and Schlegel 1845) thus was then, for a while, treated as the valid scientific name of the polymorphic species “yoshinobori” in Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno (1960a, b) then found a goby fish resembling then R. brunneus but laying larger eggs, and he described it as a new species, Tukugobius flumineus Mizuno 1960, which became Rhinogobius flumineus (Mizuno 1960) because Herre (1933) had already declared that Tukugobius Herre is a junior synonym of Rhinogobius Gill. Thereafter some color-pattern morphs and egg-size morphs of R. brunneus were recognized one after another. Studies on ecology, ethology, and molecular genetics eventually revealed that most of those morphs represent distinct species (Mizuoka 1967, 1968, 1974, 1978; Nishijima 1968; Nakayama 1975; Mizuno 1976, 1981; Uehara 1980; Iwata 1981; Mizuno et al. 1982; Masuda et al. 1989; Suzuki 1992, 1996; Katoh and Nishida 1994). Those Tomiyama (1936: 68–70) had lumped together were subdivided again."
+    },
+    {
+      "type": "paragraph",
+      "text": "An effort to assign formal scientific names is ongoing (Oijen et al. 2011; Suzuki and Chen 2011), though morphological similarity among taxa, lost or ambiguous type material, and insufficient taxonomic descriptions have made it difficult to complete the task. The undescribed species were provisionally named with two-capital-letter alphabetic designations (Mizuno et al. 1989)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito et al. (2000) identified 11 “yoshinobori” species in Japan: R. flumineus, Rhinogobius sp. DA, Rhinogobius sp. CB, Rhinogobius sp. LD, Rhinogobius sp. BI, Rhinogobius sp. MO, Rhinogobius sp. DL, Rhinogobius sp. CO, Rhinogobius sp. YB, Rhinogobius sp. BB, Rhinogobius sp. OR. Among them, Rhinogobius sp. OR was considered to be a species having much variation, including four morphs: “Toshoku”, “Gi-toshoku”, “Shinjiko”, and “Shimahire”."
+    },
+    {
+      "type": "paragraph",
+      "text": "After that, by morphological comparison with the type specimen, one of the “yoshinobori” species complex called Rhinogobius sp. DA was shown to actually be R. brunneus (Temminck and Schlegel 1845) (see Oijen et al. 2011). Detailed reinvestigation of morphology by Suzuki and Chen (2011) also suggested that Rhinogobius sp. CB, the “Gi-toshoku” morph of Rhinogobius sp. OR, and Rhinogobius sp. LD are actually the nominal species Rhinogobius nagoyae Jordan and Seale 1906, Rhinogobius kurodai (Tanaka 1908), and Rhinogobius fluviatilis Tanaka 1925, respectively. Suzuki et al. (2012) described Rhinogobius sp. BI formally as Rhinogobius ogasawaraensis Suzuki, Chen and Senou 2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito et al. (2013) then split Rhinogobius sp. OR sensu Akihito et al. (2000) into six species on the basis of preceding works. The lake-river migrating population of Lake Biwa, representative of “Toshoku” morph, was considered a distinct species, Rhinogobius sp. OM. The morph “Gi-toshoku” included two species: R. kurodai, which lives in lentic water bodies in Tokyo and Kanagawa Prefectures (Suzuki and Chen 2011), and Rhinogobius sp. KZ from the Kazusa hilly area of Chiba Prefecture (Uehara 1980). The “Shimahire” morph mainly distributed in stagnant freshwaters around the Seto Inland Sea was elevated to a distinct species, Rhinogobius sp. BF (Ohara et al. 2009; Suzuki et al. 2010). In addition, the two lentic populations from Lake Biwa (Takahashi 1990, 1997; Takahashi and Okazaki 2002; Takahashi and Ohara 2004) and from the Nobi-Okazaki Plain in the Nagoya area (Nishimura 2000; Suzuki and Sakamoto 2005), which had been treated as variations of the “Shimahire” morph, were recognized as two different species, respectively: Rhinogobius sp. BW (described herein as Rhinogobius biwaensis sp. nov.) and Rhinogobius sp. TO. As a result, the number of recognized, albeit often undescribed, “Yoshinobori” species in Japan has reached 16 (Akihito et al. 2013). This left the morph “Shinjiko”, some populations included in the morph “Gi-toshoku”, and some other unclassified"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "populations that had been included in Rhinogobius sp. OR sensu Akihito et al. (2000) unresolved taxonomically. On the other hand, in the recent studies of the genus, R. kurodai is compared with Rhinogobius sp. BF and rediagnosed by Suzuki et al. (in press)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi and Okazaki (2002) proposed to divide the “yoshinobori” species into four groups depending on their life history patterns, namely amphidromous, fluvial, lake-river migrating, and lentic fishes. Amphidromy is the original lifestyle of the “yoshinobori” species complex: larvae hatch in a river and drift down immediately to the sea, feed and grow there, come back into the river at a young-fish stage, then grow some more and reproduce in the river. The fluvial fish is non-diadromous and completes its life cycle by laying its comparatively large eggs in the upper reaches of rivers. The lake-river migrating lifestyle resembles amphidromous lifestyle: fish migrates between lake and its inflowing rivers, substituting the lake for the sea. The lentic fish lives in a lake or pond and does not undertake lake-river migrations. The life styles of latter three must cause genetic isolation more easily than amphidromous life style. In Lake Biwa, an ancient lake in Japan, there inhabit not only a lake–river migrating species, Rhinogobius sp. OM, but also lentic species, Rhinogobius sp. BW. In the present study, we belatedly provide a formal description of Rhinogobius sp. BW, the lentic “yoshinobori” species in Lake Biwa."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Materials and methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "The holotype, LBM 1210013432, was caught in a tradi-tional “eri” fish trap (Hashimoto 1999, 2015:373) at a depth of approximately 15 m off Wanihama beach on the southwestern shore of Lake Biwa in what is now Wani-nakahama, Otsu City, on 16 July 1997, and fixed at the sites in 10% formalin (i.e. 3.5–3.8% formaldehyde). Two of 78 paratypes, OMNH-P 23927 and OMNH-P 23932, were caught by hand net at Ukawa, Takashima City on 25 June 2011, and photographed while they were fresh, and fixed in 10% formalin. The remaining 76 paratypes, which were caught in either dragnets or “eri” fish trap, were fixed at the sites in 10% formalin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Measurements, counts, and observations of fixed speci-mens were made under a binocular microscope following Hubbs and Lagler (1964) and Akihito et al. (2013). Mea-surements (to the nearest 0.1 mm) were made on the entire type series. Standard length, snout length, and head length were measured from the tip of the upper lip. Bones, fin rays, and scales of 41 paratype specimens were examined after staining them with sodium alizarinsulfonate (Kawa-mura and Hosoya 1991). The holotype and 37 other para-types were not stained to avoid damage to them. Bones of"
+    },
+    {
+      "type": "paragraph",
+      "text": "the holotype were examined using soft X-ray by “M-60” apparatus of SOFTEX Co., Ltd., and its fin rays and scales were examined without staining. Cephalic sensory canal system of the holotype and three paratypes were examined. The observation methods and the names used for parts of the cephalic sensory canal system followed Akihito et al. (2013). Some specimens of nameless unclassified popula-tions of Rhinogobius that were compared morphologically with the new species are shown in Table 2. Their predorsal scales were counted without staining."
+    },
+    {
+      "type": "paragraph",
+      "text": "Abbreviations and locations of depositories of speci-mens are as follows: AMS (The Australian Museum, Sydney, New South Wales, Australia), FAKU (The Kyoto University Museum, Sakyo-ku, Kyoto, Japan), LBM (Lake Biwa Museum, Kusatsu, Shiga, Japan), NSMT (National Museum of Nature and Science, Tsukuba, Ibaraki, Japan), OMNH (Osaka Museum of Natural History, Higashi-Su-miyoshi-ku, Osaka, Japan). Scientific names, Japanese names, and provisional two-capital-letter alphabetic des-ignations of “yoshinobori” species in Japan follow Akihito et al. (2000, 2013)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rhinogobius biwaensis sp. nov."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Japanese name: Biwa-yoshinobori) (Figs. 1, 2, 3, 4; Table 3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius brunneus: Takahashi 1990: 225 (Lake Biwa, Shiga, Japan)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Biwa-yoshinobori (tentative name): Takahashi 1997: 128 (Lake Biwa, Shiga, Japan)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. BW: Takahashi and Okazaki 2002: 333 (Hamabun, Maiko, Shimosakamoto, Misaki and Biwa-cho, Lake Biwa, Shiga, Japan); Tsujimoto et al. 2003: 17 (Omi-Maiko, Lake Biwa, Shiga, Japan); Takahashi and Ohara 2004: 100 (Ukawa shore and Minamihama, Lake Biwa, Shiga, Japan); Senou et al. 2004: 459 (Lake Biwa, Shiga, Japan); Suzuki et al. 2010: 11 (Ukawa, Lake Biwa, Shiga; a pond, Watarai, Mie; Yato R., Gotsu, Shimane; and Taniyama R., Imabari, Ehime; Japan); Mukai et al. 2012: 18 (Sugaura and Kitakomatsu, Lake Biwa, Shiga, Japan); Akihito et al. 2013: 1461 (secondary sources); Yamasaki et al. 2015: 23 (Imajyuku and Moriyama, Lake Biwa, Shiga, Japan); Mukai et al. 2015: 175 (Ogasatakahashi R., Kikugawa, Shizuoka; Asuri Dam Reservoir, Toyota, Aichi; Yokoyama Dam Reservoir, Ibigawa, Gifu; a pond, Watarai, Mie; Yubara Dam Reservoir, Maniwa, Okayama, Yato R., Gotsu, Shimane; and Taniyama R., Imabari, Ehime; Japan). Fujita and Uchiyama 2015: 447 (Lake Biwa, Shiga, Japan; and secondary sources)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Holotype. LBM 1210013432, adult male, 33.0 mm SL, 35.1N, 135.9E, Wanihama beach, Lake Biwa, Wani-nakahama, Otsu City, Shiga Prefecture, Japan, 15 m depth,"
+    }
+  ],
+  "6": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "New Rhinogobius goby from Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 Morphological comparison between specimens of nameless unclassified populations of Rhinogobius spp. and Rhinogobius biwaensis sp. nov."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2 Morphological comparison between specimens of nameless unclassified populations of Rhinogobius spp. and Rhinogobius biwaensis sp. nov.",
+      "bbox": [
+        0.08,
+        0.117,
+        0.92,
+        0.312
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2017_biwaensis_extracted/Table_2_Morphological_comparison_between_specimens_of_nameless_unclassified_popu.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Locality\tNo. of specimens¹\tApproximate SL (mm)\tPredorsal scales counts\tRegistration No.\nTate R(Yoshinogari, Saga Pref.)\t7 + 25 half bodies\t55\t9–17\tLBM 1210055745\nShibukuma R. (Miwa town, Yamaguchi Pref.)\t27 + 17 half bodies\t50\t9–15\tLBM 1210055754\nMaruyama R. (Hyogo Pref.)\t10 half bodies\t60\t11–14\tLBM 1210055753\nPond in Heian Shrine² (Kyoto Pref.)\t3\t35\t8–12\tFAKU 203106–FAKU 203108\nMarsh Akauragata (Nanao City, Ishikawa Pref.)\tone half body\t45\t>7\tLBM 1210055748\nWetland Sakata (Akatsuka, Niigata Pref.)\t15\t25\t12–16\tLBM 1210055934\nMarsh Tazawanuma (Oishida town, Yamagata Pref.)\t8\t30\t10–13\tLBM 1210055747"
+    },
+    {
+      "type": "paragraph",
+      "text": "¹ Half body means the left half cut in a midsagittal plane\n² Supplied with water by canal from Lake Biwa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1 Lateral views of Rhinogobius biwaensis sp. nov. a holotype, LBM 1210013432, male, 33.0 mm SL; b paratype, OMNH-P 23927, male, 36.0 mm SL; c paratype, OMNH-P 23932, female, 25.6 mm SL (b and c are photographed by T. Suzuki)"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1 Lateral views of Rhinogobius biwaensis sp. nov. a holotype, LBM 1210013432, male, 33.0 mm SL; b paratype, OMNH-P 23927, male, 36.0 mm SL; c paratype, OMNH-P 23932, female, 25.6 mm SL (b and c are photographed by T. Suzuki)",
+      "bbox": [
+        0.333,
+        0.394,
+        0.917,
+        0.882
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2017_biwaensis_extracted/Fig._1_Lateral_views_of_Rhinogobius_biwaensis_sp._nov._a_holotype,_LBM_121001343.jpg"
+    }
+  ],
+  "7": [
+    {
+      "type": "error",
+      "message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+    }
+  ],
+  "8": [
+    {
+      "type": "error",
+      "message": "<urlopen error _ssl.c:1015: The handshake operation timed out>"
+    }
+  ],
+  "9": [
+    {
+      "type": "error",
+      "message": "<urlopen error [Errno 7] No address associated with hostname>"
+    }
+  ],
+  "10": [
+    {
+      "type": "error",
+      "message": "The read operation timed out"
+    }
+  ],
+  "11": [
+    {
+      "type": "error",
+      "message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+    }
+  ],
+  "12": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "New Rhinogobius goby from Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Kottelat M (2005) Four new freshwater gobies of the genus Rhinogobius (Teleostei: Gobiidae) from northern Vietnam. J Nat Hist 39:1407–1429"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Miller PJ (1998) Redescription of a Chinese freshwater goby, Gobius davidi (Gobiidae), and comparison with Rhinogobius lentiginis. Cybium 22:211–221"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Miller PJ (2008) Two new freshwater gobies of genus Rhinogobius (Teleostei: Gobiidae) in southern China, around northern region of the South China Sea. Raffles Bull Zool Suppl 19:225–232"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Miller PJ (2014) A new freshwater goby of Rhinogobius (Teleostei: Gobiidae) from Hainan Island, southern China. J Mar Sci Technol 21 suppl (for 2013):124–129"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Shao KT (1996) A taxonomic review of the gobiid genus Rhinogobius Gill, 1859, from Taiwan, with descriptions of three new species. Zool Stud 35:200–214"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Wu HL (2008) Rhinogobius liui Chen et Wu nom. nov. In: Wu HL, Zhong JS (eds) Fauna Sinica, Osteichthyes, Perciformes (V) Gobioidei. Science Press, Beijing, pp 612–614"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Miller PJ, Fang LS (1998) A new species of freshwater goby from Lanyu (Orchid Island), Taiwan. Ichthyol Explor Freshwaters 9:255–261"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Kottelat M, Miller PJ (1999a) Freshwater gobies of the genus Rhinogobius from the Mekong Basin in Thailand and Laos, with descriptions of three new species. Zool Stud 38:19–32"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Wu HL, Shao KT (1999b) A new species of Rhinogobius (Teleostei: Gobiidae) from Fujian Province, China. Ichthyol Res 46:171–178"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Yang JX, Chen YR (1999c) A new goby of the genus Rhinogobius (Teleostei: Gobiidae) from the Honghe Basin, Yunnan Province, China. Acta Zool Taiwan 10:45–52"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Miller PJ, Wu HL, Fang LS (2002) Taxonomy and mitochondrial sequence evolution in non-diadromous species of Rhinogobius (Teleostei: Gobiidae) of Hainan Island, southern China. Mar Freshwater Res 53:259–273"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen I-S, Cheng YH, Shao KT (2008) A new species of Rhinogobius (Teleostei: Gobiidae) from the Julongjiang Basin in Fujian Province, China. Ichthyol Res 55:335–343"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chu XL, Chen YR (1990) The fishes of Yunnan, China. Part II. Science Press, Beijing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eschmeyer WN (ed) (2017) Catalogue of fishes. Online version, updated 31 January 2017. http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp. Accessed 4 February 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fowler HW (1934) Zoological results of the third De Schauensee Siamese Expedition, part I. Fishes. Proc Acad Nat Sci Philadelphia 86:67–163"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fowler HW (1937) Zoological results of the third De Schauensee Siamese Expedition. Part VIII. Fishes obtained in 1936. Proc Acad Nat Sci Philadelphia 89:125–264"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fujita T, Uchiyama R (2015) Biwa-yoshinobori. In: Hosoya K (ed) Freshwater fishes of Japan. Yama-Kei Publ Co Ltd, Tokyo, p 447"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gill TN (1859) Notes on a collection of Japanese fishes, made by Dr. J. Morrow. Proc Acad Nat Sci Philadelphia 11:144–150"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ginsburg I (1917) On two species of fishes from the Yalu River, China. Proc U S Nat Mus 54:99–101"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hashimoto M (1999) A 13th-century turning point of fishing rights and endemic fish-trap (‘eri’) technology in Lake Biwa, in relation to the role of village communities. In: Kawanabe H, Coulter GW, Roosevelt AC (eds) Ancient lakes: their cultural and biological diversity. Kenobi Productions, Ghent, pp 147–159"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hashimoto M (2015) Environments and village communities in the middle ages of Japan. Shibunkaku, Kyoto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre AWCT (1927a) Gobies of the Philippines and the China Sea. Monogr Bur Sci Manila 23:1–352"
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre AWCT (1927b) Four new fishes from Lake Taal (Bombon). Philipp J Sci 34:273–279"
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre AWCT (1933) On the genera Ctenogobius and Rhinogobius Gill, Tukugobius Herre, and Drombus Jordan and Seale. Science 78:265"
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre AWCT (1935a) Two new species of Ctenogobius from south China (Gobiidae). Lingnan Sci J 14:395–397"
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre AWCT (1935b) Notes on fishes in the Zoological Museum of Stanford University. VI—New and rare Hong Kong fishes obtained in 1934. Hong Kong Nat 6:285–293"
+    },
+    {
+      "type": "paragraph",
+      "text": "Herre AWCT (1938) Notes on a small collection of fishes from Kwangtung Province including Hainan, China. Lingnan Sci J 17:425–437"
+    },
+    {
+      "type": "paragraph",
+      "text": "Huang SP, Chen I-S (2007) Three new species of Rhinogobius Gill, 1859 (Teleostei: Gobiidae) from the Hanjiang Basin, southern China. Raffles Bull Zool Suppl 14:101–110"
+    },
+    {
+      "type": "paragraph",
+      "text": "Huang SP, Chen I-S, Shao KT (2016) A new species of Rhinogobius (Teleostei: Gobiidae) from Zhejiang Province, China. doi 10.1007/s10228-016-0516-9 (also appeared in Ichthyol Res 63: 470–479)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hubbs CL, Lagler KF (1964) Fishes of the Great Lakes region. University of Michigan Press, Ann Arbor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iwata A (1981) On a curious morph of yoshinobori, mosaic-gata, obtained from Nansei Islands. Tansuigyo 7:18–21"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan DS, Seale A (1906) Descriptions of six new species of fishes from Japan. Proc U S Nat Mus 30:143–148"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan DS, Snyder JO (1901a) List of fishes collected in 1883 and 1885 by Pierre Louis Jouy and preserved in the United States National Museum, with descriptions of six new species. Proc U S Nat Mus 23:739–769"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan DS, Snyder JO (1901b) A review of the gobioid fishes of Japan, with descriptions of twenty-one new species. Proc U S Nat Mus 24:33–132"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jordan DS, Tanaka S, Snyder JO (1913) A catalogue of the Fishes of Japan. J Col Sci, Tokyo Imp Univ 33:1–497"
+    },
+    {
+      "type": "paragraph",
+      "text": "Katoh M, Nishida M (1994) Biochemical and egg size evolution of freshwater fishes in the Rhinogobius brunneus complex (Pisces, Gobiidae) in Okinawa, Japan. Biol J Linn Soc 51:325–335"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kawamura K, Hosoya K (1991) A modified double staining technique for making a transparent fish-skeletal specimen. Bull Natl Res Inst Aquacult 20:11–18"
+    },
+    {
+      "type": "paragraph",
+      "text": "Koumans FP (1935) Notes on gobioid fishes. 6. On the synonymy of some species from the Indo-Australian Archipelago. Zool Meded 18:121–150"
+    },
+    {
+      "type": "paragraph",
+      "text": "Koumans FP (1940) Results of a reexamination of types and specimens of Gobioid fishes, with notes on the fishfauna of the surroundings of Batavia. Zool Meded 22:121–210"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lee SC, Chang JT (1996) A new goby, Rhinogobius rubromaculatus (Teleostei: Gobiidae), from Taiwan. Zool Stud 35:30–35"
+    },
+    {
+      "type": "paragraph",
+      "text": "Li F, Zhong JS (2007) A new Rhinogobius species from Zhejiang Province, China (Teleostei: Gobiidae). Zool Res 28:539–544"
+    },
+    {
+      "type": "paragraph",
+      "text": "Li F, Zhong JS (2009) Rhinogobius zhoui, a new goby (Perciformes: Gobiidae) from Guangdong Province, China. Zool Res 30:327–333"
+    },
+    {
+      "type": "paragraph",
+      "text": "Li F, Zhong JS, Wu HL (2007) A new species of the genus Rhinogobius from Fujian Province, China (Teleostei, Gobiidae). Dong Wu Fen Lei Xue Bao 32:981–985"
+    },
+    {
+      "type": "paragraph",
+      "text": "Luo YL (1989) Ctenogobius Gill. In: Zheng CY (ed) Fishes of the Zhujiang River. Science Press, Beijing, pp 348–355"
+    },
+    {
+      "type": "paragraph",
+      "text": "Masuda Y, Ozawa T, Enami S (1989) Genetic differentiation among eight color types of the freshwater goby, Rhinogobius brunneus, from western Japan. Jpn J Ichthyol 36:30–41"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1960a) Study on a freshwater goby, Rhinogobius similis Gill, with a proposition on the relationships between land-locking and speciation of some freshwater gobies in Japan. Mem Coll Sci Univ Kyoto Ser B 27:97–115"
+    }
+  ],
+  "13": [
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1960b) Description of a new freshwater goby from Japan. Mem Coll Sci Univ Kyoto Ser B 27:117–119"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1976) Studies on a freshwater fish, *Rhinogobius brunneus* (Pisces: Gobiidae) III. Distribution of four colour types in Shikoku and Kyushu Islands. Physiol Ecol Japan 17:373–381"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1981) Introduction to yoshinobori studies. Tansuigyo 7:7–13"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N, Mukai M, Goto A, Hamada K (1982) Studies on the freshwater fish in Hokkaido, Japan–II. Distribution of two types of a goby, *Rhinogobius brunneus*. Bull Fac Fish Hokkaido Univ 33:115–125"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N, Iwata A, Koshikawa T, Tsuji K, Suzuki T (1989) *Rhinogobius*. In: Kawanabe H, Mizuno N (eds) Nihon no tansuigyo (freshwater fishes of Japan). Yama-Kei Publ Co Ltd, Tokyo, pp 579–580, 584–603"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka S (1967) Studies on fluvial variations in the gobioid fish, “Yoshinobori” IV. Distributions and variations in color pattern and the pectoral fin ray numbers. Bull Fac Educ Hiroshima Univ Part 3 16:43–52"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka S (1968) Studies on the variation of *Rhinogobius brunneus* (Temminck et Schlegel) I. Distribution of the two types in body color and color pattern in the eastern coast of Kyushu. Bull Fac Educ Hiroshima Univ Part 3 17:37–42"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka S (1974) Studies on the variation of *Rhinogobius brunneus* (Temminck et Schlegel) III. On the six types of body color and color pattern in the Sanin district, the Hokuriku district, the Sanyo district, and the Goto Islands. Bull Fac Educ Hiroshima Univ Part 3 23:31–40"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuoka S (1978) Studies on the variation of “Yoshinobori”, *Rhinogobius similis* Gill. Bull Fac Educ Hiroshima Univ Part 2 1:147–168"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mori T (1934) The fresh water fishes of Jehol. Report of the first scientific expedition to Manchukuo, sect 5, pt 1. Office of the Scientific Expedition to Manchukuo, Tokyo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai T, Hirashima K, Furuhashi M, Furuta R, Yodo T, Nakanishi N (2012) Distribution of yoshinobori gobies (*Rhinogobius kurodai* and related species) in the irrigation ponds in southern Suzuka, Mie Prefecture, Japan, and their phylogenetic analysis. Bull Biogeogr Soc Japan 67:15–24"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai T, Kitahara Y, Moriguchi H, Sakai H, Asaka T, Chimura Y (2015) Distribution of non-indigenous populations of Biwayoshinobori goby (*Rhinogobius* sp. BW) in western Japan. Bull Biogeogr Soc Japan 70:173–180"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nakayama H (1975) Yoshinobori fishes in the rivers of Okinawa. Tansuigyo 1:113–115"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nguyen VH, Vo VB (2005) 3.Cac loai moi trong ho Ca Bong trang Gobidae, bo Perciformes. In: Nguyen VH (ed) Ca Nuoc Ngot Viet Nam vol 3. Nha Xuat Ban Nong Nghiep, Ha Noi, 635–640"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nichols JT (1925) Some Chinese fresh-water fishes. XII. A small goby from the central Yangtze. Am Mus Novit 185:1–7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nichols JT (1931) Some Chinese fresh-water fishes. XXIX. A new goby from Hokou, Kiangsi. Am Mus Novit 499:1–3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishijima S (1968) Two forms of the gobioid fish *Rhinogobius brunneus* from Okinawa-jima, Ryukyu Islands. Zool Mag 77:397–398"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishimura T (2000) Ushi-Yoshinobori. http://www.tansuigyo.net/a/link72.html. Accessed 4 February 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara K, Hotta M, Takahashi D, Asahida T, Ida H, Umino T (2009) Use of microsatellite DNA and otolith Sr:Ca ratios to infer genetic relationships and migration history of four morphotypes of *Rhinogobius* sp. OR. Ichthyol Res 56:373–379"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oijen MJP, Suzuki T, Chen I-S (2011) On the earliest published species of *Rhinogobius*. With a redescription of *Gobius brunneus* Temminck and Schlegel, 1845. J Natl Taiwan Mus 64:1–17"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oshima M (1919) Contributions to the study of the fresh water fish of the island of Formosa. Ann Carnegie Mus 12:169–328"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pellegrin J, Fang PW (1940) Poissons du Laos recueillis par Mm. Delacour, Greenway, Ed. Blanc. Description d’un genre, de cinq espèces et d’une variété. Bull Soc Zool Fr 65:111–123"
+    },
+    {
+      "type": "paragraph",
+      "text": "Regan CT (1908a) Descriptions of new freshwater fishes from China and Japan. Ann Mag Nat Hist (ser 8) 1:149–153"
+    },
+    {
+      "type": "paragraph",
+      "text": "Regan CT (1908b) The Duke of Bedford’s Zoological Exploration in eastern Asia–VIII. A collection of freshwater fishes from Corea. Proc Zool Soc London 1908 (pt 1):59–63"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rutter C (1897) A collection of fishes obtained in Swatow, China, by Miss Adele M. Fielde. Proc Acad Nat Sci Philadelphia 49:56–90"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai H, Ikoma K, Frolov SV, Yamazaki Y, Takahashi H, Ida H (2000) Morphological features of a Russian freshwater goby, *Rhinogobius lindbergi* (Pisces: Gobiidae), and its genetic relationships to Japanese species. Biogeography 2:51–61"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sauvage HE, Dabry DT (1874) Notes sur les poissons des eaux douces de Chine. Ann Sci Nat, Zool (ser 6) 1:1–18"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seale A (1910) New species of Philippine fishes. Philipp J Sci section A 4:491–541"
+    },
+    {
+      "type": "paragraph",
+      "text": "Senou H, Yano K, Suzuki T, Shibukawa K (2004) A Photographic guide to the gobioid fishes of Japan. Heibonsha, Tokyo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T (1992) A species of yoshinobori from Chichijima of Ogasawara Islands – Ogasawarayoshinobori (new designation) (preliminary report). Hyogo Rikusuiseibutsu 42:5–12"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T (1996) A new morph of to-yoshinobori from Maruyama River of Hyogo Prefecture. Hyogo Rikusuiseibutsu 47:1–9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Chen I-S (2011) Redescriptions of three species of genus *Rhinogobius* (Perciformes, Gobiidae) described by Dr. Shigeho Tanaka. Bull Osaka Mus Nat Hist 65:9–24"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Sakamoto K (2005) Record of a gobiid fish, *Rhinogobius* sp. TO (Perciformes, Gobiidae) from the Noubi and Okazaki plains, Japan. Bull Biogeogr Soc Japan 60:13–20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Mukai T, Yoshigou H, Oseko N, Tyon DS (2010) Redefinition and proposal of the new standard Japanese name for *Rhinogobius* sp. OR morphotype “Shimahire” (Perciformes, Gobiidae). Bull Osaka Mus Nat Hist 64:1–14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Chen I-S, Senou H (2012) A new species of *Rhinogobius* Gill, 1859 (Teleostei: Gobiidae) from the Bonin Islands, Japan. J Mar Sci Technol 19:693–701"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Shibukawa K, Senou H, Chen I-S (2015) Redescription of *Rhinogobius similis* Gill 1859 (Gobiidae: Gobionellinae), the type species of the genus *Rhinogobius* Gill 1859, with designation of the neotype. doi 10.1007/s10228-015-0494-3 (also appeared in Ichthyol Res 63:227–238)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Aizawa M, Shibukawa K (in press) *Rhinogobius kurodai* (Tanaka, 1908): its revised diagnosis particularly for distinguishing from *Rhinogobius* sp. BF, and a comment on an ill-defined congener, known as “*Rhinogobius* sp. OR morphotype Gi-toshoku” in Japan. Nat Hist Tokai Dist 10"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takagi K (1962) Nomenclatural status of *Gobius brunneus* Temminck et Schlegel, 1845, a gobioid species from Japan. Zool Mag 71:295–300"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi D, Ohara K (2004) Genetic variations estimated from PCR-RFLP analysis of two morphs of the freshwater goby *Rhinogobius* in the Lake Biwa water system. Ichthyol Res 51:99–105"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S (1990) On the new type of a goby *Rhinogobius brunneus* in Lake Biwa. In: Horie S (Representative) Report of studies project no. 6330462. Supported by a KAKENHI from MEXT, pp 225–228"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S (1997) *Rhinogobius* spp. from Lake Biwa. Jpn J Ichthyol 44:128"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S, Okazaki T (2002) A new lentic form of the “Yoshinobori” species complex, *Rhinogobius* spp. from Lake Biwa, Japan, compared with lake-river migrating *Rhinogobius* sp. OR. Ichthyol Res 49:333–339"
+    }
+  ],
+  "14": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "New Rhinogobius goby from Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka S (1908) Descriptions of eight new species of fishes from Japan. Ann Zool Japan 7:27–47"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanaka S (1925) Figures and descriptions of the fishes of Japan, including Riukiu Islands, Bonin Islands, Formosa, Kurile Islands, Korea and southern Sakhalin. Maruzen, Tokyo 34:629–644"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tchang TL (1939) Studies on Chinese Glossogobius. Bull Fan Mem Inst Biol, Zool Ser 9:67–70"
+    },
+    {
+      "type": "paragraph",
+      "text": "Temminck CJ, Schlegel H (1845) Pisces, Fauna Japonica, sive descriptio animalium quae in itinere per Japoniam suscepto annis 1823–30 collegit, notis observationibus et adumbrationibus illustravit. Parts 7–9:113–172, pls 1–143"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tomiyama I (1936) Gobiidae of Japan. Jpn J Zool 7:37–112"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsujimoto H, Mukai T, Kohda M (2003) Cross breeding experiment among Rhinogobius sp. OR, R. sp. BW and R. sp. OR var. Bull KONC 25:17–22"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uehara S (1980) Distributions of five colour types of a fresh water goby, Rhinogobius brunneus, in the Boso Peninsula, Japan. Sci Rep Yokohama City Mus 27:19–35"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wu HW (1939) On the fishes of Li-Kiang. Sinensia 10:92–142"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wu HL, Zhong JS (2008) Fauna Sinica, Osteichthys, Perciformes (V) Gobioidei. Science Press, Beijing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yamasaki YY, Nishida M, Suzuki T, Mukai T, Watanabe K (2015) Phylogeny, hybridization, and life history evolution of Rhinogobius gobies in Japan, inferred from multiple nuclear gene sequences. Mol Phylogenet Evol 90:20–33"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yang GY, Xie CX (1983) A new species of fishes from Mount Shennong. Zool Res 4:71–74"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yang JQ, Wu HL, Chen I-S (2008) A new species of Rhinogobius (Teleostei: Gobiidae) from the Feiyunjiang Basin in Zhejiang Province, China. Ichthyol Res 55:379–385"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zheng ML, Wu HL (1985) A study on the freshwater gobioid fishes of Zhejiang Province, China, with descriptions of two new species (Perciformes: Gobiidae). Dong Wu Fen Lei Xue Bao 10:326–333"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zhong JS, Tzeng CS (1998) A new species of Rhinogobius from China (Perciformes: Gobiidae). Zool Res 19:237–241"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zhong JS, Wu HL (1998) Pseudorhinogobius aporus, a new genus and species of gobiid fish from eastern China. J Fish China 22:148–153"
+    }
+  ]
+}

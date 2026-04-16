@@ -1,0 +1,406 @@
+{
+  "1": [
+    {
+      "type": "error",
+      "message": "Empty response: {\"candidates\": [{\"content\": {}, \"finishReason\": \"RECITATION\", \"index\": 0, \"finishMessage\": \"The generated content was filtered because it may contain material that resembles existing copyrighted works. Try rephrasing the prompt. If you think this was an error, [send feedback](https://ai.google.dev/g"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "14 1 , 2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "Katano et al. 2006"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa & Arai 2008"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iguchi & Mizuno 1999"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nakano et al. 1990; Tsunagawa & Arai 2008"
+    },
+    {
+      "type": "paragraph",
+      "text": "Katano et al. 2006"
+    },
+    {
+      "type": "paragraph",
+      "text": "demographic and environmental stochasticity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa & Arai 2008"
+    },
+    {
+      "type": "paragraph",
+      "text": "Morita & Yamamoto 2002; Morita & Yokota 2002"
+    },
+    {
+      "type": "paragraph",
+      "text": "m"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobious sp. LD"
+    },
+    {
+      "type": "paragraph",
+      "text": "mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "m"
+    },
+    {
+      "type": "paragraph",
+      "text": "m"
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "重信川水系では、本流の河口から約 11 km 上流の地点（標高約 37 m）に、農業用水の取水堰である重信堰が設置されている。また、石手川では、重信川との合流点から約 5 km 上流の地点（標高約 33 m）に、石手川ダムの貯水池である石手川湖が位置している。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DNA 分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "採集は、SMITH-ROOT 社製のバックパック型電撃捕魚器（LR24）および手網を用いて行った（Table 1）。採集地点は、Fig. 1 に示した。採集した個体は、Sr/Ca 比分析に供するため、氷冷して持ち帰り、研究室で冷凍保存した。また、一部の個体については、右側の胸鰭の一部を切り取り、99% エタノールで固定して DNA 分析に供した。DNA の抽出は、DNeasy Tissue Kit (QIAGEN) を用いて行った。"
+    },
+    {
+      "type": "paragraph",
+      "text": "重信川水系および石手川水系の 12 地点（Fig. 1）において、2007 年 4 月から 10 月にかけて、ヨシノボリ類を採集した。採集地点は、重信川水系の本流（Fujinouti, Mikono, Yoke）、支流の御坂川（Iuchi）、表川（Omote）、内川（Haisishi）、および石手川水系の本流（Fujino, Sukuno）、支流の湯山川（Gomyo）、高井川（Tobe）、本谷川（Hontani）である。また、比較のために、愛媛県南部の松田川水系目黒川（Meguro）においても採集を行った（Table 1, Fig. 1）。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "DNA 分析"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara et al. (2005) に従い、Rhinogobius sp. OR（トウヨシノボリ）に特異的なプライマー（Rhi5 および 7）を用いて、ミトコンドリア DNA の 11 領域を PCR 増幅した。PCR 反応液（10 ng のゲノム DNA、各 0.2 μM のプライマー、各 200 μM の dNTPs、0.5 unit Taq Polymerase (TAKARA)、1.5 mM MgCl2 を含む 10 μl PCR 反応液）を用いて、PCR を行った。"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. Collection locality, date, method, number and size of the Rhinogobius sp. LD examined."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Collection locality, date, method, number and size of the Rhinogobius sp. LD examined.",
+      "bbox": [
+        0.158,
+        0.655,
+        0.842,
+        0.902
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_ishite_ece_extracted/Table_1._Collection_locality,_date,_method,_number_and_size_of_the_Rhinogobius_s.jpg"
+    }
+  ],
+  "4": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. Sampling sites of Rhinogobius sp. LD in the Shigenobu River system.",
+      "bbox": [
+        0.17,
+        0.09,
+        0.82,
+        0.45
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_ishite_ece_extracted/Fig._1._Sampling_sites_of_Rhinogobius_sp._LD_in_the_Shigenobu_River_system..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Sampling sites of Rhinogobius sp. LD in the Shigenobu River system."
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA抽出およびマイクロサテライト解析は、Rhi5およびRhi7の11遺伝子座について行った。"
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR産物は、Hi-Di Formamide (Applied Biosystems) で希釈し、サイズスタンダードとしてGeneScan 600 LIZ Size Standard (Applied Biosystems) を加え、ABI PRISM 310 Genetic Analyzer (Applied Biosystems) で電気泳動を行った。得られたデータはGeneMapper (Applied Biosystems) を用いて解析した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "集団遺伝学的解析には、ARLEQUIN version 3.0 (Excoffier et al. 2005) を用いた。各集団の各遺伝子座について、Markovchain procedure (Hardy-weinberg; Guo & Thompson 1992) を行い、集団間の遺伝的分化の程度をPopulation pairwise Fst (Slatkin 1995) により算出した。"
+    },
+    {
+      "type": "paragraph",
+      "text": "また、集団間の遺伝的距離を算出し、PHYLIP version 3.2 (Felsenstein, 1994) を用いてNei (1972) の遺伝的距離に基づくUPGMA法により系統樹を作成した。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "耳石Sr:Ca比の測定"
+    },
+    {
+      "type": "paragraph",
+      "text": "耳石のSr:Ca比の測定は、電子線マイクロアナライザー (Electoric Particle Micro Analyzer: EPMA) を用いて行った。耳石を樹脂に埋め込み、核が露出するまで研磨した後、カーボンコーティングを施した。測定は、核から縁辺部に向かって一定の間隔 (10 μm) で行った。"
+    },
+    {
+      "type": "paragraph",
+      "text": "解析に用いた個体の詳細をTable 1に示す。マイクロサテライト解析の結果、Rhi5およびRhi5-138, -158, Rhi5-146などの対立遺伝子が確認された。"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "Rhi7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi-5 Rhi-7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi7 -221 Hardy-Weinberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi7 -175 Rhi5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi11 Rhi11 -132 Rhi5 Rhi5 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi11 -130 -134 -152 -156 Rhi5 7 Rhi5 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi5 7 11 Rhi5 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi7 Rhi7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi5 7 Rhi7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table Rhi11 Hardy-Weinberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2. Alelle frequency of 3 microsatellite loci surveyed for the Rhinogobius sp. LD."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Alelle frequency of 3 microsatellite loci surveyed for the Rhinogobius sp. LD.",
+      "bbox": [
+        0.105,
+        0.415,
+        0.895,
+        0.905
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_ishite_ece_extracted/Table_2._Alelle_frequency_of_3_microsatellite_loci_surveyed_for_the_Rhinogobius_.jpg"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "Table 3. Gnetic variablities of 3 microsatellite loci surveyed for the Rhinogobius sp. LD in Shigenobu River System."
+    },
+    {
+      "type": "figure",
+      "label": "Table 3. Gnetic variablities of 3 microsatellite loci surveyed for the Rhinogobius sp. LD in Shigenobu River System.",
+      "bbox": [
+        0.105,
+        0.101,
+        0.895,
+        0.608
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_ishite_ece_extracted/Table_3._Gnetic_variablities_of_3_microsatellite_loci_surveyed_for_the_Rhinogobi.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "na: No. of allele, ena: Effective no of allele 1 1 he , ho: Heterozygosity ovserved , he: Heterozygosity estimated, : Departure from Hardy-Weinberg equiribrium P 0.05."
+    },
+    {
+      "type": "paragraph",
+      "text": "na ena 1 he ho he P"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca Sr Ca Fig. Sr Ca Sr Ca Fig. Sr Ca Fig. Fig. Fig. Fig."
+    }
+  ],
+  "7": [
+    {
+      "type": "figure",
+      "label": "Table 4. Result of population pairwise Fst in Rhinogobius sp. LD in Shigenobu River System.",
+      "bbox": [
+        0.11,
+        0.12,
+        0.48,
+        0.88
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_ishite_ece_extracted/Table_4._Result_of_population_pairwise_Fst_in_Rhinogobius_sp._LD_in_Shigenobu_Ri.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4. Result of population pairwise Fst in Rhinogobius sp. LD in Shigenobu River System."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. UPGMA dendrograms generated using the Nei's distance among the Rhinogobius sp. LD populations in the Shigenobu River system.",
+      "bbox": [
+        0.52,
+        0.1,
+        0.86,
+        0.31
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_ishite_ece_extracted/Fig._2._UPGMA_dendrograms_generated_using_the_Nei's_distance_among_the_Rhinogobi.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. UPGMA dendrograms generated using the Nei's distance among the Rhinogobius sp. LD populations in the Shigenobu River system."
+    }
+  ],
+  "8": [
+    {
+      "type": "figure",
+      "label": "Fig. 3. Change of Sr Ca ratio along the measurement line of otolith cross section of Rhinogobius sp. LD.",
+      "bbox": [
+        0.211,
+        0.101,
+        0.788,
+        0.505
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_ishite_ece_extracted/Fig._3._Change_of_Sr_Ca_ratio_along_the_measurement_line_of_otolith_cross_sectio.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. Change of Sr Ca ratio along the measurement line of otolith cross section of Rhinogobius sp. LD."
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Morita & Yamamoto 2002"
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "DNA解析の結果から，本研究で対象としたダム上下流の個体群間には遺伝的な分化は認められなかった．Katano et al. 2006は，ダムによって流程が分断された小河川において，ダム下流では両側回遊魚が優占するのに対し，ダム上流ではそれらが消失し，陸封性の淡水魚が優占することを報告している．本研究の調査地においても，ダム上流では両側回遊魚であるアユやボウズハゼなどは確認されなかった．しかし，本研究の結果，ダム上流に生息するヨシノボリ類は，耳石Sr:Ca比分析の結果から，すべてが生活史のどこかで海を経験している両側回遊個体であることが明らかとなった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "ダム上流で採集された個体の耳石Sr:Ca比の変動パターンは，ダム下流で採集された個体と同様に，核付近で低く，その後急激に上昇し，縁辺部に向かって再び低下するという典型的な両側回遊型を示した．このことは，ダム上流の個体が海で幼生期を過ごした後，ダムを遡上して上流域に到達したことを示唆している．"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tamada 2010は，落差のある堰堤が両側回遊魚の遡上を阻害することを指摘しているが，本研究の対象としたダムには魚道が設置されており，ヨシノボリ類はこの魚道を利用して上流へ移動していると考えられる．"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上のことから，本調査河川においては，ダムによる生息地の分断がヨシノボリ類の遺伝的構造に影響を与えるほどには至っておらず，魚道を介した上下流間の個体移動が維持されていると結論付けられる．今後は，他の両側回遊魚についても同様の解析を行い，魚道の有効性を多角的に評価する必要がある．"
+    },
+    {
+      "type": "paragraph",
+      "text": "引用文献"
+    },
+    {
+      "type": "paragraph",
+      "text": "Excoffier L., Laval G. & Schneider S. 2005 Arlequin version 3.0: An integrated software package for population genetics date analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Felsenstein J. 1994 PHYLIP version 3.5. Department of Genetics, University of Washington, Seattle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guo S. & Thompson E. 1992 Performing the exact test of Hardy-Weinberg proportion for multiple allele. Biometrics 48: 361-372."
+    },
+    {
+      "type": "paragraph",
+      "text": "Iguchi K. & Mizuno N. 1999 Early starvation limits survival in amphidromous fishes. Journal of Fish Biology 54: 705-712."
+    },
+    {
+      "type": "paragraph",
+      "text": "Katano O., Nakamura T., Abe S., Yamamoto S. & Baba Y. 2006 Comparison of fish communities between above- and below-dam sections of small streams; barrier effect to diadromous fishes. Journal of Fish Biology 68: 762-782."
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "Morita K. & Yamamoto S. 2002 Effects of habitat fragmentation by damming on the persistence of stream-dwelling charr populations. Conservation Biology 16: 1318-1323."
+    },
+    {
+      "type": "paragraph",
+      "text": "pp."
+    },
+    {
+      "type": "paragraph",
+      "text": "Morita K. & Yokota A. 2002 Population viability of stream-resident salmonids after habitat fragmentation: a case study with white-spotted charr Salvelinus leucomaenis by an individual based model. Ecological Modelling 155: 85-94."
+    },
+    {
+      "type": "paragraph",
+      "text": "52 2 : 95-109"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nakano S., Maekawa K. & Yamamoto S. 1990 Changes in life cycle of charr following artificial lake construction by damming. Nippon Suisan Gakkaishi 56: 1901-1905."
+    },
+    {
+      "type": "paragraph",
+      "text": "14 1 , 2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nei M. 1972 Genetic distance between populations. American Naturalist 106: 283-292."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara K., Takahashi D. & Takagi M. 2004 Isolation of microsatellite loci in the freshwater goby, Rhinogobius sp. Gobiidae . Molecular Ecology Note 4: 449-451."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. CO\n51: 175-180"
+    },
+    {
+      "type": "paragraph",
+      "text": "49: 25-32"
+    },
+    {
+      "type": "paragraph",
+      "text": "Slatkin M. 1995 A mesure of population subdivision based on microsatellite allele frequencies. Genetics 139: 457-462."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tamada K. 2010 River bed features affect the riverine distribution of two amphidromous Rhinogobius species. Ecology of Freshwater Fishes in press . doi: 10. 1111/j. 1600-0633. 2010. 0045. x"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa T. & Arai T. 2008 Flexible migration of Japanese freshwater gobies Rhinogobius spp. as revealed by otolith Sr: Ca ratios. Journal of Fish Biology 73: 2421-2433."
+    }
+  ]
+}

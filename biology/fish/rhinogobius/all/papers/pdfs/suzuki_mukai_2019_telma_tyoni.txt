@@ -1,0 +1,863 @@
+                         Bull. Kanagawa prefect. Mus. (Nat. Sci.), no. 48, pp. 21–36, Feb. 2019
+                                                                                                                                   21
+
+
+
+
+Original Article
+
+
+Two New Lentic, Dwarf Species of Rhinogobius Gill, 1859 (Gobiidae) from Japan
+
+                    Toshiyuki S               1)
+                                                   , Seishi K          2)
+                                                                            & Koichi S                   3)
+
+
+
+
+                      Two new lentic, relatively small-sized species of the gobiidid ﬁsh genus Rhinogobius,
+           R. tyoni and R. telma, are described based on specimens from temperate regions of Japan.
+           Rhinogobius tyoni (14 specimens, 25.7–40.0 mm SL) is distinguished from all congeneric species
+           by the following combination of features: predorsal area with small cycloid scales; 8–17 predorsal
+           scales; 20–23 pectoral-ﬁn rays; 28–35 longitudinal scales; 10+16=26 vertebrae; a low ﬁrst dorsal ﬁn
+           in males, not extending posteriorly to origin of second dorsal ﬁn when adpressed; third spine of ﬁrst
+           dorsal ﬁn longest; posterior oculoscapular canal usually absent; preopercular canal usually present;
+           anteriorpart of ﬁrst dorsal ﬁn with no dark large circle or quadrangle markings; caudal ﬁn with some
+           dark vertical lines in males, some dark vertical lines or rows of dots in females. Rhinogobius telma
+           (14 specimens, 28.7–39.5 mm SL) differs from all congeneric species by the following combination
+           of features: predorsal area with small cycloid scales; 3–15 predorsal scales; 10+16=26 vertebrae; a
+           low ﬁrst dorsal ﬁn in males, not extending posteriorly to origin of second dorsal ﬁn when adpressed;
+           third spine of ﬁrst dorsal ﬁn longest; lateral and ventral sides of belly with ctenoid and small cycloid
+           scales, respectively; posterior oculoscapular canal and preopercular canal absent; ﬁrst dorsal ﬁn with
+           a single longitudinal row of vertically-elongate dark markings; caudal ﬁn with some vertical rows of
+           dark dots in both sexes.
+
+
+                           ﬁsh taxonomy, non-amphidromous, Rhinogobius sp. BF, Rhinogobius sp. TO
+
+
+
+                        Introduction                              go to the coastal marine waters, and after that the juveniles
+                                                                  enter the inland waters. The other congeners are conﬁned
+  Rhinogobius Gill, 1859 comprises medium-sized                   to freshwater habitats (e.g., lakes, ponds, rivers or streams)
+freshwater gobies (reaching up to 100 mm in standard              throughout their life cycle (Mizuno, 1960a; Takahashi &
+length) and is known from the East and Southeast Asian            Okazaki, 2002).
+regions, including the Russia Far East, Japan, Korea,                Rhinogobius, originally described as a monotypic
+China, Taiwan, the Philippines, Vietnam, Laos, Cambodia,          genus based on Rhinogobius similis Gill, 1859, is
+and Thailand (Chen & Miller, 2014). Many species of the           currently known as the most speciose freshwater gobiid
+genus are amphidromous; namely, adults spawn in the               genus, comprising 81 described, valid species, although
+freshwater habitats, larvae just after hatching immediately       several unnamed species are left unresolved (Suzuki et
+                                                                  al., 2017; Takahashi & Okazaki, 2017; Endruweit, 2018;
+  1)
+     Kawanishi-midoridai Senior High School,
+     1-8 Kouyoudai, Kawanishi, Hyogo, 666-0115, Japan             Li et al., 2018; Wu et al., 2018; Xia et al., 2018). In the
+     兵庫県立川西緑台高等学校                                                 Japanese waters, 17 species are currently known (Akihito
+     〒 660-0125 兵庫県川西市向陽台 1-8
+     Toshiyuki Suzuki: trimma-toshiyuki@hop.ocn.ne.jp
+                                                                  et al., 2013). Of these, nine species [viz., Rhinogobius
+  2)
+     Fisheries Research Laboratory, Mie University,               biwaensis Takahashi & Okazaki, 2017, Rhinogobius
+     4190-172, Wagu, Shima, Mie, 517-0703, Japan
+     三重大学大学院水産実験所
+                                                                  brunneus Temminck & Schlegel, 1845, Rhinogobius
+     〒 517-0703 三重県志摩市志摩町和具 4190-172                              flumineus (Mizuno, 1960), Rhinogobius fluviatilis
+     Seishi Kimura: kimura-s@bio.mie-u.ac.jp
+  3)
+     Museum of Natural and Environmental History, Shizuoka
+                                                                  Tanaka, 1925, Rhinogobius kurodai (Tanaka, 1908),
+     5762 Oya, Suruga, Shizuoka, Shizuoka 422-8017, Japan         Rhinogobius mizunoi Suzuki, Shibukawa & Aizawa,
+     ふじのくに地球環境史ミュージアム
+     〒 422-8017 静岡市駿河区大谷 5762
+                                                                  2017, Rhinogobius nagoyae Jordan & Seale, 1906,
+     Koichi Shibukawa: shibu@crux.ocn.ne.jp                       Rhinogobius ogasawaraensis Suzuki, Chen & Senou,
+                                                                   et al.
+22
+
+     2012, and R. smillis] are treated as valid (Akihito et al.,    observed from radiographs. The number of branches at
+     2013; Suzuki et al., 2015, 2017; Takahashi & Okazaki,          its ﬁrst (most proximal) segmenting point of ﬁfth pelvic-
+     2017). Akihito et al. (2013) distinguished the remaining       ﬁn ray is counted. The method of Akihito et al. (2013) is
+     eight, all of which are undescribed, by respective,            used in describing the pattern of the interdigitation of the
+     specific abbreviations, as follows (each vernacular            dorsal-fin pterygiophores and neural spines ("P-V"). The
+     name in Japan is in parenthesis): Rhinogobius sp. BB           counts of vertebrae follow Akihito et al. (2013). Notations
+     (Aobara-yoshinobori), Rhinogobius sp. BF (Shimahire-           of cephalic sensory-canal pores and sensory-papillae rows
+     yoshinobori), Rhinogobius sp. DL (Hira-yoshinobori),           followed Prince Akihito et al. (1984) and Suzuki et al.
+     Rhinogobius sp. KZ (Kazusa-yoshinobori), Rhinogobius           (2017), respectively. In the description of counts, data from
+     sp. MO (Aya-yoshinobori), Rhinogobius sp. OM (Oumi-            the holotype are indicated by asterisks, and the frequency
+     yoshinobori), Rhinogobius sp. TO (Tokai-yoshinobori)           of each count is given in parentheses following the relevant
+     and Rhinogobius sp. YB (Kibara-yoshinobori).                   count. Description of the coloration was based on digital
+        In this paper, we describe two of these, Rhinogobius        images photographed on a white background. The names
+     sp. BF and Rhinogobius sp. TO, as new. Both of these,          of colors follow those of Japan Color Research Institute
+     known only from temperate regions of Japan, are non-           (1995).
+     diadromous, lentic species, and characterized by a
+     relatively small-sized body (40 mm or less in standard                       Genus Rhinogobius Gill, 1859
+     length), a non-elongate, low ﬁrst dorsal ﬁn in males, ﬁfth
+     pelvic-ﬁn ray divided into two branches at its ﬁrst (most      Rhinogobius Gill, 1859: 145 (type species: Rhinogobius
+     proximal) branching point, and relatively reduced cephalic       similis Gill, 1859 by original designation and
+                                                                      monotypy).
+     sensory canals.
+                                                                    Tu k u g o b i u s H e r r e , 1 9 2 7 : 11 9 ( t y p e s p e c i e s :
+                                                                      Rhinogobius carpenteri Seale, 1910 by original
+                       Materials and Methods                          designation).
+                                                                    Sinogobius Liu, 1940: 215 [type species: Gobius
+        The specimens examined in this study are deposited            (Sinogobius) szechuanensis Liu, 1940 (=
+     in the following institutions: Biological Laboratory of          Rhinogobius liui Chen & Wu, 2008) by original
+     Imperial Palace, Tokyo (BLIP); Kanagawa Prefectural              designation and monotypy].
+     Museum of Natural History, Odawara (KPM); Osaka                Pseudorhinogobius Zhong & Wu, 1998: 149 (type
+                                                                      species: Pseudorhinogobius aporus Zhong & Wu
+     Museum of Natural History, Osaka (OMNH).
+                                                                      1998 by original designation and monotypy).
+        All specimen lengths given are standard lengths (SL).
+     Measurements were made point-to-point with calipers,
+                                                                       Diagnosis. Rhinogobius belongs to the gobiid
+     or micrometer attached to microscope to the nearest 0.1
+                                                                    subfamily Gobionellinae (sensu Pezold, 1993, 2011), and
+     mm. The methods for measurements followed those of
+                                                                    is distinguished from the other gobionelline genera by the
+     Hubbs & Lagler (1958), with exceptions given below
+                                                                    following combination of characters (Chen & Shao, 1996;
+     (the snout tip refers to the mid-anteriormost point of the
+                                                                    Yang et al., 2008; Suzuki et al., 2015, 2017): ﬁrst dorsal
+     upper lip): head length was measured from the snout tip
+                                                                    ﬁn with 5–7 spines; second dorsal ﬁn with a single spine
+     to the posteriormost edge of the gill membrane; cheek
+                                                                    and 6–11 segmented rays; anal ﬁn with a single spine and
+     depth was measured as the least distance from the orbit
+                                                                    5–11 segmented rays; pectoral ﬁn with 14–23 segmented
+     downward to the ventral edge of the cheek; caudal-fin
+                                                                    rays; pelvic ﬁn with a single spine and ﬁve segmented rays;
+     length was measured from the base to the tip of the middle
+                                                                    25–44 longitudinal scales; 7–16 transverse scales; P-V
+     ray. The methods for counting followed Prince Akihito
+                                                                    3/2211 0/9 or, in a few exceptions, its derived pattern; 10–
+     et al. (1984), except for scales between origin of dorsal
+                                                                    11+15–18=25–29 vertebrae; snout, cheek and operculum
+     ﬁn and dorsal insertion of pectoral ﬁn (counting scales in
+                                                                    naked; body largely with ctenoid scales; cheek with a
+     an oblique row from the dorsalmost point of pectoral-ﬁn
+                                                                    longitudinal pattern of sensory papillae (sensu Hoese,
+     base to the origin of first dorsal fin). Data and the other
+                                                                    1983), except for a single species, R. similis, having
+     information about squamation and ﬁfth pelvic-ﬁn ray were
+                                                                    several short transverse rows of sensory papillae below
+     made based on some paratypes stained with Alizarin red.
+                                                                    the eye; gill opening moderate in size, its anteroventral
+     The observation of cephalic sensory system and the count
+                                                                    end extending to a vertical through posterior margin of
+     of scales were examined based on specimens temporary
+                                                                    preopercle; pelvic fins fused medially into a circular/
+     stained with cyanine blue. Osteological features were
+                                                                    ovoid disc via frenum (between spines) and connecting
+                                         Two New Species of Rhinogobius from Japan
+                                                                                                                                  23
+
+membrane (between innermost rays).                                Tukugobius from Rhinogobius. Furthermore, Endruweit
+   Remarks. Rhinogobius is currently known as the most            (2017) indicated that some differentiations between R.
+species-rich freshwater gobiid genus, comprising 83 valid         carpenteri (type species of Tukugobius) and R. similis
+species (Suzuki et al., 2017; Takahashi & Okazaki, 2017;          (type species of Rhinogobius), such as configuration of
+Endruweit, 2018; Li et al., 2018; Wu et al., 2018; Xia et         sensory-papillae rows on the cheek (i.e., transverse rows
+al., 2018; present study). As indicated by Chen & Shao            absent vs. present) and squamation of pectoral-fin base
+(1996) and Suzuki et al. (2015), the genus is divided into        (i.e., naked vs. scaly), “may possess intrinsic value at
+two distinct groups; one comprises only a single species          generic level.” Nevertheless, in the gobioid fishes, more
+R. similis, whereas the other includes all the remaining          than a few examples are known to have these characters
+species. Rhinogobius similis differs from the other               as intrageneric variations (see, e.g., Akihito et al., 2013).
+congeners by having large ctenoid scales on the nape (vs.         And, as noted above, the presence of the transverse
+nape naked or with cycloid scales in the others) and several      rows of sensory papillae does not only distinguish
+short transverse rows of sensory papillae on the cheek (vs.       R. similis from Tukugobius, but also from the other
+no distinct transverse rows of sensory papillae on cheek).        species of Rhinogobius; if following his scenario, we
+We here assign all species of the genus but R. similis to         should split further his Rhinogobius into two genera. It
+the “Rhinogobius brunneus complex”, following Chen                appears to be merely artificial, less-necessary splitting.
+& Shao (1996).                                                    We, therefore, do not accept his idea on the limits of
+   Endruweit (2017) resurrected Tukugobius Herre, 1927,           Rhinogobius/Tukugobius, and, in this paper, regard the
+previously regarded as a junior synonym of Rhinogobius,           latter (Tukugobius) as a junior synonym of the former
+as valid; assigning three described species known from            (Rhinogobius).
+the Philippines, Tukugobius bucculentus Herre, 1927,
+Rhinogobius carpenteri Seale, 1910 (type species of                               Rhinogobius tyoni sp. nov.
+Tukugobius), and Tukugobius philippinus Herre, 1927,               (Standard Japanese name: Shimahire-yoshinobori)
+to Tukugobius, with all others to Rhinogobius. However,                           (Table 1; Figs. 1–3)
+on the basis of the following reasons, we do not concur
+with his conclusion. First of all, it is too early to resurrect   Rhinogobius sp. OR morphotype“ Shimahire ” :
+Tukugobius as valid, based on these three species. Like             Suzuki, 1996: 1 (Okayama, Hyogo and Tokushima
+                                                                    prefectures, Japan); Akihito et al., 2002: 1254
+R. carpenteri, the type specimens of T. bucculentus
+                                                                    (localities not detailed).
+and T. philippinus were destroyed during the Second
+                                                                  Rhinogobius sp. BF: Suzuki et al., 2010: 3 (Hiroshima,
+World War (Eschmeyer, 1998; Kottelat, 2013), and the                Okayama, Hyogo, Osaka, Nara, Wakayama, Ehime,
+taxonomic status of these species is open to debate. For            Kagawa and Tokushima prefectures, Japan);
+these two species, Endruweit (2017) merely examined                 Suzuki & Mukai, 2010: 177 (Fukuoka, Hirosima,
+the non-type specimens from the Philippines and did                 Okayama, Hyogo, Osaka, Nara, Wakayama,
+not state the reasons why these were congeneric with R.             Ehime, Kagawa, Tokushima, Mie, Gifu, Aichi and
+                                                                    Shizuoka prefectures, Japan); Akihito et al., 2013:
+carpenteri, only stating, “Tukugobius carpenteri is
+                                                                    1460 (Hiroshima, Okayama, Hyogo, Osaka, Nara,
+readily distinguished from all species currently allocated in
+                                                                    Wakayama, Ehime, Kagawa, Tokushima, Mie, Gifu
+Rhinogobius by seven pterygiophores supporting the ﬁrst             and Shizuoka prefectures, Japan).
+dorsal ﬁn (vs. 6 in all species from continental Asia, Japan,       Holotype. OMNH-P 5882, male, 37.0 mm SL,
+Taiwan, and Hainan), the first pterygiophore of second            Maruyama-gawa River, Nakanogo, Toyooka, Hyogo
+dorsal fin inserted in interneural space 9 (vs. 8)”, These        Prefecture, Japan, 35°29'34.1"N 134°48'38.8"E, 18 March
+characters need further investigation based on broader            1995.
+sampling. For example, some specimens of Rhinogobius                Paratypes. Total 13 specimens (five males and eight
+sp. BF (one of the new species described below) and               females), 25.7–40.0 mm SL. OMNH-P 5883, female,
+Rhinogobius sp. BB have seven pterygiophores for the              27.9 mm SL, collected with the holotype; OMNH-P
+first dorsal fin, and R. fluminues, and some specimens            5890–5892, 8033–8037 (including 8035 and 8036, cleared
+of Rhinogobius sp. YB have the first pterygiophore of             and stained), three males and five females, 25.7–37.4
+second dorsal fin inserting behind neural spine of ninth          mm SL, 24 March 1995, same locality as the holotype;
+vertebra (TS, personal investigation). These inter- or            KPM-NI 49568 (formerly OMNH-P 35396) (cleared
+intra-speciﬁc variations suggest that the characters shown        and stained) and 49569 (formerly OMNH-P 35397), two
+by Endruweit (2017) are not sufficient to distinguish             males, 34.7 and 40.0 mm SL, Yamamoto, Takarazuka,
+                                                                          et al.
+24
+
+     Hyogo Prefecture, Japan, 34°49'11.9"N 135°22'49.1"E,                  fin longest; posterior oculoscapular canal usually absent;
+     13 September 2009; KPM-NI 49570 (formerly OMNH-P                      preopercular canal usually present with two terminal pores;
+     36482) and 49571 (formerly OMNH-P 36483), two                         sensory-papillae rows on cheek arranged longitudinally,
+     females, 29.0 and 32.8 mm SL, Ibo-gawa River,                         with no transverse rows; anteriorpart of ﬁrst dorsal ﬁn with
+     Yamasaki, Shisou, Hyogo Prefecture, Japan, 35°03'40.5"N               no dark large circle or quadrangle dusky markings (spots
+     134°34'21.7"E, 29 June 2010.                                          or blotches); no yellow or orange markings on caudal-ﬁn
+        Diagnosis. Rhinogobius tyoni is distinguished from                 base when alive or freshly-collected; caudal ﬁn with some
+     all congeneric species by the following combination of                dark vertical lines in males, some dark vertical lines or
+     features: scales on predorsal area small cycloid, 8–17                rows of dots in females; lower half of caudal ﬁn reddish
+     scales on predorsal midline; 20–23 pectoral-fin rays;                 orange in males when alive or freshly-collected.
+     28–35 longitudinal scales; 10+16=26 vertebrae; a low ﬁrst                Description. Dorsal-fin rays VI-I, 8* (12) or VII-I, 8
+     dorsal ﬁn in males, not extending posteriorly to origin of            (2); anal-ﬁn rays I, 8* (10) or I, 9 (4); pectoral-ﬁn rays 20*
+     second dorsal ﬁn when adpressed; third spine of ﬁrst dorsal           (4), 21 (7), or 22 (3); pelvic-ﬁn rays I, 5* (14); segmented
+
+
+     Table 1. Proportional measurements for two new species of Rhinogobius
+     Species                                         Rhinogobius tyoni                                 Rhinogobius telma
+                                        OMNH-P       OMNH-P OMNH-P OMNH-P                   BLIP          BLIP     BLIP     BLIP
+     Cat. No.
+                                          5882        5890    5883     5891               20000268      20000256 20000265 20000269
+     Type                               holotype            paratypes                     holotype               paratypes
+     Sex                                  male        male   female   female                male          male    female   female
+     SL (mm)                               37.0         37.4       27.9            35.0      28.7          37.8       31.1       29.1
+     As % of SL
+       Head length                        33.8         34.2        31.0       29.9          32.8          32.8        32.4       30.7
+       Predorsal length                   39.5         41.4        38.0       38.6          41.8          39.4        40.8       39.5
+       Snout to 2nd dorsal origin         56.8         60.2        57.0       58.6          59.2          57.4        59.8       57.0
+       Snout to anus                      58.9         56.4        53.8       57.1          57.5          57.4        61.7       57.4
+       Snout to anal ﬁn origin            61.9         59.6        59.1       61.4          61.7          61.4        65.9       61.9
+       Prepelvic length                   31.1         32.6        30.5       31.4          35.5          34.1        31.5       30.9
+       Caudal peduncle length             25.7         27.8        26.9       23.1          25.5          26.5        26.9       28.1
+       Caudal peduncle depth               11.6        12.2        10.9       12.2          13.9          12.3        12.5       11.8
+       1st dorsal ﬁn base                 16.9         18.8        16.0       19.5          16.9          16.6        17.4       14.0
+       Length of longest D1 spine*      13.4 (3rd)   17.5 (3rd) 14.3 (2nd) 16.8 (3rd)     15.2 (3rd)    15.3 (3rd) 16.2 (3rd) 14.4 (2nd)
+       2nd dorsal ﬁn base                 17.2         15.7        15.0       17.1          18.2          18.8        15.9       16.3
+       Length of longest D2 ray*        18.5 (7th)   21.3 (7th) 15.3 (3rd) 16.3 (2nd)     19.2 (7th)    19.9 (7th) 16.2 (2nd) 17.0 (2nd)
+       Length of last D2 ray              16.7         17.8         8.9       11.7          16.6          18.6        11.3       11.4
+       Anal ﬁn base                       14.1         13.2        13.3       13.0          16.9          15.1        12.8       13.4
+       Length of longest anal ﬁn ray*   16.2 (7th)   18.0 (7th) 13.3 (4th) 14.4 (5th)     15.6 (7th)    17.1 (6th) 15.3 (4th) 15.3 (4th)
+       Caudal ﬁn length                   27.0         27.9        26.2       23.9          25.2          25.1        26.0       26.1
+       Pectoral ﬁn length                 27.0         26.7        25.5       25.2          23.8          27.1        24.4       27.1
+       Pelvic ﬁn length                   19.3         19.6        21.8       19.5          17.5          18.8        20.5       20.2
+       Body depth of pelvic ﬁn origin     20.5         20.3        18.4       21.4          23.5          21.4        25.7       21.5
+       Body depth of anal ﬁn origin       16.7         16.5        16.0       17.6          20.5          18.8        21.4       18.0
+       Body width of anal ﬁn origin       13.1         10.7        10.9       14.1          14.6          13.8        12.2       11.4
+       Pelvic ﬁn origin to anus           27.0         24.1        25.9       27.7          28.8          26.5        32.7       30.9
+     As % of HL
+       Snout length                       30.4          33.4       27.5            24.5      27.3          28.3       27.4       27.7
+       Eye diameter                       17.5          17.1       20.9            20.0      25.3          19.9       24.5       22.3
+       Postorbital length                 53.2          50.5       50.5            53.6      47.5          52.1       50.0       50.0
+       Cheek depth                        28.1          28.2       22.0            27.3      25.3          30.6       21.7       20.2
+       Head width in upper gill opening   63.1          57.9       52.7            64.5      65.7          64.4       66.0       58.5
+       Head width in maximum              62.3          59.4       53.8            70.9      67.7          69.7       75.5       62.8
+       Head depth in maximum              57.8          55.7       57.1            63.6      71.7          65.1       79.2       70.2
+       Bony interorbital width             8.0           8.6        5.5             6.8      10.6          12.1        7.9        7.8
+       Upper jaw length                   38.8          42.3       31.9            33.6      40.4          43.7       35.8       35.1
+     As % of caudal peduncle length
+       Caudal peduncle depth              45.0          43.8       40.5            52.8      54.5          46.6       46.6       41.9
+     Abbreviations: SL: standard Length; D1: ﬁrst dorsal ﬁn; D2: second Dorsal ﬁn; HL: head length
+     *Longest ray indicates in parenthesis
+                                         Two New Species of Rhinogobius from Japan
+                                                                                                                                   25
+
+caudal-ﬁn rays 9+8* (12); branched caudal-ﬁn rays 7+6 (1),
+7+7* (11), 8+7 (1), or 9+7 (1); longitudinal scales 32 (2),
+33 (7), 34* (4), or 35 (1); transverse scales 9 (3), 10 (5), 11*
+(4), or 12 (2); scales between origin of dorsal ﬁn and dorsal
+insertion of pectoral fin 7* (4), 8 (5), or 9 (2); predorsal
+scales 8 (2), 10 (1), 12 (1), 14 (1), 15(2), 16* (2), or 17
+(2); P-V 3/12210/9* (4), 3/12211/9 (2), 3/22110/9 (6), or
+3/21210/9 (1); vertebrae 10+16=26* (13) or 10+17=27 (1).
+   Proportional measurements based on holotype and
+three paratypes (OMNH-P 5883, 5890, 5891) are given in
+Table 1. Body relatively short and small (reaching up to
+40 mm SL), slightly compressed anteriorly, compressed
+posteriorly. Head large, slightly depressed. Snout short
+and round. Eye large, located dorsolaterally on head at, or
+slightly before, a vertical through midpoint between snout
+tip and posterior margin of preopercle. Cheek somewhat
+ﬂeshy. Lips thick and ﬂeshy; lower lip slightly protruding
+beyond upper lip; gape oblique, forming an angle of about
+20–30 (30 in holotype) and 40 degrees with body axis in
+males and females; posterior margin of lower jaw not or
+barely reaching to, or extending a little beyond, a vertical
+through anterior margin of eye. Anterior naris a short tube        Fig. 1. Ventral view of pelvic fin (A) and dorsal view of
+                                                                       head (B) of Rhinogobius tyoni (KPM-NI 35396,
+without skin flap at its tip, located at, or slightly before,          paratype, male, 37.0 mm SL), stained with Alizarin
+midpoint between snout tip and anterior margin of eye;                 Red. White line indicates the first segment of each
+posterior naris a round pore with low rim, closer to eye               branch in the ﬁfth soft ray. Black arrow indicates a slit
+than to anterior naris. Gill-opening extending anteriorly              between branches. Pink dots indicate scales along edge
+                                                                       of scaly area on nape and occipital region; P1, P2, and
+to a vertical through posterior margin of preopercle. Gill
+                                                                       P3 indicate boundary of anterior extension of scaly area
+membranes broadly attached to isthmus. No ﬂeshy papillae               along predorsal midline, boundary of anterior extension
+or finger-like projections on lateral margin of shoulder               of scaly area on side of occipital region, and boundary
+girdle. Tongue free from floor of mouth, with rounded                  of most concave point of scaly area between P1 and P2,
+                                                                       respectively. Photographed and annotated by T. Suzuki.
+anterior margin. Genital papillae cone-shaped in males and
+oval in females.
+   Origin of first dorsal fin slightly behind a vertical           in height; all segmented anal-fin rays branched; seventh
+through dorsal insertion of pectoral-fin; first dorsal fin         branched ray longest in males, whereas fourth or ﬁfth ray
+trapezoid or half oval in males, trapezoid or semicircular         longest in females; when adpressed, posterior end of anal
+in females; third spine longest; all dorsal-ﬁn spines slender      fin not extending to procurrent-rays part of caudal fin.
+and flexible, not filamentous; when adpressed, posterior           Caudal ﬁn nearly rounded. Pectoral ﬁn oval; pectoral ﬁn
+end (distal tip of third spine) of first dorsal fin usually        extending posteriorly to vertical lines between origin and
+not extending to origin of second dorsal fin. Second               base of second branched ray (base of ﬁrst branched ray in
+dorsal fin separated from first dorsal fin; second dorsal          holotype) of second dorsal ﬁn in males, whereas base of
+ﬁn subequal to ﬁrst dorsal ﬁn in height in males, whereas          sixth spine and posterior end of base of ﬁrst dorsal ﬁn in
+subequal or slightly higher in females; all segmented              females; pectoral-ﬁn rays branched, except for dorsalmost
+dorsal-fin rays branched; seventh branched rays longest            and/or ventralmost rays unbranched in some specimens
+in males, whereas second or third ray longest in females;          (only ventralmost rays unbranched in holotype). Pelvic
+when adpressed, posterior end of second dorsal fin not             fins fused medially by well-developed frenum (between
+extending to procurrent-rays part of caudal fin; posterior         spines) and connecting membrane (between innermost
+end of base of second dorsal fin above posterior end of            rays), forming a longitudinally elongate, oval cup-like disc;
+anal-fin base. Origin of anal fin below base of first or           pelvic ﬁns extending posteriorly to a vertical through ﬁfth
+second (second in holotype) branched ray of second                 or sixth spine base of first dorsal fin (fifth in holotype),
+dorsal fin; anal fin slightly lower than second dorsal fin         and not reaching to anus; pelvic-ﬁn spine with triangular
+                                                                    et al.
+26
+
+     membranous lobe at its tip; all pelvic-ﬁn segmented rays        (OMNH-P 5882, 5883, 5890–5892, 8033–8037),
+     branched; ﬁrst branched ray longer than spine; ﬁrst branch      considerable variations in development of sensory canals
+     of ﬁfth pelvic-ﬁn ray biﬁd (Fig. 1A).                           on head are found. On the anterior oculoscapular canal,
+        Scales on body small ctenoid anteriorly, moderately          eight specimens including holotype have a nasal extension
+     large ctenoid posteriorly. Scaly area on body extending         with terminal pore B' located anterodorsal to posterior
+     posteriorly to base of caudal fin; basal part of caudal fin     naris; anterior interorbital sections separated with paired
+     with small cycloid scales. Anterodorsal part of body before     pore C and a single median pore D, pore E just behind
+     a diagonal line from origin of first dorsal fin to dorsal       posterior edge of eye; lateral section with anterior pore
+     insertion of pectoral ﬁn with small scales. Anterior part of    F and terminal pore H'. Of the remaining two, one lacks
+     predorsal area naked. Predorsal squamation with trifurcate      a canal between pores F and H, and the other has only
+     anterior edge, anterior extensions of middle and both sides     a short canal with two terminal pores B' and C'. On the
+     extending anteriorly beyond a transverse line through           posterior oculoscapular canal, nine specimens including
+     dorsalmost point of pectoral-ﬁn axil to beyond above canal      holotype lack a posterior oculoscapular canal, whereas
+     pore H' (Fig. 1B). The other part of head naked. Lateral and    a single specimen has it. On the preopercular canal,
+     ventral sides of belly with ctenoid scales and small cycloid    three specimens have pores M', N, and O', the other four
+     scales, respectively. Pelvic-fin axil naked. Scaly area of      including holotype lack intermediate pore N, and a single
+     belly not extending anteriorly to pelvic-ﬁn insertion. Base     specimen lacks the canal. The Following description of
+     of pectoral ﬁn and prepelvic areas with 0–4 and 0–17 (0–7       sensory papillae is based on holotype (OMNH-P 5882).
+     in preventral midline) small cycloid embedded scales,           Sensory-papillae row a oblique and uniserial, composed
+     respectively.                                                   of five sparsely arranged papillae, extending anteriorly
+        Cephalic sensory systems of holotype (OMNH-P                 slightly beyond a vertical through middle of eye. Row
+     5882) are illustrated in Suzuki (1996: 3, fig. 1), and not      b longitudinal, composed of densely arranged papillae,
+     repeated here. Based on our examination of ten specimens        extending anteriorly to a vertical through middle of eye; its
+
+
+
+
+     Fig. 2. Freshly-collected (A) and alcohol preserved (B) holotype of Rhinogobius tyoni (OMNH-P 5882, male, 37.0 mm SL).
+         Photographed by T. Suzuki.
+                                       Two New Species of Rhinogobius from Japan
+                                                                                                                                 27
+
+length equal to eye diameter. Row c composed of sparsely        smaller than) pupil, edged ventrally by black. Each scale
+arranged papillae, extending posteriorly slightly behind a      pockets on dorsal and midlateral parts of body with a
+vertical through posterior margin of eye. Row d composed        small dull red spot. Midlateral body with a broad dull blue
+of densely arranged papillae, extending posteriorly slightly    stripe. Belly whitish, tinged with yellow dorsally, bright
+behind a vertical through posterior margin of pupil. Rows cp    blue posteriorly. Dorsal ﬁns pale yellow gradually turns to
+and f comprising single and a pair of papillae, respectively.   dull purple distally, with broad pale-yellow anterodorsal
+Anterior end of row oi close to a vertical row ot.              margins; several dull purple dots just behind spines on
+   Coloration of males (see also Suzuki, 1996: 8, ﬁgs. 2, 4;    ventral one-third of ﬁrst dorsal ﬁn, forming 1–2 indistinct
+Suzuki et al., 2017: 61, ﬁg. 3). Freshly-collected coloration   horizontal rows; four indistinct, horizontal dull purple lines
+of male holotype (Fig. 2A) is as follows. Ground color          on second dorsal ﬁn (dorsal two largely faded anteriorly).
+of head and body yellowish gray darkened dorsally. Iris         Anal ﬁn grayish, darkened distally, with a broad midlateral
+vivid yellow, margined dorsally by vivid green. Two red         orange stripe and white distal margin. Caudal fin pale,
+oblique stripes on snout; one between eye and tip of snout,     with red purple dorsal part, reddish orange lower half,
+the other between ventral margin of eye and posterior end       and yellow posterior margin; base with a “ < ”sharped
+of upper jaw. Cheek and lower part of operculum with            grayish brown blotch, and central part with four red purple
+several vague, irregularly-shaped yellow spots (fairly vivid    vertical lines. Pectoral and pelvic fins nearly transparent
+in operculum). Branchiostegal membrane yellow, tinged           and grayish, with slightly darkened rays. When preserved
+with bright blue ventrally, without any distinct markings.      in alcohol (Fig. 2B), all blue, green, orange, purple, red and
+Dorsal margin of lower jaw and ventral side of head             yellow markings faded; ground color of head and body
+bright blue. Scale pockets of nape and occipital region         turns to yellowish white.
+with dull red spots. Dorsalmost of pectoral-ﬁn base with           Coloration of females. Freshly-collected coloration of
+a triangular bright blue marking as large as (or slightly       females (Fig. 3A; Suzuki, 1996: 8, figs. 3 and 6; Suzuki
+
+
+
+
+Fig. 3. Freshly-collected (A) and alcohol preserved (B) paratype of Rhinogobius tyoni (OMNH-P 5883, female, 27.9 mm SL).
+    Photographed by T. Suzuki.
+                                                                     et al.
+28
+
+     et al., 2017: 63, ﬁg. 4B) resembles that of males, except        Rhinogobius sp. TO: Suzuki & Sakamoto, 2005: 13
+     as follows. No yellow markings on cheek, operculum                  (Gifu and Aichi prefectures, Japan); Suzuki et al.,
+                                                                         2010: 11 (Gifu and Aichi prefectures, Japan); Akihito
+     and branchiostegal membrane. Midlateral body with a
+                                                                         et al., 2013: 1459 (Shizuoka, Aichi, Gifu, Mie
+     longitudinal series of 7–8 indistinct circular, large black
+                                                                         prefectures, Japan).
+     blotches; anterior two below first dorsal fin, middle
+                                                                         Holotype. BLIP 20000268, male, 28.7 mm SL, Toki-
+     3–5 below second dorsal fin, and the others on caudal
+                                                                      gawa River, Izumichouotomi, Toki, Gifu Prefecture, Japan,
+     peduncle. Dorsum of body with several irregular-shaped,
+                                                                      35°21'33.9"N 137°11'27.4"E, 1 April 2000.
+     black blotches. Posterior part of second dorsal fin with
+                                                                         Paratypes. Total 13 specimens (ten males and three
+     1–4 reddish gray strips. A single narrow orange stripe at
+                                                                      females) , 28.8–39.5 mm SL: BLIP 20000256–20000262,
+     midlateral anal fin (sometimes barely visible or absent;
+                                                                      20000264–20000266, seven males and three females,
+     see, e.g., ﬁg. 5 of Suzuki, 1996). Central part of caudal ﬁn
+                                                                      28.8–37.8 mm SL, Pond of Yanagase park, Yahagi-gawa
+     with 1–7 reddish gray vertical lines or rows of dots; these
+                                                                      River, Toyoda, Aichi Prefecture, Japan, 34°59'43.1"N
+     lines/rows of dots not extending to dorsal and ventral one-
+                                                                      137°08'51.3"E, 1 April 2000; BLIP 20000400, male, 30.7
+     sixth or one-seventh of the ﬁn. When preserved in alcohol
+                                                                      mm SL, Shin-ike Pond, Yawatacho, Toyokawa, Aichi
+     (Fig. 3B), all blue, green, orange, purple, red and yellow
+                                                                      Prefecture, Japan,6 April 2001; BLIP 20010401, male, 33.0
+     markings faded; ground color of head and body turns to
+                                                                      mm SL, Ibi-gawa River, Naoecho, Ogaki, Gifu Prefecture,
+     yellowish white; blackish markings on body turn to brown.
+                                                                      Japan, 35°20'46.9"N 136°39'19.1"E, 13 November 2001;
+        Coloration when alive (see Suzuki, 1996: 9, ﬁgs. 6, 7).
+                                                                      OMNH-P 43682, male, 39.5 mm SL, a cleared and stained,
+     Coloration when alive in aquaria resembles that of freshly-
+                                                                      2000.04.01, collected with the holotype.
+     collected specimens, except as follows: midlateral body
+                                                                         Diagnosis. Rhinogobius telma is distinguished
+     with a longitudinal series of seven large rounded black
+                                                                      from all congeneric species by the following unique
+     blotches: dorsum of body with six saddle-like black blotches,
+                                                                      combination of features: scales on predorsal area small
+     comprising anteriormost one on nape, middle three below
+                                                                      cycloid, 3–15 predorsal scales on predorsal midline;
+     dorsal ﬁns, and posterior two on caudal peduncle.
+                                                                      10+16=26 vertebrae; a low first dorsal fin in males, not
+        Distribution. Rhinogobius tyoni is hitherto known
+                                                                      extending posteriorly to origin of second dorsal ﬁn when
+     from inland waters in temperate Japan along coasts of
+                                                                      adpressed; third spine of ﬁrst dorsal ﬁn longest; the lateral
+     Seto Inland Sea, Osaka Bay and Kii Channel (Fukuoka,
+                                                                      and ventral sides of belly with ctenoid and small cycloid
+     Hiroshima, Okayama, Hyogo, Osaka, Nara, Wakayama,
+                                                                      scales, respectively; posterior oculoscapular canal and
+     Ehime, Kagawa and Tokushima prefectures), and
+                                                                      preopercular canal absent; sensory-papillae rows on cheek
+     Maruyama-gawa River of Hyogo Prefecture, draining
+                                                                      arranged longitudinally, with no transverse rows; first
+     to Sea of Japan. This species is also found in the Tokai
+                                                                      dorsal fin with a single longitudinal row of vertically-
+     District of Japan (including Mie, Gifu, Aichi and Shizuoka
+                                                                      elongate dark markings; no dark large circle or quadrangle
+     prefectures), but the populations seem to have been
+                                                                      markings (spots or blotches) at anteriorpart of ﬁrst dorsal
+     artificially introduced (Suzuki et al., 2010; Suzuki &
+                                                                      fin; lower half of caudal fin without reddish orange
+     Mukai, 2010; Akihito et al., 2013).
+                                                                      coloration; caudal ﬁn with some vertical rows of dark dots
+        Habitat. Rhinogobius tyoni is found in shallow
+                                                                      in both sexes.
+     freshwater areas with mud bottoms and aquatic vegetation,
+                                                                         Description. Dorsal-ﬁn rays VI-I, 8* (14); anal-ﬁn rays
+     such as ponds, marshes, reservoirs, canals, and creeks at
+                                                                      I, 8 (3) or I, 9* (11); pectoral-ﬁn rays 19 (3), 20* (6), or 21
+     middle or lower reaches of rivers (Suzuki & Mukai, 2010;
+                                                                      (5); pelvic-fin rays I, 5* (14); segmented caudal-fin rays
+     present study). It is a non-diadromous species, restrictedly
+                                                                      9+7 (1), or 9+8* (13); branched caudal-ﬁn rays 6+6* (2),
+     found in non- or barely-flowing freshwater habitats
+                                                                      7+6 (5), or 7+7 (7); longitudinal scales 31 (3), 32 (2), 33*
+     throughout the life cycle (Ohara et al., 2009; Tsunagawa
+                                                                      (7), or 34 (2); transverse scales 9* (8), or 10 (6); scales
+     et al., 2010a; present study).
+                                                                      between origin of dorsal ﬁn and dorsal insertion of pectoral
+        Etymology. The specific name, tyoni, refers to the
+                                                                      ﬁn 6 (3), or 7* (11); predorsal scales 3*(1), 4 (2), 6 (1), 8
+     late Darsu Tyon, who discovered the species and kindly
+                                                                      (1), 11 (3), 12 (2), 13 (1), 14 (2), or 15 (1); P-V 3/22110/9*
+     informed us for our study.
+                                                                      (13); vertebrae 10+16=26* (13).
+                                                                         Proportional measurements based on holotype and
+                    Rhinogobius telma sp. nov.
+                                                                      three paratypes (BLIP 20000256, 20000265, 20000269)
+         (Standard Japanese name: Tokai-yoshinobori)
+                                                                      are given in Table 1. Body relatively short and small
+                      (Table 1; Figs. 4–6)
+                                       Two New Species of Rhinogobius from Japan
+                                                                                                                                   29
+
+(reaching up to 40 mm SL), slightly compressed anteriorly,
+compressed posteriorly. Head moderately large, slightly
+depressed. Snout short and round. Eye large, located
+dorsolaterally on head at a vertical through midpoint
+between snout tip and posterior margin of preopercle.
+Cheek somewhat fleshy. Lips thick and fleshy; lower lip
+slightly protruding beyond upper lip; gape oblique, forming
+an angle of about 35–40 (35 in holotype) and 40–50
+degrees with body axis in males and females, respectively;
+posterior margin of lower jaw extending slightly beyond
+a vertical through anterior margin of eye. Anterior naris
+a short tube without skin flap at its tip, located slightly
+behind midpoint between snout tip and anterior margin of
+eye; posterior naris a round pore with low rim, closer to
+eye than to anterior naris. Gill opening extending anteriorly
+to a vertical through posterior margin of preopercle.
+Gill membranes broadly attached to isthmus. No fleshy
+papillae- or finger-like projections on lateral margin of
+shoulder girdle. Tongue free from floor of mouth, with
+rounded anterior margin. Genital papillae cone-shaped in
+males and oval in females.
+   Origin of first dorsal fin slightly behind a vertical
+through dorsal insertion of pectoral fin; first dorsal fin      Fig. 4. Ventral view of pelvic ﬁn (A) and dorsal view of head
+trapezoid or “shogi-piece” shaped in males (“shogi-piece”           (B) of Rhinogobius telma (OMNH-P 43682, paratype,
+shaped in holotype), usually semicircular in females; third         male, 39.5 mm SL), stained with Alizarin Reds. White
+                                                                    line indicates the first segment of each branch in the fifth
+spine longest; all dorsal-fin spines slender and flexible,
+                                                                    soft ray. Black arrow indicates a slit between branches.
+not filamentous; when adpressed, third-spine tip not                Pink dots indicate scales along edge of scaly area on nape
+extending to origin of second dorsal fin in both sexes;             and occipital region; P1, P2, and P3 indicate boundary of
+when adpressed, posterior end (distal tip of the sixth              anterior extension of scaly area along predorsal midline,
+                                                                    boundary of anterior extension of scaly area on side of
+spine) of first dorsal fin extending slightly behind origin
+                                                                    occipital region, and boundary of most concave point of
+of second dorsal fin in males, but not extending to it in           scaly area between P1 and P2, respectively.
+females. Second dorsal fin separated from first dorsal
+ﬁn; second dorsal ﬁn higher than ﬁrst dorsal ﬁn in height
+in both sexes; all segmented dorsal-fin rays branched;          (unbranched in holotype). Pelvic fins fused medially by
+seventh branched ray longest in males, whereas second           well-developed frenum (between spines) and connecting
+ray longest in females; when adpressed, posterior end of        membrane (between innermost rays), forming a round
+second dorsal ﬁn not extending to procurrent-rays part of       cup in males and a longitudinally elongate cup in females;
+caudal ﬁn; posterior end of base of second dorsal ﬁn above      pelvic ﬁns extending posteriorly to a vertical through ﬁfth
+posterior end of anal-fin base. Origin of anal fin below        or sixth spine base of ﬁrst dorsal ﬁn (ﬁfth in holotype), and
+base of ﬁrst, second or third (second in holotype) branched     not reaching to anus; pelvic-ﬁn spine without membranous
+second dorsal-ﬁn ray; anal ﬁn slightly lower than second        lobe at its tip; all pelvic-ﬁn segmented rays branched; ﬁrst
+dorsal ﬁn in height; all segmented anal-ﬁn rays branched;       branched ray longer than spine; ﬁrst branch of ﬁfth pelvic-
+sixth or seventh branched ray longest in males (seventh         ﬁn ray biﬁd (Fig. 4A).
+in holotype), whereas fourth ray longest in females; when          Scales on body small ctenoid anteriorly, moderately
+adpressed, posterior end of anal fin not extending to           large ctenoid posteriorly. Scaly area on body extending
+procurrent-ray of caudal fin. Caudal fin nearly rounded.        posteriorly to base of caudal fin; basal part of caudal fin
+Pectoral fin oval, posteriorly extending around a vertical      with small cycloid scales. Anterodorsal part of body before
+thorough origin of second dorsal fin (not reaching in           a diagonal line from middle of ﬁrst dorsal-ﬁn base to dorsal
+holotype) in both sexes; pectoral-ﬁn rays branched, except      insertion of pectoral-ﬁn with small scales. Anterior part of
+for dorsalmost and ventralmost rays ﬁn usually unbranched       predorsal area naked. Predorsal squamation with trifurcate
+                                                                      et al.
+30
+
+     anterior edge, anterior extension of middle and both sides        an additional pore between C and D, or between D and
+     extending anteriorly beyond a transverse line through             E; other pores same as holotype. All specimens including
+     dorsalmost point of pectoral-fin axil to above through            holotype have no posterior oculoscapular canal and
+     middle of opercle (Fig. 4B). The other part of head naked.        preopercular canal. The following description of sensory
+     Lateral and ventral sides of belly with ctenoid and small         papillae is based on BLIP 20000264. Sensory-papillae row
+     cycloid scales, respectively. Pelvic-fin axil naked. Scaly        a oblique and uniserial, composed of ﬁve sparsely arranged
+     area of belly usually extending anteriorly to pelvic-fin          papillae, extending anteriorly to a vertical through middle
+     insertion. Base of pectoral ﬁn and prepelvic areas usually        of eye. Row b longitudinal, composed of densely arranged
+     with some small cycloid scales (0–4 in preventral midline).       papillae, extending anteriorly to a vertical through posterior
+        Cephalic sensory systems of BLIP 20000264 are                  margin of eye; its length slightly shorter than eye diameter.
+     illustrated in Suzuki & Sakamoto (2005: 15, ﬁg. 1), and not       Row c composed of sparsely arranged papillae, extending
+     repeated here. Based on our examination of 13 specimens           posteriorly slightly behind a vertical through posterior
+     (BLIP 20000256–20000262, 20000264–20000266,                       margin of eye. Row d composed of densely arranged
+     20000268, 20010400, 20010401), considerable variations            papillae, extending posteriorly slightly behind a vertical
+     in development of sensory canals on head are found. On            through posterior margin of eye. Rows cp and f comprising
+     the anterior oculoscapular canal, eight specimens including       single and a pair of papillae, respectively. Anterior end of
+     holotype have a nasal extension with terminal pore B'             row oi well separated from a vertical row ot.
+     located anterodorsal to posterior naris; anterior interorbital       Coloration of males (see also Suzuki & Sakamoto,
+     sections separated with two paired pores C and D; pore            2005: 16, figs. 2A). Freshly-collected coloration of male
+     E and terminal pore F' behind posterior edge of eye;              holotype (Fig. 5A) is as follows. Ground color of head and
+     lateral section lacking. Two specimens have the anterior          body yellowish gray. Iris vivid yellow, margined dorsally
+     interorbital sections separated with a single median pore         by vivid green. Two oblique stripes on snout; one dull
+     D; other pores same as holotype. Three specimens with             red between eye and tip of snout, the other broad green
+
+
+
+
+     Fig. 5. Freshly-collected (A) and alcohol preserved (B) holotype of Rhinogobius telma (BLIP 20000268, male, 28.7 mm SL).
+         Photographed by T. Suzuki.
+                                     Two New Species of Rhinogobius from Japan
+                                                                                                                              31
+
+between ventral margin of eye and posterior end of upper        black blotches; central part of caudal ﬁn with two or three
+jaw. Cheek grayish. Dorsal parts of cheek and operculum,        vertical rows of gray dots. Pectoral ﬁn nearly transparent,
+nape and occipital region with several irregular-shaped,        whitish basally, with yellowish gray rays. Pelvic ﬁns gray.
+short dull orange lines or spots. Ventroanterior part of        When preserved in alcohol (Fig. 5B), all blue, green,
+head purplish blue. Branchiostegal membrane reddish             orange, purple, red and yellow markings faded; ground
+yellow, without any distinct markings. Dorsal part of           color of head and body turns to yellowish white; blackish
+operculum with a purplish blue longitudinal marking.            markings on body turn to brown.
+Base of pectoral fin with a large oblong black marking.           Coloration of female (Fig. 6A; Suzuki and Sakamoto,
+Dorsum of body with six saddle-like, large grayish brown        2005: 16, ﬁg. 2B). Freshly-collected coloration of female
+blotches; anteriormost one below origin of first dorsal         resembles that of male, except as follows. Cheek not
+fin, second one below base of first dorsal fin, third one       grayish. Branchiostegal membrane not yellowish. An
+below between first and second dorsal fins, fourth one          oblong black marking at base of pectoral ﬁn smaller than
+below base of second dorsal fin, and the last two on            male’s marking. First two large grayish brown blotches
+caudal peduncle. Midlateral body with a longitudinal            of midlateral body connected. Caudal-ﬁn base with a “<”
+series of five rectangular, large grayish brown blotches;       sharped grayish brown blotch. Pelvic fin grayish white.
+each midlateral blotch below interspace between saddle-         When preserved in alcohol (Fig. 6B), all blue, green,
+like blotches of dorsum of body; interspaces between            orange, purple, red and yellow markings faded; ground
+grayish brown blotches on midlateral body pale green.           color of head and body turns to yellowish white; blackish
+Belly whitish, tinged with yellow dorsally. Dorsal fins         markings on body turn to brown.
+gray, rays yellowish with pale yellow dorsal margins; ﬁrst        Coloration when alive (based on photographs in
+dorsal fin with a row of narrow, transversely-elongate          Matsuzawa, 2011). Coloration in males when alive in
+violet blotches along spines; lower half of second dorsal       aquaria resembles that of freshly-collected specimens,
+fin with 2–3 longitudinal rows of dull purplish red dots.       except as follows: ground color of head and body
+Anal ﬁn light yellowish orange, with a narrow white lower       yellowish gray; ﬁrst dorsal ﬁn black, with reddish yellow
+margin. Caudal ﬁn gray, rays yellowish with pale-yellow         dorsal margin; markings of second dorsal fin and caudal
+posterior margin; ventral part of caudal-ﬁn base with two       ﬁns grayish brown.
+
+
+
+
+Fig. 6. Freshly-collected (A) and alcohol preserved (B) paratype of Rhinogobius telma (BLIP 20000265, female, 31.1 mm SL).
+    Photographed by T. Suzuki.
+                                                                       et al.
+32
+
+        Distribution. Rhinogobius telma is hitherto known                  Etymology. The specific name “telma” is derived
+     only from the Tokai District of temperate Japan (viz.,             from the Greek word meaning standing water or marsh, in
+     Aichi, Mie, Gifu, and Shizuoka prefectures), although the          reference to typical habitat of the species. The name should
+     population in Shizuoka Prefecture seems to have been               be treated as a noun in apposition.
+     artiﬁcially introduced (Suzuki & Sakamoto, 2005; Suzuki
+     et al., 2010; Akihito et al., 2013).                                                         Discussion
+        Habitat. Rhinogobius telma is found in shallow
+     freshwater areas with mud bottoms and aquatic vegetation,             Both of the two new species described here,
+     such as ponds, marshes, reservoirs, canals, creeks of middle       Rhinogobius tyoni and R. telma, belong to the R.
+     or lower reaches of rivers (Suzuki & Mukai, 2010; present          brunneus complex (see above). Based on the vertebral
+     study). It is a non-diadromous species, restrictedly found         count data cited from some recent authors (e.g., Endruweit,
+     in non- or slow-ﬂowing freshwater habitats throughout the          2017, 2018; Suzuki et al., 2017; Takahashi & Okazaki,
+     life cycle (Tsunagawa et al., 2010b; present study).               2017; Li et al., 2018; Xia et al., 2018; Wu et al., 2018;
+        Remarks. Rhinogobius telma was first noticed by                 present study), the R. brunneus complex can be divided
+     Takahashi et al. (1998); they reported a putative unnamed          into two subgroups (Table 2): one almost always has 27
+     species of the genus, which agrees well with R. telma in           or more vertebrae (hereafter named "Group I"), whereas
+     morphological characters, from Aichi Prefecture, Japan,            the others have lower counts (25–27, almost always 26)
+     in the 31st annual meeting of the Ichthyological Society           ("Group II"). The groups I and II, both of which appear to
+     of Japan. Subsequently Akihito et al. (2000) provisionally         be phylogenetic grades merely assembled by the vertebral
+     regarded it as one of the varieties of the “Shimahire-             counts, hitherto comprise at least 46 and 27 described
+     gata” morphotype of their Rhinogobius sp. OR that                  species, respectively. The vertebrae of the remaining seven
+     further morphological/molecular analyses towards our               species have not yet been counted. Rhinogobius tyoni
+     better understanding for these varieties is necessary. On          and R. telma usually have 26 vertebrae (27 in a single of
+     the internet website (https://tansuigyo.net), anonymous            all 14 specimens in R. tyoni) and belong to Group II. Thus,
+     proposed a nickname “Ushi-yoshinobori” for the goby,               the number of species placed in the Group II becomes 29.
+     probably identical with R. telma herein described,                    Within Group II, and the assemblage with no
+     in order to distinguished it from the congeners in the             information about vertebral counts (total 36 species), R.
+     Japanese waters. The page is not dated; according to the           tyoni is most similar to R. telma, by having the following
+     website writer(s), the page was originally launched on             combination of characters: 8–17 predorsal scales; 20–23
+     11 November 2000, but the contents appear to have been             pectoral-fin rays; 28–35 longitudinal scales; a low first
+     modiﬁed after that; at least now, many photographs of live         dorsal fin in males, not extending posteriorly to origin
+     ﬁsh of the species in aquaria are shown there (downloaded          of second dorsal fin when adpressed; third spine of first
+     on 17 September 2018). Suzuki & Sakamoto (2005)                    dorsal fin longest; posterior oculoscapular canal usually
+     reported information about the morphology, distribution            absent; no dark large circle or quadrangle markings (spots
+     and habitats of R. telma (as an undescribed species)               or blotches) at anteriorpart of ﬁrst dorsal ﬁn. Rhinogobius
+     in detail, and proposed a new standard Japanese name               tyoni is, however, distinguished from R. telma by having:
+     “Tokai-yoshinobori” with a specific abbreviation “TO”              the preopercular canal usually present (vs. absent in R.
+     for distinguishing it from the other undescribed congeners         telma); no row of vertical dark markings on the first
+     (viz., “Rhinogobius sp. TO”) on the basis of a specimen            dorsal ﬁn (vs. a row of vertical dark markings); some dark
+     (BLIP 20000256), that is designated here as a paratype of R.       vertical lines at central part of caudal ﬁn in males (vs. some
+     telma.                                                             vertical rows of dark dots); lower half of caudal ﬁn reddish
+        Yamazaki et al. (2015) analyzed nuclear DNA of the              orange in males (vs. lacking reddish orange coloration).
+     Japanese species of Rhinogobius and concluded that R.              Rhinogobius telma can be distinguished from all other
+     telma (as an undescribed species) has a sister relationship        congeners of the group but R. biwaensis and R. tyoni,
+     with R. flumineus. The latter (R. flumineus) is only a single      as well as eight species with no information of vertebral
+     species of the Group I (described below) in the Japanese           counts, by having the following combination of characters:
+     waters; this is one of the reasons why we recognize the            3–15 predorsal scales; posterior oculoscapular canal absent;
+     subgroups of the R. brunneus complex assembled based on            a low ﬁrst dorsal ﬁn in males, not extending posteriorly to
+     the vertebral counts (i.e., the Group I and Group II: described    origin of second dorsal ﬁn when adpressed; third spine of
+     below) as the grades (not the clades).                             ﬁrst dorsal ﬁn longest; no dark large circle or quadrangle
+                                        Two New Species of Rhinogobius from Japan
+                                                                                                                                         33
+
+Table 2. List of valid species of the Rhinogobius brunneus complex with its subgroups (Group I and II) regarding the vertebral counts
+                                                                     43 R. wangi Chen & Fang, 2006
+Group I: Species with higher vertebral counts (27 or more)           44 R. wuyanlingensis Yang, Wu & Chen, 2008
+   1 R. albimaculatus Chen, Kottelat & Miller, 1999                  45 R. xianshuiensis Chen, Wu & Shao, 1999
+   2 R. boa Chen & Kottelat, 2005                                    46 R. yaoshanensis (Luo, 1989)
+   3 R. carpenteri Seale, 1910                                     Group II: Species with fewer vertebral counts (25–27,
+  4 R. changtinensis Huang & Chen, 2007                            almost always 26)
+   5 R. cheni (Nichols, 1931)                                         1 R. aporus (Zhong & Wu, 1998)
+   6 R. chiengmaiensis Fowler, 1934                                   2 R. biwaensis Takahashi & Okazaki, 2017
+   7 R. coccinella Endruweit, 2018                                    3 R. brunneus (Temminck & Schlegel, 1845)
+   8 R. davidi (Sauvage & Dabry de Thiersant, 1874)                   4 R. candidianus (Regan, 1908)
+   9 R. duospilus (Herre, 1935)                                       5 R. changjiangensis Chen, Miller, Wu & Fang, 2002
+  10 R. filamentosus (Wu, 1939)                                       6 R. delicatus Chen & Shao, 1996
+  11 R. flumineus (Mizuno, 1960)                                      7 R. fluviatilis Tanaka, 1925
+  12 R. genanematus Zhong & Tzeng, 1998                               8 R. formosanus Oshima, 1919
+  13 R. henryi (Herre, 1938)                                          9 R. gigas Aonuma & Chen, 1996
+  14 R. honghensis Chen, Yang & Chen, 1999                           10 R. henchuenensis Chen & Shao, 1996
+  15 R. imfasciocaudatus Nguyen & Vo, 2005                           11 R. kurodai (Tanaka, 1908)
+  16 R. immaculatus Li, Li & Chen, 2018                              12 R. lanyuensis Chen, Miller & Fang, 1998
+  17 R. lentiginis (Wu & Zheng, 1985)                                13 R. leavelli (Herre, 1935)
+  18 R. lindbergi Berg, 1933                                         14 R. maculafasciatus Chen & Shao, 1996
+  19 R. lineatus Chen, Kottelat & Miller, 1999                       15 R. mizunoi Suzuki, Shibukawa & Aizawa, 2017
+  20 R. linshuiensis Chen, Miller, Wu & Fang, 2002                   16 R. nagoyae Jordan & Seale, 1906
+  21 R. liui Chen & Wu, 2008                                         17 R. nandujiangensis Chen, Miller, Wu & Fang, 2002
+  22 R. longyanensis Chen, Cheng & Shao, 2008                        18 R. nantaiensis Aonuma & Chen, 1996
+  23 R. lungwoensis Huang & Chen, 2007                               19 R. ogasawaraensis Suzuki, Chen & Senou, 2012
+  24 R. maculagenys Wu, Deng, Wang & Liu, 2018                       20 R. reticulatus Li, Zhong & Wu, 2007
+  25 R. maculicervix Chen & Kottelat, 2000                           21 R. rubrolineatus Chen & Miller, 2008
+  26 R. maxillivirgatus Xia, Wu & Li, 2018                           22 R. sagittus Chen & Miller, 2008
+  27 R. mekongianus (Pellegrin & Fang, 1940)                         23 R. sangenloensis Chen & Miller, 2014
+  28 R. milleri Chen & Kottelat, 2003                                24 R. telma sp. nov.
+  29 R. multimaculatus (Wu & Zheng, 1985)                            25 R. tyoni sp. nov.
+  30 R. nammaensis Chen & Kottelat, 2003                             26 R. variolatus Chen & Kottelat, 2005
+  31 R. nanophyllum Endruweit, 2018                                  27 R. virgigena Chen & Kottelat, 2005
+  32 R. ngutinhoceps Endruweit, 2018                                 28 R. wuyiensis Li & Zhong, 2007
+  33 R. niger Huang, Chen & Shao, 2016                               29 R. zhoui Li & Zhong, 2009
+  34 R. parvus (Luo, 1989)
+  35 R. phuongae Endruweit, 2018
+                                                                   Species with no information about vertebral counts
+  36 R. ponkouensis Huang & Chen, 2007                                1   R. bedfordi (Regan, 1908)
+  37 R. rubromaculatus Lee & Chang, 1996                              2   R. bucculentus (Herre, 1927)
+  38 R. sulcatus Chen & Kottelat, 2005                                3   R. cliffordpopei (Nichols, 1925)
+  39 R. szechuanensis (Tchang, 1939)                                  4   R. fukushimai Mori, 1934
+  40 R. taenigena Chen, Kottelat & Miller, 1999                       5   R. philippinus (Herre, 1927)
+  41 R. vermiculatus Chen & Kottelat, 2003                            6   R. shennongensis (Yang & Xie, 1983)
+  42 R. wangchuangensis Chen, Miller, Wu & Fang, 2002                 7   R. sowerbyi Ginsburg, 1917
+
+
+markings (spots or blotches) at anteriorpart of ﬁrst dorsal           orange coloration (vs. reddish orange coloration in males
+fin (Takahashi & Okazaki, 2017; present study). But R.                in R. biwaensis and R. tyoni) ctenoid and small cycloid
+telma is distinguished from these two species by having               scales at lateral and ventral sides of belly, respectively; (vs.
+no preopercular canal (vs. usually present in R. biwaensis            naked in R. biwaensis); a row of vertical dark markings
+and R. tyoni); lower half of caudal fin without reddish               on first dorsal fin (vs. lacking a row of vertical dark
+                                                                       et al.
+34
+
+     markings in R. tyoni); some vertical rows of dark dots on                284-310.
+     caudal ﬁn in both sexes (vs. some distinct lines in males of       Eschmeyer, W. N., 1998. Catalog of Fishes. Center for
+     R. tyoni). (Takahashi & Okazaki, 2017; present study).                   Biodiversity Research and Information, Special Publication
+                                                                              1. 3 volumes. 2905pp. California Academy of Sciences,
+                                                                              San Francisco.
+       Comparative materials. Rhinogobius biwaensis: 16
+                                                                        Gill, T. N., 1859. Notes on a collection of Japanese ﬁshes, made
+     specimens (29.1–45.0 mm SL): OMNH-P 23927 (male,                         by Dr. J. Morrow. Proceedings of the Academy of Natural
+     36.0 mm SL) and 23932 (female, 25.6 mm SL), paratypes,                   Sciences of Philadelphia, 11: 144–150.
+     West coast of Lake Biwa, Ukawa, Takahama, Shiga                    Hoese, D. F., 1983. Sensory papilla patterns of the cheek
+     Prefecture, Japan, 25 June 2011; BLIP 2001402–2001408,                   lateralis system in the gobiid fishes Acentrogobius and
+     10 males and a female, 29.1–35.1 mm SL, 1 July 2001,                     Glossogobius, and their signiﬁcance for the classiﬁcation
+     same locality as that of paratypes; OMNH-P 23928                         of gobioid ﬁshes. Records of the Australian Museum, 35:
+                                                                              223–230.
+     and 23931, a male and a female, 35.4 and 29.4 mm SL,
+                                                                        Hubbs, C. L. & K. F. Lagler, 1958. Fishes of the Great Lakes
+     collected with paratypes; OMNH-P 42967, male, 45.0 mm
+                                                                              Region, vii+213pp., 44 pls. Cranbrook Institute of Science,
+     SL, 19 June 2014., East Coast of Lake Biwa, Nakahama,                    Bloomﬁeld Hills, Michigan.
+     Shiga Prefecture.                                                  Japan Color Research Institute (ed.), 1995. Concise manual of
+                                                                              color names, revised edition. 90pp. Japan Color Enterprise
+                           Acknowledgments                                    Co. Ltd, Tokyo. (In Japanese).
+                                                                        Jordan, D. S. & A. Seale, 1906. Descriptions of six new species
+       We are very grateful to Takahiko Mukai (Faculty                        of fishes from Japan. Proceedings of The United States
+     of Regional Studies, Gifu University) and Katsuichi                      National Museum, 30: 143–148.
+                                                                        Kottelat, M., 2013. The ﬁshes of the inland waters of southeast
+     Sakamoto (formerly BLIP) for contribution to the
+                                                                              Asia: a catalogue and core bibiography of the ﬁshes known
+     acquisition, analysis, the interpretation of data in the
+                                                                              to occur in freshwaters, mangroves and estuaries. Rafﬂes
+     present study. We also thank Hiroshi Senou (KPM) and                     Bulletin of Zoology, Supplement, (27): 1–663.
+     David Greenfield (CAS), who read the manuscript and                Li, F., S. Li & J.-K. Chen, 2018. Rhinogobius immaculatus, a
+     gave helpful comments; Masahiro Aizawa (formerly                         new species of freshwater goby (Teleostei: Gobiidae) from
+     BLIP) and the late Darsu Tyon (formerly Sanyo Techno                     the Qiantang River, China. Zoological Research, 39(6):
+     Marine, Co. Ltd., Osaka) gave us valuable information for                1–10.
+     the present study; Kiyotaka Hatooka and Shoko Matsui               Matsuzawa, Y., 2011. Pocket Zukan, Nihon-no-tansuigyo 258
+                                                                              (pocket-sized pictorial book of 258 species of freshwater
+     (OMNH) helped registration of the specimens examined
+                                                                              ﬁshes of Japan). 315pp. Bun-ichi, Tokyo. (In Japanese).
+     here.
+                                                                        Mizuno, N., 1960a. Study on a freshwater goby, Rhinogobius
+                                                                              similis Gill, with a proposition on the relationships
+                               References                                     between land-locking and speciation of some freshwater
+                                                                              gobies in Japan. Memoirs of the College of Science,
+     Akihito, K. Sakamoto, Y. Ikeda & M. Aizawa, 2013. Gobioidei.             University of Kyoto, Series B, 27: 97–115.
+         In Nakabo, T. (ed.), Fishes of Japan with pictorial keys to    Mizuno, N., 1960b. Description of a new freshwater goby
+         the species, 3rd edition. pp.1347–1608, 2109–2211. Tokai             from Japan. Memoirs of the College of Science, Kyoto
+         University Press, Kanagawa. (In Japanese).                           University, Series B, 27: 117–119.
+     Chen, I-S. & P. J. Miller, 2014. A new freshwater goby             Ohara, K., M. Hotta, D. Takahashi, T. Asahida, H. Ida & T.
+         of Rhinogobius (Teleostei: Gobiidae) from Hainan                     Umino, 2009. Use of microsatellite DNA and otolith Sr
+         Island, southern China. Journal of Marine Science and                : Ca ratios to infer genetic relationships and migration
+         Technology, 21, Supplement: 124–129.                                 history of four morphotypes of Rhinogobius sp. OR.
+     Chen, I-S. & K.-T. Shao, 1996. A taxonomic review of the                 Ichthyological Research, 56: 373–379.
+         gobiid ﬁsh genus Rhinogobius Gill, 1859, from Taiwan,          Pezold, F. L., 1993. Evidence for a monophyletic Gobiinae.
+         with description of three new species. Zoological Studies,           Copeia, 1993: 634–643.
+         35: 200–214.                                                   Pezold, F. L., 2011. Systematics of Gobionellidae, Chapter
+     Endruweit, M., 2017. Neotype designation for Rhinogobius                 1.6. In Patzner, R. A., J. L. van Tassel, M. Kovacic & B.
+         carpenteri Seale, 1910, and its placement in Tukugobius              G. Kapoor (eds.), The biology of gobies, pp.87–97. CRC
+         Herre 1927 (Teleostei: Gobiidae). Zootaxa, 4277(4):                  Press, Taylor and Francis Group, Science Publishers,
+         549–560.                                                             Enﬁeld, New Hampshire.
+     Endruweit, M., 2018. Description of four new species of            Prince Akihito, M. Hayashi, T. Yoshino, K. Shimada, H. Senou
+         freshwater gobies from the Black River drainage in China             & T. Yamamoto, 1984. Suborder Gobioidei. In Masuda,
+         and Vietnam (Teleostei: Gobiidae). Zootaxa, 4486(3):                 H., K. Amaoka, C. Araga, T. Uyeno & T. Yoshino (eds.),
+                                        Two New Species of Rhinogobius from Japan
+                                                                                                                                     35
+
+    The fishes of the Japanese Archipelago, first edition.       Takahashi, S. & T. Okazaki, 2002. A new lentic form of the
+    pp.236–289, pls.235–258, 353–355. Tokai University              “yoshinobori”species complex, Rhinogobius spp. from
+    Press, Tokyo. (In Japanese).                                      Lake Biwa, Japan, compared with lake-river migrating
+Suzuki, T., 1996. A new type of Rhinogobius sp.                       Rhinogobius sp. OR. Ichthyological Research, 49: 333–339.
+    "Touyoshinobori" collected in Maruyama-gawa River,           Takahashi, S. & T. Okazaki, 2017. Rhinogobius biwaensis,
+    Hyogo Prefecture, Japan. Hyogo Freshwater biology, 47:            a new gobiid fish of the "yoshinobori" species complex,
+    1–9. (In Japanese).                                               Rhinogobius spp., endemic to Lake Biwa, Japan.
+Suzuki, T., M. Aizawa & K. Shibukawa, 2017. Rhinogobius               Ichthyological Research, DOI 10.1007/s10228-017-0577-4.
+    kurodai (Tanaka, 1908): its revised diagnosis                Tanaka, S., 1908. Descriptions of eight new species of fishes
+    particularly for distinguishing from Rhinogobius sp.              from Japan. Annotationes Zoologicae Japonenses, 7(1):
+    BF, and a comment on an ill-deﬁned congener, known as             27–47.
+   “Rhinogobius sp. OR morphotype Gi-toshoku”in Japan.           Tanaka, S., 1925. Figures and descriptions of the ﬁshes of Japan
+    Bulletin of the Museum of Natural and Environmental               including Riukiu Islands, Bonin Islands, Formosa, Kurile
+    History, Shizuoka, (10): 57–66. (In Japanese with English         Islands, Korea and southern Sakhalin. Figure and description
+    abstract).                                                        of the ﬁshes of Japan, 34: 629–644, pls. 151–153.
+Suzuki, T. & I-S. Chen, 2011. Redescriptions of three species    Temminck, C. J. & H. Schlegel, 1845. Pisces. In von Siebold,
+    of genus Rhinogobius (Perciformes, Gobiidae) described            P. F., Fauna Japonica, Parts VIII, pp.133–152. Lugduni
+    by Dr. Shigeho Tanaka. Bulletin of the Osaka Museum of            Batavorum.
+    Natural History, 65: 9–24. (In Japanese).                    Tsunagawa, T., T. Suzuki & T. Arai, 2010a. Migratory history
+Suzuki, T., I-S. Chen & H. Senou, 2012. A new species of              of Rhinogobius sp. OR morphotype“Shimahire”as
+    Rhinogobius Gill, 1859 (Teleostei: Gobiidae) from the             revealed by otolith Sr : Ca ratios. Ichthyological Research,
+    Bonin Islands, Japan. Journal of Marine Science and               57: 10–15.
+    Technology, 19: 693–701.                                     Tsunagawa, T., T. Suzuki & T. Arai, 2010b. Otolith Sr : Ca
+Suzuki, T. & T. Mukai, 2010. Two lentic freshwater gobies,            ratios of freshwater goby Rhinogobius sp. TO indicating
+    Rhinogobius sp. BF and Rhinogobius sp. TO: their                  absence of sea migrating traits. Ichthyological Research,
+    morphological characteristics, distribution and present           57: 319–322.
+    status. Japanese Journal of Ichthyology, 57: 176–179. (In    Wu, Q., X. Deng, Y. Wang & Y. Liu, 2018. Rhinogobius
+    Japanese).                                                        maculagenys , A new species of freshwater goby
+Suzuki, T., T. Mukai, H. Yoshigou, N. Oseko & D. Tyon, 2010.          (Teleostei: Gobiidae) from Hunan, China. Zootaxa, 4476
+    Redefinition and proposal of the new standard Japanese            (1): 118–129.
+    name for Rhinogobius sp. OR morphotype "Shimahire"           Xia J.-H., H.-L. Wu, C.-H. Li, Y.-Q. Wu & S.-H. Liu, 2018.
+    (Perciformes, Gobiidae). Bulletin of the Osaka Museum of          A new species of Rhinogobius (Pisces: Gobiidae), with
+    Natural History, 64: 1–14. (In Japanese).                         analyses of its DNA barcode. Zootaxa, 4407(4): 553–562.
+Suzuki, T. & K. Sakamoto, 2005. Record of a gobiid fish,         Yamasaki, Y., M. Nishida, T. Suzuki, T. Mukai & K. Watanabe,
+    Rhinogobius sp. TO (Perciformes, Gobiidae) from                   2015. Phylogeny, hybridization, and life history evolution
+    the Noubi and Okazaki plains, Japan. Bulletin of the              of Rhinogobius gobies in Japan, inferred from multiple
+    Biogeographical Society of Japan, 60: 13–20. (In Japanese         nuclear gene sequences. Molecular Phylogenetics and
+    with English abstract).                                           Evolution, 90: 20–33.
+Suzuki, T., K. Shibukawa & M. Aizawa, 2017. Rhinogobius          Yang, J.-Q., H.-L. Wu & I.-S. Chen, 2008. A new species of
+    mizunoi, a new species of freshwater goby (Teleostei:             Rhinogobius (Teleostei: Gobiidae) from the Feiyunjiang
+    Gobiidae) from Japan. Bulletin of the Kanagawa                    Basin in Zhejiang Province, China. Ichthyological
+    Prefectural Museum, (Natural Science), (46): 79–95.               Research, 55: 379–385.
+Suzuki, T., K. Shibukawa, H. Senou & I-S. Chen, 2015.            Zhong, J.-S. & H.-L. Wu, 1998. Pseudorhinogobius aporus,
+    Redescription of Rhinogobius similis Gill 1859 (Gobiidae:         a new genus and species of gobiid fish from eastern
+    Gobionellinae), the type species of the genus Rhinogobius         China. Journal of Fisheries of China, 22(2): 148–153. (In
+    Gill 1859, with designation of the neotype. Ichthyological        Chinese).
+    Research, DOI 10.1007/s10228-015-0494-3.
+                                                            et al.
+36
+
+     摘   要
+       鈴木寿之・木村清志・渋川浩一 , 2019. 止水性生活史をもつ小型の日本産ハゼ科ヨシノボリ属魚類 2
+     新種 . 神奈川県立博物館研究報告（自然科学）, (48): 21–36.［Suzuki, T., S. Kimura & K. Shibukawa, 2019.
+     Two new lentic, dwarf species of Rhinogobius Gill, 1859 (Gobiidae) from Japan. Bull. Kanagawa prefect. Mus.
+     (Nat. Sci.), (48): 21–36.］
+       止水性生活史をもつ小型の日本産ハゼ科ヨシノボリ属魚類 2 新種、Rhinogobius tyoni と R.
+     telma を記載した。Rhinogobius tyoni は背鰭前方に小円鱗を被り背鰭前方鱗数 8–17、胸鰭鰭条数
+     20–23、縦列鱗数 28–35、脊椎骨数 26、雄の第 1 背鰭は台形か半円形で第 3 棘が最長で倒しても第
+     2 背鰭始部に達しない、後眼肩甲管が通常なく前鰓蓋管が通常ある、第 1 背鰭前部に黒系色斑が
+     ない、尾鰭中央部に雄では 2–7 本の赤紫系色の横線があり、雌では 1–7 本の同色の横線や横点列
+     があるなどの特徴で、同属他種から区別できる。Rhinogobius telma は背鰭前方に小円鱗を被り背
+     鰭前方鱗数 3–15、脊椎骨数 26、雄の第 1 背鰭は台形や将棋駒形で第 3 棘が最長で倒しても第 2 背
+     鰭始部に達しない、後眼肩甲管と前鰓蓋管がない、第 1 背鰭前部に黒系色斑はなく中央部に青系
+     色の 1 横斑列がある、尾鰭中央部に数本のグレイ系色の横点列があることなどで、同属他種から
+     区別できる。なお、カラー写真は本報告の web 版（http://nh.kanagawa-museum.jp/research/bulletin/）
+     を参照。
+
+                                                       （受付 2018 年 10 月 31 日；受理 2018 年 11 月 16 日）
+

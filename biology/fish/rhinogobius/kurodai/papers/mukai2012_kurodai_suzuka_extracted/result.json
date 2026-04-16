@@ -1,0 +1,877 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "三重県鈴鹿市南部のため池群におけるヨシノボリ類の分布と種間交雑"
+    },
+    {
+      "type": "paragraph",
+      "text": "メタデータ"
+    },
+    {
+      "type": "paragraph",
+      "text": "言語: Japanese"
+    },
+    {
+      "type": "paragraph",
+      "text": "出版社: 日本生物地理学会"
+    },
+    {
+      "type": "paragraph",
+      "text": "公開日: 2017-07-14"
+    },
+    {
+      "type": "paragraph",
+      "text": "キーワード:"
+    },
+    {
+      "type": "paragraph",
+      "text": "作成者: 向井, 貴彦, 平嶋, 健太郎, 古橋, 芽, 古田, 莉奈, 淀, 太我, 中西, 尚文"
+    },
+    {
+      "type": "paragraph",
+      "text": "メールアドレス:"
+    },
+    {
+      "type": "paragraph",
+      "text": "所属:"
+    },
+    {
+      "type": "paragraph",
+      "text": "URL"
+    },
+    {
+      "type": "paragraph",
+      "text": "http://hdl.handle.net/20.500.12099/56039"
+    },
+    {
+      "type": "figure",
+      "label": "メタデータ",
+      "bbox": [
+        0.123,
+        0.232,
+        0.879,
+        0.463
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/メタデータ.jpg"
+    }
+  ],
+  "2": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Distribution of yoshinobori gobies (Rhinogobius kurodai and related species) in the irrigation ponds in southern Suzuka, Mie Prefecture, Japan, and their phylogenetic analysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahiko Mukai¹*, Kentarou Hirashima², Mei Furuhashi¹, Rina Furuta¹, Taiga Yodo³, Naofumi Nakanishi⁴"
+    },
+    {
+      "type": "paragraph",
+      "text": "¹Faculty of Regional Studies, Gifu University, 1-1 Yanagido, Gifu, 501-1193, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "²Wakayama Prefectural Museum of Natural History, 370-1 Funo, Kainan, Wakayama, 642-0001, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "³Graduate School of Bioresources, Mie University, 1577 Kurimamachiya-cho, Tsu, Mie, 514-0102, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "⁴Mie Prefecture Fisheries Research Insitute, 3564-3 Hamajima, Mie, 514-0404, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract. We assessed the geographical distribution of yoshinobori gobies, belonging to the Rhinogobius species complex, in the irrigation ponds in southern Suzuka, Mie prefecture, Japan, by using color morph and mtDNA phylogenetic analyses. Our results showed the presence of 3 different goby species, namely, To-yoshinobori (Rhinogobius kurodai), Shimahire-yoshinobori (Rhinogobius sp. BF), and Tokai-yoshinobori (Rhinogobius sp. TO), in 7 of the 11 irrigation ponds that we studied, while putative hybrid populations were found in the remaining 4 ponds. Individuals in the hybrid populations showed inconsistencies in the findings from color morph and mtDNA analyses. The distribution of each species and hybrids suggests that the Rhinogobius sp. TO were supplanted by R. kurodai. We also performed interspecific hybridization experiments in an aquarium, and found that Rhinogobius kurodai and related species could hybridize among themselves and still produce fertile offspring."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key words: conservation, Rhinogobius, color morph, mitochondrial DNA, phylogeny, hybridization, genetic disturbance."
+    },
+    {
+      "type": "figure",
+      "label": "",
+      "bbox": [
+        0.145,
+        0.605,
+        0.908,
+        0.689
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/p2_fig0.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "* (Corresponding author): tmukai@gifu-u.ac.jp"
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "11 4 mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "20"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "2001"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "2007"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. TO"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "81"
+    },
+    {
+      "type": "paragraph",
+      "text": "15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius kurodai"
+    },
+    {
+      "type": "paragraph",
+      "text": "2012"
+    },
+    {
+      "type": "paragraph",
+      "text": "11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. BW"
+    },
+    {
+      "type": "paragraph",
+      "text": "11"
+    },
+    {
+      "type": "paragraph",
+      "text": "A K 2010 2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. TO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. BF"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "99.5"
+    },
+    {
+      "type": "paragraph",
+      "text": "KPM-NI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi and Okazaki, 2002"
+    },
+    {
+      "type": "paragraph",
+      "text": "FRLM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table"
+    },
+    {
+      "type": "paragraph",
+      "text": "2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "BF Fig. 1A"
+    }
+  ],
+  "4": [
+    {
+      "type": "figure",
+      "label": "Table 1. Color morph and mtDNA type of Rhinogobius gobies collected from 11 irrigation ponds in Suzuka, Mie Prefecture, Japan.",
+      "bbox": [
+        0.1412,
+        0.0864,
+        0.8588,
+        0.6273
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/Table_1._Color_morph_and_mtDNA_type_of_Rhinogobius_gobies_collected_from_11_irri.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "KPM-NI and KPM-NR, Kanagawa Prefectural Museum of Natural History, FRLM, Fisheries Research Laboratory, Mie University. Nucleotide sequences are available from Genbank/EMBL/DDBJ under accession numbers AB753778-AB753780 (OR01-OR03), AB753782 (BF01) and AB753784-AB753786 (TO01-TO03)."
+    },
+    {
+      "type": "paragraph",
+      "text": "TO Fig. 1B"
+    },
+    {
+      "type": "paragraph",
+      "text": "OR Fig. 1C"
+    },
+    {
+      "type": "paragraph",
+      "text": "photoDB/"
+    },
+    {
+      "type": "paragraph",
+      "text": "kurodai"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "http://research.kahaku.go.jp/zoology/"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011 Rhinogobius"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. OR"
+    },
+    {
+      "type": "paragraph",
+      "text": "2000"
+    }
+  ],
+  "5": [
+    {
+      "type": "figure",
+      "label": "Fig.1 Three Rhinogobius species collected from the irrigation ponds in Suzuka, Mie Prefecture, Japan. A, Rhinogobius sp. BF collected from Pond A (KPM-NI 31159). B, Rhinogobius sp. TO from Pond B (FRLM 42417). C, Rhinogobius kurodai from Pond C (KPM-NI 31160).",
+      "bbox": [
+        0.129,
+        0.109,
+        0.553,
+        0.427
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/Fig.1_Three_Rhinogobius_species_collected_from_the_irrigation_ponds_in_Suzuka,_M.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig.1 Three Rhinogobius species collected from the irrigation ponds in Suzuka, Mie Prefecture, Japan. A, Rhinogobius sp. BF collected from Pond A (KPM-NI 31159). B, Rhinogobius sp. TO from Pond B (FRLM 42417). C, Rhinogobius kurodai from Pond C (KPM-NI 31160)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2. Specimens for mtDNA phylogenetic analysis."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Specimens for mtDNA phylogenetic analysis.",
+      "bbox": [
+        0.165,
+        0.545,
+        0.941,
+        0.764
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/Table_2._Specimens_for_mtDNA_phylogenetic_analysis..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "2001 OR DNeasy"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blood & Tissue Kit"
+    },
+    {
+      "type": "paragraph",
+      "text": "ND5 1kbp"
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR"
+    },
+    {
+      "type": "paragraph",
+      "text": "L12321-Leu 5'-GGT CTT AGG AAC CAA AAA CTC TTG GTG CAA-3' Miya and Nishida, 2000"
+    },
+    {
+      "type": "paragraph",
+      "text": "H13366-ND5-Rhi 5'-AAG GCT GTG AAT GAT GGA GC-3'"
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Crimson"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taq PCR sampler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ex Taq DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "55 1 72 2 95 1 30"
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR"
+    },
+    {
+      "type": "paragraph",
+      "text": "GE"
+    },
+    {
+      "type": "paragraph",
+      "text": "ExoSAP-IT"
+    },
+    {
+      "type": "paragraph",
+      "text": "BigDye Terminator Cycle Sequencing Kit ver. 3.1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beckman Coulter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Agencourt Clean SEQ"
+    },
+    {
+      "type": "paragraph",
+      "text": "ABI 3100 Genetic Analyzer"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai et al. (2005)"
+    },
+    {
+      "type": "paragraph",
+      "text": "DDBJ"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "AB190333"
+    },
+    {
+      "type": "paragraph",
+      "text": "DDBJ"
+    },
+    {
+      "type": "paragraph",
+      "text": "AB190333"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thompson et al., 1997"
+    },
+    {
+      "type": "paragraph",
+      "text": "et al., 2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "1987"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "DDBJ"
+    },
+    {
+      "type": "paragraph",
+      "text": "AB190338 Mukai et"
+    },
+    {
+      "type": "paragraph",
+      "text": "al., 2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "DDBJ"
+    },
+    {
+      "type": "paragraph",
+      "text": "AB753778- AB753789"
+    },
+    {
+      "type": "paragraph",
+      "text": "GEDIMAP Watanabe et al., 2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "P1658-P1672"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clustal X"
+    },
+    {
+      "type": "paragraph",
+      "text": "MEGA5 Tamura"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saitou and Nei,"
+    },
+    {
+      "type": "paragraph",
+      "text": "2009"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kimura, 1980"
+    },
+    {
+      "type": "paragraph",
+      "text": "1000"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "45 30"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius giurinus"
+    },
+    {
+      "type": "figure",
+      "label": "Fig.2 Neighbour-joining tree based on genetic distances estimated from mitochondrial ND5 gene sequences (923 bp) in yoshinobori gobies, Rhinogobius kurodai and related species, collected from Suzuka, Mie Prefecture, Japan (Table 1) and reference sequences (Table 2). Distances are based on Kimura’s two-parameter model and calculated using MEGA5 (Tamura et al., 2011). Numbers adjacent to internal branches indicate bootstrap probabilities (>80%) based on 1,000 pseudoreplicates. Haplotypes OR01-OR03, BF01, and TO01-TO03 are found in the irrigation ponds in Suzuka, Mie Prefecture.",
+      "bbox": [
+        0.23,
+        0.38,
+        0.75,
+        0.68
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/Fig.2_Neighbour-joining_tree_based_on_genetic_distances_estimated_from_mitochond.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig.2 Neighbour-joining tree based on genetic distances estimated from mitochondrial ND5 gene sequences (923 bp) in yoshinobori gobies, Rhinogobius kurodai and related species, collected from Suzuka, Mie Prefecture, Japan (Table 1) and reference sequences (Table 2). Distances are based on Kimura’s two-parameter model and calculated using MEGA5 (Tamura et al., 2011). Numbers adjacent to internal branches indicate bootstrap probabilities (>80%) based on 1,000 pseudoreplicates. Haplotypes OR01-OR03, BF01, and TO01-TO03 are found in the irrigation ponds in Suzuka, Mie Prefecture."
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "Fig.3 Specimens which showed inconsistencies between color morph and mtDNA type. A, Rhinogobius sp. BF morph which had OR02 haplotype (KPM-NI 31166). B, Rhinogobius sp. BF morph which had TO01 haplotype (KPM-NI 31173). C, Rhinogobius kurodai morph which had TO01 haplotype (KPM-NI 31176)."
+    },
+    {
+      "type": "figure",
+      "label": "Fig.3 Specimens which showed inconsistencies between color morph and mtDNA type. A, Rhinogobius sp. BF morph which had OR02 haplotype (KPM-NI 31166). B, Rhinogobius sp. BF morph which had TO01 haplotype (KPM-NI 31173). C, Rhinogobius kurodai morph which had TO01 haplotype (KPM-NI 31176).",
+      "bbox": [
+        0.132,
+        0.402,
+        0.569,
+        0.659
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/Fig.3_Specimens_which_showed_inconsistencies_between_color_morph_and_mtDNA_type..jpg"
+    }
+  ],
+  "8": [
+    {
+      "type": "figure",
+      "label": "Fig. 4 Geographical distribution of three Rhinogobius species and putative hybrids in Suzuka, Mie Prefecture, Japan. Mitochondrial BF haplotype (open square), TO haplotype (closed circle), OR haplotype (open circle), and both TO and OR haplotypes (half closed circle).",
+      "bbox": [
+        0.149,
+        0.046,
+        0.609,
+        0.319
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/Fig._4_Geographical_distribution_of_three_Rhinogobius_species_and_putative_hybri.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4 Geographical distribution of three Rhinogobius species and putative hybrids in Suzuka, Mie Prefecture, Japan. Mitochondrial BF haplotype (open square), TO haplotype (closed circle), OR haplotype (open circle), and both TO and OR haplotypes (half closed circle)."
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "A"
+    },
+    {
+      "type": "paragraph",
+      "text": "B"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5A, B"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig."
+    }
+  ],
+  "9": [
+    {
+      "type": "figure",
+      "label": "Fig. 5 Hybrid individuals which bred in an aquarium. A, male F1 hybrid between male Rhinogobius sp. BF and female Rhinogobius sp. TO. B, female F1 hybrid between male Rhinogobius sp. BF and female Rhinogobius sp. TO. C, male hybrid between male Rhinogobius kurodai and female F1 hybrid (male Rhinogobius sp. BF and female Rhinogobius sp. TO).",
+      "bbox": [
+        0.108,
+        0.113,
+        0.479,
+        0.509
+      ],
+      "_saved": "kurodai/papers/mukai2012_kurodai_suzuka_extracted/Fig._5_Hybrid_individuals_which_bred_in_an_aquarium._A,_male_F1_hybrid_between_m.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5 Hybrid individuals which bred in an aquarium. A, male F1 hybrid between male Rhinogobius sp. BF and female Rhinogobius sp. TO. B, female F1 hybrid between male Rhinogobius sp. BF and female Rhinogobius sp. TO. C, male hybrid between male Rhinogobius kurodai and female F1 hybrid (male Rhinogobius sp. BF and female Rhinogobius sp. TO)."
+    },
+    {
+      "type": "paragraph",
+      "text": "5C"
+    },
+    {
+      "type": "paragraph",
+      "text": "2003"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "2001"
+    },
+    {
+      "type": "paragraph",
+      "text": "mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig.4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pseudorasbora pumila pumila"
+    },
+    {
+      "type": "paragraph",
+      "text": "2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "P. parva"
+    },
+    {
+      "type": "paragraph",
+      "text": "Micropterus salmoides"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lepomis"
+    },
+    {
+      "type": "paragraph",
+      "text": "macrochirus"
+    },
+    {
+      "type": "paragraph",
+      "text": "IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "JSPS"
+    },
+    {
+      "type": "paragraph",
+      "text": "21370035"
+    },
+    {
+      "type": "paragraph",
+      "text": "23510292"
+    },
+    {
+      "type": "paragraph",
+      "text": "RF-"
+    },
+    {
+      "type": "paragraph",
+      "text": "0910"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Phylogenet. Evol., 17: 437-455."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai, T., Nakmura, S., Suzuki, T., and Nishida, M., 2005. Mitochondrial DNA divergence in yoshinobori gobies (*Rhinogobius* species complex) between the Bonin Islands and the Japan Ryukyu Archipelago. Ichthyol. Res., 52: 410-413."
+    },
+    {
+      "type": "paragraph",
+      "text": "2000"
+    },
+    {
+      "type": "paragraph",
+      "text": ", 2010."
+    },
+    {
+      "type": "paragraph",
+      "text": ": 137-152."
+    },
+    {
+      "type": "paragraph",
+      "text": "Saitou, N. and Nei, M., 1987. The neighbor-joining method: a new method for reconstructing phylogenetic trees. Mol.Biol.Evol., 4: 406-425."
+    },
+    {
+      "type": "paragraph",
+      "text": ", 2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "2008"
+    },
+    {
+      "type": "paragraph",
+      "text": "50: 261-262."
+    },
+    {
+      "type": "paragraph",
+      "text": "2010."
+    },
+    {
+      "type": "paragraph",
+      "text": "( ) http://www.pref.gifu.lg.jp/kankyo/shizen/red-data-dobutsu/ 2012.5.5"
+    },
+    {
+      "type": "paragraph",
+      "text": ": 117-128."
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "2001"
+    },
+    {
+      "type": "paragraph",
+      "text": ", 2010."
+    },
+    {
+      "type": "paragraph",
+      "text": "65: 9-24."
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kimura, M., 1980. A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences. J.Mol.Evol., 16: 111-120."
+    },
+    {
+      "type": "paragraph",
+      "text": ", 2005."
+    },
+    {
+      "type": "paragraph",
+      "text": "57: 176-"
+    },
+    {
+      "type": "paragraph",
+      "text": "179."
+    },
+    {
+      "type": "paragraph",
+      "text": ": 99-"
+    },
+    {
+      "type": "paragraph",
+      "text": "110."
+    },
+    {
+      "type": "paragraph",
+      "text": "2001"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010"
+    },
+    {
+      "type": "paragraph",
+      "text": "64: 1-14."
+    },
+    {
+      "type": "paragraph",
+      "text": "2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "594-597"
+    },
+    {
+      "type": "paragraph",
+      "text": "60: 13-20."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miya, M., and Nishida, M., 2000. Use of mitogenomic information in teleostean molecular phylogenetics: a tree-based exploration under the maximum-parsimony optimality criterion. Mol."
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi, S., and Okazaki, T., 2002. A new lentic form of the yoshinobori species complex, *Rhinogobius* spp. from Lake Biwa, Japan, compared with lake-river migrating *Rhinogobius* sp. OR. Ichthyol. Res., 49: 333-339."
+    }
+  ],
+  "11": [
+    {
+      "type": "paragraph",
+      "text": "Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M., and Kumar, S., 2011. MEGA5: Molecular Evolutionary Genetics Analysis using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods. Mol. Biol. Evol., 28: 2731-2739. 25(1) 17-22 2007."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thompson, J.D., Gibson, T.J., Plewniak, F., Jeanmougin, F. and Higgins, D.G., 1997. The Clustal_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. Nuc. Acids Res., 25: 4876-4882. 2003."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watanabe, K., Kano, Y., Takahashi, H., Mukai, T., Kakioka, R. and Tominaga, K., 2010. GEDIMAP: a database of genetic diversity for Japanese freshwater fishes. Ichthyol. Res., 57: 107-109. 2012 10 11 2012 11 22."
+    }
+  ]
+}

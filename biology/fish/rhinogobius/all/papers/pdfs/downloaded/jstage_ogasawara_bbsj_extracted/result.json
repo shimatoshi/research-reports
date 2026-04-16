@@ -1,0 +1,613 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "paragraph",
+      "text": "横井謙一・細谷和海"
+    },
+    {
+      "type": "paragraph",
+      "text": "〒631-8505 奈良県奈良市中町3327-204 近畿大学農学部水産学科水産生物学研究室"
+    },
+    {
+      "type": "paragraph",
+      "text": "Distribution and present status of the habitat in Rhinogobius sp. BI (Gobiidae) from the Bonin Islands"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ken-ichi Yokoi and Kazumi Hosoya"
+    },
+    {
+      "type": "paragraph",
+      "text": "Laboratory of Aquatic Biology, Department of Fisheries, Faculty of Agriculture, Kinki University, 3327-204 Nakamachi, Nara, 631-8505 Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract. An undescribed goby, Rhinogobius sp. BI (Bonin island type) sensu Suzuki (1992), is now endangered, however, there is little information about their micro-distribution and the habitats which are necessary for their conservation. Field research on Chichi-jima and Haha-jima islands in the Northwestern Pacific was done twice to clarify the present status of the goby populations. The presence of the goby was confirmed at all the stations in the south area of Chichi-jima Island and at four stations of Haha-jima Island. The goby inhabited deep water in streams with sand and gravel, and the population density was assessed to be comparatively high at Tokoyono-taki and Shigure-dam. The specimens collected from Haha-jima Island well matched R. sp. BI from Chichi-jima Island. But, the variation about the numbers of pectoral fin rays and predorsal scales, is low in the specimens from Haha-jima Island. The population of Haha-jima island seems to have low genetic diversity as compared with that of Chichi-jima island. Present study suggests that each population composes an independent local population."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key words: Bonin islands, Chichi-jima, conservation, endemic species, Haha-jima, Oceanic island."
+    },
+    {
+      "type": "paragraph",
+      "text": "(要約)\nオガサワラヨシノボリ Rhinogobius sp. BI は, 小笠原諸島に固有な淡水魚である. 本種は開発にともなう生息地破壊や環境変化により数を減らしつつあり, 保護が急務となっている. 生息地保全に必要となる本種の分布や生息環境を調べた結果, 父島に加えて母島での本種の生息を確認した. 本種は河川の上流域の淵に多く生息していた. 両島から得られた個体群の形態的特徴について比較したところ, 母島の個体群は胸鰭条数や背鰭前方鱗数の変異が少なく, 父島個体群にくらべ遺伝的多様性が低いことが示唆された. これらの変異は, それぞれが独自の地域個体群を形成しているものと考えられた. 本種の保護には, 生息地保全や系統保存など, 包括的な保護施策が必要と思われる."
+    },
+    {
+      "type": "paragraph",
+      "text": "連絡先: 横井謙一, gf903301@nara.kindai.ac.jp"
+    }
+  ],
+  "2": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "paragraph",
+      "text": "小笠原諸島は、島の成立以来一度も周辺の大陸と続きになったことがない大洋島で、さまざまな生物群で固有種の占める割合がきわめて高く、そのほぼ全域が国立公園に指定されている（清水, 1992; 中井, 1995; 小野, 1995; 冨山, 1998）。しかし、厳重な自然保護が要求される特別保護地区から開発規制のない公園区域外まで、保護の程度の異なる区域が狭い範囲に集中しているため（清水, 1992）, 固有生物種は公園区域外で行われる道路工事や森林伐採の影響を受けやすい。また、移入生物による捕食や競合などの影響も重複しその数を急速に減らしつつある（冨山, 1998）。淡水魚では、オガサワラヨシノボリが環境庁レッドリストの絶滅危惧IB類に指定され（環境庁, 1999）, 生息地保全が急務となっている（環境省, 2003）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "オガサワラヨシノボリの分布域は、現在までのところ父島・母島とされ他島での生息は確認されていない（岩田, 1997; Matsuura et al., 2000; 鈴木, 2001: 589）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "小笠原諸島におけるヨシノボリ類の記録は、母島からは林（1971）が報告しているが、分布や生息状況は不明のままである。父島からは座間・藤田（1977）がクロヨシノボリ Rhinogobius sp. DAに当たる黒色型を, 菅野ほか（1980）, Kuwamura et al.（1983）, 佐藤（1991）は, 単にヨシノボリとしてそれぞれ報告している。渡辺（1991）は小笠原産ヨシノボリ不明型として雌雄のカラー写真のみを公表している。鈴木（1992）は, 父島に生息するヨシノボリ類は1種で, これまで日本から知られていない種類と確認し, これを日本に分布する新たな種類と考え, オガサワラヨシノボリ Rhinogobius sp. BIとした。さらに鈴木（2001: 589）は, 本種の分布域を父島および母島と報告している。しかし, それらの報告では分布や生息状況が断片的で詳細については明らかにされていない。報告のもっとも多い父島では, 道路工事や土地開発による森林伐採が急速に進められているにもかかわらず, 現在までのところ保護に関する取り組みはなされていない。"
+    },
+    {
+      "type": "paragraph",
+      "text": "そこで著者らは, 十分な分類学的知見が得られていない母島産ヨシノボリの同定を行うとともに, 分布や生息状況についての2回の調査に基づき, 保護の必要性について検討した。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "材料と方法"
+    },
+    {
+      "type": "paragraph",
+      "text": "小笠原諸島は, 東京の南南東約1000–1200 kmに位置し（Fig. 1）, 聟島列島・父島列島・母島列島・火山列島（硫黄列島）・西之島・南鳥島・沖ノ鳥島を含む, 東西約1800 km, 南北約1000 kmにわたる広大な地域に散在する大小180あまりの島々を指す（本間, 1992）。ここでは, 地質学的な年代が古く独特な固有の生物相を有する, 「聟島列島・父島列島・母島列島」に属する島々を便宜上「小笠原諸島」と呼ぶことにする。小笠原諸島は亜熱帯性気候に属し, 1年を通じて高温であるが, 年間降水量は約1600 mmで, ほぼ同緯度の沖縄県那覇の約60%しかなく, さらに夏季には太平洋高気圧の中心部に位置することが多いため, 台風の襲来が多い沖縄にくらべると降水量が半分にも満たない（中村ほか, 1986）。したがって, 河川は常に渇水傾向にあり, とりわけ夏季にはその程度が激しい。"
+    },
+    {
+      "type": "paragraph",
+      "text": "第1回調査: 2000年6月18–28日に, 父島4河川および母島2河川で, 投網・タモ網・モンドリによる魚類の採集, 水温・水深の計測を行った。"
+    },
+    {
+      "type": "paragraph",
+      "text": "第2回調査: 2001年5月26日–6月2日に, 父島11地点および母島7地点で, 2人×30分の定量調査を行った。調査では, タモ網による魚類の採集, 水温・水深・流幅・溶存酸素量（以下DO）の計測を行った。採集した個体は, 10%中性ホルマリンで直"
+    }
+  ],
+  "3": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. Map showing the Bonin Islands.",
+      "bbox": [
+        0.09,
+        0.14,
+        0.91,
+        0.41
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._1._Map_showing_the_Bonin_Islands..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Map showing the Bonin Islands."
+    },
+    {
+      "type": "paragraph",
+      "text": "ちに固定し, 大学の研究室において各体部の計測を行った. 各形態形質の計測は主としてHubbs and Lagler (1964) に従い, 脊椎骨数はX線写真より計数した. 研究に用いたヨシノボリ類の標本は近畿大学農学部水産学科 (Department of Fisheries, Kinki University, Nara) に保存登録した (FKUN 30001-30090, 31001-31206). なお, 2002年10月の時点では, 本種の生息地において, 河川の状態や個体数に大きな変化は見られなかった."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "結果"
+    },
+    {
+      "type": "paragraph",
+      "text": "各地点の環境とオガサワラヨシノボリの生息現況は, 主として第2回調査の結果にもと"
+    },
+    {
+      "type": "paragraph",
+      "text": "づき記載したが, 第1回調査で本種が採集された地点については, その結果も記した."
+    },
+    {
+      "type": "paragraph",
+      "text": "父島 南北約7 km, 東西約4 km, 面積約24 km²で小笠原諸島最大の島である が, 伊豆大島の4分の1, 沖縄島の50分の1程度しかない. 最高峰の中央山 (標高317.9 m) をはじめ, 夜明山, 鸚鵡山など標高200-300 mの山が脊梁山地を造っているが, 西側斜面には一部平坦地も見られる (本間, 1992). 本島最大の河川は南部を流れる八瀬川 (流程2.5 km) で, 河川形態は下流部でBb型もしくはBb-Bc移行型 を示す. しかし, 多くは1 km以下の極小河川 で, 大部分がAa型である (Figs. 2,3, Table 1). 大村 (St. 1) と清瀬 (St. 2) : 市街地を流れ"
+    }
+  ],
+  "4": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "paragraph",
+      "text": "る河川で, 大部分が3面コンクリート護岸され, 調査時は渇水により状態が非常に悪かったため, 採集を行わなかった. 目視により, ボラ類 Mugilidae spp., カワアナゴ類 Eleotris spp., モザンビークティラピア Oreochromis mossambicus (Peters, 1852), グッピー Poecilia reticulata Peters, 1859を観察した."
+    },
+    {
+      "type": "paragraph",
+      "text": "コペペ海岸下流 (St. 3): 調査は, 海岸に注ぐ細流の河口部から少し上流で行った. 河川形態はAa型を呈し, 底質は砂泥底であるが, 渇水時は河口部が閉塞するため水の流れはほとんどない. 第2回調査ではオガサワラヨシノボリの遡上稚魚が多数採集されたが, 体長20 mm以上の個体は採集されなかった. その"
+    },
+    {
+      "type": "paragraph",
+      "text": "他の確認魚種はボラ類, グッピーであった. コペペ海岸上流 (St. 4): St. 3から数10 m上流の地点で, その間には2 mほどの段差があり, 周囲はムニンヒメツバキ型高木林 (清水, 1992) が繁り, 薄暗かった. 底質は砂礫底でゆるやかな流れがあったが, 透明度は悪かった. 採集個体数はわずか1個体で, 下流で採集されたものと同様に遡上稚魚であった. 中海岸1 (St. 5): 中海岸に流入する沢の河口部から少し上流で, 水量は非常に豊富であった. 河川形態はAa型で, 河床には大きな礫が確認された. 採集個体数は3個体で, ともに淵頭で採集され, 他にオオウナギ Anguilla marmorata Quoy & Gaimard, 1824, ナンヨウボ"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. Distribution of Rhinogobius sp. BI in Chichi-jima, Bonin Islands. ●, Localities confirmed by the present research; ▲, records in the literature; ■, Localities confirmed by the present research and recorded in the literature; △, Locality not confirmed by the present research; ○, Locality not confirmed by the present research but recorded in the literature. Records in the literature based on Zama & Fujita (1977), Kuwamura et al. (1983), Satou (1991) and Suzuki (1992).",
+      "bbox": [
+        0.338,
+        0.35,
+        0.846,
+        0.641
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._2._Distribution_of_Rhinogobius_sp._BI_in_Chichi-jima,_Bonin_Islands._●,_Loc.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. Distribution of Rhinogobius sp. BI in Chichi-jima, Bonin Islands. ●, Localities confirmed by the present research; ▲, records in the literature; ■, Localities confirmed by the present research and recorded in the literature; △, Locality not confirmed by the present research; ○, Locality not confirmed by the present research but recorded in the literature. Records in the literature based on Zama & Fujita (1977), Kuwamura et al. (1983), Satou (1991) and Suzuki (1992)."
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "横井謙一・細谷和海"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3. Location of sampling sites in Chichi-jima.",
+      "bbox": [
+        0.1371,
+        0.0895,
+        0.8621,
+        0.4555
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._3._Location_of_sampling_sites_in_Chichi-jima..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. Location of sampling sites in Chichi-jima."
+    }
+  ],
+  "6": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1. Environmental conditions at sampling sites in the Bonin islands."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Environmental conditions at sampling sites in the Bonin islands.",
+      "bbox": [
+        0.145,
+        0.137,
+        0.846,
+        0.667
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Table_1._Environmental_conditions_at_sampling_sites_in_the_Bonin_islands..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Asterisks indicate the localities where the presence of Rhinogobius sp. BI was confirmed."
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "横井謙一・細谷和海"
+    },
+    {
+      "type": "paragraph",
+      "text": "ウズハゼ Stiphodon percnopterygionus Watson & Chen, 1998, ボラ類, カワアナゴ類も確認された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "中海岸2 (St. 6) : 標高70–80 mの地点にある淵で, その前後には落差5 m以上の滝がある。周囲の植生は乏しく日陰がないため, 夏季にはかなりの高温になることが予想される。水の流れはほとんどなく, 透明度もきわめて低かった。採集個体数は2個体であるが, ともに体長20 mm以下であった。その他にカワアナゴ類も1個体採集された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "中海岸3 (St. 7) : 調査は標高100 mの地点で行った。水の流れはほとんどなく, 淵は水溜り状になっており, 河床には落ち葉が堆積していた。採集個体数は3個体であったが, 遡上稚魚はまったく確認されなかった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "中海岸4 (St. 8) : 調査は標高145 mの地点で行った。水の流れはほとんどなく, 水溜り状の淵になっていた。採集個体数は2個体で, その中には体長60.5 mmの大型個体も含まれており, 中海岸では上流側に行くほど体長は大きくなる傾向が見られた。また, 1つの淵には1–2個体しか生息していなかった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "時雨ダム上流 (St. 9) : 調査はダムに流入する南側の沢で行った。水量は非常に豊富で, ダムの流入部は大きな淵になっており, グッピーが多数確認されたが, 本種はまったく確認されなかった。その20–30 m上流では河床が巨大な岩盤状になっており, 連続的に小さな淵が存在していた。それらの淵には本種が多数生息しており, 緑藻などの付着藻類も豊富であった。採集個体数は64個体であったが, 体長20 mm以下の個体は1個体も採集されず, 大型の個体もあまり確認されなかった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "常世の滝上流 (St. 10) : 八潮川の支流にあたる常世の滝 (A) は高さ20 mほどで, 水量も非常に豊富である。河川形態はAa型を呈し, 淵も多い。底質は砂礫底で大小さまざまな礫があり, 河床が岩盤によって形成されているところも見られた。周囲はシダ類が繁茂し, 枯れ木や落ち葉なども多く見られた。採集個体数は29個体で, その中には遡上期にあたると思われる稚魚も含まれていた。"
+    },
+    {
+      "type": "paragraph",
+      "text": "常世の滝下流 (St. 11) : 滝の直下の淵で底質は砂礫底であるが, 落ち込み付近には岩が多数存在しているため水深は浅くなり, その岩の隙間にオガサワラヨシノボリが高密度に生息していた。第1回調査の採集個体数は51個体のみであった。第2回調査では, 採集された156個体のうち114個体は遡上稚魚で, 滝の岩盤の裂け目や途中の水溜りでも確認された。他にオオウナギも確認された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "北袋沢 (St. 12) : 八潮川河口から約1 km上流の河川合流部で, 周囲は三面コンクリート護岸され, 時雨ダム・常世の滝に続く河川には1 mほどの堰も見られる。第1回調査の採集個体数は82個体で, その中には成魚も含まれていたが, 第2回調査で採集された253個体はすべてが遡上稚魚であった。その他にボラ類, カワアナゴ類, モザンビークティラピア, コイ Cyprinus carpio Linnaeus, 1758が確認された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "東海岸 (大滝) (St. 13) : 東海岸に注ぐ沢で, 水量も多く自然度も高い。河床は岩盤で形成され, 淵が連続的に存在し, 砂礫が堆積していた。採集個体数は5個体で, 中海岸と同様に1つの淵には1–2個体しか生息していなかった。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "母島"
+    },
+    {
+      "type": "paragraph",
+      "text": "面積約20 km², 南北約13 kmの細長い島で, 母島列島最大の島である。小笠原諸島でもっとも高い山である乳房山 (標高462.6 m) をはじめ, 堺ヶ岳や石門山など300–400 mの山々が脊梁山地を造り, 脊梁部には雲霧帯が見られ, 父島よりは湿性傾向にある (本間, 1992)。母島には平坦地はほとんど見られず, 河川は急峻で小規模なものがいくつか見られる程度である (Figs 4, 5, Table 1)。"
+    }
+  ],
+  "8": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 4. Distribution of Rhinogobius sp. BI in Haha-jima, Bonin Islands. ●, Localities confirmed by the present research; ▲, record in the literature; ○, Localities not confirmed by the present research. Records in the literature based on Hayashi (1971).",
+      "bbox": [
+        0.21,
+        0.16,
+        0.54,
+        0.38
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._4._Distribution_of_Rhinogobius_sp._BI_in_Haha-jima,_Bonin_Islands._●,_Local.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4. Distribution of Rhinogobius sp. BI in Haha-jima, Bonin Islands. ●, Localities confirmed by the present research; ▲, record in the literature; ○, Localities not confirmed by the present research. Records in the literature based on Hayashi (1971)."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 5. Location of sampling sites in Haha-jima.",
+      "bbox": [
+        0.11,
+        0.4,
+        0.94,
+        0.67
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._5._Location_of_sampling_sites_in_Haha-jima..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5. Location of sampling sites in Haha-jima."
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "横井謙一・細谷和海"
+    },
+    {
+      "type": "paragraph",
+      "text": "母島産ヨシノボリ類の形態的特徴については林 (1971) が報告しているが, 採集された個体は第2背鰭鰭条数が1棘2軟条とされ, 奇形の可能性もある. この報告からは, かならずしも母島産ヨシノボリ類がオガサワラヨシノボリに該当するとはいえない. オガサワラヨシノボリは形態的にはクロヨシノボリに酷似するが, 胸鰭基底に三日月状斑はなく1黒色点があり, 体側背面に鞍状斑がない点で区別される (明仁ほか, 2000: 1253). 今回の調査で, 両島から得られたヨシノボリ類は, 頬の小朱点, 胸鰭基底の1黒色点, 体側中央の暗色縦線, 尾鰭基底の太い八の字斑などの斑紋を有しており, 繁殖期の雌にはより明瞭に現れるため, 母島で得られた個体はオガサワラヨシノボリと同定した (Figs 6, 7). 計"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 6. *Rhinogobius* sp. BI collected from the Bonin Islands in 2000. A) 43.44 mm SL (upper: FKUN30015), 42.24 mm SL (lower: FKUN30017) from Tokoyonotaki, Chichi-jima. B) 44.03 mm SL (upper: FKUN30069), 34.20 mm SL (lower: FKUN30076) from Nishiura, Haha-jima. Scale bar indicates 10 mm.",
+      "bbox": [
+        0.19,
+        0.26,
+        0.73,
+        0.41
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._6._Rhinogobius_sp._BI_collected_from_the_Bonin_Islands_in_2000._A)_43.44_mm.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 6. *Rhinogobius* sp. BI collected from the Bonin Islands in 2000. A) 43.44 mm SL (upper: FKUN30015), 42.24 mm SL (lower: FKUN30017) from Tokoyonotaki, Chichi-jima. B) 44.03 mm SL (upper: FKUN30069), 34.20 mm SL (lower: FKUN30076) from Nishiura, Haha-jima. Scale bar indicates 10 mm."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 7. Color patterns of *Rhinogobius* sp. BI collected from Nishiura, Haha-jima in life. Upper: male, lower: female.",
+      "bbox": [
+        0.28,
+        0.49,
+        0.85,
+        0.7
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._7._Color_patterns_of_Rhinogobius_sp._BI_collected_from_Nishiura,_Haha-jima_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 7. Color patterns of *Rhinogobius* sp. BI collected from Nishiura, Haha-jima in life. Upper: male, lower: female."
+    }
+  ],
+  "10": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Frequency distributions of meristic counts in Rhinogobius sp. BI collected from Chichi-jima and Haha-jima.",
+      "bbox": [
+        0.196,
+        0.138,
+        0.806,
+        0.307
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Table_2._Frequency_distributions_of_meristic_counts_in_Rhinogobius_sp._BI_collec.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2. Frequency distributions of meristic counts in Rhinogobius sp. BI collected from Chichi-jima and Haha-jima."
+    },
+    {
+      "type": "figure",
+      "label": "Table 3. Standard length (mm) and proportional measurements in percentage for standard length (SL) and head length (HL) in Rhinogobius sp. BI collected from Chichi-jima and Haha-jima.",
+      "bbox": [
+        0.196,
+        0.312,
+        0.806,
+        0.713
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Table_3._Standard_length_(mm)_and_proportional_measurements_in_percentage_for_st.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3. Standard length (mm) and proportional measurements in percentage for standard length (SL) and head length (HL) in Rhinogobius sp. BI collected from Chichi-jima and Haha-jima."
+    },
+    {
+      "type": "paragraph",
+      "text": "* and ** indicate significant differences between Chichi-jima and Haha-jima at 1% and 5% levels by student t-test, respectively. Values in parentheses are ranges."
+    }
+  ],
+  "11": [
+    {
+      "type": "paragraph",
+      "text": "横井謙・・・細谷和海"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 8. Cephalic lateral line system in male of Rhinogobius sp. BI from Chichi-jima (A; FKUN30013, 48.01 mm SL) and Haha-jima (B; FKUN30064, 59.49 mm SL). From B' to O' indicates sensory canal pores; dots represent sensory papillae; arrow shows the anterior end of gill opening. Scale bar indicates 10mm.",
+      "bbox": [
+        0.2,
+        0.15,
+        0.8,
+        0.45
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_ogasawara_bbsj_extracted/Fig._8._Cephalic_lateral_line_system_in_male_of_Rhinogobius_sp._BI_from_Chichi-j.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "数形質については，両島間で明瞭なモードの\n違いは確認されなかった．しかし，胸鰭条数\nや背鰭前方鱗数では，母島個体群の変異幅\nが小さく，父島個体群にくらべ遺伝的多様\n性が低い可能性もある (Table 2)．また，形態\n的差異については，雌雄合わせて9形質で差\nが見られ，雌の第1背鰭基底長を除く8形質で\nそれぞれ父島の値が高くなった．雌雄ともに\n差が見られた形質は，第2背鰭基底長のみで\nあった (Table 3)．頭部感覚管の配列様式は，\nカワヨシノボリ Rhinogobius flumineus (Mizuno,\n1960) や他のヨシノボリ類と同様のパターン\nを示した (Fig. 8)．背鰭前方鱗は，側頭部と\n後頭部に三叉し，側頭部においては感覚管開\n孔L'付近に達する．"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上のことから，島間で胸鰭条数や背鰭\n前方鱗数などに若干の変異が見られ，それ"
+    },
+    {
+      "type": "paragraph",
+      "text": "ぞれが独自の地域個体群を形成しているもの\nと考える．"
+    },
+    {
+      "type": "paragraph",
+      "text": "玉川ダム下流 (St. 14) : 調査は減勢工 (河\n川管理施設等構造令研究会, 1978) 直下で行\nなった．右岸側の一部はコンクリート護岸さ\nれていたが，左岸側にはシュロガヤツリが繁\nり，底質は砂礫底で落ち葉が堆積していた．\n確認魚種はグッピーのみであった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "大沢海岸 (St. 15) : 調査は河口部から約30\nm上流の淵で行なった．周囲には巨礫が多数\n見られ水量も豊富であったが，本種はまった\nく採集されなかった．確認魚種はオオウナギ\nのみであった．"
+    },
+    {
+      "type": "paragraph",
+      "text": "北港下流 (St. 16) : 調査は河口部から約10\nmの所で行なった．周囲は三面コンクリート\n護岸が施され水路状になっているが，一部崩"
+    }
+  ],
+  "12": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "paragraph",
+      "text": "れている部分も見られた。河床には砂礫が堆積し、水量も比較的多く透明度も高かったが、夏季には河口部が閉塞し水の流れはほとんどない。採集個体数は6個体であったがすべて遡上稚魚で、成魚は見られなかった。その他にボラ類が確認された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "北港上流 (St. 17): 北港には集落があったため、河川は改修され水路になっており、水量は豊富で透明度も高かったが、夏季には渇水でほとんど流れがない。本種はまったく採集されなかったが、両側回遊魚であるナンヨウボウズハゼが採集された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "長浜橋 (St. 18): 長浜に注ぐ比較的流程の長い沢である。中下流域では水量も豊富で滝なども随所に見られるが、中流部で道路により分断されているため上流域ではほとんど流れがない。調査は道路の直下で行なったが、採集個体数はわずか1個体であった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "西浦下流 (St. 19): 西浦の河口から約100 mの地点にある落差5 m程の滝の落ち込みで、周囲は両側とも岩盤に囲まれ、覆い被さるようにガジュマルの気根が伸び、わずかな光がさす程度であった。底質は砂礫底で、水量は豊富であった。第1回調査では27個体採集されたが、第2回調査では2個体しか採集できなかった。その他にグッピーが確認された。"
+    },
+    {
+      "type": "paragraph",
+      "text": "西浦上流 (St. 20): 滝の上流約40 mの付近にはソーラーポンプ場があるため、コンクリート護岸されたところも見られ、グッピーが多数生息していた。調査は護岸部より下流側で行なった。水量は豊富で大礫も見られたが、採集個体数は1個体であった。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "考察"
+    },
+    {
+      "type": "paragraph",
+      "text": "今回の調査では父島南部の全調査地点と母島の4地点でオガサワラヨシノボリの生息を確認した。本種は、河川の上流域の比較的流れのゆるやかな砂礫底の淵に多く生息し、それぞれの地点での生息密度や体長組"
+    },
+    {
+      "type": "paragraph",
+      "text": "成は特徴的であった。"
+    },
+    {
+      "type": "paragraph",
+      "text": "コペペ海岸下流, 北袋沢, 常世の滝で多数の本種が採集されたが, そのほとんどは遡上稚魚であった. コペペ海岸に流入する河川では稚魚がもっとも多く遡上していたが, 夏季の渇水時には水が干上がる可能性が高いと予想されるため, 産卵場として機能していないことが予想される. 北袋沢では, 第1回調査で成魚が採集されたが, 第2回調査ではそれらの個体が1個体も確認されなかった. これは, 調査地周辺で行われていた工事によって土砂が流れ込み, 淵が消失していたことに起因すると考えられる. 常世の滝では, 過去の報告においてもかなりの高密度で生息が確認されていることから (鈴木, 1992), 本種の主要な生息地の1つであることは明らかである. しかし, 第2回調査時には滝の東側で大規模な森林伐採が行われ, 予断を許さない状況にある. 同様に, 生息密度が高く主要な生息地と考えられる時雨ダム (堤高24 m) 上流部では, 湖沼型繁殖集団が形成されている可能性がある. しかし, 遡上稚魚がまったく観察されず, 再生産の確認は今後の課題である."
+    },
+    {
+      "type": "paragraph",
+      "text": "その他の地点では生息数が少なく低密度に生息していたことから, 恒常的な生息地ではなく, 分散によってもたらされる一時的な局所個体群であることが示唆される. さらに, 過去の報告における分布をまとめると (座間・藤田, 1977; Kuwamura et al., 1983; 佐藤, 1991; 鈴木, 1992), 本種は父島全域に生息が確認されているが, 確認地点の多くは個体数が少なく生息環境も厳しい. これらは1つの超個体群 (細谷, 1997) を形成している可能性もあり, それらを含めた島全体の保全が不可欠と考えられる."
+    },
+    {
+      "type": "paragraph",
+      "text": "母島の西浦下流では, 第1回調査時には27個体採集されたが, 第2回調査ではわずか2個体, その上流でも1個体しか採集できず, 遡上稚魚はまったく確認されなかった. 西浦"
+    }
+  ],
+  "13": [
+    {
+      "type": "paragraph",
+      "text": "横井謙一・細谷和海"
+    },
+    {
+      "type": "paragraph",
+      "text": "の海岸はごろた浜で河口部は海岸線から数10mのところで伏流しているため稚魚は遡上で きず, 確認できなかったものと思われる. さ らに調査地の上流部には工事の形跡があり, コンクリート護岸されたところも見られ, 個 体数の減少が危惧される."
+    },
+    {
+      "type": "paragraph",
+      "text": "このように, 個々の生息地や個体数は局 限され, 種の生存基盤は概して脆弱である. そのため, その基盤を破壊されることはただ ちに種の存続が危うくなることを意味し (加 藤・太田, 1993), 森林伐採や工事による影 響は本種にとってきわめて深刻な問題と考え られる."
+    },
+    {
+      "type": "paragraph",
+      "text": "さらに, 調査ではコイ, グッピー, モザン ビークティラピアなどの外来種も採集され た. なかでも父島で見られるモザンビークテ ィラピアは雑食性で, 本種の遡上稚魚も多 数捕食されている可能性もある."
+    },
+    {
+      "type": "paragraph",
+      "text": "一方, 日本の自然公園法に基づく初期の 国立公園指定では, 観光資源としての風光 明媚さがもっとも重要な基準とされてきたた め, もっとも厳正に保護されるべき地域が制 度上はきわめて緩い規制しかかけられていな い (中井, 1995). 特に小笠原諸島の陸水域 は, 現在まで保護の対象地域として扱われて いなかった. 以上のことを総合すると, 本種 の生息環境の保全をはかるとともに, 施設内 における保存技術の確立など, 包括的な保護 施策を講じることが急務と思われる."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "謝辞"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究の遂行にあたって, 兵庫県立尼崎 北高等学校の鈴木寿之教諭および横須賀市 自然・人文博物館の林公義館長, 京都大学 大学院アジア・アフリカ地域研究科の岩 田明久博士にはオガサワラヨシノボリの分類 と分布に関する情報をいただいた. また, 近 畿大学農学部水産学科の久保喜計講師には 懇切にご助言と励ましをいただき, 東口信行"
+    },
+    {
+      "type": "paragraph",
+      "text": "氏には現地調査に同行していただいた. 現地 調査の実施にあたっては, 東京都小笠原支庁 土木課自然公園係の中野秀人前係長, 田巻 芳則氏, および環境省自然保護局の小林光 則局長, 同じく渡辺綱男前評価技術調整官 をはじめとする方々からご指導いただいた. 菊池真彦氏をはじめとする島民の方々には, 貴重な情報と励ましをいただいた. あわせて 感謝の意を表する. 最後に, 本稿が島民の 方々の保護意識向上やオガサワラヨシノボリ の生息地保全の一助となることを願ってやま ない."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "引用文献"
+    },
+    {
+      "type": "paragraph",
+      "text": "明久・坂本勝一・池田祐二・岩田明久, 2000. ハ ゼ亜目. 中坊徹次 (編), 日本産魚類検索 全 種の同定 (2版): 1139-1310. 東海大学出版会, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "林 公義, 1971. 小笠原諸島・母島産の魚類. 横 須賀市博物館雑報, 16: 23-25."
+    },
+    {
+      "type": "paragraph",
+      "text": "本間 暁, 1992. 小笠原の自然への招待. 小笠 原自然環境研究会 (編), フィールドガイド. 小笠原の自然-東洋のガラパゴス: 1-17. 古今 書房, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "細谷和海, 1997. 生物多様性を考慮した淡水魚保 護. 長田芳和・細谷和海 (編), 日本の希少淡 水魚の現状と系統保存 よみがえれ日本産淡 水魚: 315-329. 緑書房, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hubbs, C. L. & Lagler, K. F., 1964. Fishes of the Great Lakes Region (2nd Edn). xv, 123 pp. Univ. Michigan Press, Bloomfield Hills."
+    },
+    {
+      "type": "paragraph",
+      "text": "岩田明久, 1997. ハゼ類. 長田芳和・細谷和海 (編), 日本の希少淡水魚の現状と系統保存 よ みがえれ日本産淡水魚: 155-164. 緑書房, 東 京."
+    },
+    {
+      "type": "paragraph",
+      "text": "環境庁, 1999. 汽水・淡水魚類のレッドリスト の見直しについて. 環境庁自然保護局野生生 物課, 1-6."
+    },
+    {
+      "type": "paragraph",
+      "text": "環境省, 2003. 改訂・日本の絶滅のおそれのあ"
+    }
+  ],
+  "14": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "オガサワラヨシノボリの分布と生息現況"
+    },
+    {
+      "type": "paragraph",
+      "text": "る野生生物ーレッドデータブックー4. 汽水・淡水魚類. 16, 230 pp. 財団法人自然環境研究センター, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "河川管理施設等構造令研究会, 1978. 解説・河川管理施設等構造令: 62-64. 山海堂, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "加藤辰巳・太田英利, 1993. エコロジーガイド. 日本の絶滅危惧生物. 197 pp. 保育社, 大阪."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kuwamura, T., Fukao, R., Nakabo, T., Nishida, M., Yanagisawa, T. & Yanagisawa, Y., 1983. Inshore fishes of the Ogasawara (Bonin) Islands, Japan. *Galaxea*, 2: 83-94."
+    },
+    {
+      "type": "paragraph",
+      "text": "Matsuura, K., Doi, A. & Shinohara, G., 2000. Distribution of freshwater fishes in Japan. *Supplement to Catalog of the Freshwater Fishes Collection in the National Science Museum, Tokyo*: 230-235. National Science Museum, Tokyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "中井達郎, 1995. 小特集 小笠原の自然保護 小笠原の自然と法制度. 環境と公害, 25: 47-52."
+    },
+    {
+      "type": "paragraph",
+      "text": "中村和郎・木村竜治・内嶋善兵衛, 1986. 日本の気候: 145-153. 岩波書店, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "小野幹雄, 1995. 特集にあたって 生物にとって島とはなにかー島のフロラとファウナの特性. 遺伝, 46: 8-10."
+    },
+    {
+      "type": "paragraph",
+      "text": "佐藤寅夫, 1991. 小笠原諸島の沿岸性魚類相の現状. 第二次小笠原諸島自然環境現状調査報告書: 309-326. 東京都立大学."
+    },
+    {
+      "type": "paragraph",
+      "text": "清水善和, 1992. 小笠原の自然への招待. 小笠原自然環境研究会 (編), フィールドガイド. 小笠原の自然ー東洋のガラパゴス: 17-28. 古今書房, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "菅野 徹・倉田洋二・柳沢冨雄, 1980. 小笠原諸島の魚類相概要. 小笠原諸島自然環境現状調査報告書, 1: 119-155. 東京都公害局."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之, 1992. 小笠原諸島父島で得られたヨシノボリの1種ーオガサワラヨシノボリ (新称) (予報). 兵庫陸水生物, 42: 5-12."
+    },
+    {
+      "type": "paragraph",
+      "text": "——, 2001. ヨシノボリ属. 川那部浩哉・水野信彦・細谷和海 (編), 日本の淡水魚: 584-603. 山と渓谷社, 東京."
+    },
+    {
+      "type": "paragraph",
+      "text": "富山清升, 1998. 小笠原諸島の移入動植物による島嶼生態系への影響. 日本生態学会誌, 48: 63-72."
+    },
+    {
+      "type": "paragraph",
+      "text": "渡辺昌和, 1991. 珍しいハゼ科魚類. 淡水魚保護, 4: 口絵・カラー写真."
+    },
+    {
+      "type": "paragraph",
+      "text": "座間 彰・藤田 清, 1977. 小笠原諸島産魚類目録. 東京水産大学研究報告, 63: 87-138."
+    },
+    {
+      "type": "paragraph",
+      "text": "(2003年5月22日 受理)"
+    }
+  ]
+}

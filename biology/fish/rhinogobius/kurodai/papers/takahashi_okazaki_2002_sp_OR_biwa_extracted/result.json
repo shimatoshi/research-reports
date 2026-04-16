@@ -1,0 +1,461 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A new lentic form of the \"yoshinobori\" species complex, Rhinogobius spp. from Lake Biwa, Japan, compared with lake–river migrating Rhinogobius sp. OR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sachiko Takahashi¹ and Toshio Okazaki²"
+    },
+    {
+      "type": "paragraph",
+      "text": "¹13-1 Shimomiyamae-cho, Shishigatani, Sakyo, Kyoto 606-8431, Japan (e-mail: aas12610@par.odn.ne.jp)\n²National Research Institute of Aquaculture, Hiruta, Tamaki-cho, Mie 519-0423, Japan (e-mail: okazakit@fra.affrc.go.jp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Received: April 27, 2001 / Revised: September 18, 2001 / Accepted: June 20, 2002"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ichthyological Research"
+    },
+    {
+      "type": "paragraph",
+      "text": "©The Ichthyological Society of Japan 2002"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ichthyol Res (2002) 49: 333–339"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract The various life history strategies seen within the \"yoshinobori\" species complex of the genus Rhinogobius, which differentiated from an amphidromous ancestor, have been grouped ecologically into amphidromous, fluvial, and lacustrine types. In the Lake Biwa water system, two lacustrine forms exist, a newly discovered, exclusively lentic form and the already well known Rhinogobius sp. OR, which generally undergoes lake–river migration but also includes lentic individuals that share spawning grounds with the former lentic form. Detailed morphological comparisons and allozyme analysis revealed consistently clear differences between the two forms, indicating them to be distinct species. The newly discovered lentic form has many distinctive morphological features that enable it to be distinguished from sympatric Rhinogobius sp. OR: dwarfness, short snout, longitudinally slender pelvic fin, undeveloped frenum with a low lamella, low first dorsal fin in adult males, lesser caudal peduncle depth, scaleless predorsal and ventral areas, and incomplete sensory canals. The lentic form was temporarily named Rhinogobius sp. BW. The life history patterns of the lake-inhabiting populations were separated into two categories: a lake–river migratory lifestyle and an exclusively lentic lifestyle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key words Freshwater gobies • Rhinogobius • Lake Biwa • Allozyme • Morphology"
+    },
+    {
+      "type": "paragraph",
+      "text": "The \"yoshinobori\" species complex (Gobiidae), which includes Rhinogobius flumineus (Mizuno) and some closely related members of the genus Rhinogobius, are widely distributed and often common freshwater fishes in Japan. Species in the complex, which originated from an amphidromous ancestor, have been grouped into three life history-based categories, including fluvial, amphidromous, and lacustrine types (Mizuno, 1960a). The fluvial fish was recognized and described as a distinct species, Tukugobius flumineus, by Mizuno (1960b) and then revised into Rhinogobius flumineus (see Miyadi et al., 1976). Furthermore, recent detailed examinations have revealed that at least 11 forms included in the complex should be considered as distinct species (Akihito et al., 2002)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The \"yoshinobori\" inhabiting Lake Biwa have been considered as comprising a single population of the lacustrine type named \"tou-yoshinobori\" or Rhinogobius sp. OR (sensu Kawanabe and Mizuno, 1989). This form essentially undergoes lake–river migration, substituting Lake Biwa for the sea, but also includes a small proportion of lentic individuals. However, in Lake Biwa, another exclusively lentic \"yoshinobori\" form has been reported (Takahashi, 1990, 1997). The aim of the present study was to make detailed morphological comparisons between the two forms and to confirm their reproductive isolation, based on allozyme analysis. We also propose to temporarily call the lentic form Rhinogobius sp. BW and to separate the life history patterns of lake-living populations into two categories: a lake–river migratory lifestyle and a lentic lifestyle."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Materials and Methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sampling.—Specimens of the lentic \"yoshinobori\" form and Rhinogobius sp. OR in the Lake Biwa water system (hereafter called BW and OR, respectively, defined as populations from the Lake Biwa water system) were caught with a trawl net or traditional \"eri\" fish traps in Lake Biwa and by hand net in the affluent streams (Fig. 1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discrimination.—All specimens were distinguished into BW and OR according to morphological differences in the pelvic fins, which are united to form a sucker-like disk as schematically illustrated in Fig. 2. In OR, as in most \"yoshinobori,\" the disk was round and composed of thick fin membranes (Fig. 2A), the large frenum being classified as \"type V6\" (K. Takagi, 1962, Studies of the gobioid fishes in the Japanese waters on the comparative morphology, phylogeny, taxonomy, distribution and bionomics. in Japanese with English summary, privately published). In contrast, the pelvic fin disk of BW was usually longitudinally slender and composed of thinner membranes (Fig. 2B). Even though some of the largest BW individuals had rounded pelvic fins (Fig. 2C), the frenum was undeveloped (type V5) with a low lamella. Distinct morphological differ-"
+    }
+  ],
+  "2": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. Location of sampling points. ●, Rhinogobius sp. (lentic form BW); ○, Rhinogobius sp. OR (called OR in this article)",
+      "bbox": [
+        0.164,
+        0.068,
+        0.823,
+        0.4
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Fig._1._Location_of_sampling_points._●,_Rhinogobius_sp._(lentic_form_BW);_○,_Rhi.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Location of sampling points. ●, *Rhinogobius sp.* (lentic form BW); ○, *Rhinogobius sp.* OR (called OR in this article)"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. Schematic views of pelvic fin. A Rhinogobius sp. OR from Lake Biwa water system; B, C Rhinogobius sp. (lentic form BW)",
+      "bbox": [
+        0.088,
+        0.454,
+        0.529,
+        0.581
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Fig._2._Schematic_views_of_pelvic_fin._A_Rhinogobius_sp._OR_from_Lake_Biwa_water.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. Schematic views of pelvic fin. A *Rhinogobius sp.* OR from Lake Biwa water system; B, C *Rhinogobius sp.* (lentic form BW)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ences of the pelvic fin between BW and OR were evident at all specimen sizes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Morphological observation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some specimens were maintained in aquaria for observation and were photo- graphed after 6 months (Fig. 3). Specimens for measure- ment (Table 1) were fixed in situ in 10% formalin, those used for counts being chosen from them. To observe the sensory pore system and distribution of scales of BW, the specimens fixed in situ were supplemented with 13 speci- mens that had been maintained in aquaria for more than 3 months and which had reached approximately 40 mm in standard length (SL). Bones and scales were examined after staining with sodium alizarinsulfonate. To facilitate exami- nation of the sensory canal systems, they were first stained with cyanine blue (Akihito et al., 2002) and then water or air was injected through them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Measurements (to the nearest 0.1 mm), counts, and obser- vations were made under a binocular microscope following Hubbs and Lagler (1964) and Akihito (1984), except for number of caudal rays given as the number of branched rays. Standard length, snout length, and head length were measured from the tip of the upper lip. For examining allo- metric differences between BW and OR, analysis of covari- ance on two variables was used (significance level = 0.01)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Measurements from 24 OR and 22 BW specimens destroyed during the Kobe earthquake in 1995 have been included in the study. The remaining specimens (94 OR and 76 BW) examined have been deposited in Lake Biwa Museum, Kusatsu, Shiga (OR: LBM1210028165– LBM121000013435, LBM1210028259–LBM121003824), National Science Museum, Tokyo (BW: NSMT P55096), and The Australian Museum, Sydney (BW: AMS I.38802-001)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Specimens of oviposited eggs, collected from natural habitats or aquaria, were fixed in 10% formalin and three eggs from each egg mass randomly chosen for measurement (BW 13 egg masses; OR 14 egg masses). The major and minor axes of the chorion were measured to the nearest 0.01 mm under a microscope with an ocular micrometer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Allozyme analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "For allozyme analysis, examples of BW (4 lots) and OR (3 lots) were collected between August 1988 and November 1990 from Lake Biwa (Hamabun, Maiko, Shimosakamoto, and Biwa-cho) and several affluent streams (Chinai River and Senjyo River) (see Fig. 1). At the"
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "Lentic *Rhinogobius* goby in Lake Biwa"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3. *Rhinogobius* sp. (lentic form BW) and *Rhinogobius* sp. OR from Lake Biwa water system. A LBM121-0022987, BW female, 35.5 mm SL and B LBM121-0022986, BW male, 42.5 mm SL, caught by “eri” fish trap at Misaki, Moriyama, on May 18, 1989, kept in aquaria, and photographed by S. Takahashi on Nov. 15, 1989. C OR female and D OR male, caught at Chinai River on Nov. 14 1988, kept in aquaria, and photographed by S. Takahashi on April 23, 1989 (OR specimen sizes unknown, specimens not retained)",
+      "bbox": [
+        0.075,
+        0.089,
+        0.47,
+        0.595
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Fig._3._Rhinogobius_sp._(lentic_form_BW)_and_Rhinogobius_sp._OR_from_Lake_Biwa_w.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. *Rhinogobius* sp. (lentic form BW) and *Rhinogobius* sp. OR from Lake Biwa water system. A LBM121-0022987, BW female, 35.5 mm SL and B LBM121-0022986, BW male, 42.5 mm SL, caught by “eri” fish trap at Misaki, Moriyama, on May 18, 1989, kept in aquaria, and photographed by S. Takahashi on Nov. 15, 1989. C OR female and D OR male, caught at Chinai River on Nov. 14 1988, kept in aquaria, and photographed by S. Takahashi on April 23, 1989 (OR specimen sizes unknown, specimens not retained)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maiko locality, both BW and OR were collected in the lake; the OR specimens were adults or well-grown juveniles exceeding the migrating stage. Samples were frozen at −40°C until processed for electrophoresis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eighteen protein systems (E.C. numbers and loci) were examined: aspartate aminotransferase (2.6.1.1; *AAT*), aconitate hydratase (4.2.1.3; *AH*), adenylate kinase (2.7.4.3; *AK*), alanine aminotransferase (2.6.1.2; *ALAT*), creatine kinase (2.7.3.2; *CK*), fructose-bisphosphate aldolase (4.1.2.13; *FBALD*), fumarate hydratase (4.2.1.2; *FH*), glucose-6-phosphate dehydrogenase (1.1.1.49; *G6PDH*), glucose-6-phosphate isomerase (5.3.1.9; *GPI-1*, *GPI-2*),"
+    },
+    {
+      "type": "paragraph",
+      "text": "isocitrate dehydrogenase (1.1.1.42; *IDHP-1*, *IDHP-2*), lactate dehydrogenase (1.1.1.27; *LDH-1*, *LDH-2*, *LDH-3*), malate dehydrogenase (1.1.1.37; *MDH-1*, *MDH-2*), malic enzyme (1.1.1.40; *MEP-1*, *MEP-2*), mannose-6-phosphate isomerase (5.3.1.8; *MPI*), peptidase (3.4.-.-; *PEP-LG*), phosphoglucomutase (5.4.2.2; *PGM*), superoxide dismutase (1.15.1.1; *SOD*), and triose-phosphate isomerase (5.3.1.1; *TPI-1*). Buffer systems, analysis on horizontal starch gels, and nomenclature of loci and genes followed Ridgway et al. (1970), Markert and Faulhaber (1965), Clayton and Tretiak (1972), May et al. (1979), Harris and Hopkinson (1976), and Shaklee et al. (1990). If multiple loci coded for a protein, the loci were numbered starting with the one that encoded the proteins with the least anodal migration. The most common allele at a given locus of OR was designated *100*, and other alleles were assigned numbers according to the mobility of their homomeric protein products relative to that of the *100* allele."
+    },
+    {
+      "type": "paragraph",
+      "text": "The genetic basis of the banding variants was inferred by application of the following criteria: (1) the banding patterns had to be consistent with the known molecular structure of the protein; and (2) when a gene was expressed in more than one tissue, variant phenotypes had to be parallel among tissues (Grant et al., 1980). Nei's unbiased genetic distance values (revised by reference to sample size) were estimated from allele frequency data (Nei, 1978)."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Results"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Habitat.** There were clear differences in the distribution patterns of the two forms in the Lake Biwa water system; OR was collected from both the shore of Lake Biwa and its affluent streams, whereas BW was caught only in Lake Biwa. Adults of OR were observed both in the affluent streams and along the lakeshore throughout the year, whereas BW was found only in the lake proper and in river mouths and ponds receiving water from Lake Biwa; all the latter habitats were effectively lentic."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Measurements.** Body size.—BW is a small fish, seldom exceeding 40 mm SL. The adult males (51 specimens) and females (47) of BW collected ranged from 21.0 to 43.1 mm and 20.2 to 33.0 mm SL, respectively. In contrast, adult males (45) and females (45) of OR were larger, ranging from 29.0 to 67.4 mm and 27.3 to 55.8 mm SL, respectively. The initially small size of BW was clearly apparent when specimens of BW and OR of almost the same initial size were kept in aquaria under identical conditions and fed ad libitum; BW grew far more slowly than OR and failed to achieve the maximum adult body size of OR."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Head region.**—Among those head characters measured (head length, snout length, orbit length, postorbital head length, head width, gape width, and upper jaw length), the most distinct differences between the two forms were observed in snout lengths (Fig. 4). Snouts of BW were distinctly shorter than those of both male and female OR specimens, the difference being obvious in the smallest specimens of around 20 mm SL (in males, slopes: ♂OR < ♂BW, *P* = 0.0000, elevation: ♂BW < ♂OR,"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "Table 1. Locality and number of specimens used for measurements"
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Locality and number of specimens used for measurements",
+      "bbox": [
+        0.18,
+        0.09,
+        0.83,
+        0.29
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Table_1._Locality_and_number_of_specimens_used_for_measurements.jpg"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 4. Allometry of snout length. ▲, ♂BW; ●, ♀BW; △, ♂OR; ○, ♀OR. Thick solid and broken lines and thin solid and broken lines indicate regression lines of ♂BW, ♀BW, ♂OR, and ♀OR, respectively.",
+      "bbox": [
+        0.09,
+        0.3,
+        0.53,
+        0.52
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Fig._4._Allometry_of_snout_length._▲,_♂BW;_●,_♀BW;_△,_♂OR;_○,_♀OR._Thick_solid_a.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4. Allometry of snout length. ▲, ♂BW; ●, ♀BW; △, ♂OR; ○, ♀OR. Thick solid and broken lines and thin solid and broken lines indicate regression lines of ♂BW, ♀BW, ♂OR, and ♀OR, respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "P = 0.0000; in females, slopes: NS, P = 0.38, elevations: ♀BW < ♀OR, P = 0.0000)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Caudal peduncle depth.—Caudal peduncle depth was significantly less in BW than in OR (in males, slopes: NS, P = 0.04, elevation: ♂BW < ♂OR, P = 0.0000; in females, slopes: NS, P = 0.12, elevations: ♀BW < ♀OR, P = 0.0000)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fins.—The first dorsal fins of males were different in shape between BW and OR (see Fig. 3). The high triangular first dorsal fin with elongated second and third spines was a conspicuous character of mature OR males; it became proportionally higher with growth than that of conspecific females or both sexes of BW. In contrast, the length of the depressed first dorsal fin in mature BW males, which was rounded or somewhat rectangular, did not exceed even that in OR females."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second dorsal and anal fins of BW males grew longer than those of OR. In BW females, first and second dorsal fins and anal fin were smallest. The length of the depressed second dorsal fin (in males, slopes: NS, P = 0.23, elevation:"
+    },
+    {
+      "type": "paragraph",
+      "text": "♂OR < ♀BW, P = 0.0000; in females, slopes: NS, P = 0.93, elevations: ♀BW < ♀OR, P = 0.0000) and anal fin (in males, slopes: ♂OR < ♂BW, P = 0.0003, elevation: ♂OR < ♂BW, P = 0.0000; in females, slopes: NS, P = 0.50, elevation: ♀BW < ♀OR, P = 0.0000) differed considerably among them, although differences in fin base lengths were very small."
+    },
+    {
+      "type": "paragraph",
+      "text": "Egg dimensions.—The chorion of BW was significantly smaller (t test; P < 0.001) than in OR, measuring 1.39 ± 0.14mm (mean ± SD) and 0.49 ± 0.02mm on the major and minor axes, respectively, compared with 1.68 ± 0.17 and 0.51 ± 0.03, respectively, in OR."
+    },
+    {
+      "type": "paragraph",
+      "text": "Counts.—No consistent or diagnostically useful differences between BW and OR were apparent in vertebral and fin ray counts (except the caudal fin), or in the relationship between the dorsal fin pterygiophores and vertebrae. BW was characterized by fewer caudal fin rays and fewer longitudinal and transverse scales than OR, and by the absence or scarcity of predorsal scales (Table 2, Fig. 5)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Distribution of scales.—OR individuals were characterized by the head region and area anterior to the pectoral and pelvic fins being scaleless. The nape was covered with small cycloid scales extending forward middorsally and dorsolaterally (Fig. 5); the ventral region of the belly was also covered with minute cycloid scales except for a small naked area around the anus and beneath the pelvic fins, and sometimes along a median strip extending to or just short of the anus. The remainder of the body was covered with ctenoid scales."
+    },
+    {
+      "type": "paragraph",
+      "text": "The areas covered with cycloid scales in OR were scaleless in BW, viz., a large scaleless area existed anterior to a line connecting the first dorsal fin origin, pectoral insertion, and anal fin origin. The remainder of the body was covered with ctenoid scales, with a few cycloid scales on the periphery of the naked area. Identical features are present in specimens reared to approximately 40mm SL in an aquarium."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cephalic sensory canal system.—The morphology of the sensory canals and pores (Fig. 5) of 26 OR specimens was the same as described for *Rhinogobius* sp. OR by Akihito et al. (2002), except for two individuals: one with pore D separated both right and left, and one with incomplete"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "Lentic Rhinogobius goby in Lake Biwa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2. Comparison of counts between Rhinogobius sp. (lentic form BW) and Rhinogobius sp. OR from Lake Biwa water system"
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Comparison of counts between Rhinogobius sp. (lentic form BW) and Rhinogobius sp. OR from Lake Biwa water system",
+      "bbox": [
+        0.11,
+        0.096,
+        0.8875,
+        0.473
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Table_2._Comparison_of_counts_between_Rhinogobius_sp._(lentic_form_BW)_and_Rhino.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Numerals in parentheses indicate number of specimens\n*P* < 0.01, **P* < 0.001 (Student’s *t* test)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5. Schematic view of head region, showing scaled portion of nape and cephalic sensory pore system. Larger dots indicate area covered with ctenoid scales in BW and OR; smaller dots indicate area covered with cycloid scales in OR but scaleless in BW. The right side of the illustrated cephalic sensory pore system indicates normal condition in Rhinogobius sp. OR; left side shows pore F separated into anterior (F1') and posterior (F2') pores. AOC, anterior oculoscapular canal; POC, posterior oculoscapular canal; PC, preopercular canal"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 5. Schematic view of head region, showing scaled portion of nape and cephalic sensory pore system. Larger dots indicate area covered with ctenoid scales in BW and OR; smaller dots indicate area covered with cycloid scales in OR but scaleless in BW. The right side of the illustrated cephalic sensory pore system indicates normal condition in Rhinogobius sp. OR; left side shows pore F separated into anterior (F1') and posterior (F2') pores. AOC, anterior oculoscapular canal; POC, posterior oculoscapular canal; PC, preopercular canal",
+      "bbox": [
+        0.11,
+        0.516,
+        0.5,
+        0.782
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Fig._5._Schematic_view_of_head_region,_showing_scaled_portion_of_nape_and_cephal.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "preopercular canals (PC). However, BW differed markedly from this, notably in regard to features associated with the anterior oculoscapular canal (AOC). In the majority of cases (16 of 24 specimens examined) this canal was divided at pore F, which was separated into anterior (F1') and posterior (F2') pores owing to insufficient skin covering. Moreover, a high incidence of incomplete complements of canals"
+    },
+    {
+      "type": "paragraph",
+      "text": "and pores was apparent in BW. In 2 of the 24 specimens, canals were furrow-like at some point between pores B' and D of the AOC. Six specimens lacked either side or both sides of the AOC posterior to pores D, E, or F together with the posterior oculoscapular canal (POC) on the same side. In addition to these 6 specimens, either side or both sides of the POC were absent in 12 specimens. Twenty-three of 24 specimens lacked some part or all of PC. The combination of PC pattern with those of AOC or POC also varied. The sensory canals of specimens grown to around 40 mm SL were as variable as those of smaller specimens fixed in situ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Color pattern."
+    },
+    {
+      "type": "paragraph",
+      "text": "In most individuals of BW and OR, the back and sides were crossed with 5–6 dark saddles and 6–9 dark blotches (see Fig. 3). The saddles of BW usually consisted of one or two indistinct irregularly shaped areas anterior to the first dorsal fin, an x-shaped area under each dorsal fin, and two smaller blotches between the second dorsal fin and caudal fin; the lateral blotches were in partial contact with the saddles. OR also had lateral blotches in contact with the saddles, but in a less regular overall pattern than in BW. Minute dark (somewhat orange in life) dots, found scattered on the cheeks of OR, were absent in BW. The dark spot on the caudal fin base was generally very faint or sometimes absent in BW, whereas it was often distinct in immature or adult female OR specimens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Excepting an orange caudal fin base, adult OR males were mostly bluish in color; the posterior half of each scale on the lateral regions, lower lip, ventral surface of the head"
+    }
+  ],
+  "6": [
+    {
+      "type": "figure",
+      "label": "Table 3. Observed allelic frequencies at polymorphic and diagnostic loci for populations of Rhinogobius sp. (lentic form BW) and Rhinogobius sp. OR from Lake Biwa water system",
+      "bbox": [
+        0.08,
+        0.13,
+        0.92,
+        0.55
+      ],
+      "_saved": "kurodai/papers/takahashi_okazaki_2002_sp_OR_biwa_extracted/Table_3._Observed_allelic_frequencies_at_polymorphic_and_diagnostic_loci_for_pop.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3. Observed allelic frequencies at polymorphic and diagnostic loci for populations of Rhinogobius sp. (lentic form BW) and Rhinogobius sp. OR from Lake Biwa water system"
+    },
+    {
+      "type": "paragraph",
+      "text": "and body, and basal half of the anal fin were all blue. In contrast, mature BW males were neither bluish nor had an orange caudal fin base, although otherwise characterized by blue on the lower lip and isthmus, and yellow on the interoperculum, branchiostegal region, and basal part of the anal fin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Allozyme analysis. Allelic frequencies at polymorphic and diagnostic loci for the specimens are listed in Table 3. In both BW and OR, the allelic frequencies among sampling points were not significantly different (chi-square test). Among 24 presumptive loci surveyed, BW was fixed for different alleles at 2 loci (CK*, MEP-2*), compared with those for OR (including a sample from Maiko). The AH* and IDHP-1* loci were almost fixed for different alleles for BW and OR. These results indicate clearly that BW and OR are reproductively isolated. Nei’s unbiased genetic distances between BW and OR ranged from 0.200 to 0.224."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Discussion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. OR in Lake Biwa and its affluent streams appear to represent a single breeding population. OR consisted of a majority of lake-river migrating individuals and a small proportion of lentic individuals; the former migrate up affluent streams and breed in the middle reaches, whereas the latter remain and breed in the lake. Spawnings of OR have been observed at the lakeshore (S. Takahashi, unpublished data), where BW also spawns. Although ecological and morphological studies to date have been insuffi-cient to define or differentiate between lake-river migrating individuals and lentic individuals of OR, allozyme data did not reveal significant differences among OR in Lake Biwa (collected at Maiko) and those in two affluent streams."
+    },
+    {
+      "type": "paragraph",
+      "text": "The BW form has an exclusively lentic lifestyle, apparently never ascending affluent streams. Extensive collections at more than 200 stations located around Lake Biwa failed to record any BW specimens in affluent streams (S. Takahashi, unpublished data). Samples collected from distant points around the entire lake coastline did not differ significantly in allozyme data, and thus BW is most likely to represent a single breeding population in the lake."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two allele substitutions between OR and BW from the lake at Maiko clearly indicated that BW and OR represent distinct species, rather than intraspecific variants."
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "Lentic Rhinogobius goby in Lake Biwa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adults of BW could be distinguished from their OR counterparts in Lake Biwa by many distinctive features, such as their dwarfness, short snout, longitudinally slender pelvic fin, undeveloped frenum with a low lamella, scaleless predorsal and ventral areas, lesser caudal peduncle depth, incompleteness of sensory canals, and low first dorsal fin and male coloration. Differences between BW and OR in snout length, pelvic fin morphology, and scale distribution were clearly evident, even in small specimens of around 20mm SL. These morphological differences also serve to support the distinctness of BW from OR. We propose to temporarily call this BW species in Lake Biwa Rhinogobius sp. BW, and we regard it as a member of the “yoshinobori” species complex."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. OR in Japan includes a wide variety of population-specific and morphological variants. Akihito et al. (2002) stated that Rhinogobius sp. OR included four morphotypes, namely, “toshoku,” “shinjiko,” “gi-toshoku,” and “shimahire,” and regarded the form treated in this article as BW as being a variant of “shimahire.” Furthermore, according to their classification scheme, the OR form examined here belongs to “toshoku.” Their high genetic homogeneity has revealed the former three morphotypes of Rhinogobius sp. OR to be intraspecific variations (Masuda et al., 1989), although the fourth morphotype, “shimahire,” has not been studied genetically. Further study is presently underway in the hope of resolving a question: whether the “shimahire” belongs to Rhinogobius sp. OR, to Rhinogobius sp. BW, or to another species."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno (1960a), who grouped “yoshinobori” populations into three ecological types, namely a fluvial type, an amphidromous type, and a lacustrine type, did not acknowledge the possibility of an exclusively lentic population in Lake Biwa, instead citing affluent rivers of Lake Biwa as habitats of the lacustrine type “yoshinobori.” Both Mizuno and subsequent authors have confused the exclusively lentic lifestyle with a lake–river migrating lifestyle and failed to distinguish between them."
+    },
+    {
+      "type": "paragraph",
+      "text": "We here propose to make a distinction between a lake–river migrating lifestyle and an exclusively lentic lifestyle in which no ascent of affluent streams takes place. Therefore, for fishes that have originated from an amphidromous ancestor, four classes of life history patterns should be recognized: an amphidromous lifestyle, a fluvial lifestyle, a lake–river migratory lifestyle, and a lentic lifestyle. The Rhinogobius sp. BW in Lake Biwa is an example of both genetic and morphological divergence from an amphidromous or lake–river migrating ancestor to a species with a lentic lifestyle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acknowledgments We thank K. Isoda and T. Kunitomo, fishermen in Lake Biwa, for their assistance in the field survey; the staff of Biwakobunkakan for their help in rearing fish and their encouragement; T. Hikida, Kyoto University, for his help in statistical analysis; M. Nishida, Tokyo University, and M. Yuma and A. Iwata, Kyoto University, S. Kimura, Mie University, and T. Suzuki, Amagasaki-kita High School, for their invaluable advice; and A. Rossiter, Lake Biwa Museum, and G.S. Hardy, Thames, New Zealand, for their critical reading of the manuscript and helpful advice. Any experiments and treatments in this study complied with the current laws of Japan."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Literature Cited"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito Prince (1984) Suborder Gobiodei. In: Masuda H, Amaoka K, Araga C, Uyeno T, Yoshino T (eds) The fishes of the Japanese Archipelago. Tokai University Press, Tokyo, pp 236–238, figs 34–37"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Sakamoto K, Ikeda Y, Sugiyama K (2002) Suborder Gobiodei. In: Nakabo T (ed) Fishes of Japan with pictorial keys to the species, English edn. Tokai University Press, Tokyo, pp 1139–1310, 1596–1619"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clayton JW, Tretiak DN (1972) Amine-citrate buffers for pH control in starch gel electrophoresis. J Fish Res Board Can 29:1169–1172"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grant WS, Milner GB, Krasnowski P, Utter FM (1980) Use of bio-chemical genetic variants for identification of sockeye salmon (Oncorhynchus nerka) stocks in Cook Inlet, Alaska. Can J Fish Aquat Sci 37:1236–1247"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harris H, Hopkinson DA (1976) Handbook of enzyme electrophoresis in human genetics. Elsevier, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hubbs CL, Lagler KF (1964) Fishes of the Great Lakes region. University of Michigan Press, Ann Arbor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kawanabe H, Mizuno N (1989) Freshwater fishes of Japan (in Japanese). Yama-Kei, Tokyo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Markert CL, Faulhaber I (1965) Lactate dehydrogenase isozyme patterns of fish. J Exp Zool 159:319–332"
+    },
+    {
+      "type": "paragraph",
+      "text": "Masuda Y, Ozawa T, Enami S (1989) Genetic differentiation among eight color types of the freshwater goby, Rhinogobius brunneus, from Western Japan. Jpn J Ichthyol 36:30–41"
+    },
+    {
+      "type": "paragraph",
+      "text": "May B, Wright JE, Stoneking M (1979) Joint segregation of biochemical loci in Salmonidae: results from experiments with Salvelinus and review of the literature on other species. J Fish Res Board Can 36:1114–1128"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miyadi D, Kawanabe H, Mizuno N (1976) Coloured illustrations of the freshwater fishes of Japan, rev edn (in Japanese). Hoikusha, Osaka"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1960a) Study on a freshwater goby, Rhinogobius similis Gill, with a proposition on the relationships between land-locking and speciation of some freshwater gobies in Japan. Mem Coll Sci Univ Kyoto (B) 27:97–115"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1960b) Description of a new freshwater goby from Japan. Mem Coll Sci Univ Kyoto (B) 27:117–119"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nei M (1978) Estimation of average heterozygosity and genetic distance from a small number of individuals. Genetics 89:583–590"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ridgway GL, Sherburne SW, Lewis RD (1970) Polymorphism in the esterases of Atlantic herring. Trans Am Fish Soc 99:147–151"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shaklee JB, Allendorf FW, Morizot DC, Whitt G (1990) Gene nomenclature for protein-coding loci in fish. Trans Am Fish Soc 119:2–15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S (1990) On the new type of a goby Rhinogobius brunneus in Lake Biwa. Report of studies project no. 63304062. Supported by a Grant-in-Aid for Co-operative Research from the Ministry of Education, Culture, Sports, Science and Technology, pp 225–228"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S (1997) Rhinogobius spp. from Lake Biwa. In: Abstracts of Symposium “Yoshinobori-rui wo chushin to shita ryosokukaiyu-sei tansuigyo no seitai to shinka”, the 30th annual meeting of the Ichthyological Society of Japan, Yokosuka, October 14, 1997 (in Japanese), p 4"
+    }
+  ]
+}

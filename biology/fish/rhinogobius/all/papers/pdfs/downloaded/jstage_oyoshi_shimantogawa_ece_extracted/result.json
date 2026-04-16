@@ -1,0 +1,1214 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ORIGINAL PAPER"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 2 3 4 5 790 8566 3 5 7 799 3125 121 3 790 8577 2 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Motohiro TAKAGI¹, Ryohei SHIBAKAWA², Takaaki SHIMIZU³, Koji OMORI⁴ and Mikio INOUE⁵ : Genetic divergence and landlocking of a common freshwater goby Rhinogobius fluviatilis in the Yoshino River system. Ecol. Civil Eng. 16 1 , 13 22, 2013."
+    },
+    {
+      "type": "paragraph",
+      "text": "1 South Ehime Fisheries Research Center Tarumi branch, Ehime University, Tarumi Matsuyama, Ehime 790 8566, Japan\n2 Faculty of Agriculture, Ehime University, Tarumi Matsuyama 790 8566, Japan\n3 Ehime Fisheries Research Center, Mori Iyo, Ehime 799 3125, Japan\n4 Center for Marine Environmental Studies, Ehime University, Bunkyo-cho Matsuyama, Ehime 790 8577, Japan\n5 Graduate School of Science and Engineering, Ehime University, Bunkyo-cho Matsuyama, Ehime 790 8577, Japan"
+    },
+    {
+      "type": "figure",
+      "label": "Ecology and Civil Engineering 応用生態工学",
+      "bbox": [
+        0.83,
+        0.28,
+        0.97,
+        0.36
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Ecology_and_Civil_Engineering_応用生態工学.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract: Population genetic structure of a common freshwater goby Rhinogobius fluviatilis in the Yoshino River and its tributaries was surveyed using three microsatellite loci to examine effects of dams. Allelic richness of the Akui and Sadamitsu River populations below the dams were high 15.7, 15.9 and that of the above the dams populations were low 10.9 13.0 . Heterozygosity was same level diversity between above and below dam populations 0.870 0.890 except for Takeno river population 0.788 . Considerable genetic differences were observed between populations above and below the dams. Migratory history was also examined using otolith Sr Ca ratio. The otolith Sr Ca ratio analysis confirmed that the populations above the dams were landlocked by the dams. It was also suggested that some individuals below the dams do not undertake amphidromous migration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key words: dam, genetic differentiation, microsatellite, otolith Sr Ca, Rhinogobius fluviatilis"
+    },
+    {
+      "type": "paragraph",
+      "text": "2006"
+    },
+    {
+      "type": "paragraph",
+      "text": "2008"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011, 2012a"
+    },
+    {
+      "type": "paragraph",
+      "text": "1989 Tsunagawa & Arai"
+    },
+    {
+      "type": "paragraph",
+      "text": "2013 3 6 2013 4 30"
+    },
+    {
+      "type": "paragraph",
+      "text": "e-mail: takagi@agr.ehime-u.ac.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius fluviatilis"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "Table 1. Collection data of the Rhinogobius fluviatilis examined."
+    },
+    {
+      "type": "figure",
+      "label": "Table 1. Collection data of the Rhinogobius fluviatilis examined.",
+      "bbox": [
+        0.15,
+        0.17,
+        0.85,
+        0.4
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Table_1._Collection_data_of_the_Rhinogobius_fluviatilis_examined..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "15"
+    },
+    {
+      "type": "paragraph",
+      "text": "194"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "1989"
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "km"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sadamitsu River,"
+    },
+    {
+      "type": "paragraph",
+      "text": "km"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akui River,"
+    },
+    {
+      "type": "paragraph",
+      "text": "214 m"
+    },
+    {
+      "type": "paragraph",
+      "text": "12"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "SDM"
+    },
+    {
+      "type": "paragraph",
+      "text": "AKI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 Fig. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 km"
+    },
+    {
+      "type": "paragraph",
+      "text": "120 m"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nagasawa, NGS"
+    },
+    {
+      "type": "paragraph",
+      "text": "106 m"
+    },
+    {
+      "type": "paragraph",
+      "text": "Erimon, ERM"
+    },
+    {
+      "type": "paragraph",
+      "text": "2012a"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takeno River, TKN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Omori River, OMR"
+    },
+    {
+      "type": "paragraph",
+      "text": "1975"
+    },
+    {
+      "type": "paragraph",
+      "text": "1959"
+    },
+    {
+      "type": "paragraph",
+      "text": "750 ha"
+    },
+    {
+      "type": "paragraph",
+      "text": "1949"
+    },
+    {
+      "type": "paragraph",
+      "text": "72 m"
+    },
+    {
+      "type": "paragraph",
+      "text": "140 ha"
+    },
+    {
+      "type": "paragraph",
+      "text": "73 m"
+    },
+    {
+      "type": "paragraph",
+      "text": "92 ha"
+    },
+    {
+      "type": "paragraph",
+      "text": "1939"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "74 m"
+    },
+    {
+      "type": "paragraph",
+      "text": "101 ha"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "6"
+    }
+  ],
+  "3": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. Sampling localities of the Rhinogobius fluviatilis in Yoshino River system, Kamo River system and Shigenobu River system.\n• : Microsatellite and Sr Ca ratio analysis population.\n○ : Sr Ca ratio analysis population.\nBroken line is Omorigawa aqueduct.",
+      "bbox": [
+        0.27,
+        0.1,
+        0.73,
+        0.69
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Fig._1._Sampling_localities_of_the_Rhinogobius_fluviatilis_in_Yoshino_River_syst.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Sampling localities of the Rhinogobius fluviatilis in Yoshino River system, Kamo River system and Shigenobu River system.\n• : Microsatellite and Sr Ca ratio analysis population.\n○ : Sr Ca ratio analysis population.\nBroken line is Omorigawa aqueduct."
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "50"
+    },
+    {
+      "type": "paragraph",
+      "text": "KURABO"
+    },
+    {
+      "type": "paragraph",
+      "text": "KMO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara et al. 2004"
+    },
+    {
+      "type": "paragraph",
+      "text": "R. kurodai"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 5 7 11 2012a"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 ng"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taq Polymerase TAKARA"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 μl PCR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara et al. 2004"
+    },
+    {
+      "type": "paragraph",
+      "text": "72 30"
+    },
+    {
+      "type": "paragraph",
+      "text": "90"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "11"
+    },
+    {
+      "type": "paragraph",
+      "text": "5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Applied Biosystems"
+    },
+    {
+      "type": "paragraph",
+      "text": "95 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "ABI PRISM 310 Genetic Analyzer Applied Biosystems"
+    },
+    {
+      "type": "paragraph",
+      "text": "GeneMapper Applied Biosystems"
+    },
+    {
+      "type": "paragraph",
+      "text": "FSTAT version 2.9.3.2 Goudet 2002"
+    },
+    {
+      "type": "paragraph",
+      "text": "richness"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARLEQUIN version 3.0 Excoffier et al. 2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "Markovchain procedure Guo & Thompson 1992"
+    },
+    {
+      "type": "paragraph",
+      "text": "PHYLIP version 3.2 Felsenstein 1994"
+    },
+    {
+      "type": "paragraph",
+      "text": "1972"
+    },
+    {
+      "type": "paragraph",
+      "text": "16 1, 2013"
+    },
+    {
+      "type": "paragraph",
+      "text": "2010 7 8 31"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 Fig. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quick gene"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kamo River,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shigenobu River, SGN"
+    },
+    {
+      "type": "paragraph",
+      "text": "2012a"
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electroric Particle Micro Analyzer EPMA"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 μm"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.1 μM 0.2 mM dNTPs 2.5 unit Ex"
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR"
+    },
+    {
+      "type": "paragraph",
+      "text": "94"
+    },
+    {
+      "type": "paragraph",
+      "text": "7"
+    },
+    {
+      "type": "paragraph",
+      "text": "72 30"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "33"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "55"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 7 Rhi 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "60"
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hi-Di Formamide Applied Biosystems"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.5 μl"
+    },
+    {
+      "type": "paragraph",
+      "text": "GeneScan 600 LIZ Size Standard"
+    },
+    {
+      "type": "paragraph",
+      "text": "161"
+    },
+    {
+      "type": "paragraph",
+      "text": "Allelic"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Population pairwise Fst Slatkin 1995"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardy-Weinberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nei"
+    },
+    {
+      "type": "paragraph",
+      "text": "Structure Pritchard et al."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anabuki River, ANB"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.1"
+    },
+    {
+      "type": "paragraph",
+      "text": "165"
+    },
+    {
+      "type": "paragraph",
+      "text": "145 153"
+    },
+    {
+      "type": "paragraph",
+      "text": "155"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "189"
+    },
+    {
+      "type": "paragraph",
+      "text": "183 193 199"
+    },
+    {
+      "type": "paragraph",
+      "text": "181 191 219"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 11"
+    },
+    {
+      "type": "paragraph",
+      "text": "139"
+    },
+    {
+      "type": "paragraph",
+      "text": "143"
+    },
+    {
+      "type": "paragraph",
+      "text": "143 147 159"
+    },
+    {
+      "type": "paragraph",
+      "text": "149"
+    },
+    {
+      "type": "paragraph",
+      "text": "149 159 161"
+    },
+    {
+      "type": "paragraph",
+      "text": "155"
+    },
+    {
+      "type": "paragraph",
+      "text": "185"
+    },
+    {
+      "type": "paragraph",
+      "text": "179 191"
+    },
+    {
+      "type": "paragraph",
+      "text": "179 189"
+    },
+    {
+      "type": "paragraph",
+      "text": "199"
+    },
+    {
+      "type": "paragraph",
+      "text": "137 141"
+    },
+    {
+      "type": "paragraph",
+      "text": "159 161"
+    },
+    {
+      "type": "paragraph",
+      "text": "159 163"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "Table 2. Alelle frequency of *Rhinogobius fluviatilis*."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Alelle frequency of *Rhinogobius fluviatilis*.",
+      "bbox": [
+        0.17,
+        0.07,
+        0.83,
+        0.44
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Table_2._Alelle_frequency_of_Rhinogobius_fluviatilis..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "15.7 15.9"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.119 0.266"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "14.7 15.0"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.155"
+    },
+    {
+      "type": "paragraph",
+      "text": "10.9 13.0"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.039 0.043"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.788"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.869 0.890"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardy-Weinberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 5 11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardy-Weinberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fis 0.039 0.266"
+    }
+  ],
+  "6": [
+    {
+      "type": "figure",
+      "label": "Table 3. Genetic variablities of 3 microsatellite loci surveyed for *Rhinogobius fulviatilis*.",
+      "bbox": [
+        0.17,
+        0.1,
+        0.82,
+        0.63
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Table_3._Genetic_variablities_of_3_microsatellite_loci_surveyed_for_Rhinogobius_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3. Genetic variablities of 3 microsatellite loci surveyed for *Rhinogobius fulviatilis*."
+    },
+    {
+      "type": "paragraph",
+      "text": "a: No. of allele, ar: alleic richness, ho: Heterozygosity ovserved, he: Heterozygosity estimated, #: Departure from Hardy-Weinberg equiribrium *P* 0.05."
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "SDM 1, 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4a"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Structure 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "SDM 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4c"
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "110 μm"
+    },
+    {
+      "type": "paragraph",
+      "text": "4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4d"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "Table 4. Result of population pairwise Fsts in Rhinogobius fluviatilis."
+    },
+    {
+      "type": "figure",
+      "label": "Table 4. Result of population pairwise Fsts in Rhinogobius fluviatilis. *: P 0.05 NS: Non Significant",
+      "bbox": [
+        0.2179,
+        0.0855,
+        0.9927,
+        0.2566
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Table_4._Result_of_population_pairwise_Fsts_in_Rhinogobius_fluviatilis.__P_0.05_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. UPGMA dendrogram among populations of Rhinogobius fluviatilis examined."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2. UPGMA dendrogram among populations of Rhinogobius fluviatilis examined.",
+      "bbox": [
+        0.1211,
+        0.2823,
+        0.5932,
+        0.4962
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Fig._2._UPGMA_dendrogram_among_populations_of_Rhinogobius_fluviatilis_examined..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3. Population structure in Rhinogobius fluviatilis inferred from microsatellite typing. K: Number of cluster. Vertical axis shows proportion. Structure K"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3. Population structure in Rhinogobius fluviatilis inferred from microsatellite typing. K: Number of cluster. Vertical axis shows proportion. Structure K",
+      "bbox": [
+        0.1211,
+        0.556,
+        0.9927,
+        0.7699
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Fig._3._Population_structure_in_Rhinogobius_fluviatilis_inferred_from_microsatel.jpg"
+    }
+  ],
+  "8": [
+    {
+      "type": "figure",
+      "label": "Fig. 4. Change of Sr Ca ratio along the measurement line of otolith cross section of Rhinogobius fluviatilis in the Yoshino River system.",
+      "bbox": [
+        0.08125,
+        0.0769,
+        0.9167,
+        0.4846
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_oyoshi_shimantogawa_ece_extracted/Fig._4._Change_of_Sr_Ca_ratio_along_the_measurement_line_of_otolith_cross_sectio.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4. Change of Sr Ca ratio along the measurement line of otolith cross section of Rhinogobius fluviatilis in the Yoshino River system."
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "1989"
+    },
+    {
+      "type": "paragraph",
+      "text": "1999"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardy-Weinberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "70"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius sp. CO"
+    },
+    {
+      "type": "paragraph",
+      "text": "2004"
+    },
+    {
+      "type": "paragraph",
+      "text": "2012b"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iguchi & Mizuno"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "91.0 190.0"
+    },
+    {
+      "type": "paragraph",
+      "text": "72.6 km²"
+    },
+    {
+      "type": "paragraph",
+      "text": "21.5"
+    },
+    {
+      "type": "paragraph",
+      "text": "7.2 km²"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardy-Weinberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    }
+  ],
+  "10": [
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "JSPS"
+    },
+    {
+      "type": "paragraph",
+      "text": "22510031"
+    },
+    {
+      "type": "paragraph",
+      "text": "6"
+    },
+    {
+      "type": "paragraph",
+      "text": "31 50"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhi 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 11 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sr Ca"
+    },
+    {
+      "type": "paragraph",
+      "text": "15.7 15.9"
+    },
+    {
+      "type": "paragraph",
+      "text": "10.9 13.0"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.788"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.870 0.890"
+    },
+    {
+      "type": "paragraph",
+      "text": "DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "J. 2005"
+    },
+    {
+      "type": "paragraph",
+      "text": "2009 DNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Excoffier L., Laval G. & Schneider S. 2005 Arlequin version 3.0: An integrated software package for population genetics date analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Felsenstein J. 1994 PHYLIP version 3.5. Department of Genetics, University of Washington, Seattle."
+    },
+    {
+      "type": "paragraph",
+      "text": "2006"
+    },
+    {
+      "type": "paragraph",
+      "text": "8: 233 244."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goudet J. 2002 Fstst version 2.9.3.2. Institute of Ecology, Lausanne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guo S. & Thompson E. 1992 Performing the exact test of Hardy-Weinberg proportion for multiple allele. Biometrics 48: 361 372."
+    },
+    {
+      "type": "paragraph",
+      "text": "Iguchi K. & Mizuno N. 1999 Early starvation limits survival in amphidromous fishes. Journal of Fish Biology 54: 705 712."
+    },
+    {
+      "type": "paragraph",
+      "text": "1989"
+    },
+    {
+      "type": "paragraph",
+      "text": "pp.584 603"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nei M. 1972 Genetic distance between populations. American Naturalist 106: 283 292."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohara K., Takahashi D. & Takagi M. 2004 Isolation of microsatellite loci in the freshwater goby, *Rhinogobius* sp. Gobiidae. Molecular Ecology Note 4: 449 451."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pritchard K. J., Stephens M. & Donnely P. 2000 Inference of population structure using multilocus genotype data. Genetics 155: 945 959."
+    },
+    {
+      "type": "paragraph",
+      "text": "2004"
+    },
+    {
+      "type": "paragraph",
+      "text": "*Rhinogobius* sp. CO"
+    },
+    {
+      "type": "paragraph",
+      "text": "51: 175 180."
+    },
+    {
+      "type": "paragraph",
+      "text": "Slatkin M. 1995 A measure of population subdivision based on microsatellite allele frequencies. Genetics 139: 457 462."
+    },
+    {
+      "type": "paragraph",
+      "text": "2011"
+    },
+    {
+      "type": "paragraph",
+      "text": "14: 35 44."
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "2012a"
+    },
+    {
+      "type": "paragraph",
+      "text": "15 161 170."
+    },
+    {
+      "type": "paragraph",
+      "text": "2012b"
+    },
+    {
+      "type": "paragraph",
+      "text": "67 93"
+    },
+    {
+      "type": "paragraph",
+      "text": "102."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa T. & Arai T. 2008 Flexible migration of Japanese freshwater gobies *Rhinogobius* spp. as revealed by otolith Sr:Ca ratios. Journal of Fish Biology 73: 2421 2433."
+    }
+  ]
+}

@@ -1,0 +1,1617 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Phylogeny, hybridization, and life history evolution of Rhinogobius gobies in Japan, inferred from multiple nuclear gene sequences"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yo Y. YAMASAKIª, Mutsumi NISHIDAᵇ,ᵉ, Toshiyuki SUZUKIᶜ, Takahiko MUKAIᵈ, Katsutoshi WATANABEª"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Author's affiliation:"
+    },
+    {
+      "type": "paragraph",
+      "text": "ªGraduate School of Science, Kyoto University, Kitashirakawa-oiwake-cho, Sakyo, Kyoto 606-8502, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "e-mail: yo.yamasaki@terra.zool.kyoto-u.ac.jp, watanak@terra.zool.kyoto-u.ac.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "ᵇAtmosphere and Ocean Research Institute, The University of Tokyo, Kashiwa, Chiba 277-8564, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "ᶜKawanishi-midoridai Senior High School, 1-8 Kouyoudai, Kawanishi, Hyogo 666-0115, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "ᵈFaculty of Regional Studies, Gifu University, 1-1 Yanagido, Gifu 501-1193, Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "ᵉCurrent address: University of the Ryukyus, 1 Senbaru, Nishihara-cho, Okinawa 903-0213, Japan"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Corresponding author:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Katsutoshi Watanabe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Graduate School of Science, Kyoto University, Kitashirakawa-oiwake-cho, Sakyo, Kyoto 606-8502, Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tel.: +81-75-753-4079"
+    },
+    {
+      "type": "paragraph",
+      "text": "e-mail: watanak@terra.zool.kyoto-u.ac.jp"
+    }
+  ],
+  "2": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius fishes (Gobiidae) are distributed widely in East and Southeast Asia, and represent the most species-rich group of freshwater gobies with diversified life histories (i.e., amphidromous, fluvial, and lentic). To reveal their phylogenetic relationships and life history evolution patterns, we sequenced six nuclear and three mitochondrial DNA (mtDNA) loci from 18 species, mainly from the mainland of Japan and the Ryukyu Archipelago. Our phylogenetic tree based on nuclear genes resolved three major clades, including several distinct subclades. The mtDNA and nuclear DNA phylogenies showed large discordance, which strongly suggested mitochondrial introgression through large-scale interspecific hybridization in these regions. On the basis of the molecular dating using geological data as calibration points, the hybridization occurred in the early to middle Pleistocene. Reconstruction of the ancestral states of life history traits based on nuclear DNA phylogeny suggests that the evolutionary change from amphidromous to freshwater life, accompanied by egg size change, occurred independently in at least three lineages. One of these lineages showed two life history alterations, i.e., from amphidromous (small egg) to fluvial (large egg) to lentic (small egg). Although more inclusive analysis using species outside Japan should be further conducted, the present results suggest the importance of the life history evolution associated with high adaptability to freshwater environments in the remarkable species diversification in this group. Such life history divergences may have contributed to the development of reproductive isolation."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keywords"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius, Life history, Introgressive hybridization, Speciation, Nuclear gene, Adaptation to a novel environment."
+    }
+  ],
+  "3": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1. Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Colonization of a novel environment is one of the important factors promoting species diversification (Schluter, 2000; Yoder et al., 2010; Betancur-R. et al., 2012). It is predicted that new selective pressure occurring in novel habitats generates divergent natural selection between the ancestral population and the newly colonized population and promotes adaptation and subsequent ecological speciation (Schluter, 2009; Nosil, 2012). This process is thought to be one of the fundamental mechanisms of adaptive radiation (Schluter, 2000; Losos, 2009)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Migration is a key process for species diversification through colonization of a novel environment (Winker, 2000; McDowall, 2001). Migration promotes gene flow among populations, whereas it also leads to colonization of favorable habitats and consequent ecological divergence (Winker, 2000). Diadromous fishes provide representative cases for such a diversification mechanism along with life history evolution. Diadromous fishes that spawn in rivers are often isolated in freshwaters (i.e., landlocked), which leads to ecological diversification followed by speciation, as suggested in anadromous sticklebacks (McKinnon et al., 2004), amphidromous gobies (Katoh and Nishida, 1994), sculpins (Goto and Andoh, 1990), and galaxias (Waters et al., 2010). These evolutionary processes that accompany the diversification of freshwater-diadromous species, as well as those seen in lakes (e.g., Seehausen, 2006; Bematchez et al., 2010), are the most remarkable examples of adaptive radiation in fishes (Lee and Bell, 1999; Vega and Wiens, 2012; Betancur-R. et al., 2012, 2015)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The family Gobiidae (Order Gobiiformes; Betancur-R et al., 2013, 2014) is one of the most divergent groups among teleost fishes in terms of the number of species and ecology, and it has interested researchers in the fields of ecology and evolutionary biology (Yamada et al., 2009; Rüeber and Agorreta, 2011). The genus *Rhinogobius* is widely distributed in freshwaters from East to Southeast Asia. It consists of more than 85 species, and it is the largest genus of freshwater gobies (Suzuki et al., 2004; Oijen at al., 2011). The species of this genus are classified into three"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "types based on migration-related life history. The amphidromous type is the most general form, in which larval fish flow down to the sea immediately after hatching in the river. This is followed by early feeding and growth at the sea, and then a return the river at the juvenile stage for subsequent growth and reproduction (Mizuno, 2001; Keith and Lord, 2011). Lentic types complete their life cycle in standing freshwaters such as lakes and marshes (Takahashi and Okazaki, 2002; Tsunagawa et al., 2010a, 2010b), whereas fluvial types complete their life cycle in running freshwaters (Mizuno, 1960; Nishijima, 1968; Iwata, 2001a, 2001b). Corresponding to these life history types, there is a large interspecific variation in egg size in *Rhinogobius* species (Mizuno, 1960; Nishida, 2001; Tamada, 2001; Closs et al., 2013). Amphidromous and lentic species produce small eggs (0.6–0.9 mm in the major axis; Katoh and Nishida, 1994; Tsujimoto, 2008; Takahashi and Okazaki, 2002), whereas fluvial species spawn larger eggs (1.1–2.1 mm; Mizuno, 1960; Katoh and Nishida, 1994). The fluvial species also exhibit egg size variation, i.e., species on the mainland of Japan produce larger eggs (1.4–2.1 mm; Mizuno, 1960) than several species in the Ryukyu Archipelago (1.1–1.5 mm; often called “middle-sized eggs”; Katoh and Nishida, 1994). The egg size variation in *Rhinogobius* species has been explained as an adaptation to feeding and swimming ability during the larval period (Nishida, 1994, 2001; McDowall, 2007), and to increasing larval survival in rivers, which is a relatively harsh and unproductive environment (Closs et al., 2013). The large number of small eggs produced by amphidromous and lentic species are adaptive to standing waters with abundant small-sized plankton, such as bays, lakes, and marshes, where strong swimming ability is not necessary. On the other hand, fluvial species may need to produce larger eggs and larvae that can persist in running waters, and that utilize large prey items in rivers. Interspecific variation in egg size within fluvial species has been explained by the presence or absence of coexisting predators; larger larvae would be preferred under stronger predation pressure (Nishida, 2001). These large variations in life history and egg size in *Rhinogobius* provide a profitable case for"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "pursuing adaptive radiation via colonization of novel habitats associated with the ecology of migration (Nishida, 1994, 2001). For the purpose of reconstructing such evolutionary patterns, including those of life histories and the related traits such as egg size, a reliable interspecific phylogeny is essential (Harvey and Pagel, 1991; Schluter, 2000; Losos, 2009). To date, genetic relationships among some Japanese *Rhinogobius* species have been examined based on allozyme polymorphisms (Masuda et al., 1989; Katoh and Nishida, 1994; Sakai et al., 2000), in which some landlocked species producing large eggs were inferred to have evolved in parallel to different amphidromous species that produce small eggs (Kato and Nishida, 1994; Nishida, 1994, 2001). However, the previous studies targeted only a small set of species and failed to obtain a robust phylogeny; hence, the frequency and generality of the life history changes and evolutionary patterns of related traits have not been well understood. Furthermore, some molecular phylogenetic studies using mitochondrial DNA (mtDNA) sequence data have been conducted for the *Rhinogobius* species (Aonuma et al., 1998; Mukai et al., 2005). However, mtDNA showed remarkable trans-species polymorphisms, in which the sympatric species tended to form monophyletic clades beyond species boundaries; this strongly suggests interspecific introgressive hybridization (Mukai et al., 2005). In cases involving introgression of organellar genomes via hybridization, phylogenetic information from multiple nuclear genes is necessary to estimate species phylogenetic relationships (Maddison, 1997; Bossu and Near, 2009; Waters et al., 2010; Near et al., 2011)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Given the considerable confusion regarding *Rhinogobius* taxonomy and the lack of ecological information for large numbers of *Rhinogobius* species (Suzuki and Chen, 2011), exhaustive analysis, particularly with the inclusion of species outside Japan, is difficult to conduct at present. Therefore, this study focused mainly on the Japanese *Rhinogobius* species, most of which are endemic to Japan and whose taxonomic and ecological information are relatively well understood. First, we estimated the phylogenetic relationships among all known Japanese species by using"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "multiple nuclear gene sequences. We also estimated their mtDNA-based phylogeny. The objectives of this study were as follows: (1) to reveal the patterns of phylogenetic diversification of Japanese Rhinogobius gobies; (2) to reveal the spatiotemporal patterns of interspecific hybridization causing mitochondrial introgression; (3) to test whether the freshwater species, including fluvial and lentic types, evolved independently from amphidromous species; and (4) to reveal the relationships between life history and egg size evolution."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "2. Materials and Methods"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.1. Sampling"
+    },
+    {
+      "type": "paragraph",
+      "text": "A total of 18 species of Rhinogobius are known from Japanese waters, 15 of which are endemic to Japan (Suzuki and Chen, 2011; Akihito et al. 2013, but see below; Fig. S1; Table S1). Although their species status has been evidenced by morphological, ecological, and genetic studies, scientific names of more than half of the species have yet to be determined or provided mainly because of their morphological similarity, insufficient taxonomic description, and poor condition of type specimens (Mizuno, 2001; Suzuki et al., 2011). Specific codes consisting of two alphabet characters have been commonly used for such species (e.g., BW, BB, DL; Mizuno, 2001; Akihito et al., 2002, 2013) and are also used in this paper. We basically followed the classification of Akihito et al. (2013), which includes 17 Japanese species. However, since one (or more) species classified into Rhinogobius sp. OR (sensu Akihito et al., 2002) was not included in Akihito et al. (2013), we tentatively use the name Rhinogobius sp. OR for the unclassified species."
+    },
+    {
+      "type": "paragraph",
+      "text": "A total of 96 specimens of 18 Japanese species were collected from the mainland of Japan, the Ryukyu Archipelago, and the Bonin Islands from 2001 to 2013 (Tables 1 and S2; Fig. 1). Specimens of wide-ranging species were sampled from two to eight geographically distant locations, if possible. These specimens, along with three specimens of the three continental species (R. giurinus, R. leavelli, and R. virgigena), were used in the analyses."
+    }
+  ],
+  "7": [
+    {
+      "type": "paragraph",
+      "text": "We took photographs of live specimens whenever possible and identified the species according to references (Akihito et al., 2002, 2013; Suzuki et al., 2004; Chen and Kottelat, 2005). Specimens were anesthetized using 2-phenoxyethanol, and their right pectoral fin or muscle tissue was preserved in 100% ethanol for DNA extraction. The specimens were fixed in 10% formalin, transferred to 70% ethanol, and deposited in the National Museum of Nature and Science, Tokyo, as voucher specimens (NSMT-P 65160, 65165, 120783–120861)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.2. DNA extraction, PCR, and sequencing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Total genomic DNA was extracted using a Genomic DNA Purification Kit (Promega, Madison, Wisconsin, USA). PCR amplification targeted three regions of mtDNA [cytochrome c oxidase subunits 1 (CO1), NADH dehydrogenase subunits 5 (ND5), and cytochrome b (cytb); total of 2781 bp] and six regions of nuclear DNA [myosin heavy polypeptide 6 (myh6), a novel protein similar to vertebrate ryanodine receptor 3 (RYR3), hypothetical protein LOC564097 (Ptr), super conserved receptor expressed in brain 2 (sreb2), recombinase-activating proteins 2 (RAG2), early growth response gene family 3 (EGR3); total of 4755 bp]. The primer sets and annealing temperature settings followed those in previous studies (see Table S3). New primer sets for Ptr and RAG2 were designed for a part of specimens based on the sequences determined for *Rhinogobius* specimens using Primer3 (Rozen and Skaletsky, 2000)."
+    },
+    {
+      "type": "paragraph",
+      "text": "PCR amplification was performed in a 15-μl volume containing 8 μl ultrapure water, 1.5 μl 2.5 mM dNTP mix, 1.5 μl Ex-Taq buffer, 1.5 μl of each 5 μM primer, 0.3 μl Ex-Taq DNA polymerase (Takara, Shiga, Japan), and 1 μl (ca. 10–100 ng) of DNA template. We also used KOD FX or KOD Plus Neo (Toyobo, Osaka, Japan) for specimens in which the amplification was difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "The PCR using KOD FX was performed in a 15-μl volume containing 2.4 μl ultrapure water, 3 μl 2.0 mM dNTP mix, 7.5 μl buffer, 0.9 μl of each 5 μM primer, 0.3 μl KOD FX DNA polymerase, and 1 μl of DNA template. The PCR using KOD Plus Neo was performed in a 15-μl volume"
+    }
+  ],
+  "8": [
+    {
+      "type": "paragraph",
+      "text": "containing 8.0 µl ultrapure water, 1.5 µl 2.0 mM dNTP mix, 1.5 µl buffer, 0.9 µl 25 mM MgCl2, 0.9 µl of each 5 µM primer, 0.3 µl KOD Plus Neo DNA polymerase, and 1 µl of DNA template. The settings for PCR using Ex-Taq consisted of the first step (denature, 94 °C, 2 min), 35 cycles of the second step (denature, 94 °C, 30 s; annealing, 48–62 °C, 30 s; extension, 72 °C, 1 min), and the last step (extension, 68 °C, 7 min); and those for PCR using KOD FX or KOD Plus Neo consisted of the first step (denature, 94 °C, 2 min), 35 cycles of the second step (denature, 98 °C, 10 s; annealing, 55–62 °C, 30 s; extension, 68 °C, 30–40 s), and the last step (extension, 68 °C, 7 min). Nested PCR was performed using two primer pairs described by Li et al. (2007) in some samples; PCR products were diluted 20–100 times with water, and PCR was performed again using these diluted PCR products as templates."
+    },
+    {
+      "type": "paragraph",
+      "text": "The PCR products were purified using ExoSAP-IT (USB Corporation, Cleveland, OH, USA) or Illustra ExoStar (GE Healthcare, Little Chalfont, Buckinghamshire, UK) at 37 °C. They were sequenced using an automated DNA sequencer (ABI 3130xl, Applied Biosystems, Foster City, CA, USA) with the above amplification primers and using the BigDye Terminator Cycle Sequencing FS Ready Reaction Kit ver. 3.1 (Applied Biosystems)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nucleotide sequences were edited in MEGA5 (Tamura et al., 2011) or MacClade 4.08a (Maddison and Maddison, 2000). The DNA sequences were aligned using ClustalW (Larkin et al., 2007) or manually. Heterozygous sites within individual specimens were rare (0–1.1% for genes); these were coded as IUPAC degenerate nucleotide symbols and directly used in the analyses. The obtained sequences were deposited in DDBJ/GenBank/EMBL (accession nos. AB988263-AB988988)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.3. Inference of molecular phylogeny"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gene trees were constructed using maximum likelihood (ML) and Bayesian methods. We chose *Rhinogobius giurinus* as the outgroup because it is the most distant species within the genus"
+    }
+  ],
+  "9": [
+    {
+      "type": "paragraph",
+      "text": "(Masuda et al., 1989; Mukai et al., 2005). Maximum likelihood analyses were carried out using RAxML-7.2.6 (Stamatakis, 2006). We analyzed three types of data sets, i.e., concatenated data of the three mtDNA regions, six sets of each nuclear gene, and concatenated data of the six nuclear genes. Model selections based on Akaike information criterion (AIC) and optimal partition setting analysis were performed using PartitionFinder v1.0.0 (Lanfear et al., 2012) (Table S4). We treated each gene as a single locus and partitioned it by codon position. The partition scheme was searched using the “greedy” algorithm. The evolutionary model was selected from GTR, GTR+I, GTR+G, or GTR+I+G models based on the AIC. The credibility of clades was evaluated by 1000 bootstrap replicates. Bayesian analyses were implemented using MrBayes 3.2.1 (Ronquist and Huelsenbeck, 2003) for two data sets (concatenated three mtDNA regions and concatenated six nuclear genes). Model selection based on the Bayesian information criterion (BIC) and optimal partition setting analysis were performed using PartitionFinder with the “greedy” algorithm. We treated each gene as a single locus and partitioned it by codon position. In MrBayes, the analysis was run for 20 and 50 million generations (for mtDNA and nuclear DNA, respectively), with two independent runs of four Markov chain Monte Carlo (MCMC) chains and sampling every 100 generations. The trace files were checked in Tracer 1.5 (Rambaut et al., 2013) to ensure that the chains had reached convergence and the first 25% of trees were discarded as burn-in. Trees were visualized using FigTree v1.3.1 (Rambaut, 2009)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a maximum likelihood tree or Bayesian tree topology did not support the monophyly of some morphological species, we conducted a statistical test of monophyly of the species as described below. First, we estimated the maximum likelihood tree under monophyletic constraints of the species by RAxML. Second, we conducted the approximate unbiased (AU) tests (Shimodaira, 2002) in CONSEL (Shimodaira and Hasegawa, 2001) for the two trees that were constructed under constraints or no constraints (i.e., maximum likelihood tree) and confirmed whether the monophyly of the species was statistically rejected or not."
+    }
+  ],
+  "10": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.4. Estimation of divergence time"
+    },
+    {
+      "type": "paragraph",
+      "text": "We estimated the divergence time from concatenated data of mtDNA regions and nuclear genes, independently. Because to date, no fossil records are available that could be used to construct the tree for Rhinogobius and its relatives, we used the following two geographic events and previously estimated molecular evolutionary rates for divergence time calibration. First, the Bonin Islands are oceanic islands that have never been connected to continents. They were formed 1.8 million years ago (Mya) or later, and it is assumed that their endemic fauna was formed 0.9–1.8 Mya (Kaizuka, 1977; Imaizumi and Tamura, 1984; Chiba, 2002). The time of the most recent common ancestors (tMRCA) of R. ogasawaraensis (endemic species to the Bonin Islands) and its sister species, or its clade was constrained following a normal prior distribution within the limit of 0–2.0 million years (Myr) (mean = 1.8, standard deviation (SD) = 0.4; calibration 1, CA1). Since it is possible that interspecific hybridization occurred after this divergence (see Discussion), we did not use this constraint in the mtDNA-based phylogenetic tree. Secondly, we used the opening time of the Tokara Gap, which divided the Japanese Archipelago and the Ryukyu Archipelago (1.55 ±0.154 Mya; Osozawa et al., 2012). Migration of amphidromous Rhinogobius species between the mainland and Ryukyu Archipelago just after the opening of the gap was probably not restricted because their larvae can disperse through the coastal areas. With further extension of the gap, their possible migration across the gap gradually decreased; finally, the isolation of populations at either side of the gap was complete. Therefore, we used the opening time of the Tokara Gap as the upper limit of the divergence time between mutually monophyletic groups distributed in the mainland and in the Ryukyu Archipelago. The tMRCA of the mutually monophyletic groups was constrained following a normal prior distribution within the limit of 0–1.7 Myr (mean = 1.55, SD = 0.4; calibration 2, CA2). Since the mtDNA phylogeny revealed the existence of mainland and Ryukyu groups beyond species boundaries (see Results), we applied CA2 to their tMRCA. On the"
+    }
+  ],
+  "11": [
+    {
+      "type": "paragraph",
+      "text": "other hand, in the nuclear DNA analysis, we used this constraint only for clear intraspecific divergence because a previous study suggested that another older geographic event could have caused a similar vicariance pattern between mainland and Ryukyu species in some gobiid groups (Mukai, 2010). Finally, we used the molecular evolutionary rate of 3.0%/Myr (pairwise) (95% highest posterior density (HPD), 0.7–4.8%/Myr) for cytb, which was estimated for the genus *Gymnogobius* (Tabata and Watanabe 2013), phylogenetically relatively close to *Rhinogobius* (Agorreta et al., 2013). We assumed that the evolutionary rate of cytb followed a lognormal prior distribution ranging from 0.0 to 10^100 per Mya (initial value = 0.015, mean = 0.015, SD = 0.7, offset = 0.0, mean in real space = yes). We used BEAST v1.7.5 (Drummond et al., 2012) to estimate the divergence time of trees inferred using mtDNA and nuclear genes, respectively. Originally, we attempted to construct a species tree by using *BEAST* (Heled and Drummond, 2010) for nuclear genes using several prior settings. However, the parameters did not converge and we abandoned this analysis. Later, we attempted to conduct the phylogenetic analysis with different evolutionary models for respective nuclear genes, but the parameters did not converge well either. Although the reason for this was not clear, it might be possible that low sequence variation and introgression in a part of the loci might influence the analyses. Finally, we concatenated sequences from the six nuclear genes and estimated a dated nuclear gene tree. In order to date the tree, we adopted the random local clock model, which assumes one or more independent rates on different branches (Drummond and Suchard, 2010). We did not specify partition by codon position, because the parameters did not converge in mtDNA or nuclear DNA data when partitioned. We used jModelTest v2.1.3 (Darriba et al., 2012) to select the evolutionary model without partitioning and selected the best model based on BIC. We selected the speciation tree prior (Yule process; Yule, 1925; Gemhard, 2008) and estimated a starting tree using the UPGMA method. We conducted MCMC analysis four times independently. For each MCMC, we performed a run of 50 and 100 million generations (for"
+    }
+  ],
+  "12": [
+    {
+      "type": "paragraph",
+      "text": "mtDNA and nuclear genes, respectively), sampling every 1000th generation. The first 10% of the trees were discarded as burn-in for each run. We assessed whether parameter values for individual runs had reached equilibrium and convergence by visually assessing their trace plots in Tracer 1.5. Individual chains were combined using the LogCombiner v1.7.5. Finally, we analyzed combined runs using Tree Annotator v1.7.5."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "2.5 Reconstruction of ancestral states"
+    },
+    {
+      "type": "paragraph",
+      "text": "We conducted ancestral state reconstruction for life history and egg size traits under the multiple state speciation and extinction (MuSSE) model (FitzJohn, 2012). If speciation, extinction, and character transition rates are different associated with traits, assuming equal rates for these parameters under ML framework will be a major violation of the ancestral state reconstruction (Maddison, 2006; Goldberg and Igić, 2008; Pyron and Burbrink, 2014). The MuSSE model is one of the models accounting for such state-dependent diversification and a generalized version of binary state speciation and extinction (BiSSE) model (Maddison et al., 2007) to allow the use of multistate characters. The MuSSE analysis was applied to the smallest monophyletic group including all Japanese species, for which taxon sampling was dense. We chose one sample for every species randomly and excluded the other samples from the nuclear DNA tree inferred by BEAST using the ‘ape’ package (Paradis et al., 2004) in R (R Development Core Team, 2014). Exceptionally, two samples were used for *R. flumineus* and *Rhinogobius* sp. OR because they were suggested to be non-monophyletic. We then conducted a model comparison between the full MuSSE model and 11 parameter-constrained sub-models. We selected the best model using AIC scores. Finally, we conducted an ancestral state reconstruction under the selected model in the ML framework. The model selection and ancestral state reconstruction under the MuSSE model were conducted using the R package ‘diversitree’ v 0.9-7 (FitzJohn, 2012). The data for life history and egg size of each species were obtained from previous studies (see Tables 1, S1)."
+    }
+  ],
+  "13": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "3. Results"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3.1. Phylogeny and divergence time estimates based on mtDNA sequences"
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum likelihood and Bayesian analyses based on three mtDNA regions revealed six clades in the Japanese Rhinogobius species (Fig. 2): M-1 (R. ogasawaraensis, bootstrap probability inferred by RAxML [BP] 100%, posterior probability inferred by MrBayes [PPM] 100%, posterior probability inferred by BEAST [PPB] 1.0); M-2 (Rhinogobius sp. BW, BP 100%, PPM 1.0, PPB 1.0); M-3 (Rhinogobius sp. TO, BP 100%, PPM 1.0, PPB 1.0); M-4 (R. flumineus, BP 100%, PPM 1.0, PPB 1.0); M-5 (R. nagoyae collected from the mainland of Japan; BP 100%, PPM 1.0, PPB 1.0); M-6 (other samples collected from the mainland of Japan; BP 100%, PPM 1.0, PPB 1.0); and M-7 (other samples collected from the Ryukyu Archipelago; BP 81%, PPM 0.99, PPB 0.99). Rhinogobius nagoyae and R. brunneus, which are distributed both on the mainland of Japan and the Ryukyu Archipelago, were each polyphyletic, with M-5 and M-7 haplotypes according to the locality (AU test, R. nagoyae, p < 0.001; R. brunneus, p < 0.001). In the clade M-6, Rhinogobius sp. OR and R. fluviatilis were not monophyletic (AU test, Rhinogobius sp. OR, p < 0.001; R. fluviatilis, p < 0.001). In the clade M-7, R. brunneus and Rhinogobius sp. BB were also not monophyletic (AU test, R. brunneus, p < 0.001; R. sp. BB, p < 0.001)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The calibration point CA2 was applied for the divergence between the M-5+M-6 (most samples collected from the mainland of Japan) and M-7 (collected from the Ryukyu Archipelago) haplotypes. The tMRCA of these was estimated at 1.17 Myr (95% HPD, 0.62–1.70 Myr in Table 2). The tMRCA of all the Japanese Rhinogobius species was estimated at1.59 Myr (0.73–2.39 Myr), and the tMRCAs of M-5+M-6 and M-7 were 1.02 Myr (0.49–1.52 Myr) and 0.97 Myr (0.47–1.44 Myr), respectively."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3.2. Gene trees and divergence time estimation based on nuclear gene sequences"
+    }
+  ],
+  "14": [
+    {
+      "type": "paragraph",
+      "text": "The variable sites and parsimony informative sites of the nuclear genes for Rhinogobius fishes, excluding R. giurinus, were 2.5% (EGR3)–9.9% (RAG2), and 1.3% (sreb2)–5.7% (RAG2), respectively. Although the resolution and statistical support of the phylogenetic trees based on each nuclear DNA data set were low (Figure S2), they were much improved in the ML and"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bayesian trees based on the concatenated dataset (Fig. 3). The descriptions and analyses hereafter are based on ML and Bayesian trees inferred from the six nuclear genes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In contrast to the result of mtDNA analyses, most of the respective species were resolved as monophyletic in the nuclear gene trees. The Japanese species were monophyletic in the current dataset, and they were divided into three clades with strong or moderate statistical supports (Fig. 3): clade N-1 (R. flumineus and R. sp. TO; BP 95%, PPM 1.0, PPB 1.0); N-2 (R. nagoyae and R. sp. CO; BP 68%, PPM 0.99, PPB 0.95); and N-3 (the remaining 13 species; BP 78%, PPM 1.0, PPB 1.0). The N-3 clade was further divided into three subclades: N-3-1 (R. brunneus and Rhinogobius sp. YB; BP 65%, PPM 0.96, PPB 0.99); N-3-2 (R. fluviatilis, R. ogasawaraensis, and Rhinogobius sp. DL; BP 83%, PPM 1.0, PPB 1.0); and N-3-3 (Rhinogobius sp. MO, Rhinogobius sp. BB, Rhinogobius sp. OR, Rhinogobius sp. BW, Rhinogobius sp. BF, Rhinogobius sp. OM, Rhinogobius sp. KZ, and R. kurodai; BP 100%, PPM 1.0, PPB 1.0). None of the analyses resolved the relationships among N-1, N-2, and N-3 clades."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the N-1 clade, Rhinogobius sp. TO formed a monophyletic group with a part of R. flumineus samples (BP 57%, PPM 0.93, PPB 0.90). Although statistical support was weak, R. brunneus and Rhinogobius sp. YB were each polyphyletic in N-3-1 (AU test, Rhinogobius sp. YB, p = 0.42; R. brunneus, p = 0.335). In N-3-2 clade, R. fluviatilis and R. ogasawaraensis constituted a sister"
+    },
+    {
+      "type": "paragraph",
+      "text": "group with Rhinogobius sp. DL (BP 83%, PPM 1.0, PPB 1.0). In N-3-3, Rhinogobius sp. MO and Rhinogobius sp. BB formed a weakly supported monophyletic group in the ML tree (BP 52%, PPB 0.54; not supported by MrBayes analysis). The resolution of the relationships among other specimens, including Rhinogobius sp. OR, Rhinogobius sp. BW, Rhinogobius sp. BF, Rhinogobius"
+    }
+  ],
+  "15": [
+    {
+      "type": "paragraph",
+      "text": "sp. OM, Rhinogobius sp. KZ, and R. kurodai was low. Rhinogobius sp. BW, a species endemic to Lake Biwa, the largest lake in Japan, formed a monophyletic group with Rhinogobius sp. BF, distributed in western area of the mainland of Japan, and Rhinogobius sp. OM, distributed in the coastal area and rivers flowing into Lake Biwa, but the statistical support was weak (BP 70%, PPM 0.53, PPB 0.64). We applied the calibration point CA1 (<2 Myr) for the tMRCA of R. fluviatilis (distributed widely in the mainland of Japan) and R. ogasawaraensis (endemic to the Bonin Islands) and CA2 (<1.7 Myr) for the tMRCA of R. nagoyae on the mainland of Japan and the Ryukyu Archipelago (Fig. 4). As a result of these calibration points, the divergence time of R. ogasawaraensis and R. fluviatilis was estimated at 1.55 Myr (95% HPD, 1.05–2.00 Myr), and that of R. nagoyae on the mainland of Japan and the Ryukyu Archipelago was estimated at 1.14 Myr (0.68–1.69 Myr). The tMRCAs among the species that are geographically isolated from each other whose distributions were geographically separated were estimated as follows (Table 2): tMRCA of N-3-2 (R. fluviatilis [the mainland], R. ogasawaraensis [Bonin Islands], and Rhinogobius sp. DL [Ryukyu Archipelago]) was 1.78 Myr (1.03–2.53 Myr); tMRCA of a part of N-3-3 (Rhinogobius sp. OR + Rhinogobius sp. KZ + Rhinogobius kurodai [the mainland] and Rhinogobius sp. MO + Rhinogobius sp. BB [Ryukyu Archipelago]) was 1.20 Myr (0.59–1.89 Myr); and tMRCA of Rhinogobius sp. BW (Lake Biwa) + Rhinogobius sp. BF (western area of the mainland of Japan) + Rhinogobius sp. OM was 1.10 Myr (0.49–1.77 Myr). The tMRCA of the Japanese Rhinogobius species, except for R. giurinus, was estimated at about 4.48 Myr (2.38–6.66 Myr)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3.3 Ancestral state reconstruction"
+    },
+    {
+      "type": "paragraph",
+      "text": "The best-fit model among the MuSSE sub-models was the simplest model for both life history and egg size, i.e., speciation, extinction, and transition rates were independent to state (Table S6). In the Rhinogobius species of Japan, the life history and egg size transformations were estimated"
+    }
+  ],
+  "16": [
+    {
+      "type": "paragraph",
+      "text": "to have occurred at least five and four times, respectively, although the proportional likelihood values were not very high for parts of the ancestral states (59.6–99.9%; Fig. 4a). The estimated egg size transformations always occurred together with life history transformation. The evolutionary change from amphidromous to fluvial life, accompanied by an increase in egg size, was estimated to have occurred in at least three independent lineages (R. flumineus, Rhinogobius sp. BB, and Rhinogobius sp. YB). The evolutionary change from amphidromous to lentic life was estimated to have occurred in one lineage (Rhinogobius sp. BW and Rhinogobius sp. BF). There was no clear change in egg size in this lineage (Tables 1, S1). In the R. flumineus and Rhinogobius sp. TO lineage, it was inferred that the lentic life most likely evolved from the fluvial life of R. flumineus, accompanied by a decrease in egg size."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "4. Discussion"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4.1 Phylogenetic relationships of Japanese Rhinogobius fishes and their biogeography"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our analysis using multiple nuclear gene data from all known Japanese Rhinogobius species revealed the existence of three major clades and resolved the overall relationships among the species. Previously, morphological studies have not been conducted to infer the phylogenetic relationships of Rhinogobius fishes because of their generally high level of morphological similarity. Although phylogenetic hypotheses for selected species from the mainland of Japan have been inferred from the allozyme data, consistent and reliable results have not been obtained (Masuda et al., 1989; Sakai et al., 2000). The present study is the first to examine the phylogenetic relationships of Rhinogobius using dense taxonomic sampling, although it was mostly restricted to Japanese species."
+    },
+    {
+      "type": "paragraph",
+      "text": "The inferred phylogenetic relationships suggest several biogeographic scenarios that explain the divergence among the species. Among the freshwater species of Rhinogobius, the close relationship between R. flumineus (fluvial) and Rhinogobius sp. TO (lentic) was revealed in this"
+    }
+  ],
+  "17": [
+    {
+      "type": "paragraph",
+      "text": "study. Although statistical support was not strong, the latter being derived from a clade within the former in the early to middle Pleistocene (1.43 Mya; 95% HPD, 0.48–2.44 Mya). Rhinogobius flumineus is distributed widely in western Japan, including the Ise Bay area, in which Rhinogobius sp. TO has a restricted distribution (Suzuki and Sakamoto, 2005; Fig. 4b). The latter species occurs in marsh habitats of hilly areas with rich spring waters (Suzuki and Mukai, 2010). This area has been rich in lentic environments since the Pliocene; e.g., a large wetland area known as the Paleo-Lake Tokai existed from the Pliocene to the middle Pleistocene (Yoshida, 1990; Makinouchi, 2001). The distribution, habitat, and speciation of Rhinogobius sp. TO may be associated with such past lentic environments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other freshwater species, Rhinogobius sp. BF, Rhinogobius sp. BW, and Rhinogobius sp. OM, formed a monophyletic clade, but with weak statistical support. They are distributed in marshes and ponds around the Seto Inland Sea, the pelagic zone of Lake Biwa, and coastal areas and rivers flowing into Lake Biwa (Fig. 4c). Their common ancestor was estimated to have diverged from a part of Rhinogobius sp. OR, which is amphidromous and distributed widely on the mainland of Japan. The common ancestor probably adapted to freshwater environments around the Seto Inland Sea area, in which there existed a large-scale freshwater system (known as the Second Seto Inland Lake/River system), including the Paleo-Lake Biwa at the eastern edge (Yokoyama and Nakagawa, 1991). The estimated tMRCA of Rhinogobius sp. BW and part of Rhinogobius sp. BF (0.90 Myr; 0.35–1.51 Myr; Table 2) is roughly congruent with the time when the large, deep offshore environment of Lake Biwa started to develop (0.4 Mya; Yokoyama, 1984; Meyers et al., 1993; Kawabe, 1994). This suggests that Rhinogobius sp. BW has derived from the ancestral lentic form with and adapted to the pelagic environment of Lake Biwa."
+    },
+    {
+      "type": "paragraph",
+      "text": "The inferred phylogenetic relationships and geographic distributions suggest the patterns of allopatric speciation in amphidromous species. Rhinogobius ogasawaraensis, endemic to the Bonin Islands, oceanic islands 1000 km south of the mainland of Japan (Suzuki et al., 2011), was"
+    }
+  ],
+  "18": [
+    {
+      "type": "paragraph",
+      "text": "estimated to be the sister species of R. fluviatilis, which is widely distributed on the mainland of Japan (Fig. 4d). Prior to the present study, R. ogasawaraensis was considered closely related to R. brunneus in body color characteristics (Suzuki, 1992). However, our results suggest that R. ogasawaraensis was established by colonization of the common ancestor with R. fluviatilis from the mainland of Japan after the separation from Rhinogobius sp. DL, which is distributed in the Ryukyu Archipelago. Although amphidromous species may extend their geographic range through coastal or marine habitats (McDowall, 2001), juveniles of amphidromous Rhinogobius species are restricted to the coastal zone (Oshiro and Nishijima, 1978; Kondo et al., 2013) and probably do not migrate across the open ocean. Therefore, the dispersal from the mainland to the Bonin Islands would be an exceptional event."
+    },
+    {
+      "type": "paragraph",
+      "text": "Marine environments at smaller spatial scales also affect gene flow and probably the allopatric speciation of Rhinogobius species. The opening of the Tokara Gap, which isolated the terrestrial biota between the Japanese and Ryukyu archipelagos (Ota, 1998), probably also caused divergence in some species groups of the amphidromous Rhinogobius. There were three sets of mutually monophyletic lineages distributed in the mainland of Japan (+the Bonin Islands) and the Ryukyu Archipelago; i.e., R. nagoyae (the mainland) vs. R. nagoyae (Ryukyu) in N-2; R. fluviatilis (the mainland) +R. ogasawaraensis (Bonin) vs. Rhinogobius sp. DL (Ryukyu) in N-3-2; Rhinogobius sp. OR +Rhinogobius sp. KZ +R. kurodai (the mainland) vs. Rhinogobius sp. MO + Rhinogobius sp. BB (Ryukyu) in N-3-3. The estimated divergence time of each pair was 1.14 (95% HPD, 0.68–1.69; this used as a calibration point), 1.78 (95% HPD, 1.03–2.53), and 1.20 (95% HPD, 0.59–1.89) Myr, respectively (Table 2), showing similar values among the pairs. This roughly supports the hypothesis that the opening of the Tokara Gap caused the divergence in these groups. The distribution of Rhinogobius sp. DL extends to north of the Tokara Gap. This might have resulted from secondary dispersal and should be examined based on detailed population structures in future studies."
+    }
+  ],
+  "19": [
+    {
+      "type": "paragraph",
+      "text": "The opening of the Tokara Gap similarly explains the divergence between the mainland of Japan and Ryukyu subspecies of the osmeriform Plecoglossus altivelis (ca. 1 Myr divergence; Nishida, 1985, 1986), which is the representative of amphidromous species distributed widely in East Asia, similarly to Rhinogobius. In contrast to the above three Rhinogobius groups and other taxa such as P. altivelis, R. brunneus did not show any significant differentiation between the Japanese and Ryukyu archipelagos. The different dispersal abilities of their larvae may explain the presence or absence and the extent of the genetic differentiation among the species pairs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4.2 The history of hybridization inferred from mtDNA introgression"
+    },
+    {
+      "type": "paragraph",
+      "text": "The inconsistency between our mtDNA and nuclear DNA inferred phylogenies suggests a large-scale introgressive hybridization involving multiple Rhinogobius species within Japan. In the mtDNA phylogeny, the mainland and Ryukyu populations of two widely distributed species (R. nagoyae and R. brunneus) formed a group with other species in those regions. Overall, specimens of nine species from the mainland formed a monophyletic group (M-5 + M-6), although statistical support was not strong, and those of six species from the Ryukyu Archipelago formed a monophyletic group (M-7). However, such polyphyletic relationships were statistically rejected by the nuclear DNA data; morphologically defined species basically formed a monophyletic group. This pattern of geographical sorting of the mtDNA lineages is explained by interspecific introgressive hybridization rather than incomplete lineage sorting (Toews and Brelsford, 2012) because the latter is expected to cause more random distribution of mtDNA haplotypes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mtDNA phylogeny, along with the nuclear gene phylogeny and divergence time estimations, provides information on historical patterns of hybridization in Rhinogobius. First, Rhinogobius ogasawaraensis was resolved as distant to other Japanese Rhinogobius species (except for R. giurinus) in the mtDNA phylogeny; nevertheless, R. ogasawaraensis was included in the clade N-3-2 of the nuclear gene phylogeny. This conflict indicates that a large-scale mtDNA"
+    }
+  ],
+  "20": [
+    {
+      "type": "paragraph",
+      "text": "introgression involving almost all species in both Japanese and Ryukyu archipelagos started with a common haplotype (or close haplotypes) after the divergence of R. ogasawaraensis. Second, the mtDNA and nuclear DNA analyses gave similar estimation of the divergence time of R. ogasawaraensis (1.59 and 1.55 Myr, respectively) although different calibration sets were used (Table 2). This agreement probably validates the estimation that the large-scale introgression occurred around that time (the early to middle Pleistocene). Third, even within the mainland of Japan or the Ryukyu region, mtDNAs resolved a part of species polyphyletic (e.g., the mainland R. fluviatilis and Ryukyu Rhinogobius sp. BB). This also supports the limited but ubiquitous hybridization in the Rhinogobius fishes, although incomplete lineage sorting in mtDNA is an alternative explanation in this scale. Fourth, it should be noted that freshwater species, such as R. flumineus, Rhinogobius sp. TO, Rhinogobius sp. BW (the mainland), and a part of Rhinogobius sp. BB (Ryukyu), branched out earlier and have retained their independent lineages in the mtDNA phylogeny. This tendency suggests that the reproductive isolation between amphidromous and freshwater species is stronger than that between amphidromous species and has prohibited the freshwater species from hybridizing with other species."
+    },
+    {
+      "type": "paragraph",
+      "text": "What type of historical process has constructed the above patterns? Interspecific hybridization often occurs in the conditions of enforced syntopic occurrence, which is caused by, for instance, reduction of habitats and secondary contact of populations following disappearance of geographic or ecological barriers (Seehausen, 2004; Toews and Brelsford, 2012). Although the Rhinogobius species show similar reproductive habits that include oviposition under a stone and male parental care for the eggs, reproductive isolation among sympatric species is achieved by micro- or mesoscale differences of spawning habitat in the river course (Mizuno, 1982; Tamada, 2000; Hirashima and Tachihara, 2006), assortative mating based on nuptial coloration and courtship behavior (Mizuno, 1987), or both. However, some conditions causing disturbance of such reproductive isolation would have occurred since the early to middle Pleistocene, in which the"
+    }
+  ],
+  "21": [
+    {
+      "type": "paragraph",
+      "text": "large part of Japanese Rhinogobius would have experienced large-scale hybridization. Freshwater habitat reduction by the rise in sea level with global climate fluctuations might be one such potential situation causing the overlap of spawning habitats among species. Mukai et al. (2012) reported that introgressive hybridization has occurred contemporarily among some freshwater"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius species following artificial transplantation. This example demonstrates that environmental distribution or changes can easily disturb reproductive isolation among Rhinogobius fishes. Furthermore, if some types of mtDNA were favored by natural selection, large-scale introgression of the particular mtDNA would rapidly progress through interspecific hybridization (Ballard and Whitlock, 2004). The Rhinogobius fishes may provide a model system to study the mechanisms of maintenance and decay of reproductive isolation, such as the Lake Victoria cichlids that suffered a collapse of assortative mating based on visual sense with the increase of turbidity (Seehausen et al., 1997). This group may also be useful as a model system for studying mitochondrial introgression and replacement through interspecific hybridization (Mukai and Takahashi, 2010)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4.3 Life history and egg size evolution and speciation"
+    },
+    {
+      "type": "paragraph",
+      "text": "We successfully reconstructed the patterns of life history and egg size evolution of Rhinogobius species in Japan. Because of our taxon sampling bias toward Japanese species, careful consideration is needed for reconstruction and explanation of evolutionary patterns of ecological traits. However, since all non-amphidromous and some amphidromous species used in this study are endemic to Japan and some are inferred to have derived around Japan, estimation of the trait transformation based on our phylogeny should provide meaningful insights into ecological and species diversification in Rhinogobius fishes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The evolutionary changes of the life history type and egg size are closely associated with each other in Rhinogobius species. The reconstructed patterns in the phylogeny included three series of"
+    }
+  ],
+  "22": [
+    {
+      "type": "paragraph",
+      "text": "transformations, i.e., from an amphidromous to a fluvial type, from an amphidromous to a lentic type, and from a fluvial to a lentic type. Although statistical support of the ancestral reconstruction associated with the last transformation was not very strong, the pattern is supported by the geographical distribution of the relevant species (see below).\nThe first pattern, from amphidromous to fluvial, is inferred to have occurred independently in the *R. flumineus*, *Rhinogobius sp. YB*, and *Rhinogobius sp. BB* lineages, when they diverged from their ancestors. In all three fluvial species, their egg size became larger than that of the amphidromous species. The reconstruction remains ambiguous for *R. flumineus* due to its basal phylogenetic position in Japanese species and the presence of several unexamined fluvial/large egg species in the continent (Chen et al., 2008). On the other hand, the other two fluvial species (*Rhinogobius sp. YB* and *Rhinogobius sp. BB*) occurring in the Ryukyu Archipelago most likely originated directly from *R. brunneus* and *Rhinogobius sp. MO*, respectively, based on their phylogenetic relationships, recent divergence times, and restricted geographic distribution of the fluvial species. This means that convergent evolution of the increase in egg size occurred at least in these two lineages. This conclusion agrees with the inference from previous studies based on allozyme polymorphism (Kato and Nishida, 1994; Nishida, 1994). Based on the restricted occurrence of *Rhinogobius sp. YB* in the upper reaches of waterfalls, Nishida (1994, 2001) and Kano et al. (2012) suggested that this species evolved through parallel evolution from the amphidromous ancestor (*R. brunneus*) as a result of population isolation following the formation of waterfalls. On the other hand, since *Rhinogobius sp. BB* is usually found in rivers without waterfalls, Kondo et al. (2013) inferred that this species derived from the ancestral *Rhinogobius sp. MO* population that invaded the upper reaches of rivers when the sea level decreased and rivers increased in length. To test these hypotheses for evolutionary processes of the fluvial species, further study from multiple aspects, including population genetics with highly sensitive multilocus markers, is needed."
+    }
+  ],
+  "23": [
+    {
+      "type": "paragraph",
+      "text": "The second pattern of life history transformation, from amphidromous (Rhinogobius sp. OR or OM) to lentic (Rhinogobius sp. BF + Rhinogobius sp. BW), involved a slight decrease in egg size (Takahashi and Okazaki, 2002). The difference in their egg size is not as large as that between fluvial (large egg) and amphidromous (small egg) species (Table S1; Takahashi and Okazaki, 2002). Since larvae of both the amphidromous and lentic species grow in a plankton-rich environment (i.e., the sea near a river mouth and lakes or ponds), such similar feeding environments may not cause remarkable differences in the adaptive sizes of their hatched larvae and eggs in relation to feeding efficiency. However, the lentic species are possibly released from the lower limit of egg size needed for enduring starvation during their flow down the river just after hatching (Moriyama et al., 1998; Iguchi and Mizuno, 1999; Tamada, 2008, 2009). The smaller body size at maturation in lentic species (Takahashi and Okazaki, 2002) probably favors smaller eggs for increased fecundity. These factors may explain the smaller egg size in lentic species."
+    },
+    {
+      "type": "paragraph",
+      "text": "The third pattern of life history transformations, from fluvial (R. flumineus) to lentic (Rhinogobius sp. TO) type, involved a possible reversal evolution in egg size, i.e., egg size changed from a small size (ancestral amphidromous species) to a small size (Rhinogobius sp. TO) through a large state (R. flumineus) in this lineage. Although the ancestral reconstruction for this lineage was not very strongly supported by the MuSSE analysis, this pattern is supported by the following considerations: (a) Rhinogobius sp. TO derived most likely from a lineage of R. flumineus, and (b) the very restricted distribution of Rhinogobius sp. TO (around the Ise Bay area) is included within the wide range of R. flumineus. These suggest that the former species is the one that colonized from fluvial to lentic environments, such as the lake or marsh that existed around the present Ise Bay area (the Paleo-Lake Tokai), as discussed above."
+    },
+    {
+      "type": "paragraph",
+      "text": "The present wetland environment in the Ise Bay area is inhabited by several highly endemic species, including freshwater fishes (Pseudorasbora pugnax, Cobitis minamorii tokaiensis, as well"
+    }
+  ],
+  "24": [
+    {
+      "type": "paragraph",
+      "text": "as Rhinogobius sp. TO; Kawamura, 2006; Nakajima, 2012; Kawase and Hosoya, 2015), aquatic hemipteran insects Nepa hoffmanni, and plants (e.g., magnoliacean Magnolia stellata; Ueda, 2002); these suggest that such environment has been maintained for a long period. The small egg size and body size in Rhinogobius sp. TO are likely the characters representing this adaptation. The dwarf morphology of Rhinogobius sp. TO is very similar to that of other lentic species (Rhinogobius sp. BF and Rhinogobius sp. BW), and these three forms were treated as a single species until recently (Akihito et al., 2002; Suzuki and Mukai, 2010). However, the present study clarified that Rhinogobius sp. TO belongs to a different lineage from Rhinogobius sp. BF and Rhinogobius sp. BW, indicating that their lentic life history and dwarf morphology were the result of convergent evolution. The evolutionary change suggested in the freshwater R. flumineus and Rhinogobius sp. TO lineage emphasizes the adaptive flexibility of Rhinogobius fishes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reconstructed life history changes did not include the changes from freshwater (fluvial or lentic) to amphidromous types. The amphidromous life history requires adaptations to migrating behavior and salinity tolerance, which are not required for freshwater fish (McDowall, 2004). In fact, some freshwater Rhinogobius species have weakened or completely lost their salinity tolerance (Rhinogobius sp. YB and Rhinogobius sp. BB; Hirashima and Tachihara, 2000). Loss of standing genetic variation through purifying selection or bottleneck during colonization of freshwater environment may have prevented the freshwater species from re-acquiring the amphidromous life. Competition or hybridization with prior amphidromous residents may also prevent this reversal in evolution."
+    },
+    {
+      "type": "paragraph",
+      "text": "In summary, the considerable species diversity of Rhinogobius has been promoted and maintained by parallel life history divergence through colonization of and adaptation to various freshwater habitats, including flowing waters, marshes, and lakes. The life history divergence involving the changes in migration patterns and egg size probably functions as a direct mechanism of reproductive isolation among the divergent populations. To elucidate the whole picture of life"
+    }
+  ],
+  "25": [
+    {
+      "type": "paragraph",
+      "text": "history evolution in Rhinogobius, further phylogenetic analysis using comprehensive taxon sampling from East/Southeast Asia is necessary."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "paragraph",
+      "text": "We thank M. Hosokawa, N. Oseko, M. Aizawa, T. Abe, M. Kumazawa, Y. Miyazaki, Y. Kanzaki, T. Tsunagawa, S. Nakamura, R. Tabata, H. Nakagawa, T. Mishina, T. Nakano, Y. Kano, C.-G. Zhang, R. Nishiguchi, and Hakuryo Junior and Senior High School Biology Club for collecting samples, A. Iwata, M. Kondo and K. Maeda for giving valuable comments and precious literature, E. Kawaguchi for helping sequencing analysis, T. Fujisawa for giving helpful comments for phylogenetic analysis, and the two anonymous reviewers, the handling editor and members of Laboratory of Animal Ecology of Kyoto University for giving helpful comments. This study was partially supported by JSPS KAKENHI (nos. 21370035, 23370041, 26291079 and 26250044) and “Formation of a Strategic Base for Biodiversity and Evolutionary Research: from Genome to Ecosystem” of the GCOE."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Agorreta, A., San Mauro, D., Schliewen, U., Van Tassell, J.L., Kovačič, M., Zardoya, R., Rübe, L., 2013. Molecular phylogenetics of Gobioidei and phylogenetic placement of European gobies. Mol. Phylogenet. Evol. 69, 619–633."
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Sakamoto, K., Ikeda, Y., Sugiyama, K., 2002. Gobioidei, in: Nakabo, T. (Ed.), Fishes of Japan with pictorial keys to the species, English edition. Tokai University Press, Tokyo, pp. 1139–1310."
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Sakamoto, K., Ikeda, Y., Aizawa, M., 2013. Gobioidei, in: Nakabo, T. (Ed.), Fishes of Japan with pictorial keys to the species, Third edition. Tokai University Press, Tokyo, pp. 1347–1608. (In Japanese)"
+    }
+  ],
+  "26": [
+    {
+      "type": "paragraph",
+      "text": "Aonuma, Y., Iwata, A., Asahida, T., Ida, H., Kobayashi, T., 1998. Genetic variation of *Rhinogobius* fishes (Pisces: Gobiidae) around the East China Sea with notes on its zoogeography. DNA polymorphism 6, 116–122. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ballard, J.W.O., Whitlock, M.C., 2004. The incomplete natural history of mitochondria. Mol. Ecol. 13, 729–744."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bematchez, L., Renaut, S., Whiteley, A.R., Derome, N., Jeukens, J., Landry, L., Lu, G., Nolte, A.W., Østbye, K., Roger, S.M., St-Cyr, J., 2010. On the origin of species: insights from the ecological genomics of lake whitefish. Phil. Trans. R. Soc. B 365, 1783–1800."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betancur-R., R., Ortí, G., Stein, A.M., Marceniuk, A.P., Pyron, A., 2012. Apparent signal of competition limiting diversification after ecological transitions from marine to freshwater habitats. Ecol. Lett. 15, 822–830."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betancur-R., R., Broughton, R.E., Wiley, E.O., Carpenter, K., Lopez, J.A., Li, C., Holcroft, N.I., Arcila, D., Sanciangco, M., Cureton, J., Zhang, F., Buser, T., Campbell, T., Rowley, T., Ballesteros, J.A., Lu, G., Grande, T., Arratia, G., Ortí, G., 2013. The tree of life and a new classification of bony fishes. Plos Curr. Tree of Life 2013. http://dx.doi.org/10.1371/currents.tol.53ba26640df0ccae75bb165c8c26288 (Apr. 18)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betancur-R., R., Wiley, E., Bailly, N., Miya, M., Lecointre, G., Ortí, G., 2014. Phylogenetic classification of bony fishes—version 3. http://www.deepfin.org/Classification_v3.htm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Betancur-R., R., Ortí, G., Pyron, R.A., 2015. Fossil-based comparative analyses reveal ancient marine ancestry erased by extinction in ray-finned fishes. Ecol. Lett. 18, 441–450."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bossu, C.M., Near, T.J., 2009. Gene trees reveal repeated instances of mitochondrial DNA introgression in orangethroat darters (Percidae: *Etheostoma*). Syst. Biol. 58, 114–129."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S., Kottelat, M., 2005. Four new freshwater gobies of the genus *Rhinogobius* (Teleostei: Gobiidae) from northern Vietnam. J. Nat. Hist. 39, 1407–1429."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, I-S., Cheng, Y.H., Shao, K.T., 2008. A new species of *Rhinogobius* (Teleostei: Gobiidae)"
+    }
+  ],
+  "27": [
+    {
+      "type": "paragraph",
+      "text": "from the Julongjiang Basin in Fujian Province, China. Ichthyol. Res. 55, 335-343."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiba, S., 2002. Ecological diversity and speciation in land snails of the genus *Mandaria* from the Bonin Islands. Popul. Ecol. 44, 179-187."
+    },
+    {
+      "type": "paragraph",
+      "text": "Closs, G.P., Hicks, A.S., Jellyman, P.G., 2013. Life histories of closely related amphidromous and non-migratory fish species: a trade-off between egg size and fecundity. Freshw. Biol. 58, 1162-1177."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darriba, D., Taboada, G.L., Doallo, R., Posada, D., 2012. jModelTest 2: more models, new heuristics and parallel computing. Nature Methods 9, 772."
+    },
+    {
+      "type": "paragraph",
+      "text": "Drummond, A.J., Suchard, M.A., 2010. Bayesian random local clocks, or one rate to rule them all. BMC Biol. 8, 114."
+    },
+    {
+      "type": "paragraph",
+      "text": "Drummond, A.J., Suchard, M.A., Xie, D., Rambaut, A., 2012. Bayesian phylogenetics with BEAUti and the BEAST 1.7. Mol. Biol. Evol. 29, 1969-1973."
+    },
+    {
+      "type": "paragraph",
+      "text": "FitzJohn, R.G., 2012. Diversitree: comparative phylogenetic analyses of diversification in R. Methods Ecol. Evol. 3, 1084-1092."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gemhard, T., 2008. The conditioned reconstructed process. J. Theor. Biol. 253, 769-778."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goldberg, E.E., Igić, B., 2008. On phylogenetic tests of irreversible evolution. 62, 2727-2741."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goto, A., Andoh, T., 1990. Genetic divergence between the sibling species of river-sculpin, *Cottus amblystomopsis* and *C. nozawae*, with special reference to speciation. Environ. Biol. Fish. 28, 257-266."
+    },
+    {
+      "type": "paragraph",
+      "text": "Harvey, P.H., Pagel, M.D., 1991. The comparative method in evolutionary biology. Oxford University Press, Oxford."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heled, J., Drummond, A.J., 2010. Bayesian inference of species trees from multilocus data. Mol. Biol. Evol. 27, 570-580."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hirashima, K., Tachihara, K., 2000. Embryonic development and morphological changes in larvae and juveniles of two land-locked gobies, *Rhinogobius* spp. (Gobiidae), on Okinawa Island. Jpn."
+    }
+  ],
+  "28": [
+    {
+      "type": "paragraph",
+      "text": "J. Ichthyol. 47, 29–41. (in Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hirashima, K., Tachihara, K., 2006. Longitudinal distribution and dietary habitats of the genus Rhinogobius in the Genka River of northern Okinawa Island, Japan. Jpn. J. Ichthyol. 53, 71–76. (in Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iguchi, K., Mizuno, N., 1999. Early starvation limits survival in amphidromous fishes. J. Fish Biol. 54, 705–712."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaizumi, T., Tamura, T., 1984. Geomorphology of the Chichijima and Hahajima Islands. Bull. Ogasawara Res. 8, 3–11. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iwata, A., 2001a. Rhinogobius sp. BB, in: Kawanabe, H., Mizuno, N., Hosoya, K. (Eds.), Freshwater Fishes of Japan, 3rd ed. Yama-Kei Publishers, Tokyo, p. 599. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iwata, A., 2001b. Rhinogobius sp. YB, in: Kawanabe, H., Mizuno, N., Hosoya, K. (Eds.), Freshwater Fishes of Japan 3rd ed. Yama-Kei Publishers, Tokyo, p. 598. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaizuka, S., 1977. Geology and geomorphology of the Bonin Island. Bull. Ogasawara Res. 1, 29–34. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kano, Y., Nishida, S., Nakajima, J., 2012. Waterfalls drive parallel evolution in a freshwater goby. Ecol. Evol. 2, 1805–1817."
+    },
+    {
+      "type": "paragraph",
+      "text": "Katoh, M., Nishida, M., 1994. Biochemical and egg size evolution of freshwater fishes in the Rhinogobius brunneus complex (Pisces, Gobiidae) in Okinawa, Japan. Biol. J. Linnean Soc. 51, 325–335."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kawabe, T., 1994. Biwako no Oitachi (Formation of Lake Biwa), in: Research Group for Natural History of Lake Biwa (Ed.), Biwako no Shizenshi (The Natural History of Lake Biwa). Yasaka Shobo, Tokyo, pp. 21–132. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kawamura, K., 2006. Pseudorasbora pumila subsp. sensu Nakamura 1969, in: Natural environment division, department of environment and forestry, Mie Prefecture (Ed.), Red data"
+    }
+  ],
+  "29": [
+    {
+      "type": "paragraph",
+      "text": "book of Mie Prefecture 2005, Animals. Mie Prefecture Environmental Conservation Agency, Tsu, p. 142. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kawase, S., Hosoya, K., 2015. *Pseudorasbora pugnax*, a new species of minnow from Japan, and redescription of *P. pumila* (Teleostei: Cyprinidae). Ichthyol. Explor. Freshw. 25, 289–298."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith, P., Lord, C., 2011. Tropical freshwater Gobies: Amphidromy as a life cycle, in: Patzner, R.A., Van Tassell, J.L., Kovačič, M., Kapoor, B.G. (Eds.), The biology of gobies. Science Publishers, Enfield, New Hampshire, pp. 119–128."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kondo, M., Maeda, K., Hirashima, K., Tachihara, K., 2013. Comparative larval development of three amphidromous *Rhinogobius* species making reference to their habitat preferences and migration biology. Mar. Fresh. Res. 64, 249–266."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lanfear, R., Calcott, B., Ho, S.Y.W., Guindon, S., 2012. PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyses. Mol. Biol. Evol. 29, 1695–1701."
+    },
+    {
+      "type": "paragraph",
+      "text": "Larkin, M.A., Blackshields, G., Brown, N.P., Chenna, R., McGettigan, P.A., McWilliam, H., Valentin, F., Wallace, I.M., Wilm, A., Lopez, R., Thompson, J.D., Gibson, T.J., Higgins, D.G., 2007. Clustal W and Clustal X version 2.0. Bioinformatics 23, 2947–2948."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lee, C.E., Bell, M.A., 1999. Causes and consequences of recent freshwater invasions by saltwater animals. Trends Ecol. Evol. 14, 284–288."
+    },
+    {
+      "type": "paragraph",
+      "text": "Li, C., Ortí, G., Zhang, G., Lu, G., 2007. A practical approach to phylogenomics: the phylogeny of ray-finned fish (Actinopterygii) as a case study. BMC Evol. Biol. 7, 44."
+    },
+    {
+      "type": "paragraph",
+      "text": "Losos, J.B., 2009. Lizards in an Evolutionary Tree: ecology and adaptive radiation of anoles. University of California Press, Berkeley and Los Angeles, California.Maddison, D.R., Maddison, W.P., 2000. MacClade 4: Analysis of phylogeny and character evolution. Version 4.0. Sinauer, Associates, Sunderland, Massachusetts."
+    }
+  ],
+  "30": [
+    {
+      "type": "paragraph",
+      "text": "Maddison, D.R., Maddison, W.P., 2000. MacClade 4: Analysis of phylogeny and character evolution. Version 4.0. Sinauer, Associates, Sunderland, Massachusetts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maddison, W.P., 1997. Gene trees in species trees. Syst. Biol. 46, 523–536."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maddison, W.P., 2006. Confounding asymmetries in evolutionary diversification and character change. Evolution 60, 1743–1746."
+    },
+    {
+      "type": "paragraph",
+      "text": "Makinouchi, T., 2001. Stratigraphy of the Tokai group and evolutional process of the Lake Tokai sediment basin. Sci. Rep. Toyohashi Mus. Nat. Hist. 11, 33–39. (In Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Masuda, Y., Ozawa, T., Enami, S., 1989. Genetic differentiation among eight color types of the freshwater goby, Rhinogobius brunneus, from western Japan. Jpn. J. Ichthyol. 36, 30–41."
+    },
+    {
+      "type": "paragraph",
+      "text": "McDowall, R.M., 2001. Diadromy, diversity and divergence: implications for speciation processes in fishes. Fish Fish. 2, 278–285."
+    },
+    {
+      "type": "paragraph",
+      "text": "McDowall, R.M., 2004. Ancestry and amphidromy in island freshwater fish fauna. Fish Fish. 5, 75–85."
+    },
+    {
+      "type": "paragraph",
+      "text": "McDowall, R.M., 2007. On amphidromy, a distinct form of diadromy in aquatic organisms. Fish Fish. 8, 1–13."
+    },
+    {
+      "type": "paragraph",
+      "text": "McKinnon, J.S., Mori, S., Blackman, B.K., David, L., Kingsley, D.M., Jamleson, L., Chou, J., Schluter, D., 2004. Evidence for ecology’s role in speciation. Nature 429, 294–298."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meyers, P.A., Takemura, K., Horie, S., 1993. Reinterpretation of late Quaternary sediment chronology of Lake Biwa, Japan, from correlation with marine glacial–interglacial cycles. Quat. Res. 39, 154–162."
+    }
+  ],
+  "31": [
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N., 1960. Study on a freshwater goby, Rhinogobius similis Gill, with a proposition in the relationships between land locking and speciation of some freshwater gobies in Japan. Mem. Coll. Sci. Univ. Kyoto B, 27, 97–115."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N., 1982. Study on the fish, “Yoshinobori” Rhinogobius similis Gill—V 4 kei no chiritekibunpu to sougosayou (Geographic distribution and interaction between 4 types). Tansuikyo 8, 27–38. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N., 1987. Yoshinobori rui (Genus Rhinogobius), in: Mizuno, N., Goto, A. (Eds.), Nihon no tansuigyo – sono bunpu, heni, syubunka wo megutte (Freshwater fish in Japan–distribution, variation, and speciation) Tokai University Press, Tokyo, pp. 179–188. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno, N., 2001. Rhinogobius, in: Kawanabe, H., Mizuno, N., Hosoya, K., (Eds.), Freshwater Fishes of Japan 3rd ed. Yama-Kei Publishers, Tokyo, p. 584. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Moriyama, A., Yanagisawa, Y., Mizuno, N., Omori, K., 1998. Starvation of drifting goby larvae due to retention of free embryos in upstream reaches. Environ. Biol. Fish. 52, 321–329."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai, T., 2010. Hikakukeitouchirigaku kara mita Ryukyurettou no tansuigyorui sou no seiritsu (Formation of freshwater fish fauna in the Ryukyu Archipelago—a comparative phylogenetic perspective), in: Watanabe, K., Takahashi, H. (Eds.), Tansuigyorui chiri no shizenshi (Natural history of freshwater fish geography). Hokkaido University Press, Sapporo, pp. 169–183. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai, T., Nakamura, S., Suzuki, T., Nishida, M., 2005. Mitochondrial DNA divergence in yoshinobori gobies (Rhinogobius species complex) between the Bonin Islands and the Japan-Ryukyu Archipelago. Ichthyol. Res. 52, 410–413."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai, T., Hirashima, K., Furuhashi, M., Furuta, R., Yodo, T., Nakanishi, N., 2012. Distribution of yoshinobori gobies (Rhinogobius kurodai and related species) in the irrigation ponds in southern Suzuka, Mie Prefecture, Japan, and their phylogenetic analysis. Bull. Biogeogr. Soc."
+    }
+  ],
+  "32": [
+    {
+      "type": "paragraph",
+      "text": "Jpn. 67, 15–24. (In Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mukai, T., Takahashi, H., 2010. Shukankouzatsu wo tomonau keitouchiri—Shu no jittai to bunpuiki keisei (Phylogeography with interspecific hybridization—entity of species and formation of distribution), in: Watanabe, K., Takahashi, H. (Eds.), Tansuigyorui chiri no shizenshi (Natural history of freshwater fish geography). Hokkaido University Press, Sapporo, pp. 137–152. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nakajima, J., 2012. Taxonomic study of the *Cobitis striata* complex (Cypriniformes, Cobitidae) in Japan. Zootaxa 3586, 103–130."
+    },
+    {
+      "type": "paragraph",
+      "text": "Near, T.J., Bossu, C.M., Bradburd, G.S., Carlson, R.L., Harrington, R.C., Hollingsworth JR., P.R., Keck, B.P., Etnier, D.A., 2011. Phylogeny and temporal diversification of Darters (Percidae: Etheostomatinae). Syst. Biol. 60, 565–595."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishida, M., 1985. Substantial genetic differentiation in Ayu, *Plecoglossus altivelis*, of the Japan and Ryukyu Islands. Bull. Jpn. Soc. Sci. Fish. 51, 1269–1274."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishida, M., 1986. Geographic variation in the molecular, morphological and reproductive character of the ayu *Plecoglossus altivelis* (Plecoglossidae) in the Japan–Ryukyu Archipelago. Jpn. J. Ichthyol. 33, 232–248."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishida, M., 1994. Yoshinobori rui ni okeru seikatsushi heni to syubunka (Life history variation and speciation in the genus *Rhinogobius*), in: Goto, A., Tsukamoto, K., Maekawa, K. (Eds.), Kawa to umi wo kaiyu suru tansuigyo-seikatsushi to shinka (Freshwater fish migrating between river and the ocean–life history and evolution). Tokai University Press, Tokyo, pp. 154–169. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishida, M., 2001. Evolutionary process toward large egg: *Rhinogobius*, in: Goto, A., Iguchi, K. (Eds.), Evolutionary biology of egg size in aquatic animals. Kaiyusha, Tokyo, pp. 149–170. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nishijima, S., 1968. Two forms of the gobioid fish *Rhinogobius brunneus* from Okinawa-Jima,"
+    }
+  ],
+  "33": [
+    {
+      "type": "paragraph",
+      "text": "Ryukyu Islands. Zool. Mag. 77, 397–398. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nosil, P., 2012. Ecological speciation. Oxford University Press, Oxford."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oijen, M.J.P., Suzuki, T., Chen, I.S., 2011. On the earliest published species of Rhinogobius. with a redescription of Gobius brunneus Temminck and Schlegel, 1845. J. Natn. Taiwan Mus. 64, 1–17."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oshiro, N., Nishijima, S., 1978. An observation on the juveniles of “Yoshinobori” (Gobiidae) in the sea-waters. Biol. Mag. Okinawa 16, 17–22. (in Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Osozawa, S., Shinjo, R., Armid, A., Watanabe, Y., Horiguchi, T., Wakabayashi, J., 2012. Palaeogeographic reconstruction of the 1.55 Ma synchronous isolation of the Ryukyu Islands, Japan, and Taiwan and inflow of the Kurishio warm current. Int. Geol. Rev. 54, 1369–1388."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ota, H., 1998. Geographic patterns of endemism and speciation in amphibians and reptiles of the Ryukyu Archipelago, Japan, with special reference to their Paleogeographical implications. Res. Poplu. Ecol. 40, 189–204."
+    },
+    {
+      "type": "paragraph",
+      "text": "Paradis, E., Claude, J., Strimmer, K., 2004. APE: analysis of phylogenetics and evolution in R language. Bioinformatics 20, 289–290."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pyron, R.A., Burbrink, F.T., 2014. Early origin of viviparity and multiple reversions to oviparity in squamate reptiles. Ecol. Lett. 17, 13–21."
+    },
+    {
+      "type": "paragraph",
+      "text": "R Development Core Team, 2014. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. http://www.R-project.org"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rambaut, A., 2009. FigTree v1.3.1 <http://tree.bio.ed.ac.uk/software/figtree/>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rambaut, A., Suchard, M.A., Xie, D., Drummond, A.J., 2013. Tracer v1.5.0 http://beast.bio.ed.ac.uk/Tracer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ronquist, F., Huelsenbeck, J.P., 2003. MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics 19, 1572–1574."
+    }
+  ],
+  "34": [
+    {
+      "type": "paragraph",
+      "text": "Rozen, S., Skaletsky, H.J., 2000. Primer3 on the WWW for general users and for 15 biologist programmers, in: Krawetz, S., Misener, S., (Eds.), Bioinformatics Methods and Protocols: Methods in Molecular Biology. Humana Press, Totowa, NJ, pp. 365–386."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rüber, L., Agorreta, A., 2011. Molecular systematics of gobioid fishes, in: Patzner, R.A., Van Tassell, J.L., Kovačič, M., Kapoor, B.G. (Eds.), The biology of gobies. Science Publishers, Enfield, New Hampshire, pp. 23–50."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sakai, H., Ikoma, K., Frolov, S.J., Yamazaki, Y., Takahashi, H., Ida, H., 2000. Morphological features of a Russian freshwater goby, *Rhinogobius lindbergi* (Pisces: Gobiidae), and its genetic relationships to Japanese species. Biogeography 2, 51–61."
+    },
+    {
+      "type": "paragraph",
+      "text": "Schluter, D., 2000. The ecology of adaptive radiation. Oxford University Press, Oxford."
+    },
+    {
+      "type": "paragraph",
+      "text": "Schluter, D., 2009. Evidence for ecological speciation and its alternative. Science 323, 737–741."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seehausen, O., 2004. Hybridization and adaptive radiation. Trends Ecol. Evol. 19, 198–207."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seehausen, O., 2006. African cichlid fish: a model system in adaptive radiation research. Proc. R. Soc. B 273, 1987–1998."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seehausen, O., van Alphen, J.J.M., Witte, F., 1997. Cichlid fish diversity threatened by eutrophication that curbs sexual selection. Science 277, 1808–1811."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shimodaira, H., 2002. An approximately unbiased test of phylogenetic tree selection. Syst. Biol. 51, 492–508."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shimodaira, H., Hasegawa, H., 2001. CONSEL: for assessing the confidence of phylogenetic tree selection. Bioinformatics 17, 1246–1247."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stamatakis, A., 2006. RAxML-VI-HPC: Maximum likelihood based phylogenetic analysis with thousands of taxa and mixed models. Bioinformatics 22, 2688–2690."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., 1992. Ogasawara shotou chichi jima de erareta yoshinobori no 1 shu–Ogasawara yoshinobori (shinshou)–(yohou) (One of the Yoshinobori species found in Chichijima in Bonin"
+    }
+  ],
+  "35": [
+    {
+      "type": "paragraph",
+      "text": "Island-Ogasawara yoshinobori (new name)-(advance report). Hyogo Freshw. Biol. 42, 5–12. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., Sakamoto, K., 2005. Record of a gobiid fish, Rhinogobius sp. TO (Perciformes, Gobiidae) from the Noubi and Okazaki plains, Japan. Bull. Biogeogr. Soc. Jpn. 60, 13–20. (in Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., Shibukawa, K., Yano, K., Senou, H., 2004. A photographic guide to the gobioid fishes in Japan. Heibonsha, Tokyo. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., Chen, I-S., 2011. Redescription of three species of genus Rhinogobius (Perciformes, Gobiidae) described by Dr. Shigeho Tanaka. Bull. Osaka Mus. Nat. Hist. 65, 9–24. (in Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., Chen, I-S., Senou, H., 2011. A new species of Rhinogobius Gill, 1859 (Teleostei: Gobiidae) from the Bonin Islands, Japan. J. Mar. Sci. Tech. 19, 693–701."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., Mukai, T., 2010. Two lentic freshwater gobies, Rhinogobius sp. BF and Rhinogobius sp. TO: their morphological characteristics, distribution and present status. Jpn. J. Ichthyol. 57, 176–179. (In Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tabata, R., Watanabe, K., 2013. Hidden mitochondrial DNA divergence in the Lake Biwa endemic goby Gymnogobius isaza: implications for its evolutionary history. Environ. Biol. Fish. 96, 701–712."
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi, S., Okazaki, T., 2002. A new lentic form of the “yoshinobori” species complex, Rhinogobius spp. from Lake Biwa, Japan, compared with lake-river migrating Rhinogobius sp. OR. Ichthyol. Res. 49, 333–339."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tamada, K. 2000. Distribution of the spawning of four amphidromous gobies (Rhinogobius spp.) in the Aizu River, Wakayama Prefecture, Japan. Jpn. J. Ichthyol. 47, 55–59. (In Japanese with English abstract)"
+    }
+  ],
+  "36": [
+    {
+      "type": "paragraph",
+      "text": "Tamada, K., 2001. Clutch size and egg size in three species of Rhinogobius complex dwelling in a single stream. Jpn. J. Ichthyol. 48, 49–52. (in Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tamada, K., 2008. Variation in male mating success in the paternal nest brooder, Rhinogobius goby, along a river course. Ecol. Res. 23, 91–97."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tamada, K., 2009. Variation in clutch and egg sizes in the amphidromous goby Rhinogobius sp. CB along a river course and within a spawning season. Ichthyol. Res. 56, 69–75."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M., Kumar, S., 2011. MEGA5: Molecular Evolutionary Genetics Analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Mol. Biol. Evol. 28, 2731–2739."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toews, D.P., Brelsford, A., 2012. The biogeography of mitochondrial and nuclear discordance in animals. Mol. Ecol. 21, 3907–3930."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsujimoto, H., 2008. Nishinihon ni seisoku suru shisuiiki wo konomu 3 shu no yoshinobori nit suite-shoukai to kansatsu- (3 Rhinogobius species distributed in lentic area in Western Japan) Botejiyako 13, 7–15. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa, T., Suzuki, T., Arai, T., 2010a. Migratory history of Rhinogobius sp. OR morphotype “Shimahire” as revealed by otolith Sr:Ca ratios. Ichthyol. Res. 57, 10–15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa, T., Suzuki, T., Arai, T., 2010b. Otolith Sr:Ca ratios of freshwater goby Rhinogobius sp. TO indicating absence of sea migrating traits. Ichthyol. Res. 57, 319–322."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ueda, K., 2002. Tokai kyuryo youso no kigen to shinka (The origin and evolution of Tokai Hilly Land Spring-fed Mires), in: Hiroki, S. (Ed.), Satoyama no seitaigaku-sononaritachi to hozen no arikata (Ecology of satoyama-formation and conservation) The University of Nagoya Press, Nagoya, Japan, pp. 42–57. (in Japanese with English Abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vega, G.C., Wiens, J.J., 2012. Why are there so few fish in the sea? Proc. R. Soc. B 279, 2323–2329."
+    }
+  ],
+  "37": [
+    {
+      "type": "paragraph",
+      "text": "Waters, J.M., Rowe, D.L., Burridge, C.P., Wallis, G.P., 2010. Gene trees versus species trees: Reassessing life-history evolution in a freshwater fish radiation. Syst. Biol. 59, 504–517."
+    },
+    {
+      "type": "paragraph",
+      "text": "Winker, K., 2000. Migration and speciation. Nature 404, 36."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yamada, T., Sugiyama, T., Tamaki, N., Kawakita, A., Kato M., 2009. Adaptive radiation of gobies in the interstitial habitats of gravel beaches accompanied by body elongation and excessive vertebral segmentation. BMC Evol. Biol. 9, 145."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yokoyama, T., 1984. Stratigraphy of the Quaternary system around Lake Biwa and geohistory of the ancient Lake Biwa, in: Horie S (Ed.), Lake Biwa, Monographiae Biologicae, 54., Dr W Junk Publishers, Dordrecht, Boston, Lancaster: 43–128."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yokoyama, T., Nakagawa, Y., 1991. Setonaikai no utsurikawari (Transition of the Seto Inland Sea), Sanwashobou, Hyogo, Japan. (in Japanese)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yoder, J.B., Clancey, E., Des Roches, S., Eastman, J.B., Gentry, L., Godsoe, W., Hagey, T.J., Jochimsen, D., Oswald, B.P., Robertson, J., Sarver, B.A.J., Schenk, J.J., Spear, S.F., Harmon, L.J., 2010. Ecological opportunity and the origin of adaptive radiations. J. Evol. Biol. 23, 1581–1596."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yoshida, F., 1990. Stratigraphy of the Tokai Group and paleogeography of the Tokai sedimentary basin in the Tokai region, central Japan. Bull. Geol. Surv. Jpn. 41, 303–340. (In Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yule, G.U., 1925. A mathematical theory of evolution: based on the conclusions of Dr. J.C. Willis. Phil. Trans. R. Soc. B 213, 21–87."
+    }
+  ],
+  "38": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Figure legends"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "A map of the collection sites. The location codes correspond to those in Table 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bayesian tree of the selected *Rhinogobius* species with estimated divergence time based on partial mtDNA sequence data (2781 bp) inferred with BEAST. Support values are indicated beside the branches (RAxML BP/ MrBayes PPM/ BEAST PPB). Only support values >70% in ML, and >0.9 in PPM and PPB are indicated. Some support values for intraspecific relationships are not shown. Each bar plot indicates 95% HPD height of the node. CA2 indicates the position of calibration point 2 (formation of the Tokara Gap)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum likelihood tree of the selected *Rhinogobius* species inferred from concatenated sequences of six nuclear genes (myh6, RYR3, Ptr, RAG2, sreb2, and EGR3; 4755bp). Maximum likelihood bootstrap values (>70%) and Bayesian posterior probability (>0.9) are indicated (BP/BPP). Some support values for intraspecific relationships are not shown."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a) The Bayesian phylogenetic tree of the selected *Rhinogobius* species with ancestral state reconstruction and divergence time inferred from concatenated sequences of six nuclear genes. Each bar plot indicates a height of 95% HPD of the corresponding node. Calibration points were indicated as CA1 (formation of the Bonin Islands) and CA2 (formation of the Tokara Gap). Pie graphs of each node indicate the proportional likelihood of the states at the node inferred by the MuSSE model. Statistical support values (>0.9) are indicated next to the major nodes. The"
+    }
+  ],
+  "39": [
+    {
+      "type": "paragraph",
+      "text": "proportional likelihood of the nodes indicated by an asterisk is inconsistent when another sample of Rhinogobius sp. BF was used. (b)–(e) Phylogenetic relationships among selected species with their present distribution patterns. See the Discussion section for details."
+    }
+  ],
+  "40": [
+    {
+      "type": "paragraph",
+      "text": "Fig. 1"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1",
+      "bbox": [
+        0.048,
+        0.111,
+        0.949,
+        0.919
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._1.jpg"
+    }
+  ],
+  "41": [
+    {
+      "type": "figure",
+      "label": "Fig. 2",
+      "bbox": [
+        0.03,
+        0.043,
+        0.98,
+        0.957
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2"
+    }
+  ],
+  "42": [
+    {
+      "type": "figure",
+      "label": "Fig. 3",
+      "bbox": [
+        0.045,
+        0.125,
+        0.95,
+        0.84
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._3.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3"
+    }
+  ],
+  "43": [
+    {
+      "type": "figure",
+      "label": "Fig. 4",
+      "bbox": [
+        0.04,
+        0.04,
+        0.96,
+        0.96
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._4.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "CA1: Formation of Bonin Islands"
+    },
+    {
+      "type": "paragraph",
+      "text": "CA2: Isolation between the mainland and Ryukyu Archipelago"
+    }
+  ],
+  "44": [
+    {
+      "type": "error",
+      "message": "The read operation timed out"
+    }
+  ],
+  "45": [
+    {
+      "type": "paragraph",
+      "text": "Table 2. Estimated divergence time of major clades of *Rhinogobius* gobies."
+    },
+    {
+      "type": "figure",
+      "label": "Table 2. Estimated divergence time of major clades of *Rhinogobius* gobies.",
+      "bbox": [
+        0.094,
+        0.064,
+        0.882,
+        0.264
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Table_2._Estimated_divergence_time_of_major_clades_of_Rhinogobius_gobies..jpg"
+    }
+  ],
+  "46": [
+    {
+      "type": "figure",
+      "label": "Fig. S1 Photographs of all Rhinogobius species distributed in Japan.\n1: Rhinogobius flumineus (Mizuno, 1960), Nagaragawa River, Gifu Pref. A: OMNH-P 40703, male, B: OMNH-P 40704, female.\n2: Rhinogobius sp. YB, Hinaiagawa River, Iriomote Island, the Ryukyu Islands. A: OMNH-P 40256, male, B: OMNH-P 40255, female.\n3: Rhinogobius sp. BB, Ooigawa River, Okinawa Island, the Ryukyu Islands. A: OMNH-P 40303, male, B: OMNH-P 40302, female.\n4: Rhinogobius sp. OM. A: OMNH-P 40605, male, Yasugawa River, Shiga Pref., B: OMNH-P 40609, female, Ukawa-river, Shiga Pref.\n5: Rhinogobius sp. OR. A: OMNH-P 40721, male, Maruyamagawa River, coast of Japan Sea of Hyogo Pref.,\nB: OMNH-P 34814, male, pond, Ichinoseki, Iwate Pref.\n6: Rhinogobius brunneus (Temminck and Schlegel,1845), Aikawagawa River, Nagasaki Pref. A: OMNH-P 35063, male,\nB: OMNH-P 35064, female.\n7: Rhinogobius fluviatilis Tanaka, 1925, Tairagawa River, Kagoshima Pref. A: OMNH-P 18393, male, B: OMNH-P 18392, female.\n8: Rhinogobius sp. CO, Inouzawagawa River, Shizuoka Pref. A: OMNH-P 40616, male, B: OMNH-P 40618, female.",
+      "bbox": [
+        0.04,
+        0.03,
+        0.96,
+        0.79
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._S1_Photographs_of_all_Rhinogobius_species_distributed_in_Japan.1_Rhinogobiu.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. S1 Photographs of all *Rhinogobius* species distributed in Japan.\n1: *Rhinogobius flumineus* (Mizuno, 1960), Nagaragawa River, Gifu Pref. A: OMNH-P 40703, male, B: OMNH-P 40704, female.\n2: *Rhinogobius* sp. YB, Hinaiagawa River, Iriomote Island, the Ryukyu Islands. A: OMNH-P 40256, male, B: OMNH-P 40255, female.\n3: *Rhinogobius* sp. BB, Ooigawa River, Okinawa Island, the Ryukyu Islands. A: OMNH-P 40303, male, B: OMNH-P 40302, female.\n4: *Rhinogobius* sp. OM. A: OMNH-P 40605, male, Yasugawa River, Shiga Pref., B: OMNH-P 40609, female, Ukawa-river, Shiga Pref.\n5: *Rhinogobius* sp. OR. A: OMNH-P 40721, male, Maruyamagawa River, coast of Japan Sea of Hyogo Pref.,\nB: OMNH-P 34814, male, pond, Ichinoseki, Iwate Pref.\n6: *Rhinogobius brunneus* (Temminck and Schlegel,1845), Aikawagawa River, Nagasaki Pref. A: OMNH-P 35063, male,\nB: OMNH-P 35064, female.\n7: *Rhinogobius fluviatilis* Tanaka, 1925, Tairagawa River, Kagoshima Pref. A: OMNH-P 18393, male, B: OMNH-P 18392, female.\n8: *Rhinogobius* sp. CO, Inouzawagawa River, Shizuoka Pref. A: OMNH-P 40616, male, B: OMNH-P 40618, female."
+    }
+  ],
+  "47": [
+    {
+      "type": "figure",
+      "label": "Fig. S1 Continued. 9: Rhinogobius nagoyae Jordan and Seale, 1906. A: OMNH-P 37667, male, Maruyamagawa River, coast of Japan Sea of Hyogo Pref., B: OMNH-P 38182, male, Teimagawa River, Okinawa Island, the Ryukyu Islands. 10: Rhinogobius sp. MO, Sate River, Okinawa Island, the Ryukyu Islands. A: OMNH-P 40281, male, B: OMNH-P 40282, female. 11: Rhinogobius sp. DL, Urauchi River, Iriomote Island, the Ryukyu Islands. A: OMNH-P 40035, male, B: OMNH-P 40036, female. 12: Rhinogobius ogasawaraensis Suzuki, Chen and Senou, 2011, Chichi Island, Ogasawara Is. A: OMNH-P 8262, male, Yatsusegawa River, B: OMNH-P 8257, female, Oomura. 13: Rhinogobius sp. BW, Ukawa, Lake Biwa, Shiga Pref. A: OMNH-P 23928, male, B: OMNH-P 23929, female. 14: Rhinogobius sp. TO, Kanaregawa River, Aichi Pref. A: OMNH-P 40705, male, B: OMNH-P 40708, female. 15: Rhinogobius sp. BF, Maruyamagawa River, coast of Japan Sea of Hyogo Pref. A: OMNH-P 37710, male, B: OMNH-P 37711, female. 16: Rhinogobius sp. KZ, Isumigawa River, Chiba Pref. A: OMNH-P 40656, male, B: OMNHP 40663, female. 17: Rhinogobius kurodai (Tanaka. 1908), Moat, Chiyouda, Tokyo. A: OMNH-P 21132, male, B: OMNH-P 21136, female.",
+      "bbox": [
+        0.05,
+        0.05,
+        0.95,
+        0.75
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._S1_Continued._9_Rhinogobius_nagoyae_Jordan_and_Seale,_1906._A_OMNH-P_37667,.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. S1 Continued."
+    },
+    {
+      "type": "paragraph",
+      "text": "9: Rhinogobius nagoyae Jordan and Seale, 1906. A: OMNH-P 37667, male, Maruyamagawa River, coast of Japan Sea of Hyogo Pref., B: OMNH-P 38182, male, Teimagawa River, Okinawa Island, the Ryukyu Islands."
+    },
+    {
+      "type": "paragraph",
+      "text": "10: Rhinogobius sp. MO, Sate River, Okinawa Island, the Ryukyu Islands. A: OMNH-P 40281, male, B: OMNH-P 40282, female."
+    },
+    {
+      "type": "paragraph",
+      "text": "11: Rhinogobius sp. DL, Urauchi River, Iriomote Island, the Ryukyu Islands. A: OMNH-P 40035, male, B: OMNH-P 40036, female."
+    },
+    {
+      "type": "paragraph",
+      "text": "12: Rhinogobius ogasawaraensis Suzuki, Chen and Senou, 2011, Chichi Island, Ogasawara Is. A: OMNH-P 8262, male, Yatsusegawa River, B: OMNH-P 8257, female, Oomura."
+    },
+    {
+      "type": "paragraph",
+      "text": "13: Rhinogobius sp. BW, Ukawa, Lake Biwa, Shiga Pref. A: OMNH-P 23928, male, B: OMNH-P 23929, female."
+    },
+    {
+      "type": "paragraph",
+      "text": "14: Rhinogobius sp. TO, Kanaregawa River, Aichi Pref. A: OMNH-P 40705, male, B: OMNH-P 40708, female."
+    },
+    {
+      "type": "paragraph",
+      "text": "15: Rhinogobius sp. BF, Maruyamagawa River, coast of Japan Sea of Hyogo Pref. A: OMNH-P 37710, male, B: OMNH-P 37711, female."
+    },
+    {
+      "type": "paragraph",
+      "text": "16: Rhinogobius sp. KZ, Isumigawa River, Chiba Pref. A: OMNH-P 40656, male, B: OMNHP 40663, female."
+    },
+    {
+      "type": "paragraph",
+      "text": "17: Rhinogobius kurodai (Tanaka. 1908), Moat, Chiyouda, Tokyo. A: OMNH-P 21132, male, B: OMNH-P 21136, female."
+    }
+  ],
+  "48": [
+    {
+      "type": "figure",
+      "label": "Fig. S2 Maximum likelihood trees of the selected Rhinogobius species based on respective nuclear gene sequences. Bootstrap values of >70% are indicated.",
+      "bbox": [
+        0.063,
+        0.035,
+        0.885,
+        0.695
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._S2_Maximum_likelihood_trees_of_the_selected_Rhinogobius_species_based_on_re.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. S2 Maximum likelihood trees of the selected Rhinogobius species based on respective nuclear gene sequences. Bootstrap values of >70% are indicated."
+    }
+  ],
+  "49": [
+    {
+      "type": "paragraph",
+      "text": "(c) Ptr"
+    },
+    {
+      "type": "figure",
+      "label": "(c) Ptr",
+      "bbox": [
+        0.1,
+        0.08,
+        0.9,
+        0.48
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/(c)_Ptr.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(d) RAG2"
+    },
+    {
+      "type": "figure",
+      "label": "(d) RAG2",
+      "bbox": [
+        0.1,
+        0.52,
+        0.9,
+        0.94
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/(d)_RAG2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. S2 Continued."
+    }
+  ],
+  "50": [
+    {
+      "type": "figure",
+      "label": "Fig. S2 Continued.",
+      "bbox": [
+        0.07,
+        0.032,
+        0.75,
+        0.65
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Fig._S2_Continued..jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. S2 Continued."
+    }
+  ],
+  "51": [
+    {
+      "type": "paragraph",
+      "text": "Table S1. Distribution and life history characteristics of Japanese *Rhinogobius* species."
+    },
+    {
+      "type": "figure",
+      "label": "Table S1. Distribution and life history characteristics of Japanese *Rhinogobius* species.",
+      "bbox": [
+        0.06,
+        0.0636,
+        0.94,
+        0.4738
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Table_S1._Distribution_and_life_history_characteristics_of_Japanese_Rhinogobius_.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ᵃ Akihito et al. (2013) newly separated six morphological species (*Rhinogobius* sp. OM, *Rhinogobius* sp. KZ, *R. kurodai*, *Rhinogobius* sp. BW, *Rhinogobius* sp. TO, *Rhinogobius* sp. BF) from *Rhinogobius* OR in Akihito et al. (2002), and proposed discarding the name \"Rhinogobius sp. OR\". However, there exist one or more other species in *Rhinogobius* sp. OR (sensu Akihito et al., 2002) that are not included in the six morphological species, for which no scientific names/codes are given in Akihito et al. (2013). We hence use the name \"Rhinogobius sp. OR\" for the remaining species in the present paper."
+    },
+    {
+      "type": "paragraph",
+      "text": "ᵇ *Rhinogobius* sp. OM mainly inhabits the middle to lower reaches of rivers flowing into Lake Biwa and its shore. It exhibits amphidromous life history using the lake instead of the ocean, and is treated as the amphidromous type."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hirashima, K., Nakamura, K., 2014. Larval morphological changes and salinity tolerance of aquarium-held freshwater goby *Rhinogobius* sp. BF. Jpn. J. Ichthyol. 61, 53–57. (in Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kon, T., Yoshino, T., 2003. Coloration and ontogenetic features of fluviatile species of *Rhinogobius* (Gobiidae: Gobioidei: Gobius) in Amami-oshima Island, Ryukyu Island, Japan. Ichthyol. Res. 50, 109–116."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maruyama, A., Yuma, M., Onoda, Y., 2004. Egg size variation between the fluvial-lacustrine and lacustrine types of a landlocked *Rhinogobius* goby in the Lake Biwa water system. Ichthyol. Res. 51, 172–175."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shinomiya, A., Sasane, K., Sasane, K., Sakurai, M., Kishino, T., 2005. Morphological characters of newly hatched larvae and their microhabitat selection of a fluviatile goby, *Rhinogobius* sp. YB in the upper stream of Sumiyo River, Amami-oshima Island, Japan. J. Ichthyol. 52, 1–8. (in Japanese with English abstract)"
+    }
+  ],
+  "52": [
+    {
+      "type": "paragraph",
+      "text": "Tamada, K., 2005a. Clutch and Egg size in Rhinogobius sp. DA inhabiting small rivers, Japan. J. Ichthyol. 52, 17-20. (in Japanese with English abstract)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tamada, K., 2005b. Egg and clutch sizes of a goby Rhinogobius giurinus in the Aizu River, Kii Peninsula, Japan. Ichthyol. Res. 52, 392-395."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa, T., Arai, T., 2008. Flexible migration of Japanese freshwater gobies Rhinogobius spp. as revealed by otolith Sr:Ca ratio. J. Fish Biol. 73, 2421-2433."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wu H-L, Chen I-S., Zhong, J-S., 2008. Rhinogobius Gill, 1859. in: Wu, H-L., Zhong, J-S. (Eds.), Fauna Sinica Osteichthyes Perciformes (V) Gobioidei. Science Press, Beijing, China, pp. 568-635, 891-985. (in Chinese)"
+    }
+  ],
+  "53": [
+    {
+      "type": "paragraph",
+      "text": "Table S2 Accession and voucher numbers of samples used in this study."
+    },
+    {
+      "type": "figure",
+      "label": "Table S2 Accession and voucher numbers of samples used in this study.",
+      "bbox": [
+        0.104,
+        0.058,
+        0.894,
+        0.907
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Table_S2_Accession_and_voucher_numbers_of_samples_used_in_this_study..jpg"
+    }
+  ],
+  "54": [
+    {
+      "type": "figure",
+      "label": "",
+      "bbox": [
+        0.119,
+        0.071,
+        0.887,
+        0.242
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/p54_fig0.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "R.virgigena NSMT-P 120836 AB988325 AB988407 AB988487 AB988571 AB988653 AB988735 AB988821 AB988899 AB988977"
+    },
+    {
+      "type": "paragraph",
+      "text": "RG-CH990405-1 NSMT-P 120837 AB988326 AB988408 AB988488 AB988572 AB988654 AB988736 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "OR-IW081011-2 N.D. AB988327 AB988409 AB988490 AB988573 AB988655 AB988737 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "OR-IW090528-1 NSMT-P 120838 AB988328 AB988410 AB988491 AB988574 AB988656 AB988738 AB988822 AB988900 AB988978"
+    },
+    {
+      "type": "paragraph",
+      "text": "OR-HO120408-1 N.D. AB988329 AB988411 AB988492 AB988575 AB988657 AB988739 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "RF-HI120512-1 N.D. AB988330 AB988412 AB988493 AB988576 AB988658 AB988740 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "RF-YN120714-1 NSMT-P 120839 N.D. AB988413 AB988494 AB988577 AB988659 AB988741 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "OR-YN120714-5 NSMT-P 120840 AB988331 AB988414 AB988495 AB988578 AB988660 AB988742 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "RF-ME120905-1 NSMT-P 120841 AB988332 AB988415 AB988496 AB988579 AB988661 AB988743 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "RF-NR120930-1 NSMT-P 120842 AB988333 AB988416 AB988497 AB988580 AB988662 AB988744 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "DA-KW120730-1 NSMT-P 120843 AB988334 AB988417 AB988498 AB988581 AB988663 AB988745 AB988823 AB988901 AB988979"
+    },
+    {
+      "type": "paragraph",
+      "text": "KU-TK100705-1 NSMT-P 120844 AB988335 AB988418 AB988499 AB988582 AB988664 AB988746 AB988824 AB988902 AB988980"
+    },
+    {
+      "type": "paragraph",
+      "text": "KU-TK100705-2 NSMT-P 120845 AB988336 AB988419 AB988500 AB988583 AB988665 AB988747 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "KU-TK100705-3 NSMT-P 120846 AB988337 AB988420 AB988501 AB988584 AB988666 AB988748 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "BW-SG130523-1 NSMT-P 120849 AB988338 AB988421 AB988502 AB988585 AB988667 AB988749 AB988825 AB988903 AB988981"
+    },
+    {
+      "type": "paragraph",
+      "text": "BW-SG130601-1 NSMT-P 120850 AB988339 AB988422 AB988503 AB988586 AB988668 AB988750 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "BB-OK12111-1 NSMT-P 120851 AB988340 AB988423 AB988504 AB988587 AB988669 AB988751 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "BB-OK12111-4 NSMT-P 120852 N.D. AB988424 AB988505 AB988588 AB988670 AB988752 N.D. N.D. N.D."
+    },
+    {
+      "type": "paragraph",
+      "text": "BB-OK12111-5 NSMT-P 120853 AB988341 AB988425 AB988506 AB988589 AB988671 AB988753 AB988826 AB988904 AB988982"
+    },
+    {
+      "type": "paragraph",
+      "text": "MO-OK12111-3 NSMT-P 120854 AB988342 AB988426 AB988507 AB988590 AB988672 AB988754 AB988827 AB988905 AB988983"
+    },
+    {
+      "type": "paragraph",
+      "text": "KZ-CB100418-1 NSMT-P 120855 N.D. N.D. N.D. N.D. N.D. N.D. AB988828 AB988906 AB988984"
+    },
+    {
+      "type": "paragraph",
+      "text": "KZ-CB100418-2 NSMT-P 120856 AB988343 AB988427 AB988508 AB988591 AB988673 AB988755 AB988829 AB988907 AB988985"
+    },
+    {
+      "type": "paragraph",
+      "text": "KZ-CB100418-3 NSMT-P 120857 AB988344 AB988428 AB988509 AB988592 AB988674 AB988756 AB988830 AB988908 AB988986"
+    },
+    {
+      "type": "paragraph",
+      "text": "CB-OK130630-1 NSMT-P 120860 N.D. N.D. N.D. N.D. N.D. N.D. AB988831 AB988909 AB988987"
+    },
+    {
+      "type": "paragraph",
+      "text": "CB-OK130630-2 NSMT-P 120861 N.D. N.D. N.D. N.D. N.D. N.D. AB988832 AB988910 AB988988"
+    }
+  ],
+  "55": [
+    {
+      "type": "figure",
+      "label": "Table S3. Information of loci and primers used in this study",
+      "bbox": [
+        0.08,
+        0.08,
+        0.92,
+        0.65
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Table_S3._Information_of_loci_and_primers_used_in_this_study.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table S3. Information of loci and primers used in this study"
+    },
+    {
+      "type": "paragraph",
+      "text": "a With outgroup / without outgroup"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reference"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chen, W.J., Miya, M., Saitoh, K., Mayden, R.L., 2008. Phylogenetic utility of two existing and four novel nuclear gene loci in reconstructing tree of life of ray-finned fishes: The order Cypriniformes (Ostariophysi) as a case study. Gene 243, 125–134."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inoue, J.G., Miya, M., Tsukamoto, K., Nishida, M., 2000. Complete mitochondrial DNA sequence of the Japanese sardine, Sardinops melanostictus. Fish. Sci. 66, 924–932."
+    },
+    {
+      "type": "paragraph",
+      "text": "Li, C., Orti, G., Zhang, G., Lu, G., 2007. A practical approach to phylogenomics: the phylogeny of ray-finned fish (Actinopterygii) as a case study. BMC Evol. Biol. 7, 44."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lovejoy, N.R., Collette, R.B., 2001. Phylogenetic relationships of New World needlefishes (Teleosti: Belonidae) and the biogeography of transitions between marine and freshwater habitats. Copeia 2, 324–338."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miya, M., Nishida, M., 2000. Use of mitogenomic information in teleostean molecular phylogenetics: a tree-based exploration under the maximum-parsimony optimality criterion. Mol. Phylogenet. Evol. 17, 437–455."
+    },
+    {
+      "type": "paragraph",
+      "text": "Palumbi, S., Martin, A., Romano, S., McMillian, W.O., Stice, L., Grabowski, G., 1991. The simple fool’s guide to PCR. University of Hawaii, Honolulu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ward, R.D., Zemlak, T. S., Innes, B.H., Last, P.R., Hebert, P.D.N., 2005. DNA barcoding Australia’s fish species Phil. Trans. R. Soc. B 360, 1847–1857."
+    }
+  ],
+  "56": [
+    {
+      "type": "paragraph",
+      "text": "Table S4. Models selected by Partitionfinder, using AIC for RaXML and BIC for MrBayes."
+    },
+    {
+      "type": "figure",
+      "label": "Table S4. Models selected by Partitionfinder, using AIC for RaXML and BIC for MrBayes.",
+      "bbox": [
+        0.108,
+        0.088,
+        0.88,
+        0.55
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Table_S4._Models_selected_by_Partitionfinder,_using_AIC_for_RaXML_and_BIC_for_Mr.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Subset Subset partition Best model"
+    },
+    {
+      "type": "paragraph",
+      "text": "RAxML/mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 CO1-1st, CO1-2nd, ND5-1st, ND5-2nd, cytb-1st, cytb-2nd GTR+I+G"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 CO1-3rd, ND5-3rd, cytb-3rd GTR+I+G"
+    },
+    {
+      "type": "paragraph",
+      "text": "MrBayes/mtDNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 CO1-2nd, ND5-2nd, cytb-2nd GTR+I"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 CO1-3rd, ND5-3rd, cytb-3rd GTR+I+G"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 CO1-1st, ND5-1st, cytb-1st K80+I+G"
+    },
+    {
+      "type": "paragraph",
+      "text": "RAxML/nuclear"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 myh6-1st, myh6-2nd, RYR3-1st, RYR3-3rd, Ptr-1st, Ptr-2nd, RAG2-2nd, RAG2-3rd, sreb2-1st, sreb2-2nd, EGR3-1st, EGR3-2nd GTR+I+G"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 myh6-3rd, RYR3-2nd, Ptr-3rd, RAG2-1st, sreb2-3rd, EGR3-3rd GTR+I+G"
+    },
+    {
+      "type": "paragraph",
+      "text": "MrBayes/nuclear"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 myh6-2nd, RYR3-1st F81+I"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 myh6-3rd, RYR3-2nd, Ptr-3rd, sreb2-3rd, EGR3-3rd GTR+I+G"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 myh6-1st, RYR3-3rd, Ptr-1st, RAG2-2nd, RAG2-3rd, sreb2-1st HKY+I"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Ptr-2nd, sreb2-2nd F81"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 RAG2-1st HKY+I"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 EGR3-1st, EGR3-2nd F81"
+    }
+  ],
+  "57": [
+    {
+      "type": "paragraph",
+      "text": "Table S5 Models for BEAST analysis selected by BIC implemented by jModelTest v 2.1.3."
+    },
+    {
+      "type": "figure",
+      "label": "Table S5 Models for BEAST analysis selected by BIC implemented by jModelTest v 2.1.3.",
+      "bbox": [
+        0.235,
+        0.089,
+        0.79,
+        0.25
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Table_S5_Models_for_BEAST_analysis_selected_by_BIC_implemented_by_jModelTest_v_2.jpg"
+    }
+  ],
+  "58": [
+    {
+      "type": "paragraph",
+      "text": "Table S6 Estimated parameters by state dependent diversification analysis under the MuSSE model. Character state codes (1-3) indicate amphidromous, lentic, and fluvial in life history analysis, and small, middle, large in egg size analysis respectively. These models estimated speciation (λ), extinction (μ), and transition rates (q)."
+    },
+    {
+      "type": "figure",
+      "label": "Table S6 Estimated parameters by state dependent diversification analysis under the MuSSE model. Character state codes (1-3) indicate amphidromous, lentic, and fluvial in life history analysis, and small, middle, large in egg size analysis respectively. These models estimated speciation (λ), extinction (μ), and transition rates (q).",
+      "bbox": [
+        0.139,
+        0.097,
+        0.859,
+        0.673
+      ],
+      "_saved": "kurodai/papers/yamasaki2015_phylogeny_extracted/Table_S6_Estimated_parameters_by_state_dependent_diversification_analysis_under_.jpg"
+    }
+  ]
+}

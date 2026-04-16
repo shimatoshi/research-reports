@@ -1,0 +1,865 @@
+                              Bull. Kanagawa prefect. Mus. (Nat. Sci.), no. 46, pp. 79-95, Feb. 2017
+                                                                                                                                   79
+
+
+
+  Original Article
+
+
+                              Rhinogobius mizunoi, A New Species of
+                         Freshwater Goby (Teleostei: Gobiidae) from Japan
+
+                  Toshiyuki Suzuki 1), Koichi Shibukawa 2) & Masahiro Aizawa 3)
+
+           Abstract. A new freshwater goby, Rhinogobius mizunoi, is described based on six specimens
+           from a freshwater stream in Shizuoka Prefecture, Japan. The species is distinguished from all
+           congeneric species by the following combination of characters: I, 8 second dorsal-fin rays; 18–20
+           pectoral-fin rays; 13–18 predorsal scales; 33–35 longitudinal scales; 8 or 9 transverse scales;
+           10+16=26 vertebrae 26; first dorsal fin elongate in male, its distal tip reaching to base of fourth
+           branched ray of second dorsal fin in males when adpressed; when alive or freshly-collected, cheek
+           with several pale sky spots; caudal fin without distinct rows of dark dots; a pair of vertically-
+           arranged dark brown blotches at caudal-fin base in young and females.
+
+           Key words: amphidoromous, fish taxonomy, Rhinogobius sp. CO, valid species
+
+
+
+
+                       Introduction                                 6–11 segmented rays; anal fin with a single spine and 5–11
+   The freshwater gobies of the genus Rhinogobius Gill,             segmented rays; pectoral fin with 14–23 segmented rays;
+1859 are widely distributed in the East and Southeast               pelvic fin with a single spine and five segmented rays;
+Asian regions, including the Russia Far East, Japan,                25–44 longitudinal scales; 7–16 transverse scales; P-V 3/
+Korea, China, Taiwan, the Philippines, Vietnam, Laos,               II II I I 0/9; 10–11+15–18= 25–29 vertebrae; body mostly
+Cambodia, and Thailand (Chen & Miller, 2014). Their                 covered with ctenoid scales; snout, cheek and operculum
+life history indicates that many members of the genus               naked; cheek with a longitudinal pattern of sensory papillae
+are amphidromous; the remaining are known as lake-                  (Hoese, 1983), except for a single species (Rhinogobius
+river maigrating, fluvial or lentic species (Mizuno, 1960a;         similis Gill, 1859) with several short transverse rows of
+Takahashi & Okazaki, 2002; Huang & Chen, 2007)                      sensory papillae below the eye; gill opening extending to
+   Rhinogobius belongs the gobiid subfamily                         a vertical through the middle of the operculum; pelvic fins
+Gobionellinae (Pezold, 1993, 2011), and is distinguished            fused medially into a circular/ovoid disc via the frenum
+from the other gobionelline genera by having the following          (between spines) and connecting the membrane (between
+combination of characters (Chen & Shao, 1996; Suzuki et             innermost ray).
+al., 2015; Yang et al., 2008; present study): first dorsal fin         Rhinogobius, originally described as a monotypic
+with 5–7 spines; second dorsal fin with a single spine and          genus based on R. similis by Gill (1859), is currently
+                                                                    known as the most species-rich freshwater goby genus,
+                                                                    comprising 72 described, valid species (Table 1), although
+  1）
+     Kawanishi-midoridai Senior High School
+     1-8 Kouyoudai, Kawanishi, Hyogo 666-0115, Japan
+                                                                    several unnamed species are left unresolved.
+     兵庫県立川西緑台高等学校                                                      In Japanese waters, 17 species are currently known
+     〒 660-0125 兵庫県川西市向陽台 1-8                                       (Akihito et al., 2013; Suzuki et al., 2015). Of these,
+     trimma-toshiyuki@hop.ocn.ne.jp
+  2）
+     Museum of Natural and Environmental History, Shizuoka          seven species [viz., Rhinogobius brunneus Temminck
+     5762 Oya, Suruga, Shizuoka, Shizuoka 422-8017, Japan           & Schlegel, 1845, R. flumineus (Mizuno, 1960), R.
+     ふじのくに地球環境史ミュージアム
+     〒 422-8017 静岡市駿河区大谷 5762                                       fluviatilis Tanaka, 1925, R. kurodai (Tanaka, 1908), R.
+     shibu@crux.ocn.ne.jp                                           nagoyae Jordan & Seale, 1906, R. ogasawaraensis
+  3）
+     Imperial Household Agency
+     1–1 Chiyoda, Chiyoda-ku, Tokyo, 100–8111 Japan
+                                                                    Suzuki, Chen & Senou, 2012, R. smillis] have been
+     宮内庁                                                            described; the other 10 remain undescribed. Akihito et
+     〒 100-8111 東京都千代田区千代田 1-1                                      al. (2013) recognized these undescribed species with
+     seiken-aizawa@circus.ocn.ne.jp
+                                                                                                                                                                                   80
+
+Table 1. Nominal species of Rhinogobius and their present status. Valid species, assigned to Rhinogobius, are shaded.
+   No. of     No. of
+  nominal      valid                               Nominal species                                                        Present status                         Main reference
+  species     species
+     1           1      Gobius brunneus Temminck & Schlegel, 1845                              Rhinogobius brunneus Temminck & Schlegel, 1845            van Oijen et al., 2011
+     2           2      Rhinogobius similis Gill, 1859                                         Rhinogobius similis Gill, 1859                            Suzuki et al., 2015
+     3           3      Gobius davidi Sauvage & Dabry de Thiersant, 1874                       Rhinogobius davidi (Sauvage & Dabry de Thiersant, 1874)   Chen & Miller, 1998
+     4                  Gobius giurinus Rutter, 1897                                           Rhinogobius similis Gill, 1859                            Suzuki et al., 2015
+     5                  Ctenogobius hadropterus Jordan & Snyder, 1901                          Rhinogobius similis Gill, 1859                            Suzuki et al., 2015
+     6           4      Rhinogobius nagoyae Jordan & Seale, 1906                               Rhinogobius nagoyae Jordan & Seale, 1906                  Akihito et al., 2013
+     7                  Rhinogobius mowbrayi Bean, 1906                                        Lythrypnus mowbrayi (Bean, 1906)                          Greenfield, 1988
+     8                  Rhinogobius corallinus Jordan & Seale, 1906                            Bathygobius cocosensis (Bleeker, 1854)                    Akihito & Meguro, 1980
+     9                  Rhinogobius muscarum Jordan & Seale, 1906                              Pleurosicya muscarum (Jordan & Seale, 1906)               Larson, 1990
+     10                 Rhinogobius lungi Jordan & Seale, 1907                                 Yongeichthys nebulosus (Forsskal, 1775)                   Kottelat, 2013
+     11                 Rhinogobius ocyurus Jordan & Seale, 1907                               Drombus ocyurus (Jordan & Seale, 1907)                    Hoese & Larson, 2006
+     12          5      Ctenogobius candidianus Regan, 1908                                    Rhinogobius candidianus (Regan, 1908)                     Chen & Shao, 1996
+     13          6      Ctenogobius bedfordi Regan, 1908                                       a species of Rhinogobius*1                                Regan, 1908b
+     14          7      Ctenogobius kurodai Tanaka, 1908                                       Rhinogobius kurodai (Tanaka, 1908)                        Suzuki & Chen, 2011
+     15                 Ctenogobius katonis Tanaka, 1908                                       Rhinogobius nagoyae Jordan & Seale, 1906                  Suzuki & Chen, 2011
+     16                 Rhinogobius perpusillus Seale, 1910                                    possibly a valid species of Amblygobius*2                 Seale, 1910               T. Suzuki et al.
+     17          8      Rhinogobius carpenteri Seale, 1910                                     Rhinogobius carpenteri Seale, 1910                        Kottelat, 2013
+     18                 Rhinogobius leftwichi Ogilby, 1910                                     Arenigobius leftwichi (Ogilby, 1910)                      Hoese & Larson, 2006
+     19                 Gobius (Rhinogobius) scapulopunctatus de Beaufort, 1912                Palutrus scapulopunctatus (de Beaufort, 1912)             Larson, 2000
+     20                 Gobius (Rhinogobius) labiatus Weber, 1913                              Pleurosicya labiata (Weber, 1913)                         Larson, 1990
+     21                 Rhinogobius hongkongensis Seale, 1914                                  Istigobius campbelli (Jordan & Snyder, 1901)              Murdy & Hoese, 1985
+     22                 Rhinogobius hoshinonisTanaka, 1917                                     Istigobius hoshinonis (Tanaka, 1917)                      Murdy & Hoese, 1985
+     23          9      Rhinogobius sowerbyi Ginsburg, 1917                                    Rhinogobius sowerbyi Ginsburg, 1917                       Bogutskaya et al., 2008
+     24                 Rhinogobius taiwanus Oshima, 1919                                      Rhinogobius candidianus (Regan, 1908)                     Chen & Shao, 1996
+     25          10     Rhinogobius formosanus Oshima, 1919                                    Rhinogobius formosanus Oshima, 1919                       Chen & Shao, 1996
+     26          11     Rhinogobius fluviatilis Tanaka, 1925                                   Rhinogobius fluviatilis Tanaka, 1925                      Suzuki & Chen, 2011
+     27          12     Gobius cliffordpopei Nichols, 1925                                     Rhinogobius cliffordpopei (Nichols, 1925)                 Wu & Chen, 2008
+     28                 Rhinogobius hainanensis Oshima, 1926                                   Stenogobius ophthalmoporus (Bleeker, 1853)                Kottelat, 2013
+     29                 Rhinogobius punctatus Oshima, 1926                                     possibly Acentrogobius caninus (Valenciennes, 1837)*3     Oshima, 1926
+     30          13     Tukugobius bucculentus Herre, 1927                                     Rhinogobius bucculentus (Herre, 1927)                     Kottelat, 2013
+     31          14     Tukugobius philippinus Here, 1927                                      Rhinogobius philippinus (Herre, 1927)                     Koumans, 1940
+     32                 Rhinogobius decoratus Herre, 1927                                      Istigobius decoratus (Herre, 1927)                        Murdy & Hoese, 1985
+Table 1. Continued.
+   No. of    No. of
+  nominal     valid                             Nominal species                                         Present status                   Main reference
+  species    species
+    33                 Rhinogobius schultzei Herre, 1927                      a species of Mugilogobius or Pseudogobius          Larson, 2001
+    34                 Rhinogobius caninus magnisquamatus form Herre, 1927    Acentrogobius caninus (Valenciennes, 1837)         Koumans, 1940
+    35                 Rhinogobius multifasciatus Herre, 1927                 Acentrogobius multifasciatus (Herre, 1927)         Akihito et al., 1984
+    36                 Rhinogobius suluensis Herre, 1927                      Acentrogobius suluensis (Herre, 1927)              Akihito et al., 1984
+    37                 Rhinogobius flavoventris Herre, 1927                   Silhouettea flavoventris (Herre, 1927)*4           Herre, 1927b
+    38                 Aboma tsinanensis Fowler, 1930                         Rhinogobius similis Gill, 1859                     Suzuki et al., 2015
+    39                 Rhinogobius similis Smith, 1931                        Acentrogobius caninus (Valenciennes, 1837)         Koumans, 1940
+    40                 Rhinogobius atripinnatus Smith, 1931                   Aulopareia atripinnatus (Smith, 1931)              Larson, 2000
+    41                 Rhinogobius simulans Smith, 1931                       Acentrogobius caninus (Valenciennes 1837)          Koumans, 1940
+    42         15      Gobius cheni Nichols, 1931                             Rhinogobius cheni (Nichols, 1931)                  Chen et al., 2008
+    43                 Rhinogobius laddi Fowler, 1931                         Bathygobius laddi (Fowler, 1931)                   Hoese, 1986
+    44         16      Rhinogobius smilis lindbergi Berg, 1933                Rhinogobius lindbergi Berg, 1933                   Sakai et al., 2000
+    45                 Ctenogobius lini Herre, 1934                           Rhinogobius similis Gill, 1859                     Suzuki et al., 2015
+    46                 Rhinogobius melanobranchus Fowler, 1934                Favonigobius melanobranchus (Fowler, 1934)         Hoese, 1986
+    47         17      Rhinogobius chiengmaiensis Fowler, 1934                Rhinogobius chiengmaiensis Fowler, 1934            Chen & Kottelat, 2000
+    48                 Rhinogobius robinsoni Fowler, 1934                     Favonigobius reichei (Bleeker, 1854)               Hoese, 1986
+    49         18      Rhinogobius fukushimai Mori, 1934                      Rhinogobius fukushimai Mori, 1934                  Wu & Chen, 2008
+    50                 Rhinogobius aestivaregia Mori, 1934                    Rhinogobius fukushimai Mori, 1934                  Wu & Chen, 2008
+    51                 Rhinogobius barbatus Tomiyama, 1934                    Heteroplopomus barbatus (Tomiyama, 1934)           Tomiyama, 1936
+    52         19      Ctenogobius leavelli Herre, 1935                       Rhinogobius leavelli (Herre, 1935)                 Wu & Chen, 2008
+                                                                                                                                                          New Species of Rhinogobius from Japan
+
+
+
+    53         20      Ctenogobius duospilus Herre, 1935                      Rhinogobius duospilus (Herre, 1935)                Wu & Chen, 2008
+    54                 Ctenogobius whitleyi Herre, 1936                       Rhinogobius duospilus (Herre, 1935)                Wu & Chen, 2008
+    55                 Rhinogobius bergi Lindberg, 1936                       Rhinogobius sowerbyi Ginsburg, 1917                Vasil’eva, 2007
+    56                 Tukagobius ocellatus Fowler, 1937                      Papuligobius ocellatus (Fowler, 1937)              Chen & Kottelat, 2003b
+    57                 Ctenogobius vexillifer Fowler, 1937                    a species of Drombus*5                             Fowler, 1937
+    58         21      Ctenogobius henryi Herre, 1938                         Rhinogobius henryi (Herre, 1938)                   Chen et al., 2008
+    59         22      Glossogobius (Sinogobius) szechuanensis Tchang, 1939   Rhinogobius szechuanensis (Tchang, 1939)           Wu & Chen, 2008
+    60         23      Ctenogobius filamentosus Wu, 1939                      Rhinogobius filamentosus (Wu, 1939)                Wu & Chen, 2008
+    61                 Gobius (Sinogobius) szechuanensis Liu, 1940            Rhinogobius liui Chen & Wu, 2008                   Wu & Chen, 2008
+    62                 Ctenogobius wui Liu, 1940                              Rhinogobius duospilus (Herre, 1935)                Wu & Chen, 2008
+    63         24      Gobius mekongianus Pellegrin & Fang, 1940              Rhinogobius mekongianus (Pellegrin & Fang, 1940)   Chen et al., 1999a
+    64                 Gobius chengtuensis Chang, 1944                        Rhinogobius szechuanensis (Tchang, 1939)           Wu & Chen, 2008
+
+
+                                                                                                                                                          81
+                                                                                                                                                                        82
+
+Table 1. Continued.
+   No. of    No. of
+  nominal     valid                              Nominal species                                                Present status                         Main reference
+  species    species
+    65                 Ctenogobius cephalopardus Smith, 1945                       Rhinogobius mekongianus (Pellegrin & Fang, 1940)            Chen et al., 1999a
+    66          25     Tukugobius flumineus Mizuno, 1960                           Rhinogobius flumineus (Mizuno, 1960)                        Akihito et al., 1984
+    67          26     Ctenogobius shennongensis Yang & Xie, 1983                  Rhinogobius shennongensis (Yang & Xie, 1983)                Wu & Chen, 2008
+    68          27     Ctenogobius multimaculatus Wu & Zheng, 1985                 Rhinogobius multimaculatus (Wu & Zheng, 1985)               Wu & Chen, 2008
+    69          28     Ctenogobius lentiginis Wu & Zheng, 1985                     Rhinogobius lentiginis (Wu & Zheng, 1985)                   Wu & Chen, 2008
+    70                 Ctenogobius cervicosquamus Wu, Lu & Ni, 1986                Rhinogobius leavelli (Herre, 1935)                          Wu & Chen, 2008
+    71          29     Ctenogobius yaoshanensis Luo, 1989                          Rhinogobius yaoshanensis (Luo, 1989)                        Wu & Chen, 2008
+    72          30     Ctenogobius parvus Luo, 1989                                Rhinogobius parvus (Luo, 1989)                              Wu & Chen, 2008
+    73          31     Rhinogobius rubromaculatus Lee & Chang, 1996                Rhinogobius rubromaculatus Lee & Chang, 1996                Chen & Shao, 1996
+    74          32     Rhinogobius gigas Aonuma & Chen, 1996                       Rhinogobius gigas Aonuma & Chen, 1996                       Aonuma & Chen, 1996
+    75          33     Rhinogobius nantaiensis Aonuma & Chen, 1996                 Rhinogobius nantaiensis Aonuma & Chen, 1996                 Aonuma & Chen, 1996
+    76          34     Rhinogobius delicatus Chen & Shao, 1996                     Rhinogobius delicatus Chen & Shao, 1996                     Chen & Shao, 1996
+    77          35     Rhinogobius henchuenensis Chen & Shao, 1996                 Rhinogobius henchuenensis Chen & Shao, 1996                 Chen & Shao, 1996
+    78          36     Rhinogobius maculafasciatus Chen & Shao, 1996               Rhinogobius maculafasciatus Chen & Shao, 1996               Chen & Shao, 1996
+    79          37     Pseudorhinogobius aporus Zhong & Wu, 1998                   Rhinogobius aporus (Zhong & Wu, 1998)                       Wu & Chen, 2008
+    80          38     Rhinogobius genanematus Zhong & Tzeng, 1998                 Rhinogobius genanematus Zhong & Tzeng, 1998                 Wu & Chen, 2008
+                                                                                                                                                                        T. Suzuki et al.
+    81          39     Rhinogobius lanyuensis Chen, Miller & Fang, 1998            Rhinogobius lanyuensis Chen, Miller & Fang, 1998            Chen et al., 1998
+    82          40     Rhinogobius albimaculatus Chen, Kottelat & Miller, 1999     Rhinogobius albimaculatus Chen, Kottelat & Miller, 1999     Chen et al., 1999a
+    83          41     Rhinogobius lineatus Chen, Kottelat & Miller, 1999          Rhinogobius lineatus Chen, Kottelat & Miller, 1999          Chen et al., 1999a
+    84          42     Rhinogobius taenigena Chen, Kottelat & Miller, 1999         Rhinogobius taenigena Chen, Kottelat & Miller, 1999         Chen et al., 1999a
+    85          43     Rhinogobius xianshuiensis Chen, Wu & Shao, 1999             Rhinogobius xianshuiensis Chen, Wu & Shao, 1999             Chen et al., 1999b
+    86          44     Rhinogobius honghensis Chen, Yang & Chen, 1999              Rhinogobius honghensis Chen, Yang & Chen, 1999              Chen et al., 1999c
+    87          45     Rhinogobius maculicervix Chen & Kottelat, 2000              Rhinogobius maculicervix Chen & Kottelat, 2000              Chen & Kottelat, 2000
+    88          46     Rhinogobius changjiangensis Chen, Miller, Wu & Fang, 2002   Rhinogobius changjiangensis Chen, Miller, Wu & Fang, 2002   Chen et al., 2002
+    89          47     Rhinogobius linshuiensis Chen, Miller, Wu & Fang, 2002      Rhinogobius linshuiensis Chen, Miller, Wu & Fang, 2002      Chen et al., 2002
+    90          48     Rhinogobius nandujiangensis Chen, Miller, Wu & Fang, 2002   Rhinogobius nandujiangensis Chen, Miller, Wu & Fang, 2002   Chen et al., 2002
+    91          49     Rhinogobius wangchuangensis Chen, Miller, Wu & Fang, 2002   Rhinogobius wangchuangensis Chen, Miller, Wu & Fang, 2002   Chen et al., 2002
+    92          50     Rhinogobius milleri Chen & Kottelat, 2003                   Rhinogobius milleri Chen & Kottelat, 2003                   Chen & Kottelat, 2003a
+    93          51     Rhinogobius nammaensis Chen & Kottelat, 2003                Rhinogobius nammaensis Chen & Kottelat, 2003                Chen & Kottelat, 2003a
+    94          52     Rhinogobius vermiculatus Chen & Kottelat, 2003              Rhinogobius vermiculatus Chen & Kottelat, 2003              Chen & Kottelat, 2003a
+    95          53     Rhinogobius boa Chen & Kottelat, 2005                       Rhinogobius boa Chen & Kottelat, 2005                       Chen et al., 2008
+    96          54     Rhinogobius sulcatus Chen & Kottelat, 2005                  Rhinogobius sulcatus Chen & Kottelat, 2005                  Chen & Kottelat 2005
+Table 1. Continued.
+   No. of       No. of
+  nominal        valid                                   Nominal species                                                                 Present status                                         Main reference
+  species       species
+      97           55      Rhinogobius variolatus Chen & Kottelat, 2005                                   Rhinogobius variolatus Chen & Kottelat, 2005                                  Chen & Kottelat 2005
+      98           56      Rhinogobius virgigena Chen & Kottelat, 2005                                    Rhinogobius virgigena Chen & Kottelat, 2005                                   Chen & Kottelat 2005
+      99                   Rhinogobius longipinnis Nguyen & Vo, 2005                                      Rhinogobius similis Gill, 1859                                                Suzuki et al., 2015
+     100           57      Rhinogobius imfasciocaudatus Nguyen & Vo, 2005                                 Rhinogobius imfasciocaudatus Nguyen & Vo, 2005                                Kottelat, 2013
+     101           58      Rhinogobius wangi Chen & Fang, 2006                                            Rhinogobius wangi Chen & Fang, 2006                                           Chen & Fang, 2006
+     102           59      Rhinogobius changtinensis Huang & Chen, 2007                                   Rhinogobius changtinensis Huang & Chen, 2007                                  Chen et al., 2008
+     103           60      Rhinogobius lungwoensis Huang & Chen, 2007                                     Rhinogobius lungwoensis Huang & Chen, 2007                                    Chen et al., 2008
+     104           61      Rhinogobius ponkouensis Huang & Chen, 2007                                     Rhinogobius ponkouensis Huang & Chen, 2007                                    Huang & Chen, 2007
+     105           62      Rhinogobius reticulatus Li, Zhong & Wu, 2007                                   Rhinogobius reticulatus Li, Zhong & Wu, 2007                                  Li et al., 2007
+     106           63      Rhinogobius wuyiensis Li & Zhong, 2007                                         Rhinogobius wuyiensis Li & Zhong, 2007                                        Huang et al., 2016
+     107           64      Rhinogobius liui Chen & Wu, 2008                                               Rhinogobius liui Chen & Wu, 2008                                              Wu & Chen, 2008
+     108           65      Rhinogobius longyanensis Chen, Cheng & Shao, 2008                              Rhinogobius longyanensis Chen, Cheng & Shao, 2008                             Chen & Miller, 2008
+     109           66      Rhinogobius wuyanlingensis Yang, Wu & Chen, 2008                               Rhinogobius wuyanlingensis Yang, Wu & Chen, 2008                              Huang et al., 2016
+     110           67      Rhinogobius rubrolineatus Chen & Miller, 2008                                  Rhinogobius rubrolineatus Chen & Miller, 2008                                 Li & Zhong, 2009
+     111           68      Rhinogobius sagittus Chen & Miller, 2008                                       Rhinogobius sagittus Chen & Miller, 2008                                      Li & Zhong, 2009
+     112           69      Rhinogobius zhoui Li & Zhong, 2009                                             Rhinogobius zhoui Li & Zhong, 2009                                            Li & Zhong, 2009
+     113           70      Rhinogobius ogasawaraensis Suzuki, Chen & Senou, 2012                          Rhinogobius ogasawaraensis Suzuki, Chen & Senou, 2012                         Suzuki et al., 2012
+     114           71      Rhinogobius sangenloensis Chen & Miller, 2014                                  Rhinogobius sangenloensis Chen & Miller, 2014                                 Chen & Miller, 2014
+     115           72      Rhinogobius niger Huang, Chen & Shao, 2016                                     Rhinogobius niger Huang, Chen & Shao, 2016                                    Huang et al., 2016
+*1: Some researchers regarded this nominal species as a junior synonym of R. brunneus (e.g., Kottelat 2013); nevertheless, R. bedfordi is provisionally treated here as a valid species, since it appears to differ from R.
+                                                                                                                                                                                                                              New Species of Rhinogobius from Japan
+
+
+
+    brunneus (re-described by van Oijen et al. 2011) in having 36–38 longitudinal scales (vs 32–35 in R. brunneus) and filamentous second spine of first dorsal fin (vs non-filamentous) (Regan 1908); taxonoic
+    status of R. bedfordi needs to be resolved based on examination of the syntypes.
+*2: Kottelat (2013) provisionally identified this as Amblygobius decussatus (Bleeker, 1855) with doubt; judging from the original description (particularly those of coloration), it presumed to be identical with
+    Amblygobius linki Herre, 1927 (rather than A. decussatus); R. perpusillus has a priority over A. linki, and thus may should be a valid name.
+*3: Wu & Chen (2008) and Kottelat (2013) identified this as Yongeichthys nebulosus and a valid species of Rhinogobius, respectively, with no statements about their decision; judging from the original
+    description (particularly those of shape of head details), it is undoubtedly not a species of Rhinogobius; and, its coloration suggests that it is most probably identifiable as Acentrogobius caninus (rather than Y.
+    nebulosus).
+*4: Judging from the original description, it most probably belongs Silhouettea, revised by Miller (1988); it is regarded here as a valid species of Silhouettea, since it does not agree with all eight species
+    recognized by Miller (1988).
+*5: Judging from the original description, it undobtedly belongs Drombus, re-defied by Hoese (1986) and Larson & Murdy (2001); the genus is in need of revision (Shibukawa, Suzuki & Senou, unpubl.).
+
+
+
+
+                                                                                                                                                                                                                              83
+                                                             T. Suzuki et al.
+84
+
+     specific abbreviations, as follows (each vernacular
+     name in Japan is in parenthesis): Rhinogobius sp. BB
+     (Aobara-yoshinobori), Rhinogobius sp. BF (Shimahire-
+     yoshinobori), Rhinogobius sp. BW (Biwa-yoshinobori),
+     Rhinogobius sp. CO (Ruri-yoshinobori), Rhinogobius
+     sp. DL (Hira-yoshinobori), Rhinogobius sp. KZ (Kazusa-
+     yoshinobori), Rhinogobius sp. MO (Aya-yoshinobori),
+     Rhinogobius sp. OM (Oumi-yoshinobori), Rhinogobius
+     sp. TO (Tokai-yoshinobori), and Rhinogobius sp. YB
+     (Kibara-yoshinobori).
+        In this paper, we describe Rhinogobius sp. CO of
+     Akihito et al. (2013), originally recognized as a distinct
+     species by Mizuno (1989). The species, fairly common
+     in swift freshwater streams in temperate areas of Japan,
+     is a species bearing bright blue spots on cheek, so that
+     the Japanese vernacular name is “Ruri-yoshinobori”; the
+     Japanese words “Ruri” and “yoshinobori” mean cobalt
+     blue and a goby of Rhinogobius, respectively.
+
+                        Materials and Methods
+        The type specimens of the new species are deposited
+     in the Kanagawa Prefectural Museum of Natural History
+     (KPM), the Osaka Natural History Museum, Osaka                     Fig. 1. Dorsal view of head (A) and ventral view of pelvic
+                                                                            fin (B) of paratype of Rhinogobius mizunoi (OMNH-P
+     (OMNH), and the Museum of Natural and Environmental
+                                                                            40617, a male, 73.6 mm SL), stained with alizarin
+     History, Shizuoka, Japan (SPMN). The comparative                       red. Black circle with black letters F, H, K, and L
+     materials examined here were as shown in Suzuki et al.                 indicate sensory-canal pores; letter with prime mark
+     (2012). Information about the other described species is               indicates the terminal opening if sensory canal. Yellow
+     from the literatures shown in Table 1.                                 dots indicate scales along edge of scaled area on nape
+                                                                            and occipital region; letters P1, P2, and P3 indicate
+        All specimen lengths given are standard lengths (SL).
+                                                                            boundary of anterior extension of scaled area along
+     Measurements were made point-to-point with calipers                    predorsal midline, boundary of anterior extension of
+     to the nearest 0.1 mm. The methods for measurements                    scaled area on side of occipital region, and boundary
+     followed those of Hubbs & Lagler (1958), with exceptions               of most concave point of scaled area between P1 and
+     given below (the snout tip refers to the mid-anteriormost              P2, respectively. Black letters 1–5 indicate number
+     point of the upper lip): head length was measured from the             of segmented rays of pelvic fin. Photographed and
+                                                                            annotated by T. Suzuki.
+     snout tip to the posteriormost edge of the gill membrane;
+     cheek depth was measured as the least distance from the
+     orbit downward to the ventral edge of the cheek; caudal-
+                                                                        Notations of cephalic sensory-canal pores and sensory-
+     fin length was measured from the base to the tip of the
+                                                                        papillae rows followed Akihito et al. (1984) and Suzuki et
+     middle ray. The methods for counting followed Akihito
+                                                                        al. (2012), respectively. Description of the coloration when
+     et al. (1984), except for counts of gill rakers (including         alive and freshly-collected was based on digital images.
+     all rudiments on the outer side of the first arch) and scales
+                                                                        The names of colors follow those of Japan Color Research
+     between the origin of the first dorsal fin and pectoral fin
+                                                                        Institute (1995). Notations of points for describing the
+     (counted from the dorsal origin of the pectoral fin to the
+                                                                        extension pattern of the predorsal squamation follow
+     origin of the first dorsal fin). Osteological features were
+                                                                        those of Oijen et al. (2011: fig. 1); namely, the points 1,
+     observed from radiographs. The cephalic sensory system
+                                                                        2, and 3 indicate the anteriormost point of the scaled area
+     and scales were examined based on specimens stained with
+                                                                        along the predorsal midline, the anteriormost point of the
+     cyanine blue. Data and the other information about teeth,
+                                                                        scaled area on the side of the nape-occipital region, and
+     head squamation, gill rakers, teeth, and fifth pelvic-fin ray
+                                                                        the posteriormost edge of the concavity of the scaled area
+     were made based on a paratype (OMNH-P 40617) stained
+                                                                        (between the points 1 and 2), respectively.
+     with alizarin red. The method of Akihito et al. (1984)
+     is used in describing the pattern of the interdigitation of
+     the dorsal-fin pterygiophores and neural spines ("P-V").
+                                              New Species of Rhinogobius from Japan
+                                                                                                                                       85
+
+                 Rhinogobius mizunoi sp. nov.                        Body slender, almost cylindrical anteriorly, compressed
+              (Japanese name: Ruri­-yoshinobori)                     posteriorly. Head moderately large, slightly depressed.
+                        (Figs 1–6, Table 2)                          Eye large, located dorsolaterally on head on a vertical line
+   Rhinogobius brunneus (not of Temminck & Schlegel,                 a little before midway between snout tip and posterior
+1845): Hayashi in Masuda et al., 1984: 270 (in part:                 margin of preopercle. Interorbital relatively wide, slightly
+Cobalt type).                                                        wider than pupil diameter. Cheek somewhat fleshy. Lips
+   Rhinogobius sp. CO; Mizuno in Kawanabe & Mizuno,                  thick and fleshy; upper lip slightly protruding beyond lower
+1989: 592 (Japan exclusive of east Hokkaido and the                  lip; gape oblique, forming an angle of about 20 degrees
+Ryukyu Islands); Akihito et al., 2002: 1252 (Japan from              with body axis; rear margin of lower jaw extending to and
+Hokkaido southward to Kyushu and Cheju Island, Korea);               slightly beyond a vertical through anterior margin of eye
+Suzuki et al., 2004: 454 (Japan from Hokkaido southward              in female and male, respectively. Anterior naris a short
+to Kyushu and Cheju Island, Korea); Akihito et al., 2013:            tube without skin flap at its tip; posterior naris a round
+1456 (Japan from southwestern Hokkaido southward to                  pore with low rim, closer to anterior naris than to eye. Gill-
+Kyushu and Cheju Island, Korea).                                     opening extending anteriorly to a vertical through posterior
+   Holotype. SPMN-PI 3196, male, 67.2 mm SL, Sato-                   margin of preopercle. Gill membranes broadly attached
+gawa River, Ochiai-gawa tributaries, Inouzawa-gawa                   to isthmus. No fleshy papilla- or finger-like projections on
+water system, Ochiai, Shimoda, Izu Peninsula, Shizuoka               lateral margin of shoulder girdle. Tongue free from floor of
+Prefecture, Japan, 34°43'10.9"N 138°56'57.2"E, collected             mouth, with rounded anterior margin. Mental flap on chin
+by Y. Kitahara and K. Kano, 22 August 2013.                          weakly developed, nearly rectangular. Genital papillae
+   Paratypes. Five specimens (male and four females,                 is cone-shaped and oval-shaped in male and female,
+51.6–77.5 mm SL), collected with holotype: KPM-NI                    respectively.
+41338, female, 77.5 mm SL; OMNH-P 40617, male, 73.6                     In the following description of the fins, data for the
+mm SL, a cleared and stained; OMNH-P 40618, female,                  holotype (male) are given first, followed by data for the
+61.9 mm SL; OMNH-P 40619, female, 55.2 mm SL;                        paratypes in parentheses where different. First dorsal
+OMNH-P 40620, male, 51.6 mm SL.                                      fin originated 1.5 times the width of the orbit-diameter
+   Digital images examined. KPM-NR 78800 &                           behind from uppermost of pectoral-fin base, falcate (nearly
+91331, lower reaches of Okitsu-gawa River, Shizuoka                  semicircular in females); second spine longest but not
+Prefecture, Japan, 26 August 2006, 1 m depth,                        filamentous; when adpressed, rear tip of first dorsal fin
+photographed by K. Uchino.                                           extending to base of fourth branched rays of second dorsal
+   Diagnosis. Rhinogobius mizunoi is distinguished                   fin (not to origin of second dorsal fin in females). Second
+from all congeners by having the following unique                    dorsal fin originated an orbit-diameter width behind from
+combination of characters: 13–18 predorsal scales; 33–35             end of first dorsal-fin base (1.3 orbit-diameter behind in a
+longitudinal scale series; 8 or 9 transverse scale series;           female); second dorsal fin lower than first dorsal fin (equal
+10+16=26 vertebrae; first dorsal fin elongate in male, its           to first dorsal fin in a female); all segmented rays of second
+distal tip reaching to base of fourth branched ray of second         dorsal fin branched; seventh branched ray longest (second,
+dorsal fin when adpressed; when alive or freshly-collected,          third, fourth, fifth or sixth in females); when adpressed,
+cheek with several pale sky spots; caudal fin lacking                rear tip of second dorsal fin reaching to procurrent rays
+distinct rows of dark dots; a pair of dark brown blotches at         of caudal fin (not reaching to caudal fin in females);
+caudal-fin base in young and females.                                posteriormost base of second dorsal fin at a vertical
+   Description. In the following description of meristics,           through posteriormost of anal-fin base. Anal fin originated
+data from the holotype have an asterisk, and the frequency           below base of first branched ray of second dorsal fin (below
+of each count is given in parentheses following the relevant         base of second branched ray in one, between first and
+count. Dorsal-fin rays V-I, 8 (1) or VI-I, 8* (5); anal-fin          second branched ray bases in four); anal fin lower than
+rays I, 8* (5) or I, 9 (1); pectoral-fin rays 18 (1), 19* (4), or    second dorsal fin; all segmented rays branched; seventh
+20 (7); pelvic-fin rays I, 5* (12); segmented cauda-fin rays         branched ray longest (sixth in a male, fourth in a female,
+9+8* (6); branched caudal-fin rays 7+7* (5) or 8+7 (1);              fourth to sixth in two females); rear tip not reaching to
+longitudinal scales 33 (1), 34* (2), or 35 (3); transverse           caudal fin when adpressed. Pectoral fin elliptical; rear tip
+scales 9* (5) or 10 (1); scales between origin of dorsal and         reaching to a vertical through interspace between base of
+pectoral fin 9 (1), 10* (3), 11 (1), or 12 (1); predorsal scales     sixth spine and posterior end of base of first dorsal fin (to a
+13 (1), 14 (2), 15 (1), 16* (1), 18 (1); P-V 3/II II I I 0/9* (6);   vertical through base of sixth spine of first dorsal fin in two
+vertebrae 10+16=26* (6); gill rakers 3+7 (1).                        females). Pelvic fins fused medially via a frenum (between
+   Proportional measurements are given in Table 2.                   spines) and connecting membrane (between innermost
+                                                             T. Suzuki et al.
+86
+
+     Table 2. Measurements for Rhinogobius mizunoi.
+
+                                            SPMN-PI         OMNH-P           OMNH-P      KPM-NI         OMNH-P        OMNH-P
+     Cat. No.
+                                              3196           40617            40620       41338          40618         40619
+     Type                                    Holotype                                    Paratypes
+     Sex                                      Male                    Male                               Female
+     Standard length (mm)                      67.2            73.6             51.6       77.5           61.9           55.2
+     % in SL
+     Head length                              32.7%           32.6%           29.5%       27.1%          29.2%          28.8%
+     Predorsal length                         39.9%           39.5%           37.8%       38.2%          39.1%          38.0%
+     Snout to 2nd dorsal origin               61.0%           60.6%           57.4%       61.7%          61.4%          61.6%
+     Snout to anus                            58.0%           57.7%           55.4%       58.3%          59.8%          57.2%
+     Snout to anal fin origin                 62.5%           62.1%           60.1%       63.9%          63.5%          62.9%
+     Prepelvic length                         30.2%           27.9%           28.9%       24.5%          25.0%          23.6%
+     Caudal peduncle length                   26.6%           26.4%           26.9%       25.7%          26.0%          26.3%
+     Caudal peduncle depth                    14.7%           14.8%           14.7%       14.2%          14.1%          14.5%
+     1st dorsal fin base                      17.6%           17.7%           17.4%       19.2%          18.6%          19.2%
+     Length of longest D1 spine               28.3%           25.5%           22.1%       17.0%          14.7%          18.1%
+     2nd dorsal fin base                      16.5%           15.6%           17.8%       16.1%          16.8%          15.8%
+     Length of last D2 ray                    22.2%           25.5%           15.9%       13.5%          12.1%          12.7%
+     Anal fin base                            14.3%           13.0%           15.5%       12.5%          12.9%          13.0%
+     Caudal fin length                        24.7%           25.0%           23.8%       23.5%          23.6%          24.6%
+     Pectoral fin length                      25.1%           23.8%           23.6%       22.3%          22.8%          25.0%
+     Pelvic fin length                        16.4%           15.5%           17.4%       15.9%          17.0%          16.7%
+     Body depth of pelvic fin origin          17.1%           16.0%           17.8%       17.3%          17.3%          15.9%
+     Body depth of anal fin origin            17.1%           15.4%           17.4%       17.2%          17.0%          17.6%
+     Body width of anal fin origin            13.4%           12.6%           15.3%       14.5%          13.9%          13.8%
+     Pelvic fin origin to anus                29.0%           29.9%           29.1%       34.1%          34.2%          35.3%
+     % in HL
+     Snout length                             35.0%           35.4%           36.2%       40.0%          33.7%          34.0%
+     Eye diameter                             17.7%           16.7%           18.4%       19.0%          18.8%          20.1%
+     Postorbital length                       50.0%           52.9%           52.0%       51.4%          49.2%          47.8%
+     Cheek depth                              28.6%           26.7%           29.6%       29.5%          27.6%          25.2%
+     Head width in upper gill opening         43.6%           39.6%           45.4%       56.2%          49.7%          50.3%
+     Head width in maximum                    63.6%           64.6%           63.8%       78.6%          68.5%          68.6%
+     Head depth in maximum                    52.7%           50.0%           58.6%       61.9%          58.0%          54.7%
+     Bony interorbital width                  13.6%           13.3%           14.5%       14.3%          14.4%          13.8%
+     Lower jaw length                         43.2%           42.9%           37.5%       42.4%          35.9%          35.8%
+     % in Caudal peduncle length
+     Caudal peduncle depth                    55.3%           56.2%           54.7%       55.3%          54.0%          55.2%
+     Abbreviations: SL: Standard Length; D1: First dorsal fin; D2: Second Dorsal fin; HL: Head length
+
+
+     rays), forming a rounded disc (longitudinally-elongate oval           Scales on body moderately large and ctenoid posteriorly,
+     in two, transversely-elongate oval in one); rear tip reaching      small and cycloid anteriorly. Base of pectoral fin with
+     to a vertical through base of fifth spine of first dorsal fin      some small cycloid scales. Belly with small cycloid scales.
+     (to a vertical through interspace between bases of third and       A small cycloid scale between genital papillae and origin
+     fourth spines in a male, between bases of fourth and fifth         of anal fin in alizarin-red stained paratype (OMNH-P
+     spines in a male, between bases of second and third spines         40617). Anterior part of predorsal area naked. Predorsal
+     in three females); round membranous lobe developed                 squamation with trifurcate anterior edge and anterior
+     around distal tip of pelvic-fin spine; first branched ray of       extension of middle series extending to beyond above
+     pelvic fin longer than pelvic-fin spine; fifth pelvic-fin ray      through canal pore H' (Fig. 1A). The other part of head and
+     divided into four primary branches just above its base (Fig        prepelvic area naked.
+     1B). Caudal fin elliptical (round fan-shaped in four).                Teeth in both jaws conical, inwardly curved; upper jaw
+                                          New Species of Rhinogobius from Japan
+                                                                                                                                87
+
+
+
+
+Fig. 2. Dorsal (top), lateral (middle), and ventral (bottom)    Fig. 3. Dorsal (top), lateral (middle), and ventral (bottom)
+    views of head of holotype of Rhinogobius mizunoi                views of head of holotype of Rhinogobius mizunoi
+    (SPMN-PI 3196, male, 67.2 mm SL), showing cephalic              (SPMN-PI 3196, male, 67.2 mm SL), showing freshly-
+    sensory pores and papillae. Red circle with red letters         collected coloration. Photographed by T. Suzuki.
+    indicate sensory canal pores (letters with prime marks
+    indicate terminal opening of sensory canal); yellow dots
+    indicated by yellow letters represent sensory papillae;
+    black arrows show positions of dorsal and ventral most      behind posterior edge of eye. Lateral section of anterior
+    of gill opening. Abbreviations: AN, anterior narial pore;   oculoscapular canal with anterior pore F and terminal
+    PN, posterior narial pore. Photographed and annotated       pore H'. Posterior oculoscapular canal with two terminal
+    by T. Suzuki.                                               pores K' and L'. Gap between anterior and posterior
+                                                                oculoscapular canals slightly smaller than length of
+                                                                posterior oculoscapular canal. Preopercular canal present,
+with 3–4 rows of medium-sized teeth anteriorly; middle          with three pores M', N, and O'. Sensory-papillae row
+and posterior parts of upper jaw with an outer row of eight     a oblique and uniserial, composed of loosely-arranged
+large teeth, and anterior half of central part with an inner    papillae, extending anteriorly to a vertical through anterior
+row of medium-sized teeth; anterior half of lower jaw with      margin of eye. Row b longitudinal, extending anteriorly to
+an outer row of nine large teeth, and two to three inner        a vertical through middle of eye; its length slightly longer
+rows of medium-sized teeth, central part with an inner          than eye diameter. Rows c and d composed of densely-
+medium-sized tooth, posterior part with an outer large          arranged papillae, extending posteriorly to, or slightly
+tooth.                                                          behind, a vertical through posterior margin of eye. Row
+   Cephalic sensory systems are illustrated in Fig. 2. Nasal    cp comprising a single papilla. Row f comprising a paired
+extension of anterior oculoscapular canal with terminal         papillae. Anterior end of row oi well separated from a
+pore B' located above anterior naris. Anterior interorbital     vertical row ot.
+sections of anterior oculoscapular canal separated, with          Coloration of male (Figs. 3 & 4). Freshly-collected
+paired pore C and a single pore D. Pore E present just          coloration of male holotype is as follows. Ground color
+                                        T. Suzuki et al.
+88
+
+     Fig. 4. Freshly-collected
+        (A and B) and alcohol-
+        preserved (C) holotype
+        of Rhinogobius mizunoi
+        (SPMN-PI 3196, male, 67.2
+        mm SL). Photographed by
+        T. Suzuki..
+
+
+
+
+     Fig. 5. Freshly-collected (A and
+         B) and alcohol-preserved
+         (C) paratype of Rhinogobius
+         mizunoi (OMNH-P 40618,
+         female, 61.9 mm SL).
+         Photographed by T. Suzuki.
+                                           New Species of Rhinogobius from Japan
+                                                                                                                                89
+
+
+
+
+Fig. 6. Underwater photographs of male (A, KPM-                  Fig. 7. Freshly-collected specimens of Rhinogobius
+   NR 91331B) and female (B, KPM-NR 78800A) of                      fluviatilis. A: OMNH-P 18393, male, 53.8 mm SL,
+   Rhinogobius mizunoi, taking at lower reach of Okitsu-            Komenotsu-gawa River, Kagoshima Prefecture,
+   gawa River, Shizuoka Prefecture, Japan. Photographed             Japan; B: OMNH-P 18429, female, 69.8 mm SL,
+   by K. Uchino.                                                    Nabeno-gawa River, Kagoshima Prefecture, Japan.
+                                                                    Photographed by T. Suzuki.
+
+
+of head and body light bluish gray and light bluish gray to      indistinct. Lower lip dull pale sky in male. Dorsal side of
+yellowish gray, respectively. Ventral side of belly white.       body with about six (5–7) dark gray saddle-like blotches
+Cheek with 10 or more small pale-sky spots and a deep            anteriormost one on nape, middle 3–4 below dorsal fins,
+pink network pattern. Snout with a vivid red oblique stripe      and posterior 2–3 on caudal peduncle. Mid-lateral side of
+between eye and anterior one fourth of upper lip; several        body with a longitudinal series of eight large dark-gray
+irregular-shaped, short vivid-red lines/spots on dorsal          blotches.
+surface of snout and interorbital space; dorsoanterior              Distribution. Known from middle reaches or
+margin of cheek edged by a narrow deep-pink line; upper          mountain torrents of freshwater streams in Japan (western
+part of operculum with two oblique vivid red broken              Hokkaido southward to southern Kyushu) and Cheju
+stripes. Nape and occipital region with several irregular-       Island, Korea (Akihito et al., 2013); sometimes landlocked
+shaped, essentially longitudinal or oblique vivid-red stripes.   in freshwater reservoirs (e.g., Mizuno, 1989).
+Branchiostegal membrane tinged with orange ventrally,               Etymology. The new species is named after Dr.
+without any distinct markings. Many of scale pockets on          Nobuhiko Mizuno, the former professor of Ehime
+body edged by deep yellowish pink. Dorsum of body with           University, Japan, in honor of his great contribution to our
+four saddle-like, large light-gray blotches; anteriormost        knowledge of the ecology of freshwater fishes in Japan,
+one below base of first dorsal fin, middle one below base        particularly gobies of Rhinogobius.
+of second dorsal fin, and the other two on caudal peduncle.         Comparison. Rhinogobius is currently known as
+Fin membranes grayish white. Vertical fins with deep pink        the most species-rich freshwater goby genus, comprising
+rays; distal margins of dorsal, anal, and caudal fins white;     72 described, valid species (Table 1). As indicated by
+anal fin whitish basally. Base of pectoral fin white with two    Chen & Shao (1996) and Suzuki et al. (2015), the genus
+deep yellowish pink crescent-shaped marks. All reddish,          Rhinogobius is divided into two distinct groups; one
+yellowish, and bluish colorations faded after preservation       comprises only a single species R. similis [referred as
+in alcohol (Fig. 4C).                                            Rhinogobius giurinus (Rutter, 1897), a junior synonym,
+   Coloration of female (Fig. 5). Freshly-collected              by many authors including Chen & Shao, 1996; see
+coloration of female resembles that of male, except              Suzuki et al., 2015], whereas the other includes all the
+as follows. Ground color of head, body and fins more             remaining species. Rhinogobius similis differs from the
+yellowish. Cheek spots pale, less in number. Caudal-fin          other congeners by having large ctenoid scales on the nape
+base with a pair of diagonal dark-brown blotches, forming        (vs nape naked or with cycloid scales in the others) and
+an incomplete, bold C-shape. All reddish, yellowish, and         several short transverse rows of sensory papillae on the
+bluish colorations faded after preservation (Fig. 5C).           cheek (vs no distinct transverse rows of sensory papillae on
+   Coloration when alive (Fig. 6). Coloration when alive         cheek) (Suzuki et al., 2015). The new species R. mizunoi
+in underwater photographs resembles freshly-collected            clearly belongs the latter group, here is treated as within
+coloration, except as follows. Cheek with more pale-sky          the Rhinogobius brunneus complex, following Chen &
+spots in number. Many of body scales with pale sky spots,        Shao (1996).
+and deep yellowish pink of scale pockets much more                  The Rhinogobius brunneus complex is divided
+                                                                   T. Suzuki et al.
+90
+
+             Table 3. Comparisons of 35 species of Rhinogobius with low or unknown vertebral counts. Morphological
+                data chiefly follow those in references shown in Table 1.
+                                                              Predorsal        Distal tip of D1 of male       Vertical dark lines or rows
+                        Species             Vertebrae
+                                                               scales          (when the fin adpressed)       of dark spots on caudal fin
+             R. aporus                          26                0                     to 2nd*                         present
+             R. bedfordi                     unkown            unkown                   to 6th*                         present
+             R. brunneus                        26              11–13                to 1st or 2nd*                     present
+             R. bucculentus                  unkown              8–10                not to origin**                    absent
+             R. candidianus                   25–26              9–19                beyond 2nd*                        absent
+             R. carpenteri                   unkown             0–few                    to 1st                         absent
+             R. changjiangensis                 26               2–3                 not to origin**                    present
+             R. cliffordpopei                unkown               0                      to 1st*                        present
+             R. delicatus                       26              10–14                not to origin**                    present
+             R. fluviatilis                     26              13–18                   to 3rd*                         absent
+             R. formosanus                      26               9–14                   to 2nd*                         present
+             R. fukushimai                   unkown              2–6                 to 1st or 2nd*                     present
+             R. gigas                           26               5–16                   to 3rd*                         present
+             R. henchuenensis                   26              12–16                    to 1st*                        present
+             R. imfasciocaudatus             unkown               4                 beyond origin**                     absent
+             R. kurodai                         26               6–15            mostly not to origin**             mostly absent
+             R. lanyuensis                      26              13–17                 to origin**                       present
+             R. leavelli                        26               6–16                    to 1st*                        present
+             R. maculafasciatus                 26               8–12                 to origin**                       present
+             R. mizunoi n. sp.                  26              13–18                   to 4th*                         absent
+             R. nagoyae                         26              12–18                 to 4th–8th*                       present
+             R. nandujiangensis               25–26              8–11                to 4th or 5th*                     present
+             R. nantaiensis                     26              13–17                to 1st or 2nd*                     absent
+             R. ogasawaraensis                  26               7–16                 to 2nd–6th*                       present
+             R. philippinus                  unkown             12–14                not to origin**                    absent
+             R. reticulatus                   26–27              3–6                 not to origin**                    present
+             R. rubrolineatus                   26               3–5                     to 1st                         absent
+             R. sagittus                        26               3–4                  to origin**                       present
+             R. sangenloensis                   26               9–12                 to origin**                       present
+             R. shennongensis                unkown              5–6                 to 3th or 4th*                     present
+             R. sowerbyi                     unkown              6–8                   unknown                          absent
+             R. variolatus                    26–27              8–11                not to origin**                    present
+             R. virgigena                       26              10–12                not to origin**                    present
+             R. wuyiensis                       26               0–4                 to 4th or 5th*                     present
+             R. zhoui                           26              10–12                   to 2nd*                         present
+             Abbreviations: D1, first dorsal fin; D2, second dorsal fin; *, segmented ray base of D2; **, of D2.
+
+
+
+
+     into two distinct groups. One, comprising 37 species                        Rhinogobius mizunoi can be distinguished from all others
+     (Huang et al., 2016), has almost always 27 or more                          but three species (viz., R. candidianus, R. fluviatilis, and
+     vertebrae, whereas the others, including 25 species, has                    R. nantaiensis) by having the following combination of
+     lower count of vertebrae (25–27, almost always 26) (e.g.,                   characters: 13–18 predorsal scales; first dorsal fin elongate
+     Chen & Kottelat, 2005; Wu & Chen, 2008; Li & Zhong,                         in male, extending posteriorly well beyond origin of
+     2009; Akihito et al., 2013); no information about the                       second dorsal fin (reaching to base of fourth segmented ray
+     vertebral counts are known in the other nine congeners.                     in the holotype) when adpressed; no distinct vertical dark
+     Rhinogobius mizunoi, having 26 vertebrae, is readily                        lines or rows of dark spots on caudal fin (Regan, 1908a;
+     distinguished from the first group.                                         Aonuma & Chen, 1996; Chen & Shao, 1996; Wu & Chen,
+        These 35 congeners having low or unknown vertebral                       2008; Suzuki & Chen, 2011).
+     counts are listed in Table 3 with selective characters.                        Rhinogobius candidianus and R. nantaiensis differ
+                                           New Species of Rhinogobius from Japan
+                                                                                                                                    91
+
+from R. mizunoi in having 12–14 and 11–13 transverse             Kiotaka Hatooka (OMNH), Sachiko Takahasi (Kyoto city),
+scales, respectively (vs 8–9 in R. mizunoi) (Aonuma &            Toshihiko Yonezawa (Kagoshima Environmental Research
+Chen, 1996; Chen & Shao, 1996). Rhinogobius fluviatilis          and Service) and Yoshiro Kitahara (Environmental
+(Fig. 7), a sympatric species in temperate Japan, is also        Assessment Center CO., LTD) for their kind cooperation
+distinguished from R. mizunoi by having: when alive or           in the present study.
+freshly-collected, no sky spots on the cheek (vs present in
+R. mizunoi); a distinct dark spot at upper base of pectoral                               References
+fin (vs two deep yellowish pink crescent-shaped marks on         Akihito Prince & K. Meguro, 1980. On the six species of the
+the pectoral-fin base; a distinct vertical dark band along the        genus Bathygobius found in Japan. Japanese Journal of
+caudal-fin base (vs a pair of diagonal dark brown blotches            Ichthyology, 27: 215–236. (In Japanese).
+at caudal-fin base) (Suzuki & Chen, 2011; Akihito et al.,        Akihito, K. Sakamoto, Y. Ikeda & M. Aizawa, 2013. Gobioidei.
+2013).                                                                In Nakabo, T. (ed.), Fishes of Japan with pictorial keys to
+                                                                      the species, 3rd edition. pp. 1347–1608, 2109–2211. Tokai
+   Several sky spots on the cheek appear to be unique for R.
+                                                                      University Press, Kanagawa. (In Japanese).
+mizunoi amongst the described species of Rhinogobius,
+                                                                 Akihito, K. Sakamoto, Y. Ikeda & K. Sugiyama, 2002.
+although the fleshly-collected coloration in detail of some
+                                                                      Gobioidei. In Nakabo, T. (ed.), Fishes of Japan with
+non-Japanese species is hitherto unknown. An undescribed              Pictorial Keys to the Species, English edition. pp. 1139–
+species, Rhinogobius sp. MO of Mizuno (1989) from the                 1310, 1596–1919. Tokai University Press, Tokyo.
+Ryukyu Islands, is known to have bright sky spots on the         Akihito Prince, M. Hayashi, T .Yoshino, K. Shimada, H. Senou
+cheek, but has several vertical rows of dark spots on the             & T. Yamamoto, 1984. Suborder Gobioidei. In Masuda,
+caudal fin (e.g., Akihito et al., 2013).                              H., K. Amaoka, C. Araga, T. Uyeno & T. Yoshino (eds.),
+   Remarks. Rhinogobius mizunoi was one of the                        The Fishes of the Japanese Archipelago, First edition. pp.
+best known unidentified species of the genus in Japan.                236–289, pls. 235–258, 353–355. Tokai University Press,
+Due to previous confusion in taxonomy of the Japanese                 Tokyo.
+species of Rhinogobius (see, e.g., Suzuki & Chen, 2011;          Aonuma, Y. & I-S. Chen, 1996. Two new species of
+Suzuki et al., 2015), its identification was left unresolved.         Rhinogobius (Pisces, Gobiidae) from Taiwan. Journal of
+                                                                      the Taiwan Museum, 49: 7–16.
+Mizuno (1972) first recognized this as a color morph of
+                                                                 Bean, T. H., 1906. A catalogue of the fishes of Bermuda, with
+R. brunneus sensu Takagi (1962) from western Shikoku
+                                                                      notes on a collection made in 1905 for the Field Museum.
+of Japan; he named it as “Nise-o-gata” (meaning “false
+                                                                      Field Columbian Museum, Zoological Series, 7: 21–89.
+large morph”) in Japanese vernacular, because the size of        Berg, L. S., 1933. Les poissons des eaux douces de l'U.R.S.S.
+the adult fish is similar to “Kokusyoku-o-gata” (meaning              et des pays limitrophes. 3-e édition, revue et augmentée.
+“blackened large morph”), the other color morph named                 Leningrad. Les poissons des eaux douces de l'U.R.S.S.
+by him, the “Kokushoku-o-gata” is currently identified                Part 2: 544–903. (In Russian).
+as a distinct species R. fluviatilis (see Suzuki & Chen,         Bleeker, P., 1854a. Vierde bijdrage tot de kennis der
+2011). The “Nise-o-gata”, however, renamed as “Ruri-gata”             ichthyologische fauna van Amboina. Natuurkundig
+(meaning “cobalt morph”) by Mizuno (1976) in reference                Tijdschrift voor Nederlandsch Indië, 5: 317–352.
+to many pale sky spots on cheek and body. Subsequently,          Bleeker, P., 1854b. Nieuwe tientallen diagnostische
+Mizuno (1989) regarded the morph as a distinct species                beschrijvingen van nieuwe of weinig bekende vischsoorten
+based on ecological, ethological, and/or molecular genetics           van Sumatra. Natuurkundig Tijdschrift voor
+                                                                      Nederlandsch Indië, 5: 495–534.
+evidences, and recognized it as an unidentified species
+                                                                 Bleeker, P., 1854c. Bijdrage tot de kennis der ichthyologische
+with the provisional name Rhinogobius sp. CO (the “CO”
+                                                                      fauna van de Kokos-eilanden. Natuurkundig Tijdschrift
+is an abbreviation of “Cobalt”) or "Ruri-yoshinobori", a
+                                                                      voor Nederlandsch Indië, 7: 37–48.
+Japanese vernacular meaning “a goby of Rhinogobius in            Bogutskaya, N. G., A. M. Naseka, S. V. Shedko, E. D. Vasil'eva
+cobalt”. Since then, all of the Japanese ichthyologist used           & I. A. Chereshnev, 2008. The fishes of the Amur River:
+the Mizuno’s (1989) provisional name for this species (e.g.,          updated check-list and zoogeography. Ichthyological
+Akihito et al., 2013).                                                Exploration of Freshwaters, 19: 301–366.
+                                                                 Chang, H.-W., 1944. Notes of the fishes of western Szechwan
+                    Acknowledgments                                   and eastern Sikang. Sinensia, 15: 27–60.
+  We are very grateful to David W. Greenfield (California        Chen, I-S., Y.-H. Cheng & K.-T. Shao, 2008. A new species of
+Academy of Sciences), Hiroshi Senou (KPM), Kazuki                     Rhinogobius (Teleostei: Gobiidae) from the Julongjiang
+Arao (Sagami Bay Marine Biological Research Club),                    basin in Fujian Province, China. Ichthyological Research,
+                                                                      55: 335–343.
+Kanyu Kano (Faculty of Marine Science and Technology,
+                                                                 Chen, I-S. & L.-S. Fang, 2006. A new species of Rhinogobius
+Tokai University), Keido Uchino (Volunteer of KPM),
+                                                                      (Teleostei: Gobiidae) from the Hanjiang Basin in
+                                                                T. Suzuki et al.
+92
+
+         Guangdong Province, China. Ichthyological Research,                   Honghe Basin, Yunnan Province, China. Acta Zoologica
+         53: 247–253.                                                          Taiwanica, 10: 45–52.
+     Chen, I-S. & M. Kottelat, 2000. Rhinogobius maculicervix, a           de Beaufort, L. F., 1912. On some new Gobiidae from Ceram
+         new species of goby from the Mekong basin in northern                 and Waigen. Zoologischer Anzeiger, 39: 136–143.
+         Laos (Teleostei: Gobiidae). Ichthyological Exploration            Forsskål, P. S., 1775. Descriptiones animalium avium,
+         of Freshwaters, 11: 81–87.                                            amphibiorum, piscium, insectorum, vermium; quae in
+     Chen, I-S. & M. Kottelat, 2003a. Three new freshwater gobies              itinere orientali observavit, 20+xxxiv+164 pp., 1 map. Post
+         of the genus Rhinogobius (Teleostei: Gobiidae) from                   mortem auctoris edidit Carsten Niebuhr, Hauniae.
+         northeastern Laos. Raffles Bulletin of Zoology, 51:               Fowler, H. W., 1930. A collection of fresh-water fishes obtained
+         87–95.                                                                chiefly at Tsinan, China. Peking Natural History
+     Chen, I-S. & M. Kottelat, 2003b. Papuligobius uniporus, a                 Bulletin, 5 (2): 27–31, 1 Pl.
+         new genus and species of freshwater goby (Perciformes:            Fowler, H. W., 1931. The fishes of Oceania--Supplement I.
+         Gobiidae) from north-eastern Laos. Ichthyological                     Memoirs of the Bernice P. Bishop Museum, 11: 313–
+         Exploration of Freshwaters, 14: 243–248.                              381.
+     Chen, I-S. & M. Kottelat, 2005. Four new freshwater gobies            Fowler, H. W., 1934a. Zoological results of the third De
+         of the genus Rhinogobius (Teleostei: Gobiidae) from                   Schauensee Siamese Expedition, Part I, Fishes.
+         northern Vietnam. Journal of Natural History, 39:                         Proceedings of the Academy of Natural Sciences of
+         1407–1429.                                                                Philadelphia, 86: 67–163, Pl. 12.
+     Chen, I-S., M. Kottelat & P. J. Miller, 1999a. Freshwater gobies      Fowler, H. W., 1934b. Natal fishes obtained by Mr. H. W. Bell-
+         of the genus Rhinogobius from the Mekong Basin in                       Marley. Annals of the Natal Museum, 7: 403–433.
+         Thailand and Laos, with descriptions of three new species.        Fowler, H. W., 1937. Zoological results of the third De
+         Zoological Studies, 38: 19–32.                                          Schauensee Siamese Expedition. Part VIII,--Fishes
+     Chen, I-S. & P. J. Miller, 1998. Redescription of a Chinese                 obtained in 1936. Proceedings of the Academy of
+         freshwater goby, Gobius davidi (Gobiidae), and                          Natural Sciences of Philadelphia, 89: 125–264.
+         comparison with Rhinogobius lentiginis. Cybium, 22:               Gill, T. N. 1859. Notes on a collection of Japanese fishes,
+         211–221.                                                                made by Dr. J. Morrow. Proceedings of the Academy of
+     Chen, I-S. & P. J. Miller, 2008. Two new freshwater gobies                  Natural Sciences of Philadelphia, 11: 144–150.
+         of genus Rhinogobius (Teleostei: Gobiidae) in southern            Ginsburg, I. 1917. On two species of fishes from the Yalu River,
+         China, around the northern region of the South China                    China. Proceedings of the United States National
+         Sea. The Raffles Bulletin of Zoology, Supplement 19:                   Museum, 54: 99–101.
+         225–232.                                                          Greenfield, D. W. 1988. A review of the Lythrypnus mowbrayi
+     Chen, I-S. & P. J. Miller, 2014. A new freshwater goby of                   complex (Pisces: Gobiidae), with the description of a new
+         Rhinogobius (Teleostei: Gobiidae) from Hainan Island,                  species. Copeia, 1988: 460–469.
+         southern China. Journal of Marine Science and                     Hayashi, M. 1984. Genus Rhinogobius. In Masuda, H., K.
+         Technology, 21, Supplement: 124–129.                                    Amaoka, C. Araga, T. Uyeno. & T. Yoshino, (eds.), The
+     Chen, I-S., P. J. Miller & L.-S. Fang, 1998. A new species of               Fishes of the Japanese Archipelago, First edition, pp.269–
+         freshwater goby from Lanyu (Orchid Island), Taiwan.                     270, pls.248–249. Tokai University Press, Tokyo.
+         Ichthyological Exploration of Freshwaters, 9: 255–261.            Herre, A. W. C. T., 1927a. Gobies of the Philippines and the
+     Chen, I-S., P. J. Miller, H.-L. Wu & L.-S. Fang, 2002.                      China Sea. Monographs, Bureau of Science Manila, 23:
+         Taxonomy and mitochondrial sequence evolution in                        1–352.
+         non-diadromous species of Rhinogobius (Teleostei:                 Herre, A. W. C. T., 1927b. Four new fishes from Lake Taal
+         Gobiidae) of Hainan Island, southern China. Marine and                  (Bombon). Philippine Journal of Science, 34: 273–279,
+         Freshwater Research, 53: 259–273.                                       pls. 1–3.
+     Chen, I-S. & K.-T. Shao, 1996. A taxonomic review of the              Herre, A. W. C. T., 1934. Notes on new or little known fishes
+         gobiid fish genus Rhinogobius Gill, 1859, from Taiwan,                  from southeastern China. Lingnan Science Journal,
+         with description of three new species. Zoological Studies,             Canton, 13: 285–296.
+         35: 200–214.                                                      Herre, A. W. C. T., 1935a. Two new species of Ctenogobius
+     Chen, I-S. & H.-L. Wu, 2008. Rhinogobius liui. In Wu, H.-                   from South China (Gobiidae). Lingnan Science Journal,
+         L. & J.-S. Zhong (eds.), Fauna Sinica. Osteichthys.                     Canton, 14: 395–397.
+         Perciformes (V) Gobioidei, pp. 612–614. Science Press,            Herre, A. W. C. T., 1935b. Notes on fishes in the Zoological
+         Beijing. (In Chinese).                                                  Museum of Stanford University. VI. New and rare Hong
+     Chen, I-S., H.-L. Wu & K.-T. Shao, 1999b. A new species of                  Kong fishes obtained in 1934. Hong Kong Naturalist, 6:
+         Rhinogobius (Teleostei: Gobiidae) from Fujian Province,                 285–293.
+         China. Ichthyological Research, 46:171–178.                       Herre, A. W. C. T., 1936. Two new gobies from Hong Kong.
+     Chen, I-S., J.-X. Yang & Y.-R. Chen, 1999c. A new goby of                   Hong Kong Naturalist, 7: 184–185.
+         the genus Rhinogobius (Teleostei: Gobiidae) from the              Herre, A. W. C. T., 1938. Notes on a small collection of fishes
+                                              New Species of Rhinogobius from Japan
+                                                                                                                                          93
+
+     from Kwangtung Province including Hainan, China.                Larson, H. K. 2000. Family Gobiidae including Eleotridae
+     Lingnan Science Journal, Canton, 17: 425–437.                        (gobies and sleepers). In Randall, J. E. & Lim, K. K. P.
+Hoese, D. F. 1983. Sensory papilla patterns of the cheek                  (eds.), A checklist of the fishes of the South China Sea, pp.
+     lateralis system in the gobiid fishes Acentrogobius and               635–640. Raffles Bulletin of Zoology, Supplement (8).
+     Glossogobius, and their significance for the classification     Larson, H. K. 2001. A revision of the gobiid fish genus
+     of gobioid fishes. Records of the Australian Museum,                 Mugilogobius (Teleostei: Gobioidei), and its systematic
+     35: 223–230.                                                         placement. Records of the Western Australian Museum,
+Hoese, D. F. 1986. Gobiidae. In Smith, M. M. & Heemstra, P. C.            Supplement (62): i–iv + 1–233.
+     (eds.), Smiths' Sea Fishes, pp. 774–807. Macmillan South        Lee, S.-C. & J.-T. Chang, 1996. A new goby, Rhinogobius
+     Africa, Johannesburg.                                                rubromaculatus (Teleostei: Gobiidae), from Taiwan.
+Hoese, D. F. & H. K. Larson, 2006. Gobiidae. In Hoese, D. F.,             Zoological Studies, 35: 30–35.
+     Bray, D. J., Paxton, J. R. & Allen, G. R. (Eras.), Zoological   Li, F. & J.-S. Zhong, 2007. A new Rhinogobius species
+     Catalogue of Australia, Volume 35, Fishes, Pt. 3, pp. 1612–          from Zhejiang Province, China (Teleostei: Gobiidae).
+     1697. CSIRO Publishing, Collingwood.                                 Zoological Research, 28: 539–544. (In Chinese).
+Huang, S.-P. & I-S. Chen, 2007. Three new species of                 Li, F. & J.-S. Zhong, 2009. Rhinogobius zhoui, a new goby
+     Rhinogobius Gill, 1859 (Teleostei: Gobiidae) from the                (Perciformes: Gobiidae) from Guangdong Province,
+     Hanjiang Basin, southern China. The Raffles Bulletin of              China. Zoological Research, 30: 327–333. (In Chinese).
+     Zoology, Supplement, 14: 101–110.                               Li, F., J.-S. Zhong & H.-L. Wu, 2007. A new species of
+Huang, S.-P., I-S. Chen & K.-T. Shao, 2016. A new species                  the genus Rhinogobius from Fujian Province, China
+     of Rhinogobius (Teleostei: Gobiidae) from Zhejiang                   (Teleostei, Gobiidae). Acta Zootaxonomica Sinica, 32:
+     Province, China. Ichthyological Research online first: 22            981–985. (In Chinese).
+     March 2016.                                                     Lindberg, G. U., 1936. Materials for fishes of Primorye
+Hubbs, C. L. & K. F. Lagler, 1958. Fishes of the Great Lakes              (Maritime Province). Trudy Zoologicheskogo Instituta,
+     Region, vii ＋ 213 pp., 44 pls. Cranbrook Institute of                Akademii Nauk SSSR, 3: 393–407. (In Russian).
+     Science, Bloomfield Hills, Michigan.                            Liu, C. K. 1940. On two new fresh-water gobies. Sinensia, 11:
+Japan Color Research Institute (ed.), 1995. Concise manual of             213–219.
+     color names, revised edition. 90 pp. Japan Color Enterprise     Luo Y. L., 1989. Ctenogobius Gill. In Zheng C.-Y. (ed.),
+     Co. Ltd, Tokyo                                                       Fishes of the Zhujiang River, pp.348–355. Sceience Press,
+Jordan, D. S. & A. Seale, 1906a. Descriptions of six new species           Beijing,
+     of fishes from Japan. Proceedings of The United States          Miller, P. J. 1988. Studies on Silhouettea Smith 1959 and an
+     National Museum, 30: 143–148.                                        account of Ebomegobius Herre 1946 (Pisces Gobiidae).
+Jordan, D. S. & A. Seale, 1906b. The fishes of Samoa.                     Senckenbergiana Biologica, 68: 241–273.
+     Description of the species found in the archipelago, with a     Mizuno, N. 1960a. Study on a freshwater goby, Rhinogobius
+     provisional check-list of the fishes of Oceania. Bulletin of         similis Gill, with a proposition on the relationships
+     the Bureau of Fisheries, 25 (for 1905): 173–455 + index              between land-locking and speciation of some freshwater
+     457–488, pls. 33–53.                                                 gobies in Japan. Memoirs of the College of Science,
+Jordan, D. S. & A. Seale, 1907. Fishes of the islands of Luzon            University of Kyoto, Series B, 27:97–115
+     and Panay. Bulletin of the Bureau of Fisheries, 26:             Mizuno, N., 1960b. Description of a new freshwater goby
+     1–48.                                                                from Japan. Memoirs of the College of Science, Kyoto
+Jordan, D. S. & J. O. Snyder, 1901. A review of the gobioid               University, Series B, 27: 117–119.
+     fishes of Japan, with descriptions of twenty-one new            Mizuno, N. 1972. Some knowledge of freshwater fish in
+     species. Proceedings of the United States National                   Shikoku around the Kochi Prefecture Japan (Summary).
+     Museum, 24 (1244): 33–132.                                           Japanese Journal of Ichthyology, 19: 207. (In Japanese).
+Kottelat, M. 2013. The fishes of the inland waters of southeast      Mizuno, N. 1976. Studies on a freshwater fish, Rhinogobius
+     Asia: a catalogue and core bibiography of the fishes known           brunneus (Pisces: Gobiidae) III. Distribution of four
+     to occur in freshwaters, mangroves and estuaries. Raffles            colour types in Shikoku and Kyushu Islands. Physiology
+     Bulletin of Zoology, Supplement, (27): 1–663.                        and ecology Japan, 17: 373–381. (In Japanese).
+Koumans, F. P. 1940. Results of a reexamination of types and         Mizuno, N. 1989. Ruri Yoshinobori Rhinogobius sp. CO. In
+     specimens of gobioid fishes, with notes on the fishfauna of          Kawanabe, H. & N. Mizuno (eds.), Freshwater fishes of
+     the surroundings of Batavia. Zoologische Mededelingen,               Japan, pp.592–593. Yama-Kei Publishing Company Ltd,
+     Leiden, 22: 121–210.                                                 Tokyo. (In Japanese).
+Larson, H. K. 1990. A revision of the commensal gobiid genera        Mori, T., 1934. The fresh water fishes of Jehol. Report of
+     Pleurosicya and Luposicya (Gobiidae), with descriptions              the first scientific expedition to Manchoukuo, Tokyo,
+     of eight new species of Pleurosicya and discussion of                Section 5, Zoology Part 1: 1–28 + 1–61, pls. 1–21.
+     related genera. The Beagle, Records of the Northern             Murdy, E. O. & D. F. Hoese, 1985. Revision of the gobiid fish
+     Territory Museum of Arts and Sciences, 7: 1–53.                      genus Istigobius. Indo-Pacific Fishes, 4: 1–41, pls. 1–3.
+                                                                  T. Suzuki et al.
+94
+
+     Nguyen, V. H. & V. B. Vo, 2005. Gobiidae, Perciformes. In                       poissons des eaux douces de Chine. Annales des Sciences
+          Nguyen, V. H. (ed.), The freshwater fishes of Vietnam,                     Naturelles, Paris, Zoologie et Paléontologie, Sér. 6, 1
+          Vol. 3, pp. 635–640. MARD Informatic Center Agriculture                (art. 5): 1–18.
+          Publisher, Hanoi. (In Vietnamese).                                 Smith, H. M., 1931a. Descriptions of new genera and species
+     Nichols, J. T., 1925. Some Chinese Fresh-water fishes. XII. A               of Siamese fishes. Proceedings of the United States
+          small goby from the central Yangtze. American Museum                   National Museum, 79 (2873): 1–48, Pl. 1.
+          Novitates, (185): 5.                                               Smith, H. M., 1931b. A new name for a Siamese goby. Copeia,
+     Nichols, J. T., 1931. Some Chinese fresh-water fishes. XXIX, A              1931: 64.
+          new goby from Hokou, Kiangsi. XXX, Six type specimens              Smith, H. M., 1945. The fresh-water fishes of Siam, or Thailand.
+          figured. American Museum Novitates, (499): 1–3.                        Bulletin of the United States National Museum, (188):
+     Ogilby, J. D., 1910. On new or insufficiently described fishes.             i–xi + 1–622, pls. 1–9.
+          Proceedings of the Royal Society of Queensland, 23:                Suzuki, T. & I-S. Chen, 2011. Redescriptions of three species of
+          1–55.                                                                  genus Rhinogobius (Perciformes, Gobiidae) described by
+     Oijen, M. J. P. van, T. Suzuki & I-S. Chen, 2011. On the earliest           Dr. Shigeho Tanaka. Bulletin of the Osaka Museum of
+          published species of Rhinogobius, with a redescription of              Natural History, 65: 9–24. (In Japanese).
+          Gobius brunneus Temminck & Schlegel, 1845. Journal of              Suzuki, T., I-S. Chen & H. Senou, 2012. A new species of
+          the National Taiwan Museum, 64: 1–17.                                  Rhinogobius Gill, 1859 (Teleostei: Gobiidae) from the
+     Oshima, M., 1919. Contributions to the study of the fresh water             Bonin Islands, Japan. Journal of Marine Science and
+          fishes of the island of Formosa. Annals of the Carnegie                Technology, 19: 693–701.
+          Museum, 12: 169–328, pls. 48–53.                                   Suzuki, T., K. Shibukawa, H. Senou & I-S. Chen, 2015.
+     Oshima, M., 1926. Notes on a collection of fishes from Hainan,              Redescription of Rhinogobius similis Gill 1859
+          obtained by Prof. S. F. Light. Annotationes Zoologicae                 (Gobiidae: Gobionellinae), the type species of the genus
+          Japonenses, 11: 1–25.                                                  Rhinogobius Gill 1859, with designation of the neotype.
+     Pellegrin, J. & P.-W. Fang, 1940. Poissons du Laos recueillis               Ichthyological Research, 62: 1–12.
+          par Mm. Delacour, Greenway, Ed. Blanc. Description                 Suzuki, T., K. Shibukawa & K. Yano, 2004. Ruri Yoshinobori
+          d'un genre, de cinq espèces et d'une variété. Bulletin de la           Rhinogobius sp. CO. In Senou, H. (ed.), A Photographic
+          Société Zoologique de France, 65: 111–123.                             Guide to the Gobioid Fishes of Japan, p. 453. Heibonsha,
+     Pezold, F. L. 1993. Evidence for a monophyletic Gobiinae.                   Tokyo. (In Japanese).
+          Copeia, 1993: 634–643.                                             Takagi, K. 1962. Nomenclatural status of Gobius brunneus
+     Pezold, F. L. 2011. Systematics of Gobionellidae, Chapter                   Temminck et Schlegel, 1845, a gobioid species from
+          1.6. In Patzner, R. A., J. L. van Tassel, M. Kovačić & B.              Japan. Zoological Magazine, 71: 295–300. (In Japanese).
+          G.Kapoor (eds.), The Biology of Gobies, pp. 87–97. CRC             Takahashi, S. & T. Okazaki, 2002. A new lentic form of the
+          Press, Taylor and Francis Group, Science Publishers,                   Yoshinobori species complex, Rhinogobius spp. from
+          Enfield, New Hampshire.                                                Lake Biwa, Japan, compared with lake-river migrating
+     Regan, C. T., 1908a. Descriptions of new freshwater fishes                  Rhinogobius sp. OR. Ichthyological Research, 49:
+          from China and Japan. Annals and Magazine of Natural                   333–339.
+          History, Series 8, 1: 149–153.                                     Tanaka, S., 1908. Descriptions of eight new species of fishes
+     Regan, C. T., 1908b. The Duke of Bedford's Zoological                       from Japan. Annotationes Zoologicae Japonenses, 7 (1):
+          Exploration in eastern Asia, VIII, A collection of freshwater          27–47.
+          fishes from Corea. Proceedings of the Zoological                   Tanaka, S., 1917. Three new species of Japanese fishes.
+          Society of London, 1908 (1): 59–63, pls. 2–3.                          Zoological Magazine Tokyo, 29: 225–226. (In Japanese).
+     Rutter, C. L., 1897. A collection of fishes obtained in Swatow,         Tanaka, S., 1925. Figures and descriptions of the fishes of
+          China, by Miss Adele M. Fielde. Proceedings of the                     Japan including Riukiu Islands, Bonin Islands, Formosa,
+          Academy of Natural Sciences of Philadelphia, 49:                       Kurile Islands, Korea and southern Sakhalin. Figure and
+          56–90.                                                                 description of the fishes of Japan, 34: 629–644, pls.
+     Sakai, H., K. Ikoma, S. V. Frolov, Y. Yamazaki, H. Takahashi                151–153.
+          & H. Ida, 2000. Morphological features of a Russian                Tchang, T.-L., 1939. Studies on Chinese Glossogobius.
+          freshwater goby, Rhinogobius lindbergi (Pisces:                            Bulletin of the Fan Memorial Institute of Biology,
+          Gobiidae), and its genetic relationships to Japanese species.              Peiping (Zoology Series), 9: 67–70.
+          Biogeography, 2: 51–61.                                            Temminck, C. J. & H. Schlegel, 1845. Pisces, Fauna Japonica,
+     Seale, A., 1910. New species of Philippine fishes. The                      Parts 7–9, pp.113–172. Leiden, Netherland.
+          Philippine Journal of Science, Section A, 4: 491–543,              Tomiyama, I., 1934. Four new species of gobies of Japan.
+          pls. 1–13.                                                             Journal of the Faculty of Science, University of Tokyo
+     Seale, A., 1914. Fishes of Hong Kong. The Philippine Journal                Section IV Zoology, 3 (3): 325–334.
+          of Science, Section D, 9: 59–81, pls. 1–2.                         Tomiyama, I., 1936. Gobiidae of Japan. Japanese Journal of
+     Sauvage, H.-E. & P. Dabry de Thiersant, 1874. Notes sur les                 Zoology, 7: 37–112.
+                                                 New Species of Rhinogobius from Japan
+                                                                                                                                          95
+
+Valenciennes A., 1837, Gobius caninus. In Cuvier, G. and                    Wu, H.-W., 1939. On the fishes of Li-Kiang. Sinensia, 10:
+     A. Valenciennes, Histoire naturelle des poisons, Tome                      92–142, pls. 1–3.
+     douzième, Suite du livre quatorzième, Gobioïdes, Livre                 Yang, G.-Y. & C.-X. Xie, 1983. A new species of fishes from
+     quinzième, Acanthoptérygiens à pectorales pédiculées, 12:                  Mount Shennong. Zoological Research, 4: 71–74. (In
+     86–87. F. G. Levrault, Paris-Strasbourg.                                   Chinese).
+Vasil'eva, E. D. 2007. Gobies of the genus Rhinogobius                      Yang, J.-Q., H.-L. Wu & I-S. Chen, 2008. A new species of
+     (Gobiidae) from Primor'e and water bodies of central                       Rhinogobius (Teleostei: Gobiidae) from the Feiyunjiang
+     Asia and Kazakhstan: I. Morphological characteric and                      Basin in Zhejiang Province, China. Ichthyological
+     taxonomic status. Journal of Ichthyology, 47: 691–700.                     Research, 55: 379–385.
+Weber, M., 1913. Die Fische der Siboga-Expedition. i–xii +                  Zhong, J.-S. & C.-S. Tzeng, 1998. A new species of
+     1–710, pls. 1–12. E. J. Brill, Leiden.                                     Rhinogobius from China (Perciformes: Gobioidae).
+Wu, H.-L. & I-S. Chen, 2008. Rhinogobius Gill, 1859. In                         Zoological Research, 19: 237–241. (In Chinese).
+     Wu, H.-L. & Zhong, J.-S. et al. (eds.), Fauna Sinica,                  Zhong, J.- S. & H.-L. Wu, 1998. Pseudorhinogobius aporus,
+     Osteichthyes Perciformes (V) Gobioidei, pp. 568–635.                       a new genus and species of Gobiid fish from eastern
+     Science Press, Beijing. (In Chinese).                                      China. Journal of Fisheries of China, 22: 148–153. (In
+Wu, H.-L. & Y. Ni, 1986. Gobioidei. In The freshwater and                       Chinese).
+     estuaries fishes of Hainan Island, pp. 259–314. Guangdong
+     Science and Technology Press. (In Chinese).
+Wu , H . - L . & M . - L . Z h e n g , 1 9 8 5 . C t e n o g o b i u s
+     multimaculatus, Ctenogobius lentiginis. In Zheng, M.-
+     L. & H.-L. Wu. A study on the freshwater gobioid fishes
+     of Zhejiang Province, China, with descriptions of two
+     new species (Perciformes: Gobiidae), pp. 328–331. Acta
+     Zootaxonomica Sinica, 10. (In Chinese).
+
+
+
+
+     摘    要
+
+  鈴木寿之・渋川浩一・藍澤正宏 , 2017. 日本産ハゼ科魚類の１新種 Rhinogobius mizunoi. 神奈川県立博
+  物館研究報告       （自然科学）      , (46): 79-95.［Suzuki, T. , K. Shibukawa, & M. Aizawa, 2017. Rhinogobius mizunoi,
+  A New Species of Freshwater Goby (Teleostei: Gobiidae) from Japan. Bull. Kanagawa prefect. Mus. (Nat. Sci.),
+  (46): 79-95.］
+    静岡県の渓流域から得られたハゼ科ヨシノボリ属の１新種を記載した。本種は第 2 背鰭 1 棘 8 軟条、
+  胸鰭 18-20 軟条、背鰭前方鱗数 13-18、縦列鱗数 33-35、横列鱗数 8 または 9、脊椎骨数 10（腹椎）+ 16
+ （尾椎）=26（合計）          、雄の第 1 背鰭は伸長し先端は倒すと第 2 背鰭第 4 軟条基部に達すること、生時お
+  よび生鮮時、頬に青色点があること、尾鰭に縞模様がないこと、雌と幼魚の尾鰭基底の上下に 1 対の
+  暗色横斑があることなどで、同属他種から区別できる。
+    なお、カラー写真は本報告の web 版（http://nh.kanagawa-museum.jp/research/bulletin/）を参照。
+                                                                         （受付 2016 年 10 月 27 日 ; 受理 2016 年 12 月 24 日）
+

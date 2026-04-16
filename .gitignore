@@ -1,0 +1,3 @@
+# Large data files (kept locally / on USB)
+biology/fish/rhinogobius/gbif_raw/occurrences.jsonl
+biology/fish/rhinogobius/specimens/specimens.jsonl

@@ -1,0 +1,273 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "京都府由良川水系からのシマヒレヨシノボリの初記録および同一水系に生息するトウヨシノボリとの形態比較"
+    },
+    {
+      "type": "paragraph",
+      "text": "国松翔太・福家悠介"
+    },
+    {
+      "type": "paragraph",
+      "text": "Author & Article Info\n京都大学大学院理学研究科（京都市）\nSK: kunimatsu.shouta.84x@st.kyoto-u.ac.jp (corresponding author)\nReceived 08 January 2021\nRevised 13 January 2021\nAccepted 13 January 2021\nPublished 13 January 2021\nDOI 10.34583/ichthy.4.0_12\nShota Kunimatsu and Yusuke Fuke. 2021. First record of Rhinogobius tyoni (Gobiidae) from Yura River in Kyoto Prefecture, Japan and morphological comparison with Rhinogobius sp. OR. Ichthy, Natural History of Fishes of Japan, 4: 12–17."
+    },
+    {
+      "type": "paragraph",
+      "text": "Abstract\nRhinogobius tyoni Suzuki, Kimura and Shibukawa, 2019 distributed in western Japan has previously been not recorded from rivers flow into the Sea of Japan except for Maruyama River, Hyogo Prefecture. We record R. tyoni from Yura River, Kyoto Prefecture which adjacent to Maruyama River for the first time. Since the Maruyama River population was doubtful as a non-natural distribution, the present record provided insight into the natural distributional range of R. tyoni in rivers on the Sea of Japan coast of Honshu. In the Yura River system, congeneric morphologically distinctive Rhinogobius sp. OR (sensu Hirashema, 2018) was also found, though its taxonomic status could not be confirmed. Thus, we describe the morphology of these species in detail for taxonomic clarification in future work."
+    },
+    {
+      "type": "paragraph",
+      "text": "ヨシノボリ属 Rhinogobius Gill, 1859 は淡水性ハゼ科魚類の一群であり，現在 86 有効種が知られる (Suzuki et al., 2020; Wanghe et al., 2020)．日本産本属魚類では独立種と認識されながらも未だに学名が未決定の種が複数存在する (明仁ほか, 2013; Takahashi and Okazaki, 2017)．この中には，水野ほか (1989) によって和名が提唱されたトウヨシノボリ Rhinogobius sp. OR が含まれる．しかしながら，この“トウヨシノボリ”の定義は不明瞭であり，複数種が含まれていると考えられているが分類学的に整理されていない (明仁ほか, 2013)．"
+    },
+    {
+      "type": "paragraph",
+      "text": "今回，京都府の日本海側に面する由良川水系から初記録となるシマヒレヨシノボリ Rhinogobius tyoni Suzuki, Kimura and Shibukawa, 2019 が得られたのでここに報告す"
+    },
+    {
+      "type": "paragraph",
+      "text": "る．本種はかつてトウヨシノボリの一型“縞鰭型”とされていたが (鈴木, 1996)，近年新種記載された (Suzuki et al., 2019)．本種のタイプ産地は日本海に流入する兵庫県の円山川であるが (Suzuki et al., 2019)，本種の主要な分布域は瀬戸内地域であり，本州の日本海側河川ではこれまで円山川以外での分布は知られていなかった．そのため，円山川が自然分布域かどうかは不明とする意見もある (藤田, 2019)．したがって，円山川に近接する由良川からの本種の記録は，本種の自然分布域を検討する上で重要な知見と考えられる．また，由良川水系からは，本種と形態的に異なり，尾鰭基部に橙色斑をもつヨシノボリ属魚類の生息も確認された．本報告ではこれを平嶋 (2018) にしたがイトウヨシノボリ Rhinogobius sp. OR と呼称し，今後の分類学 的整理に資する形態的知見を得る目的で，シマヒレヨシノボリとともに形態記載およびこれら 2 種の比較を行った．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "材料と方法"
+    },
+    {
+      "type": "paragraph",
+      "text": "観察標本は，10 % ホルマリン水溶液で固定した後，70 % エタノール溶液中で保存したものを用いた．鱗数と被鱗域および腹鰭第 5 軟条の観察はアリザリンレッドで染 色を施した標本 (シマヒレヨシノボリとトウヨシノボリ 各 1 個体) でも確認した．魚体の大きさは標準体長 (体長 あるいは SL と表記) で示した．体各部の計測方法は顕微鏡下で行った．体各部の計測はデジタルノギスを用い て 0.1 mm 単位で行い，計測値は体長に対する百分率で示し た．骨格系の特徴は標本の軟エックス線画像で確認した． 生鮮時の色彩は，氷冷での麻酔の後，ホルマリン固定 (約 10 分間) 後に撮影した画像に基づいた．本報告に用いた 標本は京都大学総合博物館 (FAKU) に登録した．"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rhinogobius tyoni Suzuki, Kimura and Shibukawa, 2019 シマヒレヨシノボリ"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Fig. 1A, C; Table 1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "標本 6 標本 (体長 24.4–27.4 mm) : FAKU 208268–208273,"
+    }
+  ],
+  "2": [
+    {
+      "type": "figure",
+      "label": "Fig. 1. Fresh specimens (A, B) and ventral view of pelvic fin (preserved specimens stained with Alizarin Red S) (C, D) of Rhinogobius tyoni (A, C) and Rhinogobius sp. OR (B, D) from Yura River system, Kyoto Prefecture, Japan. A: FAKU 208271, male, 25.5 mm SL; B: FAKU 208276, male, 59.3 mm SL; C: FAKU 208268, male, 27.3 mm SL; D: FAKU 208274, male, 64.1 mm SL.",
+      "bbox": [
+        0.08,
+        0.06,
+        0.92,
+        0.77
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_shimahire_toukai_yura_morphology_extracted/Fig._1._Fresh_specimens_(A,_B)_and_ventral_view_of_pelvic_fin_(preserved_specime.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Fresh specimens (A, B) and ventral view of pelvic fin (preserved specimens stained with Alizarin Red S) (C, D) of Rhinogobius tyoni (A, C) and Rhinogobius sp. OR (B, D) from Yura River system, Kyoto Prefecture, Japan. A: FAKU 208271, male, 25.5 mm SL; B: FAKU 208276, male, 59.3 mm SL; C: FAKU 208268, male, 27.3 mm SL; D: FAKU 208274, male, 64.1 mm SL."
+    },
+    {
+      "type": "paragraph",
+      "text": "京都府福知山市多保市・由良川水系ため池, 2019 年 11 月 3 日, 手網."
+    },
+    {
+      "type": "paragraph",
+      "text": "記載 計数形質と各体部の体長に対する割合は Table 1 に示した。吻は短く丸い。第 1 背鰭は雌雄ともに伸長せず,"
+    },
+    {
+      "type": "paragraph",
+      "text": "最長の第 3 棘は倒しても第 2 背鰭基部に達しない。胸鰭は縦方向に長い楕円形, 尾鰭は団扇形である。腹鰭は縦長の楕円形で, 棘の周辺は葉状に弱く突出する。腹鰭第 5 軟条は最初に 2 分枝する (Fig. 1C)。体側には櫛鱗が分布し,"
+    }
+  ],
+  "3": [
+    {
+      "type": "paragraph",
+      "text": "後方で大きい。被鱗域は体側より尾鰭に達し, 尾鰭上では1-3列の小円鱗となる。第1背鰭第1-4棘と胸鰭腋下方 を結ぶ線より前方の背面には小円鱗が分布し, 被鱗域前縁 は背面から見るとW形を呈する。腹部の腹中線周辺は小 円鱗を被るが, 小円鱗の被鱗域は狭く, 側方から体側にか けては櫛鱗を被る。腹鰭の周囲は無鱗である。胸鰭基底前 方は無鱗である。頭部感覚孔開孔は前眼肩甲管に開孔B', C, D, E, F, H'が見られたが, 変異が多く, Dが単一開孔となっ ているものが4個体, 2つの開孔となっているものが2個 体みられた。また, H開孔は3個体のみでみられた。後眼 肩甲管では感覚管がないものが5個体, K'開孔を持つも のが1個体みられた。前鰓蓋骨では全ての個体でM', N, O' 開孔がみられた。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "生鮮時の色彩 (Fig. 1A)"
+    },
+    {
+      "type": "paragraph",
+      "text": "体の地色は暗褐色から淡褐色 で, 腹部は白色である。体側には暗色斑紋が7-8個ある。 胸鰭基底上部には暗色斑がある。尾鰭基底部には雄では"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table. 1 Counts and proportional measurements of specimens of *Rhinogobius tyoni* and *Rhinogobius* sp. OR."
+    },
+    {
+      "type": "figure",
+      "label": "Table. 1 Counts and proportional measurements of specimens of *Rhinogobius tyoni* and *Rhinogobius* sp. OR.",
+      "bbox": [
+        0.098,
+        0.202,
+        0.895,
+        0.8
+      ],
+      "_saved": "/home/research-reports/biology/fish/rhinogobius/all/papers/pdfs/downloaded/jstage_shimahire_toukai_yura_morphology_extracted/Table._1_Counts_and_proportional_measurements_of_specimens_of_Rhinogobius_tyoni_.jpg"
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "「く」の字形の暗色斑があるが，雌では不明瞭で，雌雄ともに橙色斑はない．眼の前縁から吻にかけてと，目の下縁から口角部にかけてそれぞれ一本の暗赤褐色線がある．頬は3個体と雌2個体で無斑，雄1個体で数個の赤色点が散在する．鰓蓋部には赤色点が散在する．体側には赤色点が散在する．第1背鰭上縁は黄色である．第2背鰭は中央部に1-4本の縦点列があり，上縁は黄色がかった白色である．臀鰭には赤あるいはオレンジの縦帯があり，下縁は青みがかった白色である．尾鰭は中央部に3-4本の横線があるが，雌では下部に赤色斑があるが，雌にはない．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "分布"
+    },
+    {
+      "type": "paragraph",
+      "text": "本州では広島県，岡山県，兵庫県，大阪府，奈良県，和歌山県，四国では愛媛県，香川県，徳島県，九州では福岡県からの記録があり瀬戸内海に注ぐ河川に広く分布する（鈴木ほか, 2017; Suzuki et al., 2019）．日本海側では兵庫県円山川と福岡県のみから分布が知られていたが（鈴木ほか, 2017; Suzuki et al., 2019），本研究によって新たに京都府の由良川水系から本種が記録された．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "生息状況"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究で記載した標本は，由良川水系に属する小規模なため池から採集された．ため池からは本種以外の魚類の生息は認められなかったが，十脚甲殻類のスジエビ Palaemon paucidens De Haan, 1844が見られた．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "備考"
+    },
+    {
+      "type": "paragraph",
+      "text": "由良川水系産の記載標本は，縦列鱗数が33-35であること，背鰭前方に小円鱗を被り，背鰭前方鱗数が9-14であること，第1背鰭始部と胸鰭基底上端間の鱗が7-8であること，脊椎骨数が26-27であること，雄の第1背鰭は第3棘が最長で倒しても第2背鰭始部に達しないこと，腹鰭は縦長の楕円形であること，腹鰭第5軟条は最初に2分岐すること，後眼肩甲骨が通常ないこと，前鰓蓋管があること，第1背鰭前半部に暗色斑がないこと，生鮮時の特徴として，眼の前縁から吻にかけてと目の下縁から口角部にかけてそれぞれ一本の暗赤褐色線があること，尾鰭基底部に橙色斑がないこと，尾鰭中央部に3-4本の赤色横線があること，雄の尾鰭下部に赤色斑があることなどの特徴が Suzuki et al. (2019) の示したシマヒレヨシノボリ R. tyoni の特徴とよく一致したため本種に同定された．"
+    },
+    {
+      "type": "paragraph",
+      "text": "本州の日本海側河川における本種の分布はこれまで円山川に限られていたため，自然分布であるかは不明とされていたが（藤田, 2019），由良川からの記録は，本州日本海側河川における2例目の生息河川の記録となるため，本種の自然分布域を考察する上で重要と考えられる．由良川水系は瀬戸内海に注ぐ加古川水系との間で，8-20万年前に河川争奪があったされており（岡田・高橋, 1969），加古川と由良川で共通してみられる純淡水魚類のうちアブラボテ Tanakiia limbata (Temminck and Schlegel, 1846)，ニゴイ Hemibarbus barbus (Temminck and Schlegel, 1846)，ホトケドジョウ Lefua echigonia Jordan and Richardson, 1907，チュウガタスジシマドジョウ Cobitis striata striata (Ikeda, 1936) の4種は河川争奪にともない分布を広げた可能性が指摘されている（水野, 1977）．さらに，由良川上流と加古川上流に生息する淡水性十脚甲殻類のミナミヌマエビ Neocaridina denticulata (De Haan, 1844) は共通のミトコンドリア DNA クレードに属しており，河川争奪による分散が示唆されている（Fujita et al., 2011）．また，由良川と円山川の間でも河川争奪があったと推定されており（岡田・高橋, 1969），シマヒレヨシノボリは河川争奪を通して瀬戸内海側の河川から由良川および円山川に分布を広げた可能性がある．この仮説を検証するためには，本種の系統地理学的研究が必要である．"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rhinogobius sp. OR"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "トウヨシノボリ"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Fig. 1B, D; Table 1)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "標本"
+    },
+    {
+      "type": "paragraph",
+      "text": "4標本（体長39.6–68.1 mm）：FAKU 208274, 208275, 京都府船井郡京丹波町富田・由良川水系高原川, 2019年5月19日, 手網; FAKU 208276, 208277, 京都府船井郡京丹波町富田・由良川水系高原川, 2020年6月6日, 手網．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "記載"
+    },
+    {
+      "type": "paragraph",
+      "text": "観察を行った4標本は全て雄個体である．計数形質と各部の体長に対する割合は Table 1 に示した．吻は長い．第1背鰭は2個体で第2, 3, 4, 1, 5, 6棘の順に長く，2個体では第3, 2, 4, 1, 5, 6棘の順に長い．第1背鰭最長棘を倒すと，1個体は第2背鰭第3軟条，2個体は第4軟条に達し，1個体は第2背鰭基底部後端を超える．第2背鰭を倒すと，2個体は尾鰭に達しないが，2個体では尾鰭に達する．胸鰭は縦方向に長い楕円形，尾鰭は団扇形である．腹鰭は円形で，棘の周辺は葉状に強く突出する．腹鰭第5軟条は最初に4分岐する（Fig. 1D）．体側には櫛鱗が分布し，後方で大きい．被鱗域は体側より尾鰭に達し，尾鰭上では1-2列の円鱗または小円鱗となる．第1背鰭第4棘から第2背鰭前端にかけてと胸鰭腋下上方を結ぶ線より前方の背面には小円鱗が分布し，被鱗域前縁は背面から見るとW形を呈する．腹部は広く小円鱗を被る．腹鰭の周囲は無鱗である．胸鰭基底前方，アリザリン染色を施した1個体で2枚の小円鱗が見られる．頭部感覚孔開孔は全ての個体で前眼肩甲管に開孔 B', C, D, E, F, H', 後眼肩甲管に開孔 K', L', 前鰓蓋管に開孔 M', N, O' が見られた．"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "生鮮時の色彩"
+    },
+    {
+      "type": "paragraph",
+      "text": "（Fig. 1B）体の地色は暗褐色から淡褐色で，腹部は白色である．体側には暗色斑紋が6個あるが一部不明瞭な個体もある．背側には暗色の鞍状斑が4個ある．胸鰭基底上部には円形の暗色斑がある．尾鰭基底部に暗色の太短い横帯あるいはやや弓状の斑があり，その周囲には同心円状に大きく広がる橙色斑がある．眼の前縁から吻にかけて，暗赤褐色線がある．頬部には赤色小斑点が約60-80個散在する．鰓蓋部には小さい赤色点が数個散在す"
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "る. 体側には赤色点が散在する. 第1背鰭の第1棘から第2棘あるいは第3棘の間は暗青色斑があり, 上縁は黄色である. 第2背鰭の上縁は黄色である. 臀鰭中央部の軟条に沿った部分は赤色, 下縁は白色である. 尾鰭上縁は黄色, 下縁は白色である."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "生息状況"
+    },
+    {
+      "type": "paragraph",
+      "text": "本研究で記載した標本は, 由良川水系に属する高屋川の平瀬環境から採集された. 同所には魚類のカワヨシノボリ *Rhinogobius flumineus* (Mizuno, 1960), ワムツ *Nipponocypris temminckii* (Temminck and Schlegel, 1846), ムギツク *Pungtungia herzi* Herzenstein, 1892, ドンコ *Odontobutis obscura* (Temminck and Schlegel, 1845), ギギ *Tachysurus nudiceps* (Sauvage, 1883) が見られた. また, 十脚甲殻類のミナミヌマエビ *N. denticulata* が見られた."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "備考"
+    },
+    {
+      "type": "paragraph",
+      "text": "記載標本は, 雌の尾鰭基底に橙色斑があることから, 平嶋 (2018) にしたがうトウヨシノボリ *Rhinogobius* sp. OR とした. トウヨシノボリにはトウヨシノボリ宍道湖型, 北日本型, 西日本型, 黒色大型B (矮小型), オウミヨシノボリ *Rhinogobius* sp. OM (明仁ほか, 2013), カズサヨシノボリ *Rhinogobius* sp. KZ (明仁ほか, 2013) が含まれるとされるが, これらの従来提唱されてきた和名や型が種を表しているのか種内変異であるかは明らかではない (明仁ほか, 2013). ただし, Yamasaki et al. (2015) による分子系統解析ではこうしたトウヨシノボリが単系統とはならないことを示しており, 複数種が含まれる可能性を示唆している."
+    },
+    {
+      "type": "paragraph",
+      "text": "記載標本は, 胸鰭軟条数が 19–21 であること, 縦列鱗数が 32–34 であること, 横列鱗数が 10–11 であること, 椎骨数が 26 であること, 雄の第1背鰭が伸長すること, 雄の頬部に赤色小斑点があること, 雄の尾鰭中央に橙色斑があることなどの特徴が, 明仁ほか (2013) に掲載された日本産ヨシノボリ属魚類のうち, 平嶋 (2018) によってトウヨシノボリに含められたオウミヨシノボリ *Rhinogobius* sp. OM と一致し, 形態的に最も類似していた. しかし, 記載標本は明仁ほか (2013) が記載したオウミヨシノボリと比較して背鰭前方鱗数が 7–10 とやや多く (オウミヨシノボリでは 1–8), 尾柄部の鱗外縁は円い (オウミヨシノボリでは角ばる) ことで異なる. 明仁ほか (2013) では今後の分類学的研究が必要で未掲載とした日本産ヨシノボリ属魚類のなかに水岡 (1974) が提唱したヨシノボリ宍道湖型を挙げている. ヨシノボリ宍道湖型は五島列島から中国地方, 北陸に分布するとされており, 由良川からも記録されている (水岡, 1974). しかし, 水岡 (1974) はヨシノボリ宍道湖型の特徴として頬部に斑紋はないことを挙げており, 記載標本はこの特徴に一致しない. 鈴木 (1996) は由良川に近接する円山川からトウヨシノボリ宍道湖型を報告しており, 雄の第1背鰭が伸長する, 背鰭前方鱗数 8–13, 尾鰭に橙色斑がある, 尾鰭基底の黒色斑は太短い棒状から弓状, 最大体長が 70 mm を超えるなどの特徴が, 記載標本と一致する. しかし, 鈴木 (1996) が報告した円山川産のトウヨシノボリ宍道湖型は頬部上部に小朱点が数個あるとされるが, 記載標本には約 60–80 個の小朱点があることで相違がみられた. この相違点を除き, 由良川産の記載標本は鈴木 (1996) の報告した円山川のトウヨシノボリ宍道湖型に最も近いが, 今回観察できなかった雌個体の観察や, 他産地のトウヨシノボリとのさらなる詳細な形態比較が必要と考えられたため, 型の判断は行わなかった."
+    },
+    {
+      "type": "paragraph",
+      "text": "由良川水系産のトウヨシノボリ標本は, 尾鰭基底にシマヒレヨシノボリにはない橙色斑があることに加え, 腹鰭が円形で第5軟条は最初に4分岐すること (シマヒレヨシノボリでは縦長の楕円形で第5軟条は最初に2分岐), 腹部の小円鱗域が広いこと (狭い), 後眼肩甲管に開孔 K' と L' ともにあること (ない), 雄の第1背鰭最長棘を倒すと第2背鰭基底部に達すること (達しない), 雄の頬部に赤色小斑点が約 60–80 個あること (ないか, あっても数個), 雄の臀鰭中央部の軟条に沿った部分が赤色となること (赤あるいはオレンジの縦帯), 雄の尾鰭中央部に横線がなく, 下部に赤色斑がないこと (中央部に 3–4 本の横線があり, 下部に赤色斑がある) で同水系産シマヒレヨシノボリと区別された."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "謝 辞"
+    },
+    {
+      "type": "paragraph",
+      "text": "本報告を取りまとめるにあたり, 鈴木寿之博士 (大阪市立自然博物館) には標本撮影手法や形態観察手法について助言を頂いた. 山口達成氏 (丹波篠山市) には文献を提供して頂いた. 松沼瑞樹博士 (近畿大学) には原稿の改訂に関する有益なご助言をいただいた. 以上の方々に心から厚く御礼申し上げる."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "引用文献"
+    },
+    {
+      "type": "paragraph",
+      "text": "明仁・坂本勝一・池田祐二・藍澤正宏. 2013. ハゼ亜目, pp. 1347–1608, 2109–2211. 中坊徹次 (編) 日本産魚類検索 全種の同定. 第3版. 東海大学出版会, 秦野.\n藤田朝彦. 2019. シマヒレヨシノボリ, p. 478. 細谷和海 (編) 山渓ハンディ図鑑 15 増補改訂 日本の淡水魚. 山と渓谷社, 東京.\nFujita, J., K. Nakayama, Y. Kai, M. Ueno and Y. Yamashita. 2011. Geographical distributions of mitochondrial DNA lineages reflect ancient directions of river flow: A case study of the Japanese freshwater shrimp *Neocaridina denticulata denticulata* (Decapoda: Atyidae), Zoological Science, 28: 712–718. (https://doi.org/10.2108/zsj.28.712)\n平嶋健太郎. 2018. トウヨシノボリ, p. 417. 中坊徹次 (編) 小学館の図鑑Z 日本魚類館. 小学館, 東京.\n水野信彦. 1977. 氷上郡の魚類調査報告. ひかみ, 9: 87–104.\n水野信彦・辻 幸一・鈴木寿之・越川敏樹・岩田明久. 1989. ヨシノボリ属, pp. 179–188. 川那辺浩哉・水野信彦 (編) 山渓カラー名鑑 日本の淡水魚. 山と渓谷社, 東京.\n水岡繁登. 1974. ヨシノボリ *Rhinogobius brunneus* (Temminck et Schlegel) の変異に関する研究 III 山陰・北陸・山陽・五島列島における体色ははん紋型6型について. 広島大学教育学部紀要, 23: 31–40.\n岡田篤正・高橋健一. 1969. 由良川の大規模な流路変更. 地学雑誌, 78: 19–37. (https://doi.org/10.5026/jgeography.78.19)"
+    }
+  ],
+  "6": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Kunimatsu and Fuke — Rhinogobius tyoni and Rhinogobius sp. OR from Yura River"
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之. 1996. 兵庫県円山川で採集されたトウヨシノボリの1新型. 兵庫陸水生物, 47: 1–9."
+    },
+    {
+      "type": "paragraph",
+      "text": "鈴木寿之・藍澤正宏・渋川浩一. 2017. クロダハゼ: シマヒレヨシノボリとの識別点と“トウヨシノボリ偽橙色型”との関係. 東海自然誌, 10: 57–66. (https://www.fujimu100.jp/app/files/uploads/2017/04/Tokai-shizenshi_57-66.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki, T., S. Kimura and K. Shibukawa. 2019. Two new lentic, dwarf species of Rhinogobius Gill, 1859 (Gobiidae) from Japan. Bulletin of Kanagawa Prefectural Museum (Natural Science), 48: 21–36. (http://nh.kanagawa-museum.jp/files/data/pdf/bulletin/48/bull48_21_36_suzuki.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi, S. and T. Okazaki. 2017. Rhinogobius biwaensis, a new gobiid fish of the “yoshinobori” species complex, Rhinogobius spp., endemic to Lake Biwa, Japan. Ichthyological Research, doi: 10.1007/s10228-017-0577-4 (Mar. 2017), 64: 444–457 (Nov. 2017)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wanghe, K., F. Hu, M. Chen and X. Luan. 2020. Rhinogobius houheensis, a new species of freshwater goby (Teleostei: Gobiidae) from the Houhe National Nature Reserve, Hubei Province, China. Zootaxa, 4820: 351–365."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yamasaki, Y., M. Nishida, T. Suzuki, T. Mukai and K. Watanabe. 2015. Phylogeny, hybridization, and life history evolution of Rhinogobius gobies in Japan, inferred from multiple nuclear gene sequences. Molecular Phylogenetics and Evolution, 90: 20–33."
+    }
+  ]
+}

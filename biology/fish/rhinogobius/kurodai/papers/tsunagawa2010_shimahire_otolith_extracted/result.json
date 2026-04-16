@@ -1,0 +1,360 @@
+{
+  "1": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "FULL PAPER"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Migratory history of Rhinogobius sp. OR morphotype “Shimahire” as revealed by otolith Sr:Ca ratios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takatoshi Tsunagawa · Toshiyuki Suzuki · Takaomi Arai"
+    },
+    {
+      "type": "paragraph",
+      "text": "Received: 2 December 2008/Revised: 1 May 2009/Accepted: 2 May 2009/Published online: 26 June 2009"
+    },
+    {
+      "type": "paragraph",
+      "text": "© The Ichthyological Society of Japan 2009"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "The migratory history of the Rhinogobius sp. OR morphotype “Shimahire” collected from a slower current environment in the Maruyama River, the Ibo River, and the Kako River, Japan, was studied by examining strontium and calcium concentrations in the otoliths. The otolith Sr:Ca ratios of almost all samples showed consistently low ratios from the core to the edge, reflecting the fact that the organisms had been living in a freshwater environment their entire lives. The ratios of Rhinogobius sp. CB and Rhinogobius flumineus living in the sympatric habitats with the Rhinogobius sp. OR morphotype “Shimahire” in the Kako River showed an amphidromous and fluvial life cycle, respectively. These findings suggest that the Rhinogobius sp. OR morphotype “Shimahire” has a freshwater resident life cycle."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Keywords"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhinogobius · Lentic lifestyle · Amphidromous · Fluvial · Otolith microchemistry"
+    },
+    {
+      "type": "paragraph",
+      "text": "T. Tsunagawa\nLaboratory of Ecophysiology, Graduate School of Fisheries Sciences, Kitasato University, 160-4 Sanriku, Ofunato, Iwate 022-0101, Japan\ne-mail: f04113e@st.kitasato-u.ac.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "T. Suzuki\nAmagasaki Senior High School, 5-40-1 Tsukaguchi, Amagasaki, Hyogo 661-0002, Japan\ne-mail: trimma-toshiyuki@hop.ocn.ne.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "T. Arai (✉)\nInternational Coastal Research Center, Ocean Research Institute, The University of Tokyo, 2-10-1 Akahama, Otsuchi, Iwate 028-1102, Japan\ne-mail: arai@ori.u-tokyo.ac.jp"
+    },
+    {
+      "type": "paragraph",
+      "text": "Springer"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Rhinogobius species of freshwater goby is distributed widely in the Japanese Archipelago, and more than 13 species have been reported (Suzuki and Shibukawa 2004). In general, the large-egg type of Rhinogobius flumineus, the middle-egg type of Rhinogobius BB (the blue-belly medium-egg type) and Rhinogobius sp. YB (the yellow-belly medium-egg type) have a fluvial life history: these fish spend their whole life in freshwater (Mizuno 1961; Akihito et al. 2002). The small-egg type of Rhinogobius sp. CB (the cross-band type), Rhinogobius sp. OR (the orange type), and the rest have an amphidromous life history: the hatched larvae in the freshwater area are swept downstream to the sea and returned to the river after a pelagic life in the sea (Mizuno 1961; Akihito et al. 2002). In addition, some fishes of Rhinogobius sp. OR have a lacustrine life history in landlocked lakes and freshwater marshes (Koshikawa 2001)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Currently, the Rhinogobius sp. OR is classified into four morphotypes, “Tôshoku,” “Gi-tôshoku,” “Shinjiko,” and “Shimahire,” according to color macules and morphological features (Akihito et al. 2002; Suzuki and Shibukawa 2004). Although little is known about the differences of life history among the four morphotypes, the Rhinogobius sp. OR morphotypes “Tôshoku” and “Shinjiko” are generally considered to have an amphidromous life history (Suzuki and Shibukawa 2004). Furthermore, the Tôshoku fish living in Lake Biwa also have a lake-river migrating lifestyle (Takahashi and Okazaki 2002)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Rhinogobius sp. OR morphotype “Shimahire” is distributed in the periphery of the Seto Inland Sea: Hiroshima, Okayama, Hyogo, Osaka, Nara, Wakayama, Ehime, Kagawa, and Tokushima Prefectures (Suzuki 1996; Ishida et al. 2005; Suzuki, unpublished data). It is suggested that"
+    }
+  ],
+  "2": [
+    {
+      "type": "paragraph",
+      "text": "they have a lentic lifestyle, inhabiting lentic water areas such as ponds, “Wando” (coves) along river banks, and slower current areas in lower rivers (Suzuki 1996; Suzuki and Shibukawa 2004; Ishida et al. 2005). However, little is known about their migration history, specifically whether the Shimahire fish run down to the sea in the larval period or not. Using otolith microchemical analysis, Tsunagawa and Arai (2008) found that the Rhinogobius sp. OR collected from an agricultural canal connected to the river and sea in the Kagawa Prefecture spent their whole life in a freshwater environment. However, it was uncertain whether this species was the Shimahire fish or not, because detailed classification was not performed in the study. Therefore, further research needs to reveal the migratory patterns of Rhinogobius sp. OR."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recent chemical analytical techniques have enabled the identification of life history events in individual fishes by detecting trace elements in the microstructure of their otoliths (Campana 1999; Arai 2002). Strontium (Sr) incorporation in fish otoliths is of special interest because of its potential utility as an indicator of past environmental (temperature and salinity) and physiological (ontogenetic change) conditions (Campana 1999). The deposition of Sr and calcium (Ca) in fish otoliths during their growth varies between freshwater and marine habitats (Campana 1999). Fresh water contains low levels of Sr, while sea water contains high levels. Factors other than salinity have been shown to affect Sr deposition rates, including temperature, growth, developmental or reproductive stage, genetics, and diet (Campana 1999). These factors, unlike the salinity effect, have not been systematically related to the fluctuation of otolith Sr:Ca ratios. Although the values of the Sr:Ca ratios in otoliths are highly variable among species, ambient salinity is positively related to the Sr:Ca ratios of almost all fish (Secor and Rooker 2000). Recently, Tsunagawa and Arai (2008) have found that the otolith Sr:Ca ratios were positively related with ambient water salinity in Rhinogobius species. Therefore, this technique can be applied to reveal the migratory patterns of Rhinogobius sp. OR morphotype “Shimahire.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The objective of the present study was to examine the otolith Sr:Ca ratios in the Rhinogobius sp. OR morphotype “Shimahire.” The results provide a basis for discussion of the life history of this species."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Materials and methods"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 1 Sampling sites of three Rhinogobius species in Hyogo Prefecture, Japan: Rhinogobius sp. OR morphotype “Shimahire” (circle), Rhinogobius sp. CB (triangle), and Rhinogobius flumineus (square)",
+      "bbox": [
+        0.51,
+        0.08,
+        0.91,
+        0.34
+      ],
+      "_saved": "kurodai/papers/tsunagawa2010_shimahire_otolith_extracted/Fig._1_Sampling_sites_of_three_Rhinogobius_species_in_Hyogo_Prefecture,_Japan_Rh.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1 Sampling sites of three Rhinogobius species in Hyogo Prefecture, Japan: Rhinogobius sp. OR morphotype “Shimahire” (circle), Rhinogobius sp. CB (triangle), and Rhinogobius flumineus (square)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fish. The Rhinogobius fishes used in this study were collected from five locations in Hyogo Prefecture, Japan, from 23 October to 6 November 2007 using cast, dip, and gill nets (Fig. 1, Table 1). Samples of Rhinogobius sp. OR morphotype “Shimahire” from a pond along the Maruyama River, a tributary of the Ibo River, and three stations of the Kako River (Sts. 1–3) were collected from slower current freshwater areas, such as “Fuchi” (deep) and “Wando” (coves), although some fishes collected from the Kako River (St. 3) were found in “Se” (rapids). Rhinogobius sp. CB and Rhinogobius flumineus samples were also collected from the Kako River (St. 3). This sampling site was a sympatric habitat where the Shimahire fish, Rhinogobius sp. CB, and Rhinogobius flumineus lived, although Rhinogobius sp. CB and Rhinogobius flumineus lived in a faster current area than the Shimahire fish. All sampling sites were freshwater environments with no influence from the rising tide. All fishes except for the populations from a pond along the Maruyama River could migrate either downstream to the sea or upstream from the sea via each river. After collection, all specimens were fixed immediately with 99% ethanol. A total of 35 specimens were used for the otolith microchemical analysis (Table 1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Classification. Rhinogobius sp. OR morphotype “Shimahire” was distinguished from other congeneric species or other morphotypes according to morphological differences. Details of the classification method have been described in Suzuki (1996) and Suzuki and Sakamoto (2005). Furthermore, identification of both Rhinogobius sp. CB and Rhinogobius flumineus followed Akihito et al. (2002)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otolith X-ray microprobe analysis. Sagittal otoliths were ground and polished for otolith microchemical analysis after measuring the standard length of each fish. The"
+    }
+  ],
+  "3": [
+    {
+      "type": "figure",
+      "label": "Table 1 Specimens of three Rhinogobius species used for otolith microchemistry analysis",
+      "bbox": [
+        0.054,
+        0.051,
+        0.943,
+        0.205
+      ],
+      "_saved": "kurodai/papers/tsunagawa2010_shimahire_otolith_extracted/Table_1_Specimens_of_three_Rhinogobius_species_used_for_otolith_microchemistry_a.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 Specimens of three Rhinogobius species used for otolith microchemistry analysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "otoliths from all specimens were used for life-history transect analysis of Sr and Ca concentrations, which were measured along a line down the longest axis of each otolith from the core to the edge using a wavelength dispersive X-ray electron microprobe (JEOL JXA-8900R), as described in Arai et al. (1997). Thereafter, X-ray intensity maps of both elements were made using JEOL JXA-8900R as described by Arai et al. (2004) and Tsunagawa and Arai (2008). Details of both otolith preparation and micro-chemical analysis have been described by Arai et al. (1997, 2004) and Tsunagawa and Arai (2008)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Statistical analysis. The otolith Sr:Ca data measured were analyzed by repeated measures ANOVA and t test, and overall differences between groups were assessed with differences using Systat (Systat Software, Chicago, IL)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Results"
+    },
+    {
+      "type": "paragraph",
+      "text": "The microchemical analysis of the otolith of the Rhinogobius sp. OR morphotype “Shimahire” samples from a pond along the Maruyama River, a tributary of the Ibo River, and two stations of the Kako River (Sts. 1 and 2) showed that there were uniformly low Sr concentrations all over the otolith (bluish color; Fig. 2a–d). The Sr:Ca ratios in the life history transects of these samples showed consistently low ratios, with mean values ranging from 1.37 × 10⁻³ to 1.89 × 10⁻³ (Fig. 3a–d). A similar fluctuation pattern was found in four of the five samples of the Rhinogobius sp. OR morphotype “Shimahire” from the Kako River (St. 3), which showed low Sr concentrations (bluish color) and Sr:Ca ratios (mean ± SD; 1.75 × 10⁻³ ± 0.88 × 10⁻³) in the entire otolith area (Figs. 2e, 3e). The rest of the samples showed low Sr concentration and Sr:Ca ratios in two regions, one from the core to the point 10 µm (mean ± SD; 3.41 × 10⁻³ ± 0.33 × 10⁻³) (bluish color) and the other from the edge to the point 10 µm (mean ± SD; 3.01 × 10⁻³ ± 0.29 × 10⁻³) (bluish color) and the other from the core to the edge (mean ± SD; 4.88 × 10⁻³ ± 0.38 × 10⁻³) (reddish color) in Rhinogobius sp. CB from the Kako River (St. 3) (Figs. 2g, 3g). In Rhinogobius flumineus from the Kako River (St. 3), the Sr concentration was low (bluish color) and the Sr:Ca ratios were low (mean ± SD; 1.88 × 10⁻³ ± 0.21 × 10⁻³) in the entire otolith area (Figs. 2h, 3h)."
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 2 Two-dimensional imaging using X-ray electron microprobe analysis of the Sr concentration in the sagittal plane of sagittal otoliths of Rhinogobius species. Rhinogobius sp. OR morphotype “Shimahire” from a a pond along the Maruyama River, b a tributary of the Ibo River, c the Kako River (St. 1), d the Kako River (St. 2), and e, f the Kako River (St. 3), g Rhinogobius sp. CB from the Kako River (St. 3), and h Rhinogobius flumineus from the Kako River (St. 3). The values corresponding to Sr concentration are represented by 16 colors from red (highest) to yellow to green to blue (lowest).",
+      "bbox": [
+        0.514,
+        0.231,
+        0.955,
+        0.552
+      ],
+      "_saved": "kurodai/papers/tsunagawa2010_shimahire_otolith_extracted/Fig._2_Two-dimensional_imaging_using_X-ray_electron_microprobe_analysis_of_the_S.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2 Two-dimensional imaging using X-ray electron microprobe analysis of the Sr concentration in the sagittal plane of sagittal otoliths of Rhinogobius species. Rhinogobius sp. OR morphotype “Shimahire” from a a pond along the Maruyama River, b a tributary of the Ibo River, c the Kako River (St. 1), d the Kako River (St. 2), and e, f the Kako River (St. 3), g Rhinogobius sp. CB from the Kako River (St. 3), and h Rhinogobius flumineus from the Kako River (St. 3). The values corresponding to Sr concentration are represented by 16 colors from red (highest) to yellow to green to blue (lowest)."
+    }
+  ],
+  "4": [
+    {
+      "type": "paragraph",
+      "text": "Fig. 3 Changes in the otolith Sr:Ca ratio along line transects from the core to the edge of the sagittal otoliths for each individual sample of Rhinogobius species. Rhinogobius sp. OR morphotype “Shimahire” from a a pond along the Maruyama River, n = 5; b a tributary of the Ibo River, n = 5; c the Kako River (St. 1), n = 5; d the Kako River (St. 2), n = 5; e the Kako River (St. 3), n = 4; f the Kako River (St. 3), n = 1; g Rhinogobius sp. CB from the Kako River (St. 3), n = 5; h Rhinogobius flumineus from the Kako River (St. 3), n = 5"
+    },
+    {
+      "type": "figure",
+      "label": "Fig. 3 Changes in the otolith Sr:Ca ratio along line transects from the core to the edge of the sagittal otoliths for each individual sample of Rhinogobius species. Rhinogobius sp. OR morphotype “Shimahire” from a a pond along the Maruyama River, n = 5; b a tributary of the Ibo River, n = 5; c the Kako River (St. 1), n = 5; d the Kako River (St. 2), n = 5; e the Kako River (St. 3), n = 4; f the Kako River (St. 3), n = 1; g Rhinogobius sp. CB from the Kako River (St. 3), n = 5; h Rhinogobius flumineus from the Kako River (St. 3), n = 5",
+      "bbox": [
+        0.298,
+        0.042,
+        0.957,
+        0.479
+      ],
+      "_saved": "kurodai/papers/tsunagawa2010_shimahire_otolith_extracted/Fig._3_Changes_in_the_otolith_SrCa_ratio_along_line_transects_from_the_core_to_t.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "from point 45 µm from the edge (mean ± SD; 1.89 × 10⁻³ ± 0.98 × 10⁻³) (bluish color), with significantly higher values in the narrow area between the other regions (mean ± SD; 6.88 × 10⁻³ ± 3.40 × 10⁻³) (yellowish or orange color) (repeated measures ANOVA, P < 0.001 for the former region, P < 0.0001 for the latter region) (Figs. 2f, 3f)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A similar fluctuation pattern of Sr concentration and Sr:Ca ratios from low to high around the core region was found in Rhinogobius sp. CB collected from the Kako River (St. 3). These samples showed low values in two regions, one from the core to the points 5–20 µm (mean ± SD; 3.08 × 10⁻³ ± 1.37 × 10⁻³) (bluish color) and the other from the points 205–225 µm from the edge (mean ± SD; 1.78 × 10⁻³ ± 0.93 × 10⁻³) (bluish color), with significantly higher values in the wide area between the other regions (mean ± SD; 6.21 × 10⁻³ ± 1.37 × 10⁻³) (greenish and yellowish color) (repeated measures ANOVA, P < 0.001 for the former region, P < 0.0001 for the latter region) (Figs. 2g, 3g)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sr concentration and Sr:Ca ratios of the Rhinogobius flumineus samples from the Kako River (St. 3) showed a difference between the values from the core to the points 40–75 µm (mean ± SD; 3.93 × 10⁻³ ± 1.27 × 10⁻³) (greenish color) and the values from the outer region to the edge (mean ± SD; 1.66 × 10⁻³ ± 0.95 × 10⁻³) (t test, P < 0.0001) (bluish color) (Figs. 2h, 3h)."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Discussion"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this study, the Sr contents or Sr:Ca ratios along the life history transect in the otoliths were remarkably different among the Rhinogobius sp. OR morphotype “Shimahire,” Rhinogobius sp. CB and Rhinogobius flumineus living in a sympatric environment, although that of the Shimahire fish from each site was almost the same. The Sr content in the otoliths of teleost fishes is positively correlated to ambient salinity (Secor et al. 1995; Tzeng 1996). A similar phenomenon has been observed in Rhinogobius species (Tsunagawa and Arai 2008), and the other class of gobies such as Lentipes concolor (Radtke et al. 1999) and Sicyopterus japonicus (Shen and Tzeng 2002). The Sr:Ca ratios of the Rhinogobius sp. OR morphotype “Shimahire” collected from the pond along the Maruyama River disconnected to the sea were generally low, while the Sr:Ca ratios of Rhinogobius sp. CB collected from the Kako River, which is connected to the sea, showed a pattern of moving downstream to the sea, because high Sr:Ca ratios were widely found around the core regions of the otoliths."
+    }
+  ],
+  "5": [
+    {
+      "type": "paragraph",
+      "text": "Therefore, salinity was an important factor influencing the Sr content or Sr:Ca ratios in the otoliths of genus Rhinogobius species."
+    },
+    {
+      "type": "paragraph",
+      "text": "Besides salinity, the physiological condition also has a potential to influence changes in the Sr:Ca ratio in the otolith (Kalish 1989; Sadovy and Severin 1992). In the present study, Rhinogobius flumineus having freshwater-origin eggs showed high Sr contents around the core. In both anguillid and conger eels, low Sr contents were found around the center in spite of hatching in sea water (Arai et al. 1997; Correia et al. 2003). Salmonid fishes such as Oncorhynchus nerka, O. mykiss, and O. tshawytscha with marine-origin eggs showed high Sr contents around the core (Rieman et al. 1994; Volk et al. 2000). Thus, the high value around the center may be physiological effects such as the organic composition of the core, which is observed characteristically in Rhinogobius flumineus, well known as a freshwater resident (Tsunagawa and Arai 2008). Furthermore, temperature may also affect Sr:Ca ratios in fish otoliths (Kalish 1989; Secor et al. 1995; Arai 2002). Although the effect of temperature cannot be ruled out in this study, there is little evidence that temperature was a major factor, as all species from each site had been subjected to similar temperature changes. No seasonal temperature effects were found; the fluctuations of Sr:Ca ratios in almost all the Rhinogobius sp. OR morphotype “Shimahire” collected from each site were constantly low in the whole otolith. Therefore, the difference in Sr content in otoliths of Rhinogobius species is probably due to the effects of ambient salinity changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The samples of the Rhinogobius sp. OR morphotype “Shimahire” collected from the pond along the Maruyama River disconnected to the sea showed consistently low Sr:Ca ratios in the otolith (Figs. 2a, 3a). These fishes are thought to live in lentic freshwater ponds throughout their lives. These life history patterns are consistent with a lentic lifestyle as found in previous field observations (Suzuki 1996)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A similar fluctuation in the otoliths was found in specimens of the Rhinogobius sp. OR morphotype “Shimahire” collected from a tributary of the Ibo River and two stations of the Kako River (Sts. 1 and 2), which connected to the sea (Figs. 2b–d, 3b–d). Therefore, these fishes are assumed to live in freshwater environments throughout their lives. In addition, four of the five Rhinogobius sp. OR morphotype “Shimahire” samples from the Kako River (St. 3) connected to the sea also showed consistently low Sr:Ca ratios in the otoliths, reflecting their freshwater residence (Figs. 2e, 3e). However, one of five samples showed high ratios around the otolith core region except for the core itself (Figs. 2f, 3f). This fish might immediately ascend to the river after flowing down to the sea, because the marine life period (high ratio region) is quite short. Therefore, migration of the fish is thought to be accidentally amphidromous."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fluctuation patterns of the Sr:Ca ratio are different between Rhinogobius sp. CB and the Rhinogobius flumineus samples living in sympatric habitats with the Rhinogobius sp. OR morphotype “Shimahire”. Rhinogobius sp. CB samples collected from the Kako River (St. 3) had two transition points (TP) from phase-L (low Sr:Ca ratio region) to phase-H (high Sr:Ca ratio region) and from phase-H to phase-L, and maintained constantly low Sr:Ca ratios toward the otolith edge thereafter (Figs. 2g, 3g). These otolith Sr:Ca ratio fluctuation patterns appear to reflect a typical amphidromous life history: the hatched larvae are swept downstream to the sea and returned to the river after a pelagic life in the sea (Mizuno 1961, 2001). In contrast, samples of Rhinogobius flumineus showed consistently low Sr:Ca ratios, except for a high ratio in only the otolith core region (Figs. 2h, 3h), reflecting their fluvial life histories (Mizuno 1961, 2001). These amphidromous and fluvial life history patterns are common for Rhinogobius species of small-egg type and large-egg type, respectively; these results have been reported in a previous study (Tsunagawa and Arai 2008)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this study, almost all the Rhinogobius sp. OR morphotype “Shimahire” were revealed to live in a freshwater environment for their whole life, like the large-egg type of Rhinogobius flumineus, although a number of the fish might have the potential to flow down to the sea after hatching, like Rhinogobius sp. CB, because this species is known to lay small eggs (major axis: 2.3–2.9 mm) (Ishida et al. 2005) like an amphidromous Rhinogobius species. Thus, the hatched larvae of the Shimahire fish might have spent time in a lentic freshwater environment, such as a “Wando,” which made it possible for them to remain there without being swept downstream to the sea. A similar migration pattern was found for Rhinogobius sp. OR collected from an agricultural canal connected to the river and sea in the Kagawa Prefecture, which was reported in the previous study (Tsunagawa and Arai 2008). Therefore, the Rhinogobius sp. OR collected from the Kagawa Prefecture might be the Shimahire fish. This result suggests that the Shimahire fish living around the Shikoku Island have a freshwater resident life cycle, as do the fish living in the Hyogo Prefecture."
+    },
+    {
+      "type": "paragraph",
+      "text": "The migration history of the Shimahire fish is thought to be a species-specific pattern, because the Tōshoku and Shinjiko fish are basically considered to have an amphidromous life history (Suzuki and Shibukawa 2004), and other small-egg types of the Rhinogobius species, such as Rhinogobius sp. CB, Rhinogobius sp. LD (the large dark type), and Rhinogobius sp. CO (the cobalt type), are also fundamentally amphidromous (Tsunagawa and Arai 2008). The mechanism of this specific migratory pattern is still"
+    }
+  ],
+  "6": [
+    {
+      "type": "paragraph",
+      "text": "unclear. Therefore, further studies need to clarify the detailed migratory histories (life histories) of the Shimahire fish in their entire range by ecological investigation including otolith microchemistry."
+    },
+    {
+      "type": "paragraph",
+      "text": "In conclusion, the migratory histories of the Rhinogobius sp. OR morphotype “Shimahire” are fundamentally freshwater residents."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "paragraph",
+      "text": "We would like to thank Ms. M. Otsuki for assistance with the chemical analysis of Ca and Sr. We are grateful to the Ministry of Land, Infrastructure and Transport, the Himeji River National Road Office for offering us samples. This work was supported in part by Grant-in-Aid nos. 18780141 and 20688008 from the Ministry of Education, Culture, Sports, Science, and Technology of Japan."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Akihito, Sakamoto K, Ikeda Y, Sugiyama K (2002) Gobioidei. In: Nakabo T (ed) Fishes of Japan with pictorial keys to the species, English edn. Tokai University Press, Tokyo, pp 1139–1310, 1596–1619"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arai T (2002) Migratory history of fishes: present status and perspectives of the analytical methods. Jpn J Ichthyol 49:1–23"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arai T, Otake T, Tsukamoto K (1997) Drastic changes in otolith microstructure and microchemistry accompanying the onset of metamorphosis in the Japanese eel, Anguilla japonica. Mar Ecol Prog Ser 161:17–22"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arai T, Kotake A, Lokman PM, Miller MJ, Tsukamoto K (2004) Evidence of different habitat use by New Zealand freshwater eels Anguilla australis and A. dieffenbachii, as revealed by otolith microchemistry. Mar Ecol Prog Ser 266:213–225"
+    },
+    {
+      "type": "paragraph",
+      "text": "Campana SE (1999) Chemistry and composition of fish otoliths: pathways, mechanisms and applications. Mar Ecol Prog Ser 188:263–297"
+    },
+    {
+      "type": "paragraph",
+      "text": "Correia AT, Antunes C, Isidro EJ, Coimbra J (2003) Changes in otolith microstructure and microchemistry during larval development of the European conger eel (Conger conger). Mar Biol 142:777–789"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ishida Y, Abekura K, Takemon Y (2005) Habitat characteristics of Rhinogobius sp. OR “Shimahiregata” in Shirokita Wando. Ecol Civil Eng 8:1–14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kalish JM (1989) Otolith microchemistry: validation of effects of physiology, age and environment on otolith composition. J Exp Mar Biol Ecol 132:151–178"
+    },
+    {
+      "type": "paragraph",
+      "text": "Koshikawa T (2001) Rhinogobius sp. OR. In: Kawanabe H, Mizuno N, Hosoya K (eds) Freshwater fishes of Japan. Yamatokeikokusha, Tokyo, pp 594–597"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (1961) Study on the gobioid fish, “Yoshinobori” Rhinogobius similis Gill–1. Comparison of life histories of three ecological types. Bull Jpn Soc Sci Fish 27:6–11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mizuno N (2001) Rhinogobius sp. CB and Rhinogobius flumineus. In: Kawanabe H, Mizuno N, Hosoya K (eds) Freshwater fishes of Japan. Yamatokeikokusha, Tokyo, pp 586–587; 600–603"
+    },
+    {
+      "type": "paragraph",
+      "text": "Radtke RL, Townsend DW, Kinzie RA III, Fey D (1999) Two-dimensional X-ray mapping of otoliths, a high-resolution technique for determining amphidromy in the tropical goby Lentipes concolor (Gill). J Exp Mar Biol Ecol 238:21–27"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rieman RE, Myers DL, Nielsen RL (1994) Use of otolith microchemistry to discriminate Oncorhynchus nerka of resident and anadromous origin. Can J Fish Aquat Sci 51:68–77"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sadovy Y, Severin KP (1992) Trace elements in biogenic aragonite: correlation of body growth rate and strontium levels in the otoliths of the white grunt, Haemulon plumieri (Pisces: Haemulidae). Bull Mar Sci 50:237–257"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secor DH, Rooker JR (2000) Is otolith strontium a useful scalar of life cycles in estuarine fishes? Fish Res 46:359–371"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secor DH, Henderson-Arzapalo A, Piccoli PM (1995) Can otolith microchemistry chart patterns of migration and habitat utilization in an anadromous fishes? J Exp Mar Biol Ecol 192:15–33"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shen KN, Tzeng WN (2002) Formation of a metamorphosis check in otoliths of the amphidromous goby Sicyopterus japonicus. Mar Ecol Prog Ser 228:205–211"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T (1996) A new morphotype of Rhinogobius sp. OR collected from the Maruyama River in Hyogo Prefecture. Hyogo-rikusuisuibutsu 47:1–9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Sakamoto K (2005) Record of a gobiid fish, Rhinogobius sp. TO (Perciformes, Gobiidae) from the Noubi and Okazaki plains, Japan. Bull Biogeogr Soc Jpn 60:13–20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suzuki T, Shibukawa K (2004) Rhinogobius sp. OR. In: Senou H (ed) A photographic guide to the gobioid fishes of Japan. Heibonsha, Tokyo, p 446"
+    },
+    {
+      "type": "paragraph",
+      "text": "Takahashi S, Okazaki T (2002) A new lentic form of the “Yoshinobori” species complex, Rhinogobius spp. From Lake Biwa, Japan, compared with lake-river migrating Rhinogobius sp. OR. Ichthyol Res 49:333–339"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsunagawa T, Arai T (2008) Flexible migration of Japanese freshwater gobies Rhinogobius spp. as revealed by otolith Sr:Ca ratios. J Fish Biol 73:2421–2433"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tzeng WN (1996) Effects of salinity and ontogenetic movements on strontium: calcium ratios in the otoliths of the Japanese eel, Anguilla japonica Temminck and Schlegel. J Exp Mar Biol Ecol 199:111–122"
+    },
+    {
+      "type": "paragraph",
+      "text": "Volk EC, Blakley A, Schroder SL, Kuehner SM (2000) Otolith chemistry reflects migratory characteristics of Pacific salmonids: using otolith core chemistry to distinguish maternal associations with sea and freshwaters. Fish Res 46:251–266"
+    }
+  ]
+}
