@@ -1,0 +1,9 @@
+{
+  "name": "browser-save",
+  "version": "0.1.0",
+  "description": "永続Chromiumでページをシングルファイル保存",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}

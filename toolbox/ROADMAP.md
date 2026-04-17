@@ -30,3 +30,4 @@
 |-------------|------|
 | [dev-mode-cache-bypass.md](dev-mode-cache-bypass.md) | SW・キャッシュ無効化の開発モードパターン（サーバー側制御） |
 | [playwright-cli-ui-debug.md](playwright-cli-ui-debug.md) | CLIからブラウザUIを操作・デバッグする方法 |
+| [kurenai-download.md](kurenai-download.md) | DSpace 7リポジトリ（KURENAI等）からREST APIでPDFを直接取得する方法 |
