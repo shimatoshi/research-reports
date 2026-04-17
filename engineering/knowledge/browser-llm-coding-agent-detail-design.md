@@ -96,7 +96,7 @@ browser-llm-agent/
 - **役割**: サーバーからのレスポンスをLLMにフィードバックする。
 - **機能**:
     - テキストエリアへの文字列流し込み。
-    - 送信ボタンの自動クリックエミュレーション。
+    - **送信はユーザー手動**（TOS配慮）。挿入完了を `ui_helper.js` 経由で視覚的に通知し、ユーザーが内容確認→送信ボタンクリック。
 
 ### background/server_client.js (通信)
 - **役割**: Termux上のローカルサーバーとの橋渡し。
@@ -118,7 +118,7 @@ browser-llm-agent/
 5. **[Server: executor/file_ops]** 処理を実行。
 6. **[Server: recorder]** 実行結果を収集・要約し、ログに記録。
 7. **[Server: responder]** 要約された結果を拡張機能へ返信。
-8. **[Extension: injector]** 結果を受け取り、LLMの入力欄に貼り付けて自動送信。
+8. **[Extension: injector]** 結果を受け取り、LLMの入力欄に貼り付け。**送信はユーザーが手動クリック**（TOS上、UIの完全自動化を避けるため）。不便と判明した段階で自動化の再検討。
 
 ## 5. MiniMax Agent (agent.minimax.io) API偵察結果
 
