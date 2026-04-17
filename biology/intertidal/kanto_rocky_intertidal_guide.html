@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>関東の磯 生き物総合図鑑</title>
+<style>
+:root {
+  --bg: #0f1923;
+  --card: #1a2733;
+  --card2: #223344;
+  --accent: #4fc3f7;
+  --accent2: #81d4fa;
+  --green: #66bb6a;
+  --orange: #ffa726;
+  --red: #ef5350;
+  --pink: #f48fb1;
+  --purple: #ce93d8;
+  --yellow: #fff176;
+  --text: #e0e0e0;
+  --text2: #90a4ae;
+  --border: #2a3a4a;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family: -apple-system, 'Helvetica Neue', 'Noto Sans JP', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 15px;
+}
+.header {
+  background: linear-gradient(135deg, #0d47a1, #1565c0, #0277bd);
+  padding: 24px 16px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 4px 20px rgba(0,0,0,.5);
+}
+.header h1 { font-size: 22px; color: #fff; margin-bottom: 4px; }
+.header .sub { font-size: 13px; color: var(--accent2); }
+nav {
+  background: var(--card);
+  padding: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 68px;
+  z-index: 99;
+}
+nav a {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 14px;
+  background: var(--card2);
+  white-space: nowrap;
+  transition: .2s;
+}
+nav a:active, nav a:hover { background: #1565c0; color: #fff; }
+.container { max-width: 960px; margin: 0 auto; padding: 12px; }
+section { margin-bottom: 32px; }
+h2 {
+  font-size: 20px;
+  color: var(--accent);
+  border-left: 4px solid var(--accent);
+  padding: 8px 12px;
+  margin: 24px 0 16px;
+  background: var(--card);
+  border-radius: 0 8px 8px 0;
+}
+h3 {
+  font-size: 17px;
+  color: var(--green);
+  margin: 20px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+}
+h4 {
+  font-size: 15px;
+  color: var(--orange);
+  margin: 14px 0 6px;
+}
+h5 {
+  font-size: 14px;
+  color: var(--pink);
+  margin: 10px 0 4px;
+}
+.card {
+  background: var(--card);
+  border-radius: 10px;
+  padding: 14px;
+  margin: 10px 0;
+  border: 1px solid var(--border);
+}
+.card .name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+.card .sci { font-style: italic; color: var(--accent2); font-size: 13px; }
+.card .tag {
+  display: inline-block;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin: 4px 4px 4px 0;
+}
+.tag-habitat { background: #1b5e20; color: #a5d6a7; }
+.tag-food { background: #4e342e; color: #bcaaa4; }
+.tag-danger { background: #b71c1c; color: #ef9a9a; }
+.tag-edible { background: #e65100; color: #ffcc80; }
+.tag-collect { background: #1a237e; color: #9fa8da; }
+.card p { margin: 6px 0; font-size: 14px; color: var(--text2); }
+.card p strong { color: var(--text); }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 13px;
+}
+th {
+  background: var(--card2);
+  color: var(--accent);
+  padding: 8px 6px;
+  text-align: left;
+  font-weight: 600;
+  position: sticky;
+  top: 110px;
+}
+td {
+  padding: 7px 6px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+tr:hover td { background: rgba(79,195,247,.05); }
+.zone-diagram {
+  background: var(--card);
+  border-radius: 10px;
+  padding: 16px;
+  margin: 12px 0;
+  font-family: monospace;
+  font-size: 12px;
+  line-height: 1.5;
+  overflow-x: auto;
+  white-space: pre;
+  border: 1px solid var(--border);
+  color: var(--accent2);
+}
+.warn {
+  background: #3e2723;
+  border-left: 4px solid var(--red);
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+  margin: 10px 0;
+  font-size: 13px;
+}
+.warn strong { color: var(--red); }
+.tip {
+  background: #1a3a1a;
+  border-left: 4px solid var(--green);
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+  margin: 10px 0;
+  font-size: 13px;
+}
+.tip strong { color: var(--green); }
+.info {
+  background: #0d2137;
+  border-left: 4px solid var(--accent);
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+  margin: 10px 0;
+  font-size: 13px;
+}
+.spot {
+  background: var(--card);
+  border-radius: 10px;
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid var(--border);
+}
+.spot .spot-name {
+  font-weight: bold;
+  color: var(--orange);
+  font-size: 15px;
+}
+.spot .spot-loc { color: var(--text2); font-size: 12px; }
+.toc {
+  background: var(--card);
+  border-radius: 10px;
+  padding: 16px;
+  margin: 16px 0;
+  columns: 2;
+  column-gap: 16px;
+}
+.toc a {
+  display: block;
+  color: var(--accent2);
+  text-decoration: none;
+  font-size: 13px;
+  padding: 3px 0;
+  break-inside: avoid;
+}
+.toc a:hover { color: var(--accent); }
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 8px;
+  margin: 12px 0;
+}
+.stat {
+  background: var(--card2);
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+}
+.stat .num { font-size: 28px; font-weight: bold; color: var(--accent); }
+.stat .label { font-size: 11px; color: var(--text2); }
+.interaction-table td:first-child { color: var(--orange); font-weight: 600; min-width: 100px;}
+details {
+  background: var(--card);
+  border-radius: 8px;
+  margin: 6px 0;
+  border: 1px solid var(--border);
+}
+details summary {
+  padding: 10px 14px;
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 14px;
+}
+details summary:hover { color: #fff; }
+details .inner { padding: 0 14px 14px; }
+.footer {
+  text-align: center;
+  padding: 24px;
+  color: var(--text2);
+  font-size: 12px;
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+}
+@media (max-width: 600px) {
+  .toc { columns: 1; }
+  th, td { font-size: 12px; padding: 5px 4px; }
+  .header h1 { font-size: 18px; }
+  nav { top: 60px; }
+  th { top: 100px; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>関東の磯 生き物総合図鑑</h1>
+  <div class="sub">Rocky Intertidal Field Guide — Kanto Region, Japan</div>
+</div>
+
+<nav>
+  <a href="#overview">概要</a>
+  <a href="#zonation">帯状分布</a>
+  <a href="#mollusks">貝類</a>
+  <a href="#fish">魚類</a>
+  <a href="#crustaceans">甲殻類</a>
+  <a href="#echinoderms">棘皮動物</a>
+  <a href="#cnidarians">刺胞動物</a>
+  <a href="#algae">海藻</a>
+  <a href="#others">その他</a>
+  <a href="#interactions">種間相互作用</a>
+  <a href="#spots">観察スポット</a>
+  <a href="#guide">採集ガイド</a>
+  <a href="#danger">危険生物</a>
+  <a href="#laws">法規制</a>
+</nav>
+
+<div class="container">
+
+<!-- ==================== 概要 ==================== -->
+<section id="overview">
+<h2>概要</h2>
+<p>関東地方（三浦半島・真鶴・城ヶ島・江の島・房総半島・大洗など）の岩礁潮間帯に生息する生物を分類群横断でまとめた総合データセット。黒潮の影響を受ける温帯域に位置し、温帯性と暖流系の種が混在する豊かな生物相を有する。</p>
+
+<div class="stats">
+  <div class="stat"><div class="num">200+</div><div class="label">掲載種数</div></div>
+  <div class="stat"><div class="num">10+</div><div class="label">分類群</div></div>
+  <div class="stat"><div class="num">20+</div><div class="label">観察スポット</div></div>
+  <div class="stat"><div class="num">5</div><div class="label">潮間帯ゾーン</div></div>
+</div>
+
+<h3>目次</h3>
+<div class="toc">
+  <a href="#zonation">1. 帯状分布とマイクロハビタット</a>
+  <a href="#mollusks">2. 貝類・軟体動物</a>
+  <a href="#nudibranch">3. ウミウシ・アメフラシ</a>
+  <a href="#fish">4. 魚類</a>
+  <a href="#crustaceans">5. 甲殻類（カニ・エビ・ヤドカリ）</a>
+  <a href="#barnacles">6. フジツボ類</a>
+  <a href="#echinoderms">7. 棘皮動物（ウニ・ヒトデ・ナマコ）</a>
+  <a href="#cnidarians">8. 刺胞動物（イソギンチャク）</a>
+  <a href="#algae">9. 海藻</a>
+  <a href="#worms">10. 環形動物（ゴカイ・ケヤリムシ）</a>
+  <a href="#others">11. その他（カイメン・コケムシ・ホヤ・ヒラムシ）</a>
+  <a href="#interactions">12. 種間相互作用</a>
+  <a href="#spots">13. 観察スポット</a>
+  <a href="#guide">14. 採集ガイド</a>
+  <a href="#danger">15. 危険生物</a>
+  <a href="#laws">16. 法規制・マナー</a>
+</div>
+</section>
+
+<!-- ==================== 帯状分布 ==================== -->
+<section id="zonation">
+<h2>1. 帯状分布とマイクロハビタット</h2>
+
+<h3>垂直分布（Zonation）</h3>
+<div class="zone-diagram">
+                              陸側
+  ┌──────────────────────────────────────────┐
+  │ 飛沫帯 Supralittoral                      │
+  │  藍藻被覆 / フナムシ / タマキビ            │
+  ├──────────────────────────────────────────┤
+  │ 上部潮間帯 Upper intertidal                │
+  │  イワフジツボ / カラマツガイ / フノリ       │
+  │  ヨメガカサ / アマノリ(冬春)               │
+  ├──────────────────────────────────────────┤
+  │ 中部潮間帯 Mid intertidal ★最多様         │
+  │  ヒジキ / アオサ / マガキ / イソガニ        │
+  │  イボニシ / ヒライソガニ / サンゴモ         │
+  │  バフンウニ / アゴハゼ                     │
+  ├──────────────────────────────────────────┤
+  │ 下部潮間帯 Lower intertidal                │
+  │  ワカメ / テングサ / ムラサキウニ           │
+  │  イソギンチャク / ショウジンガニ            │
+  │  イソギンポ / ナベカ                       │
+  ├──────────────────────────────────────────┤
+  │ 潮下帯 Subtidal fringe                     │
+  │  カジメ・アラメ(海中林) / マダコ            │
+  │  カサゴ / メジナ / イセエビ                 │
+  └──────────────────────────────────────────┘
+                              海側</div>
+
+<h3>マイクロハビタット別の生物相</h3>
+
+<details>
+<summary>タイドプール（潮だまり）</summary>
+<div class="inner">
+<p>干潮時に岩のくぼみに海水が残る場所。「ミニ水族館」。昼間は水温上昇・塩分変動・pH変動が大きい。</p>
+<table>
+<tr><th>分類群</th><th>代表種</th></tr>
+<tr><td>魚類</td><td>アゴハゼ、ドロメ、イソギンポ、ナベカ、ヘビギンポ</td></tr>
+<tr><td>ウニ</td><td>バフンウニ、ムラサキウニ</td></tr>
+<tr><td>イソギンチャク</td><td>ヨロイイソギンチャク、ミドリイソギンチャク</td></tr>
+<tr><td>エビ</td><td>イソスジエビ、スジエビモドキ</td></tr>
+<tr><td>ヤドカリ</td><td>ホンヤドカリ、イソヨコバサミ</td></tr>
+<tr><td>巻貝</td><td>アマオブネガイ、小型巻貝各種</td></tr>
+<tr><td>海藻</td><td>サンゴモ類（底面）、アオサ類（水面付近）</td></tr>
+</table>
+</div>
+</details>
+
+<details>
+<summary>転石下（Under boulders）</summary>
+<div class="inner">
+<p>ひっくり返せる大きさの石の裏面・下面。暗所・湿潤環境。<strong>観察後は必ず元に戻すこと。</strong></p>
+<table>
+<tr><th>分類群</th><th>代表種</th></tr>
+<tr><td>カニ</td><td>イソガニ、ヒライソガニ、オウギガニ</td></tr>
+<tr><td>多毛類</td><td>イソゴカイ、ゴカイ類各種</td></tr>
+<tr><td>ヒラムシ</td><td>ツノヒラムシ、ウスヒラムシ</td></tr>
+<tr><td>ヒザラガイ</td><td>ケハダヒザラガイ、ウスヒザラガイ</td></tr>
+<tr><td>クモヒトデ</td><td>クシノハクモヒトデ</td></tr>
+</table>
+</div>
+</details>
+
+<details>
+<summary>岩の隙間（Crevices）</summary>
+<div class="inner">
+<table>
+<tr><th>分類群</th><th>代表種</th></tr>
+<tr><td>カニ</td><td>ショウジンガニ、イワガニ</td></tr>
+<tr><td>エビ</td><td>テッポウエビ類</td></tr>
+<tr><td>タコ</td><td>マダコ</td></tr>
+<tr><td>魚類</td><td>ギンポ、コケギンポ</td></tr>
+<tr><td>巻貝</td><td>トコブシ</td></tr>
+</table>
+</div>
+</details>
+
+<details>
+<summary>岩表面（Open rock surface）</summary>
+<div class="inner">
+<table>
+<tr><th>分類群</th><th>代表種</th></tr>
+<tr><td>固着動物</td><td>フジツボ類、カメノテ</td></tr>
+<tr><td>巻貝</td><td>タマキビ、カラマツガイ、ヨメガカサ</td></tr>
+<tr><td>ヒザラガイ</td><td>ヒザラガイ</td></tr>
+<tr><td>捕食者</td><td>イボニシ、レイシガイ（フジツボを穿孔捕食）</td></tr>
+</table>
+</div>
+</details>
+
+<details>
+<summary>藻場（Algal bed）</summary>
+<div class="inner">
+<table>
+<tr><th>分類群</th><th>代表種</th></tr>
+<tr><td>端脚類</td><td>ヨコエビ類、ワレカラ</td></tr>
+<tr><td>巻貝</td><td>コシダカガンガラ</td></tr>
+<tr><td>魚類</td><td>メジナ幼魚、ハオコゼ</td></tr>
+<tr><td>ウミウシ</td><td>アメフラシ（アオサ・ワカメ食）</td></tr>
+</table>
+</div>
+</details>
+
+<h3>水平方向の棲み分け</h3>
+<table>
+<tr><th></th><th>波当たり強い面</th><th>波当たり弱い面</th></tr>
+<tr><td>固着動物</td><td>ムラサキインコ密集、フジツボ高密度</td><td>マガキ群集、コケムシ類</td></tr>
+<tr><td>巻貝</td><td>ヨメガカサ、カラマツガイ（強付着型）</td><td>イシダタミ、クボガイ（歩行型）</td></tr>
+<tr><td>甲殻類</td><td>カメノテ（波当たりの指標）</td><td>イソガニ、ヒライソガニ</td></tr>
+<tr><td>海藻</td><td>殻状サンゴモ、低い被覆型</td><td>大型直立型（ワカメ、ホンダワラ類）</td></tr>
+</table>
+</section>
+
+<!-- ==================== 貝類・軟体動物 ==================== -->
+<section id="mollusks">
+<h2>2. 貝類・軟体動物</h2>
+
+<h3>ヒザラガイ類（多板綱）</h3>
+
+<div class="card">
+  <div class="name">ヒザラガイ</div>
+  <div class="sci">Acanthopleura japonica</div>
+  <span class="tag tag-habitat">中部～下部潮間帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <p><strong>生態:</strong> 夜間に岩表面の微細藻類を歯舌で削り取る。昼間は岩にぴったり張り付いて動かない。</p>
+  <p><strong>採集:</strong> ナイフの刃先を岩と殻板の隙間に<strong>素早く</strong>差し込んで剥がす。衝撃を与えると吸着力が増すので不意打ちが鉄則。</p>
+  <p><strong>特徴:</strong> 背面に8枚の殻板。剥がされるとダンゴムシのように丸まる。</p>
+</div>
+
+<div class="card">
+  <div class="name">ケハダヒザラガイ</div>
+  <div class="sci">Acanthochitona defilippii</div>
+  <span class="tag tag-habitat">転石下</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>房総半島以南。転石の下面に付着。</p>
+</div>
+
+<h3>巻貝類 — 潮上帯～上部潮間帯</h3>
+
+<div class="card">
+  <div class="name">タマキビ</div>
+  <div class="sci">Littorina brevicula</div>
+  <span class="tag tag-habitat">潮上帯～最上部</span>
+  <span class="tag tag-food">藻食性</span>
+  <p><strong>生態:</strong> 乾燥耐性が極めて高く、蓋を閉じて数週間の乾燥にも耐える。半陸生に近い。</p>
+  <p><strong>食性:</strong> 岩面の微細藻類（珪藻被膜）を歯舌で削り取る。</p>
+</div>
+
+<div class="card">
+  <div class="name">アラレタマキビ</div>
+  <div class="sci">Echinolittorina radiata</div>
+  <span class="tag tag-habitat">潮上帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>夏の炎天下では殻口の一部だけを岩につけ、逆立ち状態で体温上昇を防ぐ<strong>熱回避行動</strong>を示す。</p>
+</div>
+
+<div class="card">
+  <div class="name">カラマツガイ</div>
+  <div class="sci">Siphonaria japonica</div>
+  <span class="tag tag-habitat">上部潮間帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>有肺類（肺呼吸）。<strong>帰家習性</strong>を示す — 干潮時に20-30cm移動して採餌し、元の定位置に正確に戻る。</p>
+</div>
+
+<h3>巻貝類 — 中部潮間帯</h3>
+
+<div class="card">
+  <div class="name">イシダタミ</div>
+  <div class="sci">Monodonta labio confusa</div>
+  <span class="tag tag-habitat">中部潮間帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>殻表面に石畳のような網目模様。磯で最も普通に見られる巻貝の一つ。干潮時に岩棚の裏や窪みに群れる。</p>
+</div>
+
+<div class="card">
+  <div class="name">スガイ</div>
+  <div class="sci">Lunella correensis</div>
+  <span class="tag tag-habitat">中部潮間帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>サザエと同じリュウテンサザエ科。石灰質の厚い蓋を持つ。殻はコケに覆われていることが多い。</p>
+</div>
+
+<div class="card">
+  <div class="name">クボガイ</div>
+  <div class="sci">Tegula rugata</div>
+  <span class="tag tag-habitat">中部潮間帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>緑色の部分がある三角錐形。磯の代表的な小型巻貝。</p>
+</div>
+
+<div class="card">
+  <div class="name">バテイラ（シッタカ）</div>
+  <div class="sci">Omphalius pfeifferi</div>
+  <span class="tag tag-habitat">中部～下部</span>
+  <span class="tag tag-food">藻食性</span>
+  <span class="tag tag-edible">食用</span>
+  <p>凹凸のない綺麗な三角錐形。市場にも流通する食用種。</p>
+</div>
+
+<div class="card">
+  <div class="name">アマオブネガイ</div>
+  <div class="sci">Nerita japonica</div>
+  <span class="tag tag-habitat">中部潮間帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>殻が厚く半球形。蓋も厚く硬い。</p>
+</div>
+
+<h3>カサガイ類</h3>
+
+<div class="card">
+  <div class="name">マツバガイ</div>
+  <div class="sci">Cellana nigrolineata</div>
+  <span class="tag tag-habitat">上部～中部</span>
+  <span class="tag tag-food">藻食性</span>
+  <p><strong>帰家習性</strong>が強い。夜間に微細藻類を求めて1日2-3m移動し元の定位置に戻る。カサガイ類が多い岩面では海藻の芽生えが削り取られ生えなくなる（グレイジング効果）。</p>
+</div>
+
+<div class="card">
+  <div class="name">ヨメガカサ</div>
+  <div class="sci">Cellana toreuma</div>
+  <span class="tag tag-habitat">中部～下部</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>産卵期は6-12月の長期。満潮・干潮時は動かず、「波が岩を洗う時間帯」にのみ活動。</p>
+</div>
+
+<h3>肉食性巻貝</h3>
+
+<div class="card">
+  <div class="name">イボニシ</div>
+  <div class="sci">Thais clavigera</div>
+  <span class="tag tag-habitat">中部～下部</span>
+  <span class="tag tag-food">肉食性</span>
+  <p><strong>穿孔捕食者:</strong> 穿孔腺から酸を分泌し、歯舌と併用してフジツボ・カキの殻に穴を開け捕食。キーストーン捕食者としてフジツボ群集の密度を制御する。</p>
+  <p><strong>生活史:</strong> 初夏～盛夏に産卵。多数の卵嚢を岩面に密集させて産み付ける。</p>
+</div>
+
+<div class="card">
+  <div class="name">レイシガイ</div>
+  <div class="sci">Reishia bronni</div>
+  <span class="tag tag-habitat">中部～下部</span>
+  <span class="tag tag-food">肉食性</span>
+  <p>白色の殻にオレンジ色の殻口。イボニシと同様に固着動物を穿孔捕食。</p>
+</div>
+
+<h3>特殊な巻貝</h3>
+
+<div class="card">
+  <div class="name">オオヘビガイ</div>
+  <div class="sci">Serpulorbis imbricatus</div>
+  <span class="tag tag-habitat">固着性</span>
+  <span class="tag tag-food">懸濁物食</span>
+  <p>殻を岩面に固着させた動かない巻貝。口から粘液の糸をクモの巣のように放出し、引っかかった餌粒子を手繰り寄せて食べる。ナベカの産卵巣にも利用される。</p>
+</div>
+
+<h3>下部潮間帯～潮下帯</h3>
+
+<div class="card">
+  <div class="name">サザエ</div>
+  <div class="sci">Turbo cornutus</div>
+  <span class="tag tag-habitat">下部～潮下帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <span class="tag tag-edible">食用</span>
+  <span class="tag tag-danger">採集禁止</span>
+  <p>夜行性。褐藻類を主食とする。漁業権対象種のため一般人の採集は禁止。</p>
+</div>
+
+<div class="card">
+  <div class="name">トコブシ</div>
+  <div class="sci">Haliotis diversicolor</div>
+  <span class="tag tag-habitat">下部～潮下帯</span>
+  <span class="tag tag-food">藻食性</span>
+  <span class="tag tag-danger">採集禁止</span>
+  <p>殻表面の呼水孔が6-8個（アワビは4-5個）。漁業権対象種。</p>
+</div>
+
+<h3>二枚貝類</h3>
+
+<div class="card">
+  <div class="name">マガキ</div>
+  <div class="sci">Crassostrea gigas</div>
+  <span class="tag tag-habitat">中部潮間帯（固着）</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>海中のプランクトン・有機懸濁物を鰓で濾し取る。生育環境により殻の外形が著しく変異する。</p>
+</div>
+
+<div class="card">
+  <div class="name">ムラサキイガイ（ムール貝）</div>
+  <div class="sci">Mytilus galloprovincialis</div>
+  <span class="tag tag-habitat">中部～下部（足糸付着）</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>地中海原産の外来種。1920年代以降定着。関東の港湾・岸壁に非常に多い。</p>
+</div>
+
+<div class="card">
+  <div class="name">ムラサキインコガイ</div>
+  <div class="sci">Septifer virgatus</div>
+  <span class="tag tag-habitat">波当たりの強い岩面</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>群集を形成。殻内面が美しい紫色。フジツボと場所取り競争し、足糸で基質を覆いフジツボを被覆して殺す。</p>
+</div>
+
+<div class="card">
+  <div class="name">イシマテガイ</div>
+  <div class="sci">Lithophaga curta</div>
+  <span class="tag tag-habitat">岩中（穿孔性）</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>化学的に岩（石灰岩）を溶かして穴を開け、その中に住む。</p>
+</div>
+
+<h3>頭足類</h3>
+
+<div class="card">
+  <div class="name">マダコ</div>
+  <div class="sci">Octopus sinensis</div>
+  <span class="tag tag-habitat">岩穴・タイドプール</span>
+  <span class="tag tag-food">肉食性</span>
+  <span class="tag tag-danger">採集禁止（三浦半島）</span>
+  <p><strong>食性:</strong> カニ、エビ、二枚貝を捕食。磯のトップ捕食者の一つ。</p>
+  <p><strong>繁殖:</strong> メスは岩の穴の天井に卵塊を産み、孵化まで約1ヶ月絶食して世話し、孵化後に死亡。</p>
+  <p><strong>観察:</strong> 大潮の干潮時に深いタイドプールを箱メガネで覗く。</p>
+</div>
+</section>
+
+<!-- ==================== ウミウシ・アメフラシ ==================== -->
+<section id="nudibranch">
+<h2>3. ウミウシ・アメフラシ</h2>
+
+<h3>アメフラシ類</h3>
+
+<div class="card">
+  <div class="name">アメフラシ</div>
+  <div class="sci">Aplysia kurodai</div>
+  <span class="tag tag-habitat">タイドプール・海藻域</span>
+  <span class="tag tag-food">草食性</span>
+  <p><strong>食性:</strong> ワカメ、アオサなどの海藻。春～初夏に黄色い麺状の卵塊（<strong>ウミゾウメン</strong>）を産む。</p>
+  <p><strong>特徴:</strong> 刺激されると紫色の液体を分泌して防御。雌雄同体で連鎖交尾（複数個体が一列に連なる）。</p>
+  <p><strong>観察:</strong> 4-6月がベスト。タイドプールの海藻上を探す。</p>
+</div>
+
+<div class="card">
+  <div class="name">クロヘリアメフラシ</div>
+  <div class="sci">Aplysia parvula</div>
+  <span class="tag tag-habitat">タイドプール・海藻上</span>
+  <span class="tag tag-food">草食性</span>
+  <p>小型で縁が黒い。海藻の上にいることが多い。</p>
+</div>
+
+<h3>ウミウシ類（裸鰓目）</h3>
+
+<div class="card">
+  <div class="name">アオウミウシ</div>
+  <div class="sci">Hypselodoris festiva</div>
+  <span class="tag tag-habitat">下部潮間帯・転石裏</span>
+  <span class="tag tag-food">海綿食</span>
+  <p>鮮やかな青色の体に黄色のライン、オレンジ色の触角と鰓。日本で最もポピュラーなウミウシ。城ヶ島で特に多い。</p>
+</div>
+
+<div class="card">
+  <div class="name">シロウミウシ</div>
+  <div class="sci">Chromodoris orientalis</div>
+  <span class="tag tag-habitat">下部潮間帯・転石裏</span>
+  <span class="tag tag-food">海綿食</span>
+  <p>白い体に黒い斑点。アオウミウシと並ぶ磯の定番ウミウシ。</p>
+</div>
+
+<h3>光合成するウミウシ（嚢舌目）</h3>
+
+<div class="card">
+  <div class="name">チドリミドリガイ</div>
+  <div class="sci">Plakobranchus ocellatus</div>
+  <span class="tag tag-habitat">下部潮間帯～潮下帯</span>
+  <span class="tag tag-food">盗葉緑体</span>
+  <p>藻類から葉緑体を「盗み」（<strong>盗葉緑体 kleptoplasty</strong>）、体内で光合成を行う。動物でありながら光合成能力を持つ驚異的な生物。数ヶ月間も葉緑体を維持可能。</p>
+</div>
+</section>
+
+<!-- ==================== 魚類 ==================== -->
+<section id="fish">
+<h2>4. 魚類</h2>
+
+<h3>ハゼ科 Gobiidae</h3>
+
+<div class="card">
+  <div class="name">アゴハゼ</div>
+  <div class="sci">Chaenogobius annularis</div>
+  <span class="tag tag-habitat">上部タイドプール</span>
+  <span class="tag tag-food">雑食性</span>
+  <span class="tag tag-collect">タモ網で容易</span>
+  <p>タイドプール最優占種の一つ。ドロメより<strong>高い位置</strong>の小さいタイドプールを好む。外海側に多い。</p>
+  <p><strong>繁殖:</strong> 冬～春に転石天井面に産卵し雄が卵保護。全長約10cm。</p>
+</div>
+
+<div class="card">
+  <div class="name">ドロメ</div>
+  <div class="sci">Chaenogobius gulosus</div>
+  <span class="tag tag-habitat">下部タイドプール</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>アゴハゼより<strong>低い位置</strong>・内湾側に優占。やや大型（全長約15cm）。稚魚は胸鰭をはばたかせてホバリング。</p>
+</div>
+
+<div class="card">
+  <div class="name">キヌバリ</div>
+  <div class="sci">Pterogobius elapoides</div>
+  <span class="tag tag-habitat">大型タイドプール・海藻林</span>
+  <span class="tag tag-food">動物プランクトン</span>
+  <p>中層を遊泳する美しい縦縞のハゼ。本州沿岸最美種の一つ。採集は2本の網で追い込む。温帯性で高水温に弱い。</p>
+</div>
+
+<div class="card">
+  <div class="name">ミミズハゼ属</div>
+  <div class="sci">Luciogobius spp.</div>
+  <span class="tag tag-habitat">転石下</span>
+  <span class="tag tag-food">底生動物食</span>
+  <p>細長い円筒形の体で石の下の隙間に適応。転石をめくって手づかみ。イソミミズハゼは海水寄り、ミミズハゼは汽水寄り。</p>
+</div>
+
+<h3>イソギンポ科 Blenniidae</h3>
+
+<div class="card">
+  <div class="name">ナベカ</div>
+  <div class="sci">Omobranchus elegans</div>
+  <span class="tag tag-habitat">岩穴・オオヘビガイ殻</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>穴から頭だけ出して周囲をうかがう。なわばり意識が強く自分より大きな相手にも攻撃。成熟雄は後頭部が隆起。</p>
+</div>
+
+<div class="card">
+  <div class="name">イソギンポ</div>
+  <div class="sci">Parablennius yatabei</div>
+  <span class="tag tag-habitat">フジツボ殻・岩穴</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>眼上に角のような長い皮弁。フジツボの殻から顔だけ出す姿が特徴的。</p>
+</div>
+
+<div class="card">
+  <div class="name">カエルウオ</div>
+  <div class="sci">Istiblennius enosimae</div>
+  <span class="tag tag-habitat">飛沫帯付近</span>
+  <span class="tag tag-food">草食性</span>
+  <p><strong>水上に出て岩の上を跳ねる!</strong> 胸鰭と尾鰭でカエルのように跳躍。岩表面の付着藻類を主食とする。追い込むと別のタイドプールに飛び移る。</p>
+</div>
+
+<h3>その他のギンポ類</h3>
+
+<div class="card">
+  <div class="name">コケギンポ</div>
+  <div class="sci">Neoclinus bryope</div>
+  <span class="tag tag-habitat">岩穴（顔だけ出す）</span>
+  <span class="tag tag-food">肉食性</span>
+  <p>岩の穴から顔だけ出して周囲を監視。眼上に房状の皮弁3本。コケは食べない（名前に反して肉食）。</p>
+</div>
+
+<div class="card">
+  <div class="name">ギンポ</div>
+  <div class="sci">Pholis nebulosa</div>
+  <span class="tag tag-habitat">岩の隙間</span>
+  <span class="tag tag-food">肉食性（ゴカイ主体）</span>
+  <span class="tag tag-edible">江戸前天ぷら種</span>
+  <p>秋～冬に岩下に卵塊を産み、<strong>雄が体を巻きつけて卵保護</strong>する独特の行動。穴釣りが効率的。</p>
+</div>
+
+<div class="card">
+  <div class="name">ヘビギンポ</div>
+  <div class="sci">Enneapterygius etheostomus</div>
+  <span class="tag tag-habitat">岩表面・タイドプール</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>鰭をはためかせて岩表面を素早く泳ぐ。磯の最普通種。繁殖期の雄は全身が黒く染まり白い横縞が浮き出る。</p>
+</div>
+
+<h3>カサゴ・カジカ目</h3>
+
+<div class="card">
+  <div class="name">カサゴ</div>
+  <div class="sci">Sebastiscus marmoratus</div>
+  <span class="tag tag-habitat">岩陰（幼魚はTP）</span>
+  <span class="tag tag-food">肉食性</span>
+  <p>卵胎生。幼魚がタイドプールに出現。</p>
+</div>
+
+<div class="card">
+  <div class="name">アナハゼ</div>
+  <div class="sci">Pseudoblennius percoides</div>
+  <span class="tag tag-habitat">岩礁・藻場</span>
+  <span class="tag tag-food">肉食性（魚食）</span>
+  <p>口が大きく小魚を丸呑み。交尾型で、メスは輸卵管でホヤやカイメンの中に産卵する独特の繁殖生態。</p>
+</div>
+
+<div class="card">
+  <div class="name">ハオコゼ</div>
+  <div class="sci">Paracentropogon rubripinnis</div>
+  <span class="tag tag-habitat">海藻間に擬態</span>
+  <span class="tag tag-food">肉食性</span>
+  <span class="tag tag-danger">背鰭棘に強毒!</span>
+  <p>小型で海藻に紛れて見落としやすい。刺されると強烈な痛みが半日～丸一日続く。</p>
+</div>
+
+<h3>ダンゴウオ科</h3>
+
+<div class="card">
+  <div class="name">ダンゴウオ</div>
+  <div class="sci">Lethotremus awae</div>
+  <span class="tag tag-habitat">冬季のタイドプール</span>
+  <span class="tag tag-food">肉食性</span>
+  <span class="tag tag-collect">冬の大潮干潮(深夜)</span>
+  <p>腹部の吸盤で岩にくっつく。<strong>12-1月に繁殖のため浅磯に来遊</strong>。全長3-4cm。泳ぎが遅いので見つければ容易に採集可能。近年の人気種。</p>
+</div>
+
+<h3>死滅回遊魚（夏～秋限定）</h3>
+
+<div class="info">
+<strong>死滅回遊魚</strong>: 黒潮に乗って南方から幼魚が流れ着くが、冬の低水温で死滅する。8～11月が観察好期。
+</div>
+
+<table>
+<tr><th>和名</th><th>学名</th><th>特徴</th></tr>
+<tr><td>オヤビッチャ</td><td><i>Abudefduf vaigiensis</i></td><td>5本の黒横帯、背面黄色</td></tr>
+<tr><td>ソラスズメダイ</td><td><i>Pomacentrus coelestis</i></td><td>鮮やかな青色</td></tr>
+<tr><td>カゴカキダイ</td><td><i>Microcanthus strigatus</i></td><td>黄色と黒の縦縞。三浦で多い</td></tr>
+<tr><td>チョウチョウウオ類</td><td><i>Chaetodon</i> spp.</td><td>トゲチョウ、フウライチョウなど</td></tr>
+<tr><td>ニシキベラ</td><td><i>Thalassoma cupido</i></td><td>色鮮やか</td></tr>
+</table>
+
+<h3>魚類の棲み分け概要</h3>
+<table>
+<tr><th>マイクロハビタット</th><th>代表種</th><th>食性</th></tr>
+<tr><td>穴居性（岩穴・殻内）</td><td>ナベカ、イソギンポ、コケギンポ</td><td>雑食～肉食</td></tr>
+<tr><td>転石下</td><td>ミミズハゼ類、ギンポ</td><td>底生動物食</td></tr>
+<tr><td>岩表面</td><td>ヘビギンポ、カエルウオ</td><td>藻食～雑食</td></tr>
+<tr><td>中層遊泳</td><td>キヌバリ、チャガラ、メジナ幼魚</td><td>プランクトン食</td></tr>
+<tr><td>底部待ち伏せ</td><td>カサゴ、アナハゼ、ハオコゼ</td><td>肉食（魚食）</td></tr>
+</table>
+</section>
+
+<!-- ==================== 甲殻類 ==================== -->
+<section id="crustaceans">
+<h2>5. 甲殻類</h2>
+
+<h3>カニ類</h3>
+
+<div class="card">
+  <div class="name">ヒライソガニ — 関東の磯で最多</div>
+  <div class="sci">Gaetice depressus</div>
+  <span class="tag tag-habitat">中部潮間帯・転石下</span>
+  <span class="tag tag-food">雑食性+濾過食</span>
+  <p>背面が著しく扁平。体色変異が極めて大きく（黒・褐色・白・緑・赤褐色・斑紋入り）、周囲の石の色に合わせたカモフラージュ。石をめくれば必ず見つかる。</p>
+</div>
+
+<div class="card">
+  <div class="name">イソガニ</div>
+  <div class="sci">Hemigrapsus sanguineus</div>
+  <span class="tag tag-habitat">中部～下部・転石下</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>甲の前側縁に3個の鋸歯。ハサミに黒い斑点。海藻・小魚・ゴカイ類・デトリタスなど幅広く摂食。</p>
+</div>
+
+<div class="card">
+  <div class="name">イワガニ</div>
+  <div class="sci">Pachygrapsus crassipes</div>
+  <span class="tag tag-habitat">上部～飛沫帯・岩表面</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>最大70時間陸上で活動可能。岩表面を極めて俊敏に走る。追い込んで隙間に逃げたところを2本網で挟み撃ち。</p>
+</div>
+
+<div class="card">
+  <div class="name">ショウジンガニ</div>
+  <div class="sci">Plagusia dentipes</div>
+  <span class="tag tag-habitat">下部～潮下帯・波当たり強い場所</span>
+  <span class="tag tag-food">雑食性</span>
+  <span class="tag tag-edible">味噌汁の出汁に</span>
+  <p>外洋に面した水質の良い磯を好む。動きが非常に速い。夜間にライトで照らして捕獲する方法が有効。</p>
+</div>
+
+<div class="card">
+  <div class="name">ケフサイソガニ / タカノケフサイソガニ</div>
+  <div class="sci">Hemigrapsus penicillatus / H. takanoi</div>
+  <span class="tag tag-habitat">汽水域寄り・転石下</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>オスの鋏脚基部に毛の房。タカノケフサイソガニは2005年に新種記載された隠蔽種。東京湾奥部ではこちらが多い。</p>
+</div>
+
+<div class="warn">
+<strong>注意: オウギガニ類</strong> — スベスベマンジュウガニ <i>Atergatis floridus</i> はテトロドトキシン・サキシトキシンを含む猛毒種。<strong>絶対に食べてはならない。</strong>
+</div>
+
+<h3>ヤドカリ類</h3>
+
+<div class="card">
+  <div class="name">ホンヤドカリ — 磯で最普通のヤドカリ</div>
+  <div class="sci">Pagurus filholi</div>
+  <span class="tag tag-habitat">タイドプール・転石下</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>右の鋏が左より大きい（蓋として機能）。脚先が白い。ごく浅い場所で最も見つけやすい。</p>
+</div>
+
+<div class="card">
+  <div class="name">イソヨコバサミ</div>
+  <div class="sci">Clibanarius virescens</div>
+  <span class="tag tag-habitat">中部～下部タイドプール</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>左右の鋏がほぼ同サイズ。青い触覚と歩脚の白いバンドが特徴。ホンヤドカリよりやや深い場所に。</p>
+</div>
+
+<div class="card">
+  <div class="name">イソカニダマシ — ヤドカリの仲間</div>
+  <div class="sci">Petrolisthes japonicus</div>
+  <span class="tag tag-habitat">転石下</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>カニに似た姿だが実はヤドカリの仲間。長い糸状の触角で区別可能。蔓脚で懸濁物を集める。</p>
+</div>
+
+<h3>エビ類</h3>
+
+<div class="card">
+  <div class="name">イソスジエビ</div>
+  <div class="sci">Palaemon pacificus</div>
+  <span class="tag tag-habitat">タイドプール・岩の隙間</span>
+  <span class="tag tag-food">ほぼ肉食性</span>
+  <p>磯で最も普通のエビ。透明な体に黒い縞模様。夜行性。日中は岩の隙間に潜む。</p>
+</div>
+
+<div class="card">
+  <div class="name">サラサエビ</div>
+  <div class="sci">Rhynchocinetes uritai</div>
+  <span class="tag tag-habitat">潮下帯・石の下</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>赤い縞と白い輪紋を持つ美しいエビ。大潮干潮時にタイドプールの深い場所で群れる。</p>
+</div>
+
+<div class="card">
+  <div class="name">テッポウエビ類</div>
+  <div class="sci">Alpheus spp.</div>
+  <span class="tag tag-habitat">転石下・岩の隙間</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>片方の鋏が巨大で、閉じる際に衝撃波（破裂音）を発生。ハゼとの共生で有名。</p>
+</div>
+</section>
+
+<!-- ==================== フジツボ類 ==================== -->
+<section id="barnacles">
+<h2>6. フジツボ類</h2>
+
+<div class="info">
+フジツボは甲殻類（エビやカニの仲間）で、幼生期は海中を泳ぎ回り、着底後に固着生活に入る。蔓脚を岩の外に広げてプランクトンを捕集する懸濁物食者。
+</div>
+
+<table>
+<tr><th>種名</th><th>学名</th><th>帯</th><th>備考</th></tr>
+<tr><td>イワフジツボ</td><td><i>Chthamalus challengeri</i></td><td>上部</td><td>小型。高潮線付近で優占</td></tr>
+<tr><td>クロフジツボ</td><td><i>Tetraclita japonica</i></td><td>中部</td><td>大型で灰黒色。波当たりの強い場所</td></tr>
+<tr><td>シロスジフジツボ</td><td><i>Balanus albicostatus</i></td><td>中部</td><td>内湾寄り。白い縦筋</td></tr>
+<tr><td>オオアカフジツボ</td><td><i>Megabalanus volcano</i></td><td>下部</td><td>大型で赤みが強い</td></tr>
+<tr><td>アカフジツボ</td><td><i>Megabalanus rosa</i></td><td>下部</td><td>大型</td></tr>
+<tr><td>タテジマフジツボ</td><td><i>Amphibalanus amphitrite</i></td><td>内湾</td><td>汽水域にも</td></tr>
+</table>
+
+<div class="card">
+  <div class="name">カメノテ</div>
+  <div class="sci">Capitulum mitella</div>
+  <span class="tag tag-habitat">上部～中部・岩の割れ目</span>
+  <span class="tag tag-food">懸濁物食</span>
+  <span class="tag tag-edible">食用</span>
+  <p>有柄フジツボ。岩の割れ目に群生。蔓脚を広げてプランクトンを捕食。柄の部分の肉を食べる。波当たりの指標。</p>
+</div>
+</section>
+
+<!-- ==================== 棘皮動物 ==================== -->
+<section id="echinoderms">
+<h2>7. 棘皮動物</h2>
+
+<h3>ウニ類</h3>
+
+<div class="card">
+  <div name="name" class="name">バフンウニ</div>
+  <div class="sci">Hemicentrotus pulcherrimus</div>
+  <span class="tag tag-habitat">潮間帯～浅海岩礁</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>関東の磯で最も普通のウニ。岩表面の付着藻類を管足と顎器（アリストテレスのランタン）で削り取る。過剰増殖は「磯焼け」の原因。産卵期は冬季。</p>
+</div>
+
+<div class="card">
+  <div class="name">ムラサキウニ</div>
+  <div class="sci">Heliocidaris crassispina</div>
+  <span class="tag tag-habitat">岩礁の割れ目・窪み</span>
+  <span class="tag tag-food">藻食性</span>
+  <p>岩盤に穴を掘り、その穿孔が他の小動物の住処となる「生態系エンジニア」。産卵期は初夏～夏。</p>
+</div>
+
+<div class="card">
+  <div class="name">ガンガゼ</div>
+  <div class="sci">Diadema setosum</div>
+  <span class="tag tag-habitat">下部潮間帯・岩の隙間</span>
+  <span class="tag tag-food">藻食性</span>
+  <span class="tag tag-danger">棘に毒あり!</span>
+  <p>棘は長さ30cmに達し先端に毒腺。刺さると体内で折れて抜けにくい。南方系だが温暖化で関東に北上中。</p>
+</div>
+
+<h3>ヒトデ類</h3>
+
+<div class="card">
+  <div class="name">イトマキヒトデ</div>
+  <div class="sci">Patiria pectinifera</div>
+  <span class="tag tag-habitat">タイドプール・岩礁</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>関東で最も普通のヒトデ。付着藻類・デトリタス・小動物を食べる。銚子では青い個体が多く赤い個体は珍しい。</p>
+</div>
+
+<div class="card">
+  <div class="name">ヤツデヒトデ</div>
+  <div class="sci">Coscinasterias acutispina</div>
+  <span class="tag tag-habitat">タイドプール・転石下</span>
+  <span class="tag tag-food">肉食性</span>
+  <p>腕の数が7～10本。体を2方向に引っ張って盤を半分に割る<strong>分裂による無性生殖</strong>を盛んに行う。不対称な個体が多い。</p>
+</div>
+
+<h3>ナマコ類</h3>
+
+<div class="card">
+  <div class="name">マナマコ</div>
+  <div class="sci">Apostichopus japonicus</div>
+  <span class="tag tag-habitat">下部潮間帯～潮下帯</span>
+  <span class="tag tag-food">堆積物食</span>
+  <span class="tag tag-danger">全種採集禁止</span>
+  <p>触手で底質表面のデトリタスを摂食。漁業法改正により<strong>全種採集禁止</strong>。</p>
+</div>
+
+<div class="card">
+  <div class="name">ニセクロナマコ</div>
+  <div class="sci">Holothuria leucospilota</div>
+  <span class="tag tag-habitat">転石下・タイドプール</span>
+  <span class="tag tag-food">堆積物食</span>
+  <p>外敵に襲われると肛門から白い粘着性の糸状構造（<strong>キュビエ器官</strong>）を放出して敵を絡め取る。1～3ヶ月で再生。</p>
+</div>
+
+<h3>クモヒトデ類</h3>
+
+<div class="card">
+  <div class="name">ニホンクモヒトデ</div>
+  <div class="sci">Ophioplocus japonicus</div>
+  <span class="tag tag-habitat">転石下</span>
+  <span class="tag tag-food">デトリタス食</span>
+  <p>転石をひっくり返すと素早く腕を動かして逃げる。腕の自切と再生能力あり。</p>
+</div>
+</section>
+
+<!-- ==================== 刺胞動物 ==================== -->
+<section id="cnidarians">
+<h2>8. 刺胞動物（イソギンチャク類）</h2>
+
+<div class="card">
+  <div class="name">ウメボシイソギンチャク</div>
+  <div class="sci">Actinia equina</div>
+  <span class="tag tag-habitat">上部～中部・岩陰</span>
+  <span class="tag tag-food">肉食性</span>
+  <p>触手を引っ込めると赤い梅干しそっくり。体細胞から「擬似受精卵」を作り<strong>クローン繁殖</strong>する極めて特殊な無性生殖を行う。真鶴では県天然記念物。</p>
+</div>
+
+<div class="card">
+  <div class="name">ヨロイイソギンチャク</div>
+  <div class="sci">Anthopleura uchidai</div>
+  <span class="tag tag-habitat">中部～下部・タイドプール</span>
+  <span class="tag tag-food">肉食+光合成</span>
+  <p>砂粒や貝殻片を体表に付着させる（鎧のように）。体内に褐虫藻を共生させ光合成産物も利用する混合栄養。</p>
+</div>
+
+<div class="card">
+  <div class="name">ミドリイソギンチャク</div>
+  <div class="sci">Anthopleura fuscoviridis</div>
+  <span class="tag tag-habitat">中部～下部</span>
+  <span class="tag tag-food">肉食+光合成</span>
+  <p>体内の共生藻により緑色に見える。光合成産物を利用。</p>
+</div>
+
+<div class="card">
+  <div class="name">タテジマイソギンチャク</div>
+  <div class="sci">Haliplanella lineata</div>
+  <span class="tag tag-habitat">中部～下部・岩面</span>
+  <span class="tag tag-food">肉食性</span>
+  <p>汽水耐性あり。体側面に縦縞。出芽や縦裂分裂で急速にクローン増殖する。</p>
+</div>
+</section>
+
+<!-- ==================== 海藻 ==================== -->
+<section id="algae">
+<h2>9. 海藻</h2>
+
+<h3>緑藻</h3>
+<table>
+<tr><th>和名</th><th>学名</th><th>帯</th><th>備考</th></tr>
+<tr><td>アナアオサ</td><td><i>Ulva australis</i></td><td>上部～中部</td><td>食用。味噌汁・天ぷら</td></tr>
+<tr><td>ヒトエグサ</td><td><i>Monostroma nitidum</i></td><td>上部</td><td>青のり原料</td></tr>
+<tr><td>ミル</td><td><i>Codium fragile</i></td><td>下部～潮下帯</td><td>食用。酢の物</td></tr>
+</table>
+
+<h3>褐藻</h3>
+<table>
+<tr><th>和名</th><th>学名</th><th>帯</th><th>備考</th></tr>
+<tr><td>ヒジキ</td><td><i>Sargassum fusiforme</i></td><td>中部～下部</td><td>食用。中部潮間帯の優占種</td></tr>
+<tr><td>ワカメ</td><td><i>Undaria pinnatifida</i></td><td>下部～潮下帯</td><td>食用。冬～春の優占種</td></tr>
+<tr><td>ホンダワラ</td><td><i>Sargassum fulvellum</i></td><td>下部～潮下帯</td><td>アオリイカの産卵場</td></tr>
+<tr><td>カジメ</td><td><i>Ecklonia cava</i></td><td>潮下帯</td><td>海中林形成</td></tr>
+<tr><td>アラメ</td><td><i>Eisenia bicyclis</i></td><td>潮下帯</td><td>海中林形成。食用</td></tr>
+<tr><td>ハバノリ</td><td><i>Petalonia binghamiae</i></td><td>上部～中部</td><td>食用。炙って食べる（冬季限定）</td></tr>
+<tr><td>アカモク</td><td><i>Sargassum horneri</i></td><td>潮下帯</td><td>食用。味噌汁・ポン酢和え</td></tr>
+</table>
+
+<h3>紅藻</h3>
+<table>
+<tr><th>和名</th><th>学名</th><th>帯</th><th>備考</th></tr>
+<tr><td>テングサ（マクサ）</td><td><i>Gelidium elegans</i></td><td>下部～潮下帯</td><td>ところてん・寒天原料</td></tr>
+<tr><td>フノリ</td><td><i>Gloiopeltis furcata</i></td><td>上部～中部</td><td>食用。味噌汁</td></tr>
+<tr><td>有節サンゴモ</td><td><i>Corallina</i> spp.</td><td>中部～下部</td><td>枝間に水分保持。微小動物の住処</td></tr>
+<tr><td>アマノリ</td><td><i>Neopyropia yezoensis</i></td><td>上部</td><td>海苔原料。冬～春</td></tr>
+</table>
+
+<div class="warn">
+<strong>漁業権:</strong> ワカメ、テングサ、ヒジキ等は漁業権の対象。三浦半島・南房総では取り締まりが厳しい。アオサ類やフノリは対象外の場合が多いが地域により異なる。
+</div>
+
+<h3>海藻が提供するマイクロハビタット</h3>
+<table>
+<tr><th>海藻タイプ</th><th>提供する機能</th><th>利用する動物</th></tr>
+<tr><td>大型褐藻の林冠</td><td>日陰、水流緩衝、隠れ家</td><td>メジナ幼魚、ヨコエビ、ワレカラ</td></tr>
+<tr><td>ヒジキ群落</td><td>3次元構造、保水</td><td>巻貝、ヨコエビ、カニ幼体</td></tr>
+<tr><td>有節サンゴモ</td><td>枝間の微小空間、水分保持</td><td>等脚類、端脚類、線虫</td></tr>
+<tr><td>アオサ類</td><td>葉状体下の湿潤環境</td><td>ヒラムシ、小型巻貝</td></tr>
+</table>
+</section>
+
+<!-- ==================== 環形動物 ==================== -->
+<section id="worms">
+<h2>10. 環形動物（ゴカイ・ケヤリムシ）</h2>
+
+<div class="card">
+  <div class="name">イソゴカイ</div>
+  <div class="sci">Perinereis spp.</div>
+  <span class="tag tag-habitat">転石下・砂利の隙間</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>自由生活型の多毛類。磯の転石下で最も普通に見られるゴカイ。</p>
+</div>
+
+<div class="card">
+  <div class="name">ケヤリムシ</div>
+  <div class="sci">Sabellastarte japonica</div>
+  <span class="tag tag-habitat">下部潮間帯・岩の割れ目</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>鰓冠（触手冠）を展開して水中のプランクトンを濾過。泥質の棲管を作る。触れると瞬時に引っ込む。</p>
+</div>
+
+<div class="card">
+  <div class="name">カンザシゴカイ類</div>
+  <div class="sci">Serpulidae</div>
+  <span class="tag tag-habitat">岩面・貝殻上（固着）</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>石灰質の白い管を分泌して固着。ヤッコカンザシは護岸壁面に密集。</p>
+</div>
+
+<div class="card">
+  <div class="name">アキツシマカンザシ（新種）</div>
+  <div class="sci">Spirobranchus akitsushima</div>
+  <span class="tag tag-habitat">平均海面付近</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>2022年に鎌倉・和賀江島から記載された新種。地震による海岸隆起の指標生物として注目。</p>
+</div>
+</section>
+
+<!-- ==================== その他 ==================== -->
+<section id="others">
+<h2>11. その他の無脊椎動物</h2>
+
+<h3>海綿動物（カイメン）</h3>
+
+<div class="card">
+  <div class="name">クロイソカイメン</div>
+  <div class="sci">Halichondria okadai</div>
+  <span class="tag tag-habitat">中部～下部・岩面</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>磯で最も普通な海綿。暗灰色～黒色のシート状。アオウミウシの重要な餌資源。触ると硬めのスポンジ。</p>
+</div>
+
+<div class="card">
+  <div class="name">ダイダイイソカイメン</div>
+  <div class="sci">Hymeniacidon sinapium</div>
+  <span class="tag tag-habitat">中部～下部・タイドプール</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>鮮やかなオレンジ色。近年の研究で少なくとも3種を含むことが判明。「火山口状」の出水孔が特徴的。</p>
+</div>
+
+<h3>コケムシ類（外肛動物）</h3>
+
+<div class="card">
+  <div class="name">フサコケムシ</div>
+  <div class="sci">Bugula neritina</div>
+  <span class="tag tag-habitat">下部～潮下帯</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>赤褐色の樹状群体。抗がん活性を持つブリオスタチンを産出。肉眼では苔に見えるが実は動物。</p>
+</div>
+
+<h3>ホヤ類（脊索動物門）</h3>
+
+<div class="card">
+  <div class="name">マンジュウボヤ</div>
+  <div class="sci">Aplidium pliciferum</div>
+  <span class="tag tag-habitat">下部～潮下帯</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>オレンジ色のキノコ状群体。無脊椎動物だが脊索動物門に属し、幼生時に脊索を持つ（脊椎動物との共通祖先を示唆）。</p>
+</div>
+
+<div class="card">
+  <div class="name">キクイタボヤ</div>
+  <div class="sci">Botryllus spp.</div>
+  <span class="tag tag-habitat">転石裏面・岩面</span>
+  <span class="tag tag-food">濾過食</span>
+  <p>花状のパターンの群体。全体再生能力を持ち、小さな断片からでも群体全体を再生できる。</p>
+</div>
+
+<h3>ヒラムシ類（扁形動物）</h3>
+
+<div class="card">
+  <div class="name">ツノヒラムシ</div>
+  <div class="sci">Planocera reticulata</div>
+  <span class="tag tag-habitat">転石下</span>
+  <span class="tag tag-food">肉食性</span>
+  <span class="tag tag-danger">テトロドトキシン保有</span>
+  <p>厚さ1mm以下。二枚貝やフジツボを襲う。体内に<strong>フグ毒（TTX）</strong>を蓄積。獲物の制圧と卵の防御に利用。</p>
+</div>
+
+<h3>等脚類（フナムシ等）</h3>
+
+<div class="card">
+  <div class="name">フナムシ</div>
+  <div class="sci">Ligia exotica</div>
+  <span class="tag tag-habitat">潮上帯～飛沫帯</span>
+  <span class="tag tag-food">雑食性</span>
+  <p>「海の掃除屋」。体長最大5cm、7対の歩脚。乾燥耐性が高い。近年の研究で、従来1種とされていたものが少なくとも3種（フナムシ、キタフナムシ、フタマタフナムシ）に分かれることが判明。</p>
+</div>
+
+<h3>ワレカラ・ヨコエビ類</h3>
+
+<div class="card">
+  <div class="name">ワレカラ</div>
+  <div class="sci">Caprella spp.</div>
+  <span class="tag tag-habitat">大型海藻の表面</span>
+  <span class="tag tag-food">デトリタス食</span>
+  <p>海藻表面に体を屈伸させて定位。世界のワレカラの約1/3が日本近海で発見。観察にはタイドプールの海藻を白いバットに入れて振ると落ちてくる。</p>
+</div>
+</section>
+
+<!-- ==================== 種間相互作用 ==================== -->
+<section id="interactions">
+<h2>12. 種間相互作用</h2>
+
+<h3>競争</h3>
+<table class="interaction-table">
+<tr><th>関係</th><th>詳細</th></tr>
+<tr><td>フジツボ vs ムラサキインコ</td><td>中部潮間帯の固着基質をめぐる場所取り。ムラサキインコは足糸で基質を覆いフジツボを被覆して殺す</td></tr>
+<tr><td>フジツボ種間</td><td>イワフジツボ（上部）とシロスジフジツボ（中部）は帯状に棲み分け。下位種は物理的環境（乾燥）に耐えられず上方に分布を広げられない</td></tr>
+<tr><td>海藻の基質競争</td><td>ウニの摂食が直立型海藻を除去すると殻状サンゴモが優占（磯焼け状態）</td></tr>
+</table>
+
+<h3>捕食</h3>
+<table class="interaction-table">
+<tr><th>捕食者</th><th>被食者</th><th>メカニズム</th></tr>
+<tr><td>イボニシ・レイシガイ</td><td>フジツボ、カキ</td><td>歯舌+酸で穿孔し体液吸引</td></tr>
+<tr><td>イトマキヒトデ</td><td>二枚貝、フジツボ</td><td>腕で抱え胃を反転して消化</td></tr>
+<tr><td>ウニ類</td><td>海藻全般</td><td>アリストテレスのランタンで削り取り</td></tr>
+<tr><td>マダコ</td><td>カニ、巻貝、二枚貝</td><td>頂点捕食者。殻を穿孔or破壊</td></tr>
+<tr><td>カニ類</td><td>フジツボ、小型巻貝</td><td>鋏脚で破砕</td></tr>
+</table>
+
+<h3>共生</h3>
+<table class="interaction-table">
+<tr><th>関係</th><th>種の組み合わせ</th><th>詳細</th></tr>
+<tr><td>相利共生</td><td>ヤドカリ + イソギンチャク</td><td>ヤドカリは刺胞による防御、イソギンチャクは食べ残しを獲得</td></tr>
+<tr><td>相利共生</td><td>ミドリイソギンチャク + 褐虫藻</td><td>藻が光合成産物を提供。イソギンチャクが緑色に見える理由</td></tr>
+<tr><td>相利共生</td><td>カイウミヒドラ + ヤドカリ</td><td>ヒドラの刺胞で防御、ヒドラは移動手段を獲得</td></tr>
+</table>
+
+<h3>磯焼け — 温暖化の影響</h3>
+<div class="warn">
+近年、関東の磯では南方系の生物（ガンガゼ、アイゴ、ブダイ類）が北上し、藻食圧が増大して<strong>磯焼け</strong>が深刻化。三浦半島・房総半島南部で特に顕著。大型海藻が消失すると、藻場に依存する多様な生物（ヨコエビ、ワレカラ、小型魚類の幼魚など）も減少する。
+</div>
+</section>
+
+<!-- ==================== 観察スポット ==================== -->
+<section id="spots">
+<h2>13. 関東の観察スポット</h2>
+
+<h3>神奈川県</h3>
+
+<div class="spot">
+  <div class="spot-name">真鶴半島 三ツ石海岸</div>
+  <div class="spot-loc">真鶴町</div>
+  <p>生き物の豊富さは神奈川県内トップ級。大潮時に大規模タイドプール多数出現。ウメボシイソギンチャク（県天然記念物）観察可。都心から車・電車で約1.5h。</p>
+  <p><strong>注意:</strong> 駐車場から約250段の急な階段。復路は厳しい上り坂。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">三浦半島 荒崎海岸</div>
+  <div class="spot-loc">横須賀市</div>
+  <p>「夕日の丘」下の湾が磯場。波が穏やかでファミリー向け。透明度が高い。カニ、ヤドカリ、キヌバリなど多数。夏季は混雑必至（朝7時から駐車待ち）。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">城ヶ島</div>
+  <div class="spot-loc">三浦市</div>
+  <p>神奈川最大の自然島。西の長津呂崎のひな壇状磯場が好ポイント。<strong>ウミウシの聖地</strong>。城ヶ島ではアオウミウシを始めミノウミウシ類・リュウグウウミウシ類が特に豊富。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">三浦半島 天神島</div>
+  <div class="spot-loc">横須賀市</div>
+  <p>天神島臨海自然教育園あり。ウミウシが豊富。浅く広い磯で海藻も豊か。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">三浦半島 大浦海岸</div>
+  <div class="spot-loc">三浦市南下浦町松輪</div>
+  <p>穴場。キヌバリ、アナハゼ、サザエ、トコブシ、各種イソギンチャク、ヒラムシなど想像以上に豊か。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">江の島</div>
+  <div class="spot-loc">藤沢市</div>
+  <p>湘南港内の人工タイドプール。コンクリート囲いで安全。8:00-18:00利用可。干潮2h前がベスト。周辺にトイレ・カフェ完備。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">真鶴半島 琴ヶ浜海岸</div>
+  <div class="spot-loc">真鶴町</div>
+  <p>駐車場・トイレ完備、階段整備済みの初心者向けスポット。幼児連れにおすすめ。</p>
+</div>
+
+<h3>千葉県</h3>
+
+<div class="spot">
+  <div class="spot-name">沖ノ島</div>
+  <div class="spot-loc">館山市</div>
+  <p>歩いて渡れる無人島。サンゴ北限域。水質AA認定。シュノーケリングでキクメイシ等のサンゴも観察可。駐車場から島の渡り口まで徒歩20分以上。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">南房総（鴨川・勝浦・千倉）</div>
+  <div class="spot-loc">千葉県南部</div>
+  <p><strong>死滅回遊魚の採集に最適。</strong>チョウチョウウオ各種、ハゼ類。千葉県海の博物館が磯観察会を定期開催。ガイド付きコースもあり。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">銚子（長崎海岸・君ヶ浜・海鹿島）</div>
+  <div class="spot-loc">銚子市</div>
+  <p>3スポットが車で5分圏内。赤ウニの分布北限（太平洋側）。青いイトマキヒトデが多く赤い個体は珍しい。</p>
+</div>
+
+<h3>茨城県</h3>
+
+<div class="spot">
+  <div class="spot-name">平磯海岸～磯崎海岸</div>
+  <div class="spot-loc">ひたちなか市</div>
+  <p>約4kmの海岸線。「磯遊びの王国」。岩礁は比較的平坦で子連れに最適。市が毎年おすすめ日を公表。</p>
+</div>
+
+<div class="spot">
+  <div class="spot-name">大洗海岸</div>
+  <div class="spot-loc">大洗町</div>
+  <p>大洗岬からアクアワールドまで約3km。日本の渚百選選定。大駐車場・トイレ完備。</p>
+</div>
+</section>
+
+<!-- ==================== 採集ガイド ==================== -->
+<section id="guide">
+<h2>14. 採集ガイド</h2>
+
+<h3>必須装備</h3>
+<table>
+<tr><th>アイテム</th><th>備考</th></tr>
+<tr><td>マリンシューズ / 磯靴</td><td><strong>素足・サンダル厳禁</strong></td></tr>
+<tr><td>短い網 × 2本</td><td>テグス製透明網がベスト。2本で挟み撃ち</td></tr>
+<tr><td>バケツ（蓋付き）</td><td>コマセバケツ推奨</td></tr>
+<tr><td>透明プラケース</td><td>横から観察・同定に</td></tr>
+<tr><td>乾電池式エアポンプ</td><td>持ち帰る場合は必須</td></tr>
+<tr><td>ラッシュガード + 水着</td><td>怪我・日焼け防止</td></tr>
+<tr><td>軍手</td><td>ハサミ・棘から手を守る</td></tr>
+<tr><td>ルーペ（10倍）</td><td>微小生物の観察に</td></tr>
+<tr><td>白いバット</td><td>小型甲殻類の観察用</td></tr>
+</table>
+
+<h3>季節別ターゲット</h3>
+<table>
+<tr><th>季節</th><th>主な対象</th></tr>
+<tr><td><strong>春（3-5月）</strong></td><td>アメフラシの卵塊（ウミゾウメン）、カジカ類、キヌバリ、海藻の繁茂期</td></tr>
+<tr><td><strong>夏（6-8月）</strong></td><td>死滅回遊魚の到来開始、イソギンポ類繁殖盛期、ヘビギンポ婚姻色</td></tr>
+<tr><td><strong>秋（9-11月）</strong></td><td><strong>死滅回遊魚の最盛期</strong>（最も種類が多い）。ギンポ類の産卵開始</td></tr>
+<tr><td><strong>冬（12-2月）</strong></td><td><strong>ダンゴウオ</strong>来遊（大潮干潮・深夜がベスト）。ギンポの卵保護観察</td></tr>
+</table>
+
+<h3>潮汐の選び方</h3>
+<div class="tip">
+<strong>大潮の干潮前後2時間がゴールデンタイム。</strong>干潮2時間前に到着が理想。<br>
+春～夏: 昼間の方がよく引く / 秋～冬: 夜間の方がよく引く
+</div>
+
+<h3>採集テクニック</h3>
+<table>
+<tr><th>方法</th><th>対象</th><th>コツ</th></tr>
+<tr><td>タモ網2本法</td><td>ハゼ類、ギンポ類全般</td><td>1本で逃げ道を塞ぎ、もう1本で追い込む</td></tr>
+<tr><td>転石めくり</td><td>ミミズハゼ、カニ、ゴカイ</td><td><strong>必ず元に戻す!</strong></td></tr>
+<tr><td>穴釣り</td><td>ギンポ、カサゴ、ムラソイ</td><td>岩の隙間に餌を差し込む</td></tr>
+<tr><td>目視探索</td><td>ダンゴウオ、コケギンポ</td><td>巣穴や岩表面をじっくり観察</td></tr>
+<tr><td>海藻振り洗い</td><td>ワレカラ、ヨコエビ</td><td>海藻を白いバットで振る</td></tr>
+<tr><td>静かに待つ</td><td>全般</td><td>TPの前で5分静止すると隠れていた生物が出現</td></tr>
+</table>
+
+<h3>夜磯採集</h3>
+<div class="warn">
+<strong>夜磯のルール:</strong><br>
+- 昼間は素早い魚（チョウチョウウオ等）が夜は眠って動きが鈍くなる<br>
+- テンジクダイ、ウツボなど夜行性種が活発に<br>
+- <strong>絶対に一人で行かない</strong><br>
+- 防水LEDライト + 予備電池は命綱<br>
+- 事前に航空写真で地形確認推奨
+</div>
+</section>
+
+<!-- ==================== 危険生物 ==================== -->
+<section id="danger">
+<h2>15. 危険生物</h2>
+
+<table>
+<tr><th>生物名</th><th>危険度</th><th>症状・対処</th></tr>
+<tr style="background:#3e1111;">
+  <td><strong>ヒョウモンダコ</strong></td>
+  <td style="color:var(--red);">致死的</td>
+  <td>フグ毒（TTX）。咬まれると麻痺・呼吸困難。解毒剤なし。<strong>絶対に触らない</strong></td>
+</tr>
+<tr style="background:#3e1111;">
+  <td><strong>カツオノエボシ</strong></td>
+  <td style="color:var(--red);">高</td>
+  <td>電気ショック様の激痛。2回目でアナフィラキシーショック→死亡の恐れ。<strong>砂浜の死体の触手も危険</strong></td>
+</tr>
+<tr>
+  <td><strong>ガンガゼ</strong></td>
+  <td style="color:var(--orange);">高</td>
+  <td>棘30cmが体内で折れて残留。除去困難。レントゲン検査推奨</td>
+</tr>
+<tr>
+  <td><strong>アカエイ</strong></td>
+  <td style="color:var(--orange);">高</td>
+  <td>尾の毒棘。砂地に潜み踏みつけ事故多い</td>
+</tr>
+<tr>
+  <td><strong>ハオコゼ</strong></td>
+  <td style="color:var(--yellow);">中</td>
+  <td>背鰭の毒棘。小型で目立たず踏みやすい。痛み半日～1日</td>
+</tr>
+<tr>
+  <td><strong>ゴンズイ</strong></td>
+  <td style="color:var(--yellow);">中</td>
+  <td>背鰭・胸鰭の毒。60℃以上のお湯で洗浄</td>
+</tr>
+<tr>
+  <td><strong>ウツボ</strong></td>
+  <td style="color:var(--yellow);">中</td>
+  <td>鋭い歯で咬傷。夜間活動的</td>
+</tr>
+<tr>
+  <td><strong>スベスベマンジュウガニ</strong></td>
+  <td style="color:var(--red);">致死的(経口)</td>
+  <td>TTX + サキシトキシン。<strong>絶対に食べない</strong></td>
+</tr>
+</table>
+
+<div class="tip">
+<strong>毒棘に刺された場合の応急処置:</strong> タンパク毒は熱で分解されるため、45～60℃のお湯に30分以上浸す（やけどに注意）。その後速やかに医療機関へ。
+</div>
+</section>
+
+<!-- ==================== 法規制 ==================== -->
+<section id="laws">
+<h2>16. 法規制・マナー</h2>
+
+<h3>全国共通（改正漁業法）</h3>
+<div class="warn">
+<strong>アワビ・ナマコ:</strong> 漁業権の有無に関わらず一般人の採捕は禁止。<br>
+違反: <strong>3年以下の懲役または3,000万円以下の罰金</strong>
+</div>
+
+<h3>神奈川県</h3>
+<table>
+<tr><th>項目</th><th>内容</th></tr>
+<tr><td>採集禁止種</td><td>サザエ、トコブシ、イセエビ、タコ、ウニ、ワカメ等（漁業権対象）</td></tr>
+<tr><td>使用可能漁具</td><td>やす、いそがね、くまで(幅15cm以下)、たも網、投網、竿釣り、手釣り</td></tr>
+<tr><td>サイズ制限</td><td>アサリ2cm以下・ハマグリ4cm以下は採集禁止</td></tr>
+</table>
+
+<h3>千葉県</h3>
+<table>
+<tr><th>項目</th><th>内容</th></tr>
+<tr><td>採集禁止種</td><td>アワビ、サザエ、イセエビ、ハマグリ、アサリ等</td></tr>
+<tr><td>違反罰則</td><td>100万円以下の罰金</td></tr>
+</table>
+
+<h3>その他の禁止事項</h3>
+<ul style="padding-left:20px; color:var(--text2);">
+<li>造礁サンゴの採取は原則禁止</li>
+<li>オカヤドカリは天然記念物のため捕獲禁止</li>
+<li>ウミガメの卵も採取禁止</li>
+</ul>
+
+<h3>マナー</h3>
+<div class="tip">
+<strong>磯観察の鉄則:</strong><br>
+- 動かした石は<strong>必ず元に戻す</strong>（裏返しのままだと付着生物が死ぬ）<br>
+- 生物は水から出さずに観察し、観察後は元の場所に戻す<br>
+- 飼育可能な数だけ持ち帰る（過剰採集は禁物）<br>
+- 採集ポイントをSNSで拡散しない（業者による乱獲防止）<br>
+- ゴミは必ず持ち帰る
+</div>
+</section>
+
+<!-- ==================== 面白エピソード ==================== -->
+<section>
+<h2>おまけ: 面白い観察エピソード</h2>
+
+<div class="card">
+  <div class="name">28年ぶりのオジサン、20年ぶりのハナオコゼ</div>
+  <p>ベテラン磯採集家が2024年7月に<strong>オジサン（ヒメジ科）を28年ぶりに採集</strong>、9月には<strong>ハナオコゼを20年以上ぶりに発見</strong>。25年の統計で「ギンユゴイが初めて5月に出現」「ニザダイが15年で希少種から普通種に変化」など、長期モニタリングならではの知見。</p>
+</div>
+
+<div class="card">
+  <div class="name">台風後の生態系リセット</div>
+  <p>2024年8月、台風7号通過後にタイドプールから魚が完全消失。しかし約4日後に復活を確認。台風がタイドプール生態系をリセットする瞬間の貴重な記録。</p>
+</div>
+
+<div class="card">
+  <div class="name">光合成する動物</div>
+  <p>チドリミドリガイは藻類から葉緑体を「盗み」、体内で数ヶ月間も光合成を維持する。動物と植物の境界を揺るがす存在。</p>
+</div>
+
+<div class="card">
+  <div class="name">ウメボシイソギンチャクのクローン軍団</div>
+  <p>体細胞から「擬似受精卵」を作り、通常の胚発生と同じ過程を経てクローンを産出。岩陰に遺伝的に均一な群落を形成する極めて特殊な無性生殖。</p>
+</div>
+
+<div class="card">
+  <div class="name">ヤツデヒトデの分裂繁殖</div>
+  <p>体を2方向に引っ張って盤を半分に割る「分裂」による無性生殖。失われた腕は再生するため、腕の数や大きさが不対称な個体がしばしば観察される。</p>
+</div>
+</section>
+
+<div class="footer">
+  関東の磯 生き物総合図鑑<br>
+  Generated: 2026-04-18 | Offline Dataset for Kiwi Browser<br>
+  Sources: 環境省せとうちネット, 千葉県海の博物館, 新江ノ島水族館, 海水魚ラボ, iso-fishes.com, Wikipedia, J-STAGE, 各県水産関係資料ほか
+</div>
+
+</div>
+</body>
+</html>
