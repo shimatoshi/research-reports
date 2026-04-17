@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ハゼ類 (Gobiiformes) 総合リサーチデータセット</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="gobiiformes">ハゼ類 (Gobiiformes) 総合リサーチデータセット</h1>
+<p><strong>生成日:</strong> 2026-04-17 / <strong>用途:</strong> オフライン閲覧用リファレンス
+<strong>対象読者:</strong> 在野研究者 (Rhinogobius 属研究が主)</p>
+<p>日本産および東アジアハゼ類について、分類・生態・形態・保全・研究史を網羅した Markdown データセット。全章は一次文献 DOI 付き、画像は Wikimedia Commons 等の CC/PD ライセンス素材のみ。</p>
+<hr />
+<h2 id="_1">章構成 (推奨閲覧順)</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>ファイル</th>
+<th>内容</th>
+<th>字数目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01</td>
+<td><a href="01-taxonomy-phylogeny.html">01-taxonomy-phylogeny.md</a></td>
+<td>Gobiiformes 目の高次分類・分子系統 (Thacker, Tornabene, McCraney 系列)・科の再編 (Oxudercidae 分立)</td>
+<td>~1,600 語</td>
+</tr>
+<tr>
+<td>02</td>
+<td><a href="02-japanese-goby-species-catalog.html">02-japanese-goby-species-catalog.md</a></td>
+<td>日本産ハゼ 15 属グループの種別カタログ (学名/和名/分布/生息地/保全)</td>
+<td>~15,000 字</td>
+</tr>
+<tr>
+<td>03</td>
+<td><a href="03-rhinogobius-deep-dive.html">03-rhinogobius-deep-dive.md</a></td>
+<td><strong>Rhinogobius 属深掘り</strong>。記載史・全種リスト・分子系統・陸封化・外来種問題</td>
+<td>~4,500 字</td>
+</tr>
+<tr>
+<td>04</td>
+<td><a href="04-ecology-life-history.html">04-ecology-life-history.md</a></td>
+<td>両側回遊・産卵・浮遊仔魚・食性・共生・洞窟/干潟/深海適応</td>
+<td>~23,400 字</td>
+</tr>
+<tr>
+<td>05</td>
+<td><a href="05-morphology-identification.html">05-morphology-identification.md</a></td>
+<td>同定形質ガイド: 感覚孔系・鰭条計数・鱗・生殖突起・斑紋・骨格・用語対応表</td>
+<td>~2,100 語</td>
+</tr>
+<tr>
+<td>06</td>
+<td><a href="06-conservation.html">06-conservation.md</a></td>
+<td>環境省 RL2020・IUCN・地方版 RDB・脅威・保全事例</td>
+<td>~12,700 字</td>
+</tr>
+<tr>
+<td>07</td>
+<td><a href="07-research-history.html">07-research-history.md</a></td>
+<td>日本 (明仁上皇・鈴木寿之・渋川浩一・瀬能) と世界 (Miller, Murdy, Thacker, Kottelat, Chen) の研究者系譜</td>
+<td>~1,540 語</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="_2">画像アーカイブ</h2>
+<p><code>images/</code> に 50 枚 WebP (合計 <strong>32 MB</strong>、旧 JPG 93 MB から 66% 圧縮)、18 種を網羅。
+全画像のライセンス・著者・撮影地は <strong><a href="images/MANIFEST.html">images/MANIFEST.md</a></strong> 参照。</p>
+<h3 id="_3">代表画像</h3>
+<h4 id="rhinogobius">Rhinogobius 属 (ヨシノボリ属) — ユーザ研究主対象</h4>
+<table>
+<thead>
+<tr>
+<th>種</th>
+<th>画像</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>カワヨシノボリ <em>R. flumineus</em></td>
+<td><img alt="R. flumineus" src="images/rhinogobius_flumineus_01.webp" /></td>
+</tr>
+<tr>
+<td>オオヨシノボリ <em>R. nagoyae</em></td>
+<td><img alt="R. nagoyae" src="images/rhinogobius_nagoyae_01.webp" /></td>
+</tr>
+<tr>
+<td>クロヨシノボリ <em>R. kurodai</em></td>
+<td><img alt="R. kurodai" src="images/rhinogobius_kurodai_01.webp" /></td>
+</tr>
+<tr>
+<td>ビワヨシノボリ <em>R. biwaensis</em></td>
+<td><img alt="R. biwaensis" src="images/rhinogobius_biwaensis_01.webp" /></td>
+</tr>
+<tr>
+<td>シマヨシノボリ <em>R. brunneus</em> complex</td>
+<td><img alt="R. brunneus cobalt" src="images/rhinogobius_brunneus_cobalt.webp" /></td>
+</tr>
+<tr>
+<td>ゴクラクハゼ系 <em>R. similis</em></td>
+<td><img alt="R. similis" src="images/rhinogobius_similis_01.webp" /></td>
+</tr>
+</tbody>
+</table>
+<h4 id="_4">その他日本代表ハゼ</h4>
+<table>
+<thead>
+<tr>
+<th>種</th>
+<th>画像</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>マハゼ <em>Acanthogobius flavimanus</em></td>
+<td><img alt="マハゼ" src="images/acanthogobius_flavimanus_01.webp" /></td>
+</tr>
+<tr>
+<td>ウキゴリ <em>Gymnogobius urotaenia</em></td>
+<td><img alt="ウキゴリ" src="images/gymnogobius_urotaenia_01.webp" /></td>
+</tr>
+<tr>
+<td>イサザ <em>G. isaza</em> (琵琶湖固有・EN)</td>
+<td><img alt="イサザ" src="images/gymnogobius_isaza_01.webp" /></td>
+</tr>
+<tr>
+<td>チチブ <em>Tridentiger obscurus</em></td>
+<td><img alt="チチブ" src="images/tridentiger_obscurus_01.webp" /></td>
+</tr>
+<tr>
+<td>ヌマチチブ <em>T. brevispinis</em></td>
+<td><img alt="ヌマチチブ" src="images/tridentiger_brevispinis_01.webp" /></td>
+</tr>
+<tr>
+<td>ミミズハゼ <em>Luciogobius guttatus</em></td>
+<td><img alt="ミミズハゼ" src="images/luciogobius_guttatus_01.webp" /></td>
+</tr>
+<tr>
+<td>ボウズハゼ <em>Sicyopterus japonicus</em></td>
+<td><img alt="ボウズハゼ" src="images/sicyopterus_japonicus_01.webp" /></td>
+</tr>
+<tr>
+<td>ムツゴロウ <em>Boleophthalmus pectinirostris</em></td>
+<td><img alt="ムツゴロウ" src="images/boleophthalmus_pectinirostris_01.webp" /></td>
+</tr>
+<tr>
+<td>トビハゼ <em>Periophthalmus modestus</em></td>
+<td><img alt="トビハゼ" src="images/periophthalmus_modestus_01.webp" /></td>
+</tr>
+<tr>
+<td>ドンコ <em>Odontobutis obscura</em></td>
+<td><img alt="ドンコ" src="images/odontobutis_obscura_01.webp" /></td>
+</tr>
+<tr>
+<td>カワアナゴ <em>Eleotris oxycephala</em></td>
+<td><img alt="カワアナゴ" src="images/eleotris_oxycephala_01.webp" /></td>
+</tr>
+<tr>
+<td>ルリボウズハゼ系 <em>Stiphodon</em></td>
+<td><img alt="Stiphodon" src="images/stiphodon_atropurpureus_01.webp" /></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="_5">横断的メモ (章をまたぐ論点)</h2>
+<h3 id="1-01-03">1. 科レベル分類の揺らぎ (01章 ↔ 03章)</h3>
+<ul>
+<li>Nelson et al. 2016 以降、Gobiidae から <strong>Oxudercidae</strong> を分立する 2 科体系が主流化。Rhinogobius は Oxudercidae: Gobionellinae に置かれる。</li>
+<li>ただし Thacker 系列の一部論文や Nakabo 2013 は 1 科 + 亜科制を維持。<strong>引用時はソースの時代・体系を明示すること</strong>。</li>
+</ul>
+<h3 id="2-rhinogobius-mizunoi">2. Rhinogobius mizunoi 記載年の矛盾</h3>
+<ul>
+<li>03章レポートは Suzuki, Shibukawa &amp; Aizawa <strong>2017</strong> とする (複数ソース一致)。</li>
+<li>ユーザのメモ (<code>project_rhinogobius_phase.md</code>) には「2020」とあるため、<strong>要再確認 → 原記載 PDF での突き合わせ必要</strong>。</li>
+</ul>
+<h3 id="3">3. 未記載種の便宜名マッピング</h3>
+<ul>
+<li><code>Rhinogobius sp. BB / BF / BI / DA / DL / CB / CO / OM / TO / YB / MO / KZ</code> 等の便宜名は情報源ごとに揺れあり。</li>
+<li>鈴木寿之氏の最新レビュー + 原記載論文での再確認が推奨される (07章末に追跡フロー記載)。</li>
+</ul>
+<h3 id="4">4. 画像の同定注意</h3>
+<ul>
+<li>Commons 上のファイル名と和名キャプションが不一致の例あり (例: <code>Rhinogobius_nagoyae_Nakagawa.webp</code> がシマヨシノボリとして投稿)。<code>images/MANIFEST.md</code> に個別注記済。Rhinogobius 改訂の進行中ゆえ。</li>
+</ul>
+<h3 id="5-06">5. 環境省レッドリスト現状 (06章)</h3>
+<ul>
+<li>2026-04 時点では <strong>RL2020 が最新</strong>。第5次 (汽水・淡水魚類) は 2026 年度以降予定。</li>
+<li>一次 PDF がバイナリで未抽出の項目あり — 次の作業候補。</li>
+</ul>
+<hr />
+<h2 id="_6">オフライン再現・更新の手順</h2>
+<pre><code class="language-bash">cd /home/kobayashi-takeru/work/shimatoshi/research-reports/biology/fish/gobies-overview/
+# 章を読む
+less 03-rhinogobius-deep-dive.md
+# 画像を開く
+xdg-open images/rhinogobius_flumineus_01.webp
+# マニフェストで出典確認
+less images/MANIFEST.md
+</code></pre>
+<h3 id="todo">追加作業の候補 (TODO)</h3>
+<ul>
+<li>[ ] 環境省レッドリスト 2020 別添資料3 (汽水・淡水魚類全種リスト) の PDF テキスト化</li>
+<li>[ ] <em>R. telma</em> の原記載 PDF 入手 + フリー画像なし → 標本写真の自前作成が必要</li>
+<li>[ ] Suzuki &amp; Chen 2011, Suzuki et al. 2015 (タイプ種 neotype 指定) の原著 PDF 入手</li>
+<li>[ ] McDowall 1997 (両側回遊改訂) PDF ダウンロード (04章ソースにリンクあり)</li>
+<li>[ ] iNaturalist research-grade 観察データ CSV 取得 (分布点マッピング用)</li>
+<li>[ ] Rhinogobius 主要 10 種の頬部斑紋クローズアップ写真の追補</li>
+</ul>
+<hr />
+<h2 id="_7">ライセンスと出典</h2>
+<ul>
+<li>画像: 全て CC BY / CC BY-SA / Public Domain (Wikimedia Commons)。個別出典は <code>images/MANIFEST.md</code>。</li>
+<li>テキスト: 本リポジトリ内部向け。各章末の Sources セクションに一次文献 URL/DOI。</li>
+</ul>
+<hr />
+<h2 id="_8">データセット統計</h2>
+<ul>
+<li>総ファイル数: 9 Markdown + 50 画像 (WebP) + 1 Manifest + 10 HTML = <strong>70 ファイル</strong></li>
+<li>総容量: <strong>33 MB</strong> (WebP化で 93 MB → 33 MB に圧縮)</li>
+<li>総文字数 (本文): 約 <strong>200,000 字</strong></li>
+<li>引用一次文献: <strong>100+ 件</strong> (各章合算)</li>
+<li>収録種数: <strong>70+ 種</strong> (日本産中心、東アジア含む)</li>
+</ul>
+<footer>
+generated from <code>README.md</code> / dataset: gobies-overview
+</footer>
+</body>
+</html>

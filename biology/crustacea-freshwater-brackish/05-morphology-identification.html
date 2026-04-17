@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>05. 淡水・汽水産甲殻類の形態と同定形質</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="05">05. 淡水・汽水産甲殻類の形態と同定形質</h1>
+<p>作成日: 2026-04-17
+対象: 淡水/汽水の十脚類 (カニ, エビ, ザリガニ), 端脚類 (ヨコエビ), 等脚類 (ミズムシ等), 枝角類 (ミジンコ), 橈脚類 (カイアシ)
+用途: 在野研究者のオフラインデータセット上での実用同定ガイド</p>
+<hr />
+<h2 id="0">0. 本資料の使い方</h2>
+<p>本稿は「現物を手に取って, ルーペ~実体顕微鏡で何をどう見るか」を軸にまとめた同定実務ガイドである. 種レベル記載は別資料 (04-species-catalog.md 予定) に譲り, ここでは<strong>形質の名称, 位置, 判別上の優先度</strong>に絞る. 文末に日本語術語 ↔ 英語対応表を置いた.</p>
+<p>観察順序の原則は以下の通り.
+1. 体サイズと全体プロポーション (十脚類の大分類: カニ/エビ/ザリガニ)
+2. 背面甲 (carapace) の形・縁の歯列・額角
+3. 腹面 (腹部, 腹肢, 生殖器) — 雌雄判別と種同定の決定打
+4. 胸脚 (特に第1・第2) の形と毛
+5. 触角・眼柄・尾節</p>
+<p>スケッチを描くときは<strong>甲幅 (CW) と甲長 (CL) に物差しの線</strong>を添え, 後から形質を後出しできるよう「全体 → 背面 → 腹面 → 鉗脚 → 額角拡大」の5点は必ず残す.</p>
+<hr />
+<h2 id="1-decapoda">1. 十脚目 (Decapoda) の基本体制</h2>
+<h3 id="11">1.1 二部構造: 頭胸部と腹部</h3>
+<p>Decapoda は20体節を持ち, 頭 (cephalon) と胸 (thorax) が融合した<strong>頭胸部 (cephalothorax)</strong> と, 後半の<strong>腹部 (pleon / abdomen)</strong> から成る. 頭胸部全体を覆う単一の背板を<strong>甲 (carapace)</strong> と呼び, その前端で眼の前方に突出する部分が<strong>額角 (rostrum)</strong> である.</p>
+<p>カニ (短尾下目, Brachyura) は腹部が小さく折りたたまれ甲の腹面に密着する. エビ (長尾類) は腹部が発達し遊泳筋が詰まる. ザリガニ (ザリガニ下目) は両者の中間で, 腹部は大きいが横へ広がる歩行主体の体制.</p>
+<h3 id="12-pereiopods-pleopods">1.2 付属肢 (pereiopods と pleopods)</h3>
+<p>「decapoda = 十脚」は胸部最後の5節に生じる<strong>5対の歩脚 (pereiopods)</strong> を指す. 通常は第1対が<strong>鉗脚 (cheliped)</strong> として特殊化しハサミ (chela) を持つ. 各歩脚の節は近位から遠位に <strong>底節 coxa → 基節 basis → 座節 ischium → 長節 merus → 腕節 carpus → 前節 propodus → 指節 dactylus</strong> の7節構成で, 記載文では「腕節に3突起」「長節の外縁に顆粒列」といった形で節名が多用される.</p>
+<p>腹部には<strong>腹肢 (pleopods, swimmerets)</strong> が各節につく. エビでは遊泳用, カニでは縮退ないし生殖器化. 腹部末端には<strong>尾節 (telson)</strong> と左右の<strong>尾肢 (uropods)</strong> が並び, エビでは扇状の<strong>尾扇 (tail fan)</strong> を形成する.</p>
+<h3 id="13">1.3 鰓</h3>
+<p>鰓 (gills) は甲側縁が覆う<strong>鰓室 (branchial chamber)</strong> の中に収まり, 基本は胸脚基部に由来する (底節鰓, 関節鰓, 側鰓など). 生時観察では見えないので, 殻から側縁を外して内部を覗く.</p>
+<h3 id="14">1.4 触角・眼柄</h3>
+<p>頭部前端には2対の触角がある.
+- <strong>第1触角 (antennule)</strong>: 小型2叉で嗅覚毛 (aesthetascs) を持つ. 化学受容が主.
+- <strong>第2触角 (antenna)</strong>: 長く機械受容主体. 基部に<strong>鱗状突起 (scaphocerite, antennal scale)</strong> がある. エビ類では<strong>楕円板状</strong>で種同定に使われる. カニでは著しく縮退.</p>
+<p>眼は有柄眼 (stalked eye) で<strong>眼柄 (eyestalk)</strong> の先端に角膜が載る. 眼柄の基部は<strong>眼窩 (orbit)</strong> に収まる. 眼窩の<strong>内縁 (inner orbital margin)</strong> と<strong>外縁 (outer orbital margin)</strong> の間の切れ込みの数・形は, カニ類 (とくにイワガニ上科) で科レベルの識別形質となる.</p>
+<hr />
+<h2 id="2-brachyura">2. カニ類 (Brachyura) の形質</h2>
+<h3 id="21-carapace">2.1 甲 (carapace) の計測と縁歯</h3>
+<p>基本計測は<strong>甲幅 CW (carapace width)</strong> と<strong>甲長 CL (carapace length)</strong>. CW/CL 比で「横長」(モクズガニ類 CW/CL ≈ 1.1) vs「ほぼ正方形」(サワガニ CW/CL ≈ 1.2 前後, 丸みを帯びる) が一目で分かる.</p>
+<p>甲の周縁は前方から順に次の名称を覚える.
+- <strong>額 (front)</strong>: 正面中央の縁. 切れ込みで<strong>額歯 (frontal teeth)</strong> を数える. モクズガニは4歯 (中央の2歯は丸い).
+- <strong>眼窩 (orbit)</strong> 内縁・外縁: 眼を収める凹み. 眼窩外歯 (exorbital tooth) の有無は重要.
+- <strong>前側縁 (anterolateral margin)</strong>: 眼窩外歯の後ろから甲の最大幅点まで. ここに並ぶ<strong>前側縁歯 (anterolateral teeth)</strong> の<strong>数</strong>が科/属の決定形質. モクズガニは眼窩外歯含めて前側縁に3~4歯 (記載者により数え方が異なるが, 眼窩外歯の後方に2歯とするのが多数派).
+- <strong>後側縁 (posterolateral margin)</strong>: 最大幅点から後端まで. なだらかに後方に細まる.
+- <strong>後縁 (posterior margin)</strong>: 腹部基部に接する短い辺.</p>
+<p>甲面の地紋は「顆粒 (granules)」「皺 (rugae)」「平滑 (smooth)」で記述する. モクズガニの甲面は全体に細顆粒が散らばる粗面, サワガニの甲面は<strong>ほぼ平滑</strong>で毛も突起もないのが典型.</p>
+<h3 id="22-v-vs">2.2 雄腹部 (V字) vs 雌腹部 (半円) — 雌雄判別の第一形質</h3>
+<p>カニを裏返すと, 腹部が甲の腹面に折りたたまれている. このカタチで瞬時に性別が分かる.
+- <strong>雄 (male)</strong>: 細く先細のV字型 (5~7節, 節間がくびれる). 「褌 (ふんどし) が狭い」.
+- <strong>雌 (female)</strong>: 幅広の半円~三角で, 甲幅に近い横幅を持つ. 成熟雌は腹内に卵塊を抱く.</p>
+<p>幼体では差が出にくい. 甲幅10 mm を超えてから確実に判別できる.</p>
+<h3 id="23-pleopods-g1g2">2.3 腹肢 (pleopods) と雄性生殖器 G1/G2</h3>
+<p>雄カニの腹部を開くと<strong>2対の腹肢</strong>だけが残る. これが<strong>雄性生殖肢 (gonopods)</strong> で, 前対が <strong>G1 (第1腹肢)</strong>, 後対が <strong>G2 (第2腹肢)</strong>. 雌では腹肢が4対あり, 卵を保持するブラシ状の毛を持つ.</p>
+<p><strong>サワガニ科・サワガニ上科 (Potamidae) では G1 終末節と亜終末節 (terminal / subterminal segment) の形状が種同定の決定形質</strong>. 外見がほぼ同じ種でも G1 先端の捻れ・キール (隆起線)・末端突起の位置で別種と判る. <em>Geothelphusa</em> 属の日本産種の分類大改訂 (Shih et al., 2024 など) は G1 形態の再検討に基づく. 実体顕微鏡下で腹部を外して G1 を側面・内側面から撮影し, 亜終末節の長さ比と終末節のねじれ方向を記録する.</p>
+<p>G2 は細長い輸精管状で G1 の補助 (ピストン) として機能する. 属レベルの安定形質になる.</p>
+<h3 id="24-cheliped">2.4 鉗脚 (cheliped)</h3>
+<p>多くの種で雌雄・左右差がある. モクズガニでは雄の鉗脚長節~掌節 (propodus palm) に<strong>濃密な軟毛束 (dense tuft of setae)</strong> が発達し, これが和名の由来 (藻屑). 雌の鉗脚は毛が薄くハサミも小さい. サワガニでは右鉗脚が大きくなる個体が多い (左優位個体もあり). アカテガニ類は掌部が赤橙色で色彩も診断形質となる.</p>
+<h3 id="25">2.5 主要科の実地識別要点 (淡水・汽水)</h3>
+<ul>
+<li><strong>サワガニ科 (Potamidae)</strong> <em>Geothelphusa</em>: 甲はやや方形で光沢平滑, 前側縁歯が不明瞭, 陸水性. 同定は G1 に頼る.</li>
+<li><strong>モクズガニ科 (Varunidae)</strong> <em>Eriocheir japonica</em>: 甲は六角形で幅広, 前側縁に明瞭な3~4歯, 鉗脚に毛束. 眼後に大きな歯3対.</li>
+<li><strong>イワガニ科 (Grapsidae)</strong> <em>Plagusia, Pachygrapsus</em> 等: 甲は四角に近く前側縁歯1~数本, 額が広く直線的.</li>
+<li><strong>ベンケイガニ上科 (Sesarmoidea)</strong> <em>Chiromantes</em> (クロベンケイガニ), <em>Chiromantes haematocheir</em> (アカテガニ): 甲は方形, 眼窩外歯は尖るが<strong>前側縁に歯がない or 痕跡的</strong>なのがアカテガニの特徴. ベンケイガニには1明瞭な前側縁歯.</li>
+<li><strong>オオギガニ科・コメツキガニ科・スナガニ科 (Ocypodoidea)</strong>: 汽水干潟種. 雄の片鉗が巨大化するシオマネキ類 (<em>Uca</em>/<em>Austruca</em>) は一目瞭然.</li>
+</ul>
+<hr />
+<h2 id="3-caridea-dendrobranchiata">3. エビ類 (Caridea, Dendrobranchiata) の形質</h2>
+<h3 id="31-rostrum">3.1 額角 (rostrum) — 最重要形質</h3>
+<p>エビの同定で最初に見るのは額角. 注目点は以下.
+1. <strong>長さ</strong> (額角長 / 甲長の比, または額角先端が第2触角柄のどこまで届くか: 第1柄節末, 第2柄節末, scaphocerite 先端など).
+2. <strong>曲がり</strong>: 直線状, 上反り, 下反り, S字.
+3. <strong>上縁歯 (dorsal teeth)</strong> の数: 甲上に乗る歯 (眼窩後方) と額角本体上の歯を合算するか区別するかに注意.
+4. <strong>下縁歯 (ventral teeth)</strong> の数.
+5. 先端近くの無歯域 (unarmed distal portion) の有無と比率.</p>
+<p>記述は<strong>歯式 (rostral formula)</strong>「上縁歯数 / 下縁歯数」あるいは「X+Y/Z」(X=甲上歯, Y=額角上歯, Z=下縁歯) で表す. 例: <em>Macrobrachium nipponense</em> ではおおむね <strong>11~14/2~4</strong>, 額角はほぼ直線で第2触角柄を越える. <em>Palaemon paucidens</em> は <strong>6~8/2~3</strong> 程度でより短く直線的. テナガエビ属 <em>Macrobrachium</em> の大型種 <em>M. rosenbergii</em> は額角が<strong>弓状に上反り先端が跳ね上がる</strong>のが特徴.</p>
+<p>額角上・下縁には二列の羽状剛毛 (plumose setae) が付く. <em>M. nipponense</em> は下縁に<strong>二列の剛毛列</strong>があり同属他種との差異になる.</p>
+<h3 id="32">3.2 頭胸甲の棘</h3>
+<p>額角後方の頭胸甲側面に並ぶ小棘の有無が科・属の決定形質.
+- <strong>肝上棘 (hepatic spine)</strong>: 甲側面, 肝臓領域に対応する位置.
+- <strong>触角上棘 (antennal spine)</strong>: 眼窩直後.
+- <strong>鰓前棘 (branchiostegal spine / pterygostomial spine)</strong>: 甲前側縁, 口器上方.
+- <strong>眼上棘 (supraorbital spine)</strong>: 眼窩上方.</p>
+<p>テナガエビ科 (Palaemonidae) テナガエビ属は <strong>触角上棘と鰓前棘を持ち, 肝上棘を欠く</strong>. ヌマエビ科 (Atyidae) ヌマエビ属は <strong>眼上棘と胸脚外肢を持つ</strong> — この2形質の確認でヌマエビ属は即同定できる (千葉県生物多様性センター マニュアルより).</p>
+<h3 id="33-12-vs">3.3 第1・第2胸脚: ヌマエビ科 vs テナガエビ科の決定的差異</h3>
+<p>淡水エビ二大科の鑑別はここで決着する.</p>
+<p><strong>ヌマエビ科 Atyidae</strong>:
+- 第1胸脚・第2胸脚が<strong>筆状 (tuft / brush)</strong> に終わる. 指節先端にふさふさした長毛束があり, ハサミはあるが小さく機能的に濾過摂食用.
+- 摂食は水中のデトリタスや藻を毛束で絡め取る<strong>濾過食 / スクレイパー食</strong>.
+- 体サイズ小 (成体15~40 mm).
+- 代表: ヌマエビ <em>Paratya compressa</em>, ミナミヌマエビ <em>Neocaridina denticulata</em>, ヤマトヌマエビ <em>Caridina multidentata</em>, トゲナシヌマエビ <em>Caridina typus</em>.</p>
+<p><strong>テナガエビ科 Palaemonidae</strong>:
+- 第2胸脚が<strong>顕著に長大化・鉗状</strong>. 特に雄の <em>Macrobrachium</em> では第2胸脚が体長を超えることもあり, 「テナガ」の和名はここに由来.
+- 第1胸脚も鉗状だが小型. ハサミは真のピンセット型で毛束は持たない.
+- <strong>肉食~雑食</strong>. 小魚や他エビを捕食.
+- 代表: テナガエビ <em>Macrobrachium nipponense</em>, スジエビ <em>Palaemon paucidens</em>, ミナミテナガエビ <em>M. formosense</em>, ヒラテテナガエビ <em>M. japonicum</em>.</p>
+<p><strong>実地判定フロー</strong>: ルーペで第2胸脚先端を見る → <strong>筆毛の束が明瞭 = ヌマエビ科</strong> / <strong>裸の鋏で毛束なし = テナガエビ科</strong>. これで99%決まる.</p>
+<h3 id="34">3.4 歩脚の節と外肢</h3>
+<p>エビ類の歩脚は7節. ヌマエビ科では胸脚基部に<strong>外肢 (exopod)</strong> が残存する (ヌマエビ属で顕著). テナガエビ科では外肢を欠く. 外肢は細い糸状付属肢で実体顕微鏡下で確認する.</p>
+<h3 id="35">3.5 腹肢・尾節・尾扇</h3>
+<p>腹肢 (pleopods) は5対で遊泳と卵保護を兼ねる. 雄の<strong>第1腹肢内肢 (endopod)</strong> と<strong>第2腹肢の雄性突起 (appendix masculina)</strong> は種によって棘数や形が異なり, テナガエビ属の同定に使われる.</p>
+<p><strong>尾節 (telson)</strong> 後縁には 2対の可動棘 (distal cuspidate setae) が並ぶ. この対数と位置 (内側/外側), 尾節背面棘 (dorsal spines) の対数は <em>Palaemon</em> vs <em>Palaemonetes</em> vs <em>Exopalaemon</em> の属識別形質.</p>
+<p><strong>尾扇</strong>: 尾肢 (uropod) の内肢・外肢と尾節が扇形を作る. 外肢外縁に<strong>外肢縫合 (diaeresis)</strong> があり, その上の動棘数も属記載で参照される.</p>
+<h3 id="36-12-scaphocerite">3.6 第1・第2触角と scaphocerite</h3>
+<p>第2触角基部の scaphocerite (鱗状突起) は<strong>形・長さ・先端棘</strong>が種同定に寄与する.
+- 先端が尖り棘が突出する型 (テナガエビ属 <em>Macrobrachium</em>)
+- 先端が鈍く幅広い型 (一部ヌマエビ属)
+- 全長が額角とほぼ同長で鑑別に使える.</p>
+<p>第1触角 (antennule) の柄節基部には<strong>眼柄を保護する刺状突起 (stylocerite)</strong> があり, その長さ比 (柄節第1節に対して) も種形質.</p>
+<h3 id="37">3.7 エビ類の雌雄判別</h3>
+<ul>
+<li><strong>雄</strong>: 第1腹肢内肢に <strong>appendix interna</strong>, 第2腹肢に <strong>appendix masculina</strong> を持つ. 第2胸脚が大型化 (テナガエビ科). 第2腹節の胸甲 (pleura) が雌より狭い.</li>
+<li><strong>雌</strong>: appendix masculina を欠く. 第2腹節の胸甲が側方に張り出し腹部がわずかに幅広. 抱卵期は腹肢に卵塊を保持する.</li>
+</ul>
+<p>ヌマエビ類は外見差が小さいので, 腹部側面 (第2腹節) の張り出しと抱卵の有無で判断する.</p>
+<hr />
+<h2 id="4-astacidea">4. ザリガニ類 (Astacidea) の形質</h2>
+<p>日本の淡水ザリガニは<strong>ニホンザリガニ <em>Cambaroides japonicus</em></strong> (北日本固有), <strong>アメリカザリガニ <em>Procambarus clarkii</em></strong> (外来), <strong>ウチダザリガニ <em>Pacifastacus leniusculus</em></strong> (外来) の3種が主. いずれも以下の共通形質で識別する.</p>
+<ul>
+<li><strong>鉗脚 (cheliped)</strong>: 第1胸脚が巨大化しハサミを形成. 掌節 (palm) の幅・外縁顆粒・可動指 (dactylus) の歯列が形態形質.<ul>
+<li>アメリカザリガニ: 掌節が細長く赤色, 可動指の内縁に黒い歯列.</li>
+<li>ウチダザリガニ: 掌節幅広く指節関節部に<strong>白~青色斑 (鉗白斑)</strong> があるのが決定的 (和名の英語 signal crayfish の由来).</li>
+<li>ニホンザリガニ: 全体褐色~暗赤色, 掌節顆粒が粗く, 甲長40 mm 前後と小型.</li>
+</ul>
+</li>
+<li><strong>額角 (rostrum)</strong>: 左右縁の棘の有無, 先端の細長さ. ニホンザリガニは額角縁に<strong>棘を欠き</strong>なめらか, 外来2種は側縁に小棘を持つ.</li>
+<li><strong>頸溝 (cervical groove)</strong> の形: ウチダザリガニは頸溝後方に<strong>後頸棘 (postorbital ridge spine)</strong> が1対あり, ニホンザリガニはこれを欠く.</li>
+<li><strong>第3顎脚 (maxilliped 3)</strong>: 口器の最外層. 座節内縁の歯列数・外肢の有無で属識別. ザリガニでは第3顎脚が歩脚様に発達し観察しやすい.</li>
+<li><strong>腹部</strong>: エビ同様5対の腹肢. 雄は第1・第2腹肢が管状の<strong>交接器 (gonopods)</strong> に特殊化. 雌は第1腹肢を欠くか著しく退化. 裏返して腹肢配列を見れば即判別.</li>
+</ul>
+<hr />
+<h2 id="5-amphipoda">5. ヨコエビ類 (Amphipoda) の形質</h2>
+<p>側扁型で体を横に倒して遊泳する. 淡水・汽水では <strong>Gammaridae</strong> (キタノガンマヨコエビ等), <strong>Hyalellidae</strong>, <strong>Talitridae</strong> (ハマトビムシ等) が主.</p>
+<ul>
+<li><strong>胸節 7自由節 + 腹節 6節</strong>: 等脚類と違い胸節がやや高く, 腹部は明瞭な節構造. 腹部は前半3節の <strong>pleosome (遊泳部)</strong> と後半3節の <strong>urosome (尾部)</strong> に分かれる.</li>
+<li><strong>咬脚 (gnathopod)</strong>: 第1・第2胸脚が握り爪状に特殊化したもので, ヨコエビ特有の形質. 雄は雌より咬脚が大きく, 配偶前ガード (precopula) で雌を掴む. 属・種同定で最重要.</li>
+<li><strong>歩脚 (pereopods) 3~7</strong>: 第3・4対は前方を向き, 第5~7対は後方を向く. 節比・棘数が形質.</li>
+<li><strong>触角</strong>: 第1触角 (antennula) と第2触角 (antenna) の長さ比, 副鞭 (accessory flagellum) の節数が分類形質.</li>
+<li><strong>尾肢 (uropods)</strong>: 3対. 外肢・内肢の長さ比, 棘数, <strong>テルソン (telson)</strong> の切れ込みの有無.</li>
+<li><strong>鰓</strong>: 胸脚底節に板状鰓 (coxal gills).</li>
+</ul>
+<p>実用上は「<strong>雄の第2咬脚の掌形 (palm shape)</strong>」と「<strong>第1触角の副鞭の節数 (0, 数節, 多節)</strong>」でほぼ属が絞れる.</p>
+<hr />
+<h2 id="6-isopoda">6. 等脚類 (Isopoda) の形質</h2>
+<p>背腹方向に扁平. 淡水には <strong>ミズムシ <em>Asellus hilgendorfii</em></strong> (Asellidae), 汽水~半陸に <strong>フナムシ類 <em>Ligia</em></strong> (Ligiidae). Isopoda = 等しい脚の意で, <strong>胸部7自由節それぞれに同型の歩脚1対</strong>を持つ (= 7対14本). 第1胸節のみ頭部と融合し顎脚 (maxilliped) 化.</p>
+<ul>
+<li><strong>頭部</strong>: 触角2対, 複眼 (柄なし, 頭側面直付け).</li>
+<li><strong>胸部 (pereon) 7節</strong>: 各節の側板 (epimera / coxal plates) の張り出しが形質.</li>
+<li><strong>腹部 (pleon)</strong>: 5自由節 + 融合した腹尾節 (pleotelson). 腹肢5対が<strong>板状鰓 (pleopodal gills)</strong> として呼吸の主役. アミノ酸代謝と浸透圧調節もここ.</li>
+<li><strong>尾肢 (uropods)</strong>: 最後端から1対が後方~側方に突出. ミズムシでは細長く糸状, フナムシでは幅広で2叉.</li>
+</ul>
+<p>雌雄判別は雄の<strong>第2腹肢先端の交尾突起 (appendix masculina)</strong> と, 雌の胸節腹面の<strong>育房 (marsupium, oostegites が形成)</strong> の有無で行う.</p>
+<hr />
+<h2 id="7-cladocera-copepoda">7. 枝角類 (Cladocera) と橈脚類 (Copepoda)</h2>
+<p>プランクトン系. ルーペ~低倍率顕微鏡 (40~100×) で観察.</p>
+<h3 id="71-cladocera">7.1 Cladocera (ミジンコ等)</h3>
+<ul>
+<li>体を覆う2枚貝様の<strong>甲 (carapace, bivalved)</strong>. 頭部は甲から露出.</li>
+<li><strong>単眼 (ocellus) + 大型複眼</strong>: 複眼は正中に1個 (左右が融合). 単眼は複眼よりも腹側に小さく1個 (属によっては欠く).</li>
+<li><strong>第1触角</strong>: 小型, 不分節, 嗅覚毛.</li>
+<li><strong>第2触角</strong>: 大きく2叉し<strong>遊泳脚化</strong>. 羽状剛毛 (setae) の配列パターンが属同定に使われる (Sida, Daphnia, Bosmina, Chydoridae, 等).</li>
+<li><strong>胸脚</strong>: 殻の中に4~6対, 濾過摂食用に発達.</li>
+<li><strong>尾爪 (postabdominal claw / caudal claw)</strong>: 後腹部末端の湾曲した1対の爪. 爪基部の棘 (basal spine) の有無・数, 爪縁の鋸歯列が種形質.</li>
+</ul>
+<h3 id="72-copepoda">7.2 Copepoda (カイアシ類)</h3>
+<ul>
+<li>体は<strong>前体部 (prosome)</strong> と<strong>後体部 (urosome)</strong> に分かれる. 前体部は頭胸, 後体部は細い腹部.</li>
+<li><strong>単眼 (naupliar eye)</strong> 1個が額中央に赤~黒点として見える (ナウプリウス眼, 複眼はない).</li>
+<li><strong>第1触角</strong>: 長く分節多数. 雄ではしばしば片方 (通常右) が<strong>幾何節化 (geniculate)</strong> し把握器になる (カラヌス目・キクロプス目).</li>
+<li><strong>第2触角</strong>: 短く2叉ないし単枝.</li>
+<li><strong>胸脚</strong>: 遊泳脚 4~5対. 第5脚 (P5) の構造が雄雌で大きく異なり, <strong>種同定の主形質</strong>.</li>
+<li><strong>尾叉 (caudal ramus, furca)</strong>: 後体部末端の左右1対の棒状突起. 先端に剛毛 (caudal setae) が並ぶ. 叉の長さ/幅比, 剛毛数, 装飾棘が種形質.</li>
+<li><strong>卵嚢 (egg sac)</strong>: 雌は腹部基部に1~2個の卵嚢を抱える (カラヌス目は1個, キクロプス目は2個).</li>
+</ul>
+<hr />
+<h2 id="8">8. 日本語術語 ↔ 英語 対応表</h2>
+<h3 id="81">8.1 体の区分</h3>
+<table>
+<thead>
+<tr>
+<th>日本語</th>
+<th>英語</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>頭胸部</td>
+<td>cephalothorax</td>
+</tr>
+<tr>
+<td>甲 (背甲)</td>
+<td>carapace</td>
+</tr>
+<tr>
+<td>腹部</td>
+<td>pleon / abdomen</td>
+</tr>
+<tr>
+<td>尾節</td>
+<td>telson</td>
+</tr>
+<tr>
+<td>尾扇</td>
+<td>tail fan</td>
+</tr>
+<tr>
+<td>胸節</td>
+<td>pereonite / thoracic somite</td>
+</tr>
+<tr>
+<td>腹節</td>
+<td>pleonite / abdominal somite</td>
+</tr>
+<tr>
+<td>節 (付属肢の)</td>
+<td>article / segment</td>
+</tr>
+</tbody>
+</table>
+<h3 id="82">8.2 甲・頭部の構造</h3>
+<table>
+<thead>
+<tr>
+<th>日本語</th>
+<th>英語</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>額角</td>
+<td>rostrum</td>
+</tr>
+<tr>
+<td>額</td>
+<td>front</td>
+</tr>
+<tr>
+<td>額歯</td>
+<td>frontal teeth</td>
+</tr>
+<tr>
+<td>眼窩</td>
+<td>orbit</td>
+</tr>
+<tr>
+<td>眼窩内縁</td>
+<td>inner orbital margin</td>
+</tr>
+<tr>
+<td>眼窩外歯</td>
+<td>exorbital tooth</td>
+</tr>
+<tr>
+<td>前側縁</td>
+<td>anterolateral margin</td>
+</tr>
+<tr>
+<td>前側縁歯</td>
+<td>anterolateral teeth</td>
+</tr>
+<tr>
+<td>後側縁</td>
+<td>posterolateral margin</td>
+</tr>
+<tr>
+<td>後縁</td>
+<td>posterior margin</td>
+</tr>
+<tr>
+<td>頸溝</td>
+<td>cervical groove</td>
+</tr>
+<tr>
+<td>甲幅</td>
+<td>carapace width (CW)</td>
+</tr>
+<tr>
+<td>甲長</td>
+<td>carapace length (CL)</td>
+</tr>
+<tr>
+<td>肝上棘</td>
+<td>hepatic spine</td>
+</tr>
+<tr>
+<td>触角上棘</td>
+<td>antennal spine</td>
+</tr>
+<tr>
+<td>鰓前棘</td>
+<td>branchiostegal / pterygostomial spine</td>
+</tr>
+<tr>
+<td>眼上棘</td>
+<td>supraorbital spine</td>
+</tr>
+<tr>
+<td>眼柄</td>
+<td>eyestalk</td>
+</tr>
+</tbody>
+</table>
+<h3 id="83">8.3 触角系</h3>
+<table>
+<thead>
+<tr>
+<th>日本語</th>
+<th>英語</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第1触角</td>
+<td>antennule / antenna 1</td>
+</tr>
+<tr>
+<td>第2触角</td>
+<td>antenna / antenna 2</td>
+</tr>
+<tr>
+<td>鱗状突起</td>
+<td>scaphocerite / antennal scale</td>
+</tr>
+<tr>
+<td>副鞭</td>
+<td>accessory flagellum</td>
+</tr>
+<tr>
+<td>嗅覚毛</td>
+<td>aesthetasc</td>
+</tr>
+<tr>
+<td>眼柄突起</td>
+<td>stylocerite</td>
+</tr>
+</tbody>
+</table>
+<h3 id="84">8.4 胸脚・腹肢</h3>
+<table>
+<thead>
+<tr>
+<th>日本語</th>
+<th>英語</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>歩脚</td>
+<td>pereiopod</td>
+</tr>
+<tr>
+<td>鉗脚</td>
+<td>cheliped</td>
+</tr>
+<tr>
+<td>ハサミ</td>
+<td>chela</td>
+</tr>
+<tr>
+<td>可動指</td>
+<td>dactylus</td>
+</tr>
+<tr>
+<td>不動指</td>
+<td>fixed finger / pollex</td>
+</tr>
+<tr>
+<td>底節</td>
+<td>coxa</td>
+</tr>
+<tr>
+<td>基節</td>
+<td>basis</td>
+</tr>
+<tr>
+<td>座節</td>
+<td>ischium</td>
+</tr>
+<tr>
+<td>長節</td>
+<td>merus</td>
+</tr>
+<tr>
+<td>腕節</td>
+<td>carpus</td>
+</tr>
+<tr>
+<td>前節</td>
+<td>propodus</td>
+</tr>
+<tr>
+<td>掌節 (カニ)</td>
+<td>palm</td>
+</tr>
+<tr>
+<td>指節</td>
+<td>dactylus</td>
+</tr>
+<tr>
+<td>外肢</td>
+<td>exopod</td>
+</tr>
+<tr>
+<td>内肢</td>
+<td>endopod</td>
+</tr>
+<tr>
+<td>第3顎脚</td>
+<td>third maxilliped</td>
+</tr>
+<tr>
+<td>腹肢</td>
+<td>pleopod / swimmeret</td>
+</tr>
+<tr>
+<td>雄性生殖肢 (カニ)</td>
+<td>gonopod (G1/G2)</td>
+</tr>
+<tr>
+<td>雄性突起 (エビ)</td>
+<td>appendix masculina</td>
+</tr>
+<tr>
+<td>内肢付属突起</td>
+<td>appendix interna</td>
+</tr>
+<tr>
+<td>尾肢</td>
+<td>uropod</td>
+</tr>
+<tr>
+<td>外肢縫合</td>
+<td>diaeresis</td>
+</tr>
+<tr>
+<td>咬脚 (ヨコエビ)</td>
+<td>gnathopod</td>
+</tr>
+</tbody>
+</table>
+<h3 id="85">8.5 装飾・表面</h3>
+<table>
+<thead>
+<tr>
+<th>日本語</th>
+<th>英語</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>顆粒</td>
+<td>granule</td>
+</tr>
+<tr>
+<td>棘</td>
+<td>spine</td>
+</tr>
+<tr>
+<td>歯</td>
+<td>tooth</td>
+</tr>
+<tr>
+<td>剛毛</td>
+<td>seta (pl. setae)</td>
+</tr>
+<tr>
+<td>羽状剛毛</td>
+<td>plumose seta</td>
+</tr>
+<tr>
+<td>毛束</td>
+<td>tuft of setae</td>
+</tr>
+<tr>
+<td>平滑</td>
+<td>smooth</td>
+</tr>
+<tr>
+<td>皺</td>
+<td>ruga (pl. rugae)</td>
+</tr>
+<tr>
+<td>鋸歯</td>
+<td>serrate / denticulate</td>
+</tr>
+<tr>
+<td>稜 / 隆起線</td>
+<td>keel / carina</td>
+</tr>
+</tbody>
+</table>
+<h3 id="86">8.6 計測・記載略語</h3>
+<table>
+<thead>
+<tr>
+<th>略語</th>
+<th>日本語</th>
+<th>英語</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CL</td>
+<td>甲長</td>
+<td>carapace length</td>
+</tr>
+<tr>
+<td>CW</td>
+<td>甲幅</td>
+<td>carapace width</td>
+</tr>
+<tr>
+<td>TL</td>
+<td>全長</td>
+<td>total length</td>
+</tr>
+<tr>
+<td>BL</td>
+<td>体長</td>
+<td>body length</td>
+</tr>
+<tr>
+<td>RL</td>
+<td>額角長</td>
+<td>rostrum length</td>
+</tr>
+<tr>
+<td>G1 / G2</td>
+<td>第1/2雄性生殖肢</td>
+<td>first/second gonopod</td>
+</tr>
+<tr>
+<td>P1~P5</td>
+<td>第1~第5胸脚</td>
+<td>pereiopod 1-5</td>
+</tr>
+<tr>
+<td>Plp1~Plp5</td>
+<td>第1~第5腹肢</td>
+<td>pleopod 1-5</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="9">9. ランドマーク注釈 (実地メモ例)</h2>
+<p>現場でスケッチに書き込む形の短い注釈例. 観察の型を身につけるための教材として.</p>
+<ul>
+<li><strong>モクズガニ</strong> <em>Eriocheir japonica</em>: 甲は六角形, CW/CL ≈ 1.1. 額4歯 (中央2歯は鈍い). 前側縁 眼窩外歯+2歯 = 計3歯. 甲面に顆粒多数. 雄鉗脚 掌節~指節基部に<strong>濃密な軟毛束</strong>, 雌は疎. 汽水域で成体, 産卵は海.</li>
+<li><strong>サワガニ</strong> <em>Geothelphusa dehaani</em> sensu lato: 甲はほぼ方形, 光沢平滑, 毛・顆粒ほぼなし. 前側縁歯不明瞭. 額は直線~弱く湾入. 色彩は黒褐~赤橙~青白と多型. <strong>種同定は雄 G1 終末節形</strong>に依存. 2024年に D H Shih らが複数未記載種を記述, 流域によって別種であることが明らかに.</li>
+<li><strong>アカテガニ</strong> <em>Chiromantes haematocheir</em>: 甲方形, CW 35 mm 級. 眼窩外歯は尖るが<strong>前側縁歯を欠く</strong> (痕跡的). 鉗脚は鮮紅色. 半陸生, 河口~後背湿地.</li>
+<li><strong>クロベンケイガニ</strong> <em>Chiromantes dehaani</em>: 全身灰褐色, 鉗脚は紫褐色. 前側縁歯はほぼなし (痕跡的). アカテガニよりがっしり. 河口の石の下.</li>
+<li><strong>テナガエビ</strong> <em>Macrobrachium nipponense</em>: 額角直線, 第2触角柄を越える. 歯式 上11~14 / 下2~4. 肝上棘を欠き, 触角上棘+鰓前棘あり. 雄第2胸脚が著しく長く, 体長に匹敵. 汽水~純淡水.</li>
+<li><strong>スジエビ</strong> <em>Palaemon paucidens</em>: 額角上反り弱, 上6~8/下2~3. 体側に明瞭な<strong>黒褐色のV字斑</strong>が縦走 (和名由来). 純淡水.</li>
+<li><strong>ヤマトヌマエビ</strong> <em>Caridina multidentata</em>: 額角ほぼ直線, 体側に点列. 第1・第2胸脚の筆状毛束明瞭. 両側回遊型 (幼生は海降下).</li>
+<li><strong>ミナミヌマエビ/カワリヌマエビ属</strong> <em>Neocaridina denticulata</em> 群: 小型 (~30 mm), 額角短く眼柄をわずかに超える程度. 純淡水で陸封化. 外来系統 (シナヌマエビ等) との混在が全国で問題化.</li>
+<li><strong>ニホンザリガニ</strong> <em>Cambaroides japonicus</em>: CL 40 mm 級で小型. 額角側縁棘なし, 後頸棘なし, 掌節暗褐色で顆粒粗大. 北海道~東北の冷水河川.</li>
+<li><strong>ウチダザリガニ</strong> <em>Pacifastacus leniusculus</em>: 鉗脚関節部に<strong>白~青色斑 (signal)</strong>. 頸溝後方に後頸棘. 外来, 摩周湖導入が起点で全国拡散.</li>
+</ul>
+<hr />
+<h2 id="10">10. 観察・記録テンプレート</h2>
+<p>野外採集個体に対して最低限残しておくべき形質項目.</p>
+<pre><code>採集日: YYYY-MM-DD / 場所: (緯度経度, 水系, 塩分)
+水温: __°C / 塩分: __ psu / pH: __
+種名 (仮): ________________________________
+全長 TL: __ mm / 甲長 CL: __ mm / 甲幅 CW: __ mm (カニ)
+性別: 雄 / 雌 / 不明 (根拠: 腹部形, 腹肢, 抱卵 等)
+
+[カニの場合]
+- 額歯数: __
+- 眼窩外歯: 有/無
+- 前側縁歯数 (眼窩外歯含む/除く): __
+- 甲面: 平滑 / 顆粒 / 皺
+- 鉗脚毛束: 有 (部位: ) / 無
+- G1 形状メモ: (スケッチ別添)
+
+[エビの場合]
+- 額角 歯式 (上/下): __ / __
+- 額角長 (scaphocerite との比): __
+- 頭胸甲棘: 触角上棘__ 鰓前棘__ 肝上棘__ 眼上棘__
+- 第1胸脚: 筆状/鉗状
+- 第2胸脚: 筆状/鉗状, 長さ (体長比): __
+- 胸脚外肢の有無: __
+- 尾節背面棘対数: __
+
+[ザリガニの場合]
+- 鉗脚関節白斑: 有/無
+- 後頸棘: 有/無
+- 額角側縁棘: 有/無
+
+写真: 全体, 背面, 腹面, 鉗脚外内側, 額角拡大, (雄) G1 or 第2腹肢, 所要最低5枚.
+</code></pre>
+<hr />
+<h2 id="11_1">11. 引用・参考資料</h2>
+<p>本稿の記述は以下の一次資料および概説に依拠する. URL は収集時点 (2026-04) で到達可能.</p>
+<ul>
+<li>Decapod anatomy (Wikipedia): https://en.wikipedia.org/wiki/Decapod_anatomy</li>
+<li>Glossary of Terms for Decapods (SC DNR): https://www.dnr.sc.gov/marine/sertc/Glossary.pdf</li>
+<li>Crustacea Glossary (NHM): https://research.nhm.org/glossary/</li>
+<li>Treatise on Zoology — The Crustacea: https://decapoda.nhm.org/pdfs/38918/38918.pdf</li>
+<li>千葉県生物多様性センター 淡水エビ類マニュアル (ヌマエビ科・テナガエビ科): https://www.bdcchiba.jp/date/monitor/ebimanual4.pdf, ebimanual5.pdf</li>
+<li>琉球列島産ネッタイテナガエビ種群の分類と形態 (Saeki et al.): https://u-ryukyu.repo.nii.ac.jp/record/2010030</li>
+<li>Shih et al. (2024) "The identity of <em>Geothelphusa dehaani</em> (White, 1847) with descriptions of two new species from Japan" (ResearchGate): https://www.researchgate.net/publication/380098362</li>
+<li>Candidiopotamon gonopod revision (Taiwan): https://pmc.ncbi.nlm.nih.gov/articles/PMC10507446/</li>
+<li>モクズガニ Wikipedia / 市場魚貝類図鑑 / 環境省選定資料</li>
+<li>ミナミヌマエビ・カワリヌマエビ属 国立環境研究所 侵入生物DB: https://www.nies.go.jp/biodiversity/invasive/DB/detail/70530.html</li>
+<li>Freshwater Crustacean Zooplankton of Europe (Cladocera &amp; Copepoda) Key (Springer): https://link.springer.com/book/10.1007/978-3-319-29871-9</li>
+</ul>
+<h3 id="_1">関連ファイル (同プロジェクト内)</h3>
+<ul>
+<li><code>biology/crustacea-freshwater-brackish/images/</code> — 個別種画像ストック (本稿では画像を埋め込まない運用)</li>
+<li>(予定) <code>04-species-catalog.md</code> — 種別個票</li>
+<li>(予定) <code>06-field-collecting-protocol.md</code> — 採集・固定・保存プロトコル</li>
+</ul>
+<footer>
+generated from <code>05-morphology-identification.md</code> / dataset: crustacea-freshwater-brackish
+</footer>
+</body>
+</html>

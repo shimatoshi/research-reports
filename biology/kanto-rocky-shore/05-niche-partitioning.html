@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>関東岩礁海岸のニッチ分割と群集動態</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">関東岩礁海岸のニッチ分割と群集動態</h1>
+<p><strong>対象地域</strong>: 関東太平洋岸（三浦半島・房総半島・相模湾〜外房）
+<strong>対象群集</strong>: 岩礁潮間帯〜潮下帯上部の動物・藻類群集
+<strong>観点</strong>: 種間競争／捕食／撹乱／遷移／機能群による群集構造の生態学的解釈
+<strong>作成日</strong>: 2026-04-17</p>
+<hr />
+<h2 id="1">1. はじめに：岩礁海岸がニッチ理論の「実験室」である理由</h2>
+<p>岩礁潮間帯（rocky intertidal）は、海洋生態学においてニッチ分割・種間競争・捕食・撹乱といった群集生態学の主要概念が最初に実証的に検証されたフィールドである。その理由は三つある。第一に、垂直方向のわずか数メートルの中に乾燥・温度・波浪・溶存酸素といった物理環境の急峻な勾配が凝縮されていること。第二に、多くの固着動物（フジツボ、イガイ、カキ）は成体が移動せず「空間」という限定資源を直接競うこと。第三に、小規模な囲い込み・除去実験が施行可能であり、理論に対する実験的反証が容易であること、である。Connell (1961)、Paine (1966, 1974)、Dayton (1971)、Lubchenco (1980)、Menge &amp; Sutherland (1987) など、群集生態学の古典はほぼ全てこの舞台で作られた。</p>
+<p>関東沿岸は黒潮支流の影響下で暖温帯北限〜中央部に位置し、フジツボ帯・イガイ帯・アラメ／カジメ帯という「北東太平洋型に類似した zonation」を示しつつ、同時に近年の海水温上昇で南方種の流入が顕著である。本レポートでは、上記の古典的理論枠組みを関東岩礁の種群に当てはめ、ニッチ分割の実体と、磯焼け・台風撹乱・温暖化といった群集動態の駆動因を整理する。</p>
+<hr />
+<h2 id="2-zonation">2. 固着動物の空間競争と zonation</h2>
+<h3 id="21-connell-1961-3">2.1 Connell (1961) モデルの関東版：フジツボ 3 種</h3>
+<p>Connell (1961, Ecol. Monogr.) はスコットランドの岩礁で、<em>Chthamalus stellatus</em>（小型・高潮帯）と <em>Semibalanus balanoides</em>（大型・中潮帯）の成体分布が「下限は種間競争で、上限は物理ストレス（乾燥）で決まる」ことを除去実験で証明した。これは「基本ニッチ（fundamental niche）＝物理的に許容される最大範囲」と「実現ニッチ（realized niche）＝競争後に実際に占める範囲」の区別を実証した最初の例である。</p>
+<p>関東岩礁では同様の構造が <strong>イワフジツボ <em>Chthamalus challengeri<em>／シロスジフジツボ </em>Fistulobalanus albicostatus<em>／クロフジツボ </em>Tetraclita japonica</em></strong> の 3 種で再現されうる。</p>
+<ul>
+<li><strong>イワフジツボ</strong>：殻径 5 mm 前後で乾燥耐性が高い。潮間帯最上部（Stephenson 系でいう <em>Chthamalus</em> 帯）を占有する。幼生は下方にも加入するが、成体としては定着しない。これは Connell の <em>Chthamalus stellatus</em> に対応する位置づけである。</li>
+<li><strong>クロフジツボ</strong>：殻径 2 cm を超える大型種。三浦半島荒崎・城ヶ島・房総外房の波当たりの強い中潮帯を帯状に被覆する。成長速度と殻サイズで小型フジツボを下方から物理的に排除し、同時に自身は乾燥・高温に弱いため上方へ進出できない。Connell モデルの <em>Semibalanus</em> に相当する「競争優位・ストレス劣位」種である。</li>
+<li><strong>シロスジフジツボ</strong>：内湾性で、東京湾奥・内房・浦賀水道奥の護岸・干潟縁の岩礁に優占する。外洋露出岸では稀。これは 3 種目の競争者というより、環境軸（塩分変動・堆積物・波浪弱）上の異なるニッチを占める「環境による住み分け」の例と解釈できる（向井の日本沿岸フジツボ繁殖生態に関する総説も、種別の塩分耐性・加入時期の差異を指摘している）。</li>
+</ul>
+<p>関東では Connell 型の厳密な除去実験はほぼ行われていないが、三浦半島各地のモニタリング（横須賀市博物館資料など）は、<strong>物理ストレス勾配（上方）と競争排除（下方）の二重の挟み込みで各種の実現ニッチ幅が決まる</strong>という Connell 的枠組みと整合的である。</p>
+<h3 id="22-paine-1966">2.2 Paine (1966) のキーストーン捕食者：イボニシを代役として</h3>
+<p>Paine (1966, Am. Nat.) はワシントン州の岩礁からヒトデ <em>Pisaster ochraceus</em> を除去すると、9 ヶ月で <em>Mytilus californianus</em> が中潮帯を独占し、共存していた 15 種が 8 種に減少したことを示し、のちに「keystone species」概念（Paine 1969）を提唱した。この実験は「競争排除に至る優占種を捕食者が間引くことで共存が維持される」という trophic control の原型である。</p>
+<p>関東太平洋岸にはヒトデ類（イトマキヒトデ <em>Patiria pectinifera</em>、キヒトデ <em>Asterias amurensis</em>）が分布するが、Pisaster 型の強力な捕食圧を潮間帯で発揮する証拠は乏しい。代わって関東の潮間帯で機能的に類似した役割を果たす可能性があるのが <strong>イボニシ <em>Reishia clavigera</em></strong>（旧 <em>Thais clavigera</em>）である。イボニシは穿孔腺から酸を分泌し歯舌で穴を開けてフジツボ・イガイ・カキの体内を摂食する専門捕食者であり、穿孔・周縁攻撃・無痕攻撃の 3 様式を獲物種ごとに使い分ける。地域個体群レベルの捕食強度次第でフジツボ・イガイ被度に強い影響を与えうる点で、キーストーン「類似」の機能を担うと考えられる。ただし、Paine のヒトデほど群集構造を単独で規定するかは実験的に検証されておらず、むしろ Menge &amp; Sutherland (1987) モデルで後述するように、<strong>波浪・温度ストレス勾配に応じて捕食圧の効きが変動する「中間的消費者」</strong>と位置づけるのが妥当である。</p>
+<h3 id="23">2.3 カメノテ・イガイとスペース競争</h3>
+<p>波当たりの強い外洋岸では、中〜下部潮間帯でクロフジツボ・カメノテ <em>Capitulum mitella</em>・ムラサキインコ <em>Septifer virgatus</em>・ヒバリガイモドキ属が空間競争を展開する。イガイ類は付着糸（byssus）でマット状群集を形成すると、その下のフジツボを物理的に窒息させる。三浦・房総では一次空間を占拠したフジツボ帯に、二次的にイガイがパッチ侵入し、やがてマットに置換する現象が頻繁に観察される。これは Paine 系譜の「二次空間占有者によるフジツボ追い出し」と相同であり、台風など撹乱で剥がれると再びフジツボが回帰する（後述の遷移論）。</p>
+<hr />
+<h2 id="3">3. 匍匐性腹足類のニッチ分割</h2>
+<h3 id="31-homing">3.1 カサガイ類の棲み分けと homing</h3>
+<p>カサガイ類は岩面のバイオフィルム・微小藻・胞子体をかき取る放牧者（grazer）であり、密度を通じて海藻の再加入を強く規定する。関東では菊地の活動パターン研究が示したように、上部に分布する種ほど夜間干出時の活動時間が長く、下部ほど水没時に活動する傾向がある。これは乾燥耐性の種別差に対応している。</p>
+<p>関東岩礁の主要 4 種の棲み分けをまとめる。</p>
+<table>
+<thead>
+<tr>
+<th>種名</th>
+<th>学名</th>
+<th>主な分布帯</th>
+<th>行動特性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ウノアシ</td>
+<td><em>Patelloida saccharina lanx</em></td>
+<td>潮間帯上部の岩溝・亀裂</td>
+<td>厳密な homing、明瞭な home scar</td>
+</tr>
+<tr>
+<td>マツバガイ</td>
+<td><em>Cellana nigrolineata</em></td>
+<td>潮間帯中部の露岩</td>
+<td>特定の岩の亀裂へ帰巣する緩やかな homing</td>
+</tr>
+<tr>
+<td>ヨメガカサ</td>
+<td><em>Cellana toreuma</em></td>
+<td>潮間帯中〜下部</td>
+<td>比較的広範に移動、homing 弱</td>
+</tr>
+<tr>
+<td>アオガイ</td>
+<td><em>Nipponacmea schrenckii</em></td>
+<td>潮間帯下部〜潮下帯縁</td>
+<td>水没時に活発、乾燥耐性弱</td>
+</tr>
+</tbody>
+</table>
+<p><strong>homing behavior</strong> は、満潮時に放牧へ出た後、干潮で乾燥・高温ストレスに晒される際に殻縁を岩面の凹みにぴたりと合わせることで水分損失を最小化する適応である。繰り返し同じ位置に戻ることで岩面には殻と同形の <strong>home scar</strong> が形成される。ウノアシ・ツタノハガイ系は厳密な homing を示し化学痕跡をたどって帰巣する一方、マツバガイは亀裂という「近似ホーム」に戻る戦略である。種別の放牧圧と移動範囲の違いは、同じ潮位帯でも利用する微小藻フィルムの更新率を変え、結果として下部のアオガイが存在する帯ではバイオフィルム更新が早く、上部のウノアシ帯では藻斑が斑状に残るという <strong>grazer 駆動の空間パターン</strong> を生む。</p>
+<h3 id="32">3.2 タマキビの湿潤性階層</h3>
+<p>潮上帯〜飛沫帯ではタマキビ科が湿潤勾配に沿ってさらに細かい住み分けを示す。関東では下から <strong>タマキビ <em>Littorina brevicula</em>（飛沫帯下縁〜潮上帯、やや湿）→ アラレタマキビ <em>Nodilittorina radiata</em>（潮上帯上部、強乾燥）</strong> の順で垂直的に層化する。アラレタマキビは夏季に殻口の一部のみ岩に付着させて殻体を立て「つま先立ち」姿勢で放熱する行動が知られており、強烈な乾燥・高温環境での代表的適応である。これは Connell モデルで言う「上限は物理ストレスで決まる」が極端化した事例であり、種間競争よりも生理耐性が分布決定因子として優越する帯である。</p>
+<hr />
+<h2 id="4">4. 可動性甲殻類の波当たり勾配分化</h2>
+<h3 id="41-4">4.1 イワガニ科 4 種</h3>
+<p>関東の岩礁で頻繁に同所的に観察されるイワガニ科 4 種は、波浪露出度と基質構造の組み合わせで住み分けている。</p>
+<ul>
+<li><strong>イソガニ <em>Hemigrapsus sanguineus</em></strong>：内湾〜半露出岩礁、転石下・タイドプール。最も汎用的で東京湾内にも普通。</li>
+<li><strong>イワガニ <em>Pachygrapsus crassipes</em></strong>：波打ち際の垂直壁、素早い逃走で露出岸に対応。甲幅 35 mm 前後。</li>
+<li><strong>ヒライソガニ <em>Gaetice depressus</em></strong>：扁平な甲で波の衝撃を逃がす形態。外洋露出岸の岩面に密着して生活。</li>
+<li><strong>ショウジンガニ <em>Plagusia dentipes</em></strong>：最も波当たりの強い外洋岩礁のオーバーハング・消波ブロック間隙に特化。甲幅 60 mm と最大。</li>
+</ul>
+<p>この 4 種は「波浪エネルギー勾配 × 隠れ家構造」の二次元空間でニッチを分割しており、同じ潮位でも地形の粗度で優占が入れ替わる。これは Menge &amp; Sutherland (1987) のいう「物理ストレス勾配上で消費者群集構造が変動する」一般モデルの具体例と見なせる。</p>
+<h3 id="42-3">4.2 ヤドカリ 3 種の殻選好</h3>
+<p>殻は可動性二次資源の典型で、種間の住み分けが殻サイズ・殻種・生息帯の三軸で起きる。関東の主要 3 種。</p>
+<ul>
+<li><strong>ホンヤドカリ <em>Pagurus filholi</em></strong>：外洋岩礁・タイドプール。クボガイ・バテイラ・イボニシ・タマキビなど小型岩礁性巻貝の殻を利用。</li>
+<li><strong>ユビナガホンヤドカリ <em>Pagurus minutus</em></strong>：内湾・河口・干潟縁。アラムシロ <em>Nassarius</em>・ウミニナ・イボウミニナなど砂泥性巻貝の殻を利用し、ホンヤドカリとは <strong>生息環境自体が分離</strong>。</li>
+<li><strong>イソヨコバサミ <em>Clibanarius virescens</em></strong>：外洋岩礁のやや波当たり強い帯。体サイズに対して大きめの殻を選好し、重い殻でも運用できるため波にさらわれにくい。</li>
+</ul>
+<p>関東では同一タイドプールにホンヤドカリとイソヨコバサミが同所分布することがあり、殻サイズ・殻種選好の差と、ホンヤドカリが小型個体優占・イソヨコバサミが大型個体優占というサイズ構造の違いで競争緩和が実現していると解釈できる。殻という「生産されない有限資源」を巡る競争は、古くから密度依存的群集制御の実例として扱われてきた。</p>
+<hr />
+<h2 id="5">5. タイドプール魚類と藻場魚類のニッチ分化</h2>
+<h3 id="51">5.1 タイドプール魚類の微小生息地分割</h3>
+<p>タイドプールは潮汐で切り離される「水塊の島」であり、孤立環境に適応した小型魚が住み分ける。関東で普通の 5 種。</p>
+<ul>
+<li><strong>ドロメ <em>Chaenogobius gulosus</em></strong>：比較的深めのプール、内湾的環境に多い。</li>
+<li><strong>アゴハゼ <em>Chaenogobius annularis</em></strong>：浅いプール〜飛沫の及ぶ上部プール、外洋岩礁に多い。</li>
+<li><strong>クモハゼ <em>Bathygobius fuscus</em></strong>：プール底の石下に潜む底生、より温暖な群集要素。</li>
+<li><strong>ナベカ <em>Omobranchus elegans</em></strong>：岩面を跳ね回る半両生的行動、空の貝殻や穴を巣とする。</li>
+<li><strong>イソギンポ <em>Parablennius yatabei</em>・ギンポ類</strong>：岩の亀裂、藻間。</li>
+</ul>
+<p>この 5 種は「プール深度 × 底質 × 水面利用か底利用か × 内湾／外洋」の多次元ニッチで同所共存する典型例であり、Hutchinson の n 次元超体積ニッチ概念の模式ケースとして教育的価値が高い。</p>
+<h3 id="52-ontogenetic-niche-shift">5.2 稚魚の藻場利用と ontogenetic niche shift</h3>
+<p>固着群集と独立に進行する重要なプロセスとして、<strong>稚魚の藻場利用</strong>がある。関東では以下の ontogenetic shift が典型的である。</p>
+<ul>
+<li><strong>メバル属 <em>Sebastes inermis</em> 複合</strong>：新生仔魚は表層流藻・ホンダワラ流れ藻に寄り添い分散、成長に伴いガラモ場（<em>Sargassum</em> spp.）内に定着、成魚はアラメ・カジメ場の岩陰に移行する。</li>
+<li><strong>カサゴ <em>Sebastiscus marmoratus</em></strong>：稚魚は藻場の中層で浮遊、成魚は岩陰・穴の根魚へ。</li>
+<li><strong>メジナ <em>Girella punctata</em></strong>：稚魚・若魚は藻場内で群れて摂餌、成魚は藻場縁辺〜外洋側の岩礁で海藻食に移行。</li>
+</ul>
+<p>この「流れ藻 → ガラモ場 → アラメ／カジメ場 → 成魚岩礁」という <strong>4 段階の個体発生的生息地シフト</strong>は、藻場消失（磯焼け）に対して脆弱である。藻場が欠落すると初期生活史のボトルネックが生じ、成魚資源量の減少に直結する。仲岡の研究グループが北海道〜三陸でアマモ場・海藻場の群集構造を 25 年スケールで追跡しているように、関東でも長期モニタリングの必要性が高い。</p>
+<hr />
+<h2 id="6-">6. ウニ－藻場相互作用と磯焼け</h2>
+<h3 id="61-3">6.1 ウニ 3 種の分布分化</h3>
+<p>関東の主要ウニ 3 種は以下のように住み分ける。</p>
+<ul>
+<li><strong>ムラサキウニ <em>Heliocidaris crassispina</em></strong>（旧 <em>Anthocidaris</em>）：茨城以南の暖温帯種。潮間帯下部〜浅い潮下帯、岩の亀裂に密集。</li>
+<li><strong>バフンウニ <em>Hemicentrotus pulcherrimus</em></strong>：より広温度域、北は北海道まで。タイドプール・転石下の優占種。</li>
+<li><strong>ガンガゼ <em>Diadema setosum</em></strong>：房総以南の熱帯〜亜熱帯種。潮下帯上部の岩陰・オーバーハングに集合、長く毒針を持つ棘で上方空間を占有。</li>
+</ul>
+<h3 id="62">6.2 磯焼けの機構</h3>
+<p>相模湾沿岸ではアラメ・カジメ場が 2012 年以降顕著に衰退し、神奈川県水産技術センター相模湾試験場の集計では 2006 年から 2022 年の間に岩礁藻場が 98.5 %、アマモ場が 95 % 減少したとされる。主要因として（i）ガンガゼ・ムラサキウニの過放牧、（ii）植食性魚類アイゴ <em>Siganus fuscescens</em> の周年摂食化、（iii）冬季水温上昇による海藻の休眠期間短縮と摂食者活動期間の延伸、の三つが挙げられる。</p>
+<p>理論的には、これは Connell-Slatyer (1977) のモデルでいう「阻害 (inhibition) モデル」の優占：無節サンゴモ優占の岩盤（いわゆる coralline barrens）が一度成立すると、大型海藻の胞子体定着を物理的・化学的に阻害し、遷移が停止してオルタナティブな安定状態にロックインされる。倉田ら磯焼け研究の知見（水産庁『磯焼け対策ガイドライン』）に基づく標準的対策は、（a）ウニ除去による摂食圧軽減、（b）母藻投入による胞子供給、（c）アイゴ駆除による冬季摂食停止、の三点セットで、これは「阻害モデルを facilitation モデルへ戻す」介入と解釈できる。三浦半島南部では部分的な藻場回復例が報告されている。</p>
+<hr />
+<h2 id="7">7. 時空間スケール階層と群集動態</h2>
+<p>群集構造は単一のスケールで記述しきれない。関東岩礁で区別すべきスケール階層を整理する。</p>
+<ul>
+<li><strong>日周スケール（hours）</strong>：カサガイ放牧の昼夜活動、ハゼ類のプール内行動、カニ類の潮汐連動活動。</li>
+<li><strong>潮汐・半月スケール（days–weeks）</strong>：固着生物の加入時期、胞子放出、フジツボ幼生の着生イベント。</li>
+<li><strong>季節スケール（months）</strong>：夏季の高温乾燥による上部帯の局所絶滅、冬季の低水温による藻類繁茂、アイゴの摂食停止／再開。</li>
+<li><strong>年スケール（years）</strong>：台風による中〜大規模剥離撹乱、フジツボ・イガイ帯の再定着遷移。</li>
+<li><strong>十年スケール（decades）</strong>：磯焼けへの相転移、藻場－サンゴモ barrens の安定状態間シフト。</li>
+<li><strong>世紀スケール（100 yr）</strong>：温暖化に伴う生物相の南方化、分布境界の北上。</li>
+</ul>
+<p>群集のパターンは、観測スケールによって定常か変動かが変わる。Connell 型の zonation は年スケールで見れば定常だが、十年スケールでは磯焼けで再編される。Paine 型の捕食効果は季節変動を平均化すると安定だが、日周では捕食者の活動時間帯に強く依存する。</p>
+<h3 id="71-connell-slatyer-1977">7.1 Connell &amp; Slatyer (1977) の遷移論と台風撹乱</h3>
+<p>関東太平洋岸は毎年 1〜3 回の大型台風（9〜10 月）を経験し、波高 5 m 超のうねりが外洋岩礁のイガイマット・大型海藻を剥離する。剥離痕に生じる二次遷移は概ね次の順序をたどる。</p>
+<ol>
+<li><strong>0–3 ヶ月</strong>：バイオフィルム・珪藻膜、ウルバ <em>Ulva</em> など一次遷移種。フジツボ幼生が着生。</li>
+<li><strong>3–12 ヶ月</strong>：イワフジツボ・クロフジツボ加入、カメノテ再生。</li>
+<li><strong>1–3 年</strong>：イガイ・ムラサキインコがフジツボ帯に侵入、マット化。</li>
+<li><strong>3 年以上</strong>：大型イガイマット、またはクロフジツボ帯に収束。</li>
+</ol>
+<p>Connell &amp; Slatyer (1977) が整理した 3 モデル（facilitation／tolerance／inhibition）のうち、関東岩礁では <strong>tolerance モデル</strong>（後期種が初期種の存在下でも独立に加入・成長）と <strong>inhibition モデル</strong>（先着者が場所を占有して後続を排除）の混合が現実的である。フジツボ帯上にイガイが上乗せ加入するのは tolerance 的、イガイマット成立後にフジツボが下部で排除されるのは inhibition 的である。台風は inhibition ロックを周期的に解除する「リセット撹乱」として機能し、群集の多様性維持に貢献する（intermediate disturbance hypothesis, Connell 1978 の延長）。</p>
+<h3 id="72-menge-sutherland-1987">7.2 Menge &amp; Sutherland (1987) による統合</h3>
+<p>Menge &amp; Sutherland (1987, Am. Nat.) は物理ストレス・加入密度・捕食・競争の相対的重要性が環境勾配に沿って変化することを統合モデル化した。関東岩礁に当てはめると：</p>
+<ul>
+<li><strong>上部帯（高ストレス）</strong>：乾燥・高温が直接的規定因子、競争・捕食は弱。タマキビ・ウノアシ・イワフジツボ。</li>
+<li><strong>中部帯（中程度ストレス、高加入）</strong>：空間競争が卓越、捕食者（イボニシ）が介入してフジツボ・イガイの優占を調整。Connell-Paine モデルが最も効く帯。</li>
+<li><strong>下部帯（低ストレス、高加入）</strong>：捕食・競争が複合、藻類・無脊椎動物の多様性が最大、ただしウニ放牧圧で磯焼け化のリスク。</li>
+</ul>
+<p>この階層モデルは、関東岩礁の帯構造を単一機構でなく勾配沿いの機構交代として理解する枠組みを提供する。</p>
+<hr />
+<h2 id="8">8. 機能群の整理</h2>
+<p>種レベルではなく機能群（functional group）で関東岩礁を整理すると、群集制御の骨格が見えやすい。</p>
+<table>
+<thead>
+<tr>
+<th>機能群</th>
+<th>代表種</th>
+<th>群集上の役割</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>一次空間占有者（固着濾過食者）</td>
+<td>クロフジツボ・イワフジツボ・カメノテ・イガイ</td>
+<td>岩面スペースを占有、幼生加入で群集形成</td>
+</tr>
+<tr>
+<td>二次空間占有者</td>
+<td>ムラサキインコ・マガキ</td>
+<td>一次占有者の上に乗るかこれを排除</td>
+</tr>
+<tr>
+<td>一次生産者（固着海藻）</td>
+<td>アラメ・カジメ・ホンダワラ類・無節サンゴモ</td>
+<td>炭素固定、魚類・ウニの食物、稚魚育成場</td>
+</tr>
+<tr>
+<td>放牧者（grazer）</td>
+<td>カサガイ類・タマキビ・サザエ・バテイラ</td>
+<td>バイオフィルム・大型海藻を制御</td>
+</tr>
+<tr>
+<td>植食者（大型）</td>
+<td>ムラサキウニ・ガンガゼ・アイゴ・メジナ</td>
+<td>藻場の消長を規定、磯焼けの直接因子</td>
+</tr>
+<tr>
+<td>専門捕食者</td>
+<td>イボニシ・アカニシ・キヒトデ</td>
+<td>キーストーン候補、固着動物を間引き</td>
+</tr>
+<tr>
+<td>汎用捕食者／分解者</td>
+<td>イワガニ科 4 種・ヤドカリ類</td>
+<td>動物遺骸・有機物分解、食物網下流</td>
+</tr>
+<tr>
+<td>小型魚類</td>
+<td>ドロメ・アゴハゼ・ナベカ・イソギンポ</td>
+<td>プール内トップ捕食者、無脊椎動物を摂食</td>
+</tr>
+<tr>
+<td>藻場利用魚類</td>
+<td>メバル属・カサゴ・メジナ稚魚</td>
+<td>ontogenetic shift で藻場を育成場として利用</td>
+</tr>
+</tbody>
+</table>
+<p>この整理により、「磯焼けとは何か」は「大型植食者機能群の放牧圧増大 → 一次生産者機能群の消失 → 藻場利用魚類機能群の育成場喪失 → 捕食者機能群への上流効果」という連鎖として一望できる。</p>
+<hr />
+<h2 id="9">9. 関東特有の南方化トレンド</h2>
+<p>関東は黒潮分岐の影響で冬季最低水温が上昇傾向にあり、2010 年代以降、熱帯・亜熱帯種の越冬・定着が顕著化している。代表例：</p>
+<ul>
+<li><strong>ソラスズメダイ <em>Pomacentrus coelestis</em></strong>：伊豆半島以南が本来分布域だったが、三浦半島・房総南部で夏季の大群落、一部越冬個体も確認。東京湾内（川崎港東扇島）でも目撃。</li>
+<li><strong>ガンガゼ <em>Diadema setosum</em></strong>：房総半島以南の温帯限界種だったが、相模湾での個体数増加と北上が磯焼け主犯の一つに。</li>
+<li><strong>ミナミクロダイ <em>Acanthopagrus sivicolus</em></strong>：本来は琉球列島の熱帯種とされるが、黒潮大蛇行時に稚魚が関東近海まで到達する事例が増加。</li>
+<li><strong>造礁サンゴ（エンタクミドリイシ等）</strong>：千葉県沖の東京湾で定着が報告され、その上でソラスズメダイが遊泳する「温帯岩礁中の亜熱帯パッチ」が出現。</li>
+</ul>
+<p>これらは Menge-Sutherland モデルの「ストレス軸」自体が温暖化でシフトしていることを意味する。従来の Connell 型 zonation は今後数十年で上限種の上方移動・下限種の範囲拡大を通じて再編される可能性があり、関東沿岸は「温帯岩礁群集の亜熱帯化プロセス」のリアルタイム観測地点として貴重である。</p>
+<hr />
+<h2 id="10">10. まとめ</h2>
+<ul>
+<li>関東岩礁のフジツボ 3 種は Connell (1961) モデルの典型例であり、物理ストレス（上限）と種間競争（下限）で実現ニッチが決まる。</li>
+<li>カサガイ類は homing と放牧活動時間の種別差で、タマキビ類は湿潤勾配で、カニ類は波浪勾配で、ヤドカリは生息環境 × 殻選好で、それぞれ多次元ニッチ分割を実現している。</li>
+<li>イボニシは Paine (1966) のキーストーン捕食者に機能的に類似するが、単独で群集を規定するより Menge-Sutherland (1987) 枠組みでの勾配依存的消費者として理解すべきである。</li>
+<li>磯焼けは Connell-Slatyer (1977) の inhibition モデルが長期安定状態としてロックインする現象であり、ウニ・アイゴの介入と母藻投入による遷移再起動が対策の理論的根拠である（倉田ら／水産庁ガイドライン）。</li>
+<li>稚魚の ontogenetic niche shift（流れ藻→ガラモ場→アラメ／カジメ場）は、磯焼け進行で最も打撃を受ける脆弱なプロセスである。仲岡らが強調する長期モニタリングの視点が不可欠。</li>
+<li>関東特有の温暖化南方化（ソラスズメダイ、ガンガゼ、ミナミクロダイ）は、岩礁群集そのものの軸をシフトさせつつあり、Connell から半世紀以上続く古典的ニッチ理論の「動的再検証フィールド」として、関東沿岸の継続観察の価値は極めて高い。</li>
+</ul>
+<hr />
+<h2 id="_2">引用文献</h2>
+<ul>
+<li>Connell, J. H. (1961) The influence of interspecific competition and other factors on the distribution of the barnacle <em>Chthamalus stellatus</em>. <em>Ecology</em> 42: 710–723.</li>
+<li>Connell, J. H. (1978) Diversity in tropical rain forests and coral reefs. <em>Science</em> 199: 1302–1310.</li>
+<li>Connell, J. H. &amp; Slatyer, R. O. (1977) Mechanisms of succession in natural communities and their role in community stability and organization. <em>American Naturalist</em> 111: 1119–1144.</li>
+<li>Dayton, P. K. (1971) Competition, disturbance, and community organization: the provision and subsequent utilization of space in a rocky intertidal community. <em>Ecological Monographs</em> 41: 351–389.</li>
+<li>Lubchenco, J. (1980) Algal zonation in the New England rocky intertidal community: an experimental analysis. <em>Ecology</em> 61: 333–344.</li>
+<li>Menge, B. A. &amp; Sutherland, J. P. (1987) Community regulation: variation in disturbance, competition, and predation in relation to environmental stress and recruitment. <em>American Naturalist</em> 130: 730–757.</li>
+<li>Paine, R. T. (1966) Food web complexity and species diversity. <em>American Naturalist</em> 100: 65–75.</li>
+<li>Paine, R. T. (1969) A note on trophic complexity and community stability. <em>American Naturalist</em> 103: 91–93.</li>
+<li>Paine, R. T. (1974) Intertidal community structure: experimental studies on the relationship between a dominant competitor and its principal predator. <em>Oecologia</em> 15: 93–120.</li>
+<li>Stephenson, T. A. &amp; Stephenson, A. (1949) The universal features of zonation between tide-marks on rocky coasts. <em>Journal of Ecology</em> 37: 289–305.</li>
+<li>菊地 知彦 ほか カサガイ類の活動パターンの種内・種間変異. <em>Venus</em> (日本貝類学会誌) 53 巻 2 号.</li>
+<li>向井 宏 ほか 本邦で一般的なフジツボ数種の繁殖生態. 日本付着生物学会誌.</li>
+<li>仲岡 雅裕 沿岸生態系・海草藻場の群集動態に関する長期研究（北海道大学 厚岸臨海実験所）.</li>
+<li>倉田 博／水産庁 (編) 磯焼け対策ガイドライン. 水産庁 漁港漁場整備部.</li>
+<li>伊藤 寿茂 ほか (2013) 江ノ島周辺岩礁潮間帯のフジツボ類. 横須賀市博物館研究報告.</li>
+<li>神奈川県水産技術センター 相模湾試験場 磯焼け・藻場モニタリング資料.</li>
+</ul>
+<footer>
+generated from <code>05-niche-partitioning.md</code> / dataset: kanto-rocky-shore
+</footer>
+</body>
+</html>
