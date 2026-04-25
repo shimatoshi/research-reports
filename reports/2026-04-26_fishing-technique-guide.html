@@ -1,0 +1,1354 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>釣りテクニック完全ガイド — 同じ道具・同じ餌でも釣果を左右する実践的テクニック集</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --surface2: #1c2333;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #8b949e;
+    --accent: #58a6ff;
+    --accent2: #3fb950;
+    --accent3: #f0883e;
+    --accent4: #f778ba;
+    --red: #f85149;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', sans-serif;
+    line-height: 1.8;
+    padding: 0 16px 80px;
+  }
+  .hero {
+    background: linear-gradient(135deg, #0a1628 0%, #1a2744 50%, #0d2137 100%);
+    border-bottom: 2px solid var(--accent);
+    padding: 60px 20px 40px;
+    margin: 0 -16px 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%2358a6ff' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.5;
+  }
+  .hero h1 {
+    font-size: 2.2em;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 12px;
+    position: relative;
+  }
+  .hero .subtitle {
+    color: var(--text-muted);
+    font-size: 1.1em;
+    position: relative;
+  }
+  .hero .date {
+    color: var(--accent);
+    font-size: 0.9em;
+    margin-top: 8px;
+    position: relative;
+  }
+  .container { max-width: 920px; margin: 0 auto; }
+
+  /* TL;DR */
+  .tldr {
+    background: linear-gradient(135deg, #1a2744, #162238);
+    border: 1px solid var(--accent);
+    border-radius: 12px;
+    padding: 24px 28px;
+    margin-bottom: 48px;
+  }
+  .tldr h2 {
+    color: var(--accent);
+    font-size: 1.3em;
+    margin-bottom: 12px;
+  }
+  .tldr ul { list-style: none; padding: 0; }
+  .tldr li {
+    padding: 6px 0;
+    padding-left: 24px;
+    position: relative;
+  }
+  .tldr li::before {
+    content: '>';
+    color: var(--accent2);
+    font-weight: bold;
+    position: absolute;
+    left: 4px;
+  }
+
+  /* TOC */
+  .toc {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px 28px;
+    margin-bottom: 48px;
+  }
+  .toc h2 { color: var(--accent3); margin-bottom: 12px; font-size: 1.2em; }
+  .toc ol { padding-left: 24px; }
+  .toc li { padding: 4px 0; }
+  .toc a { color: var(--accent); text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+
+  /* Sections */
+  section {
+    margin-bottom: 56px;
+    scroll-margin-top: 20px;
+  }
+  h2.section-title {
+    font-size: 1.6em;
+    color: var(--accent2);
+    border-bottom: 2px solid var(--accent2);
+    padding-bottom: 8px;
+    margin-bottom: 24px;
+  }
+  h3 {
+    font-size: 1.2em;
+    color: var(--accent3);
+    margin: 28px 0 12px;
+  }
+  h4 {
+    font-size: 1.05em;
+    color: var(--accent4);
+    margin: 20px 0 8px;
+  }
+
+  /* Tables */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 0.95em;
+  }
+  th {
+    background: var(--surface2);
+    color: var(--accent);
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 2px solid var(--accent);
+    white-space: nowrap;
+  }
+  td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  tr:hover td { background: rgba(88,166,255,0.05); }
+
+  /* Tip boxes */
+  .tip {
+    background: var(--surface);
+    border-left: 4px solid var(--accent2);
+    padding: 14px 18px;
+    margin: 16px 0;
+    border-radius: 0 8px 8px 0;
+    font-size: 0.95em;
+  }
+  .tip.warn {
+    border-left-color: var(--accent3);
+  }
+  .tip.critical {
+    border-left-color: var(--red);
+    background: rgba(248,81,73,0.08);
+  }
+  .tip strong { color: var(--accent2); }
+  .tip.warn strong { color: var(--accent3); }
+  .tip.critical strong { color: var(--red); }
+
+  /* Keyword badge */
+  .badge {
+    display: inline-block;
+    background: rgba(88,166,255,0.15);
+    color: var(--accent);
+    padding: 2px 10px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    margin: 0 4px 4px 0;
+  }
+  .badge.green { background: rgba(63,185,80,0.15); color: var(--accent2); }
+  .badge.orange { background: rgba(240,136,62,0.15); color: var(--accent3); }
+  .badge.pink { background: rgba(247,120,186,0.15); color: var(--accent4); }
+
+  /* Quote */
+  blockquote {
+    border-left: 3px solid var(--accent4);
+    padding: 8px 16px;
+    margin: 12px 0;
+    color: var(--text-muted);
+    font-style: italic;
+    background: rgba(247,120,186,0.05);
+    border-radius: 0 6px 6px 0;
+  }
+
+  /* Ranking */
+  .rank-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin: 12px 0;
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+  }
+  .rank-num {
+    font-size: 2em;
+    font-weight: bold;
+    min-width: 48px;
+    text-align: center;
+    line-height: 1;
+  }
+  .rank-1 .rank-num { color: #ffd700; }
+  .rank-2 .rank-num { color: #c0c0c0; }
+  .rank-3 .rank-num { color: #cd7f32; }
+  .rank-4 .rank-num, .rank-5 .rank-num { color: var(--text-muted); }
+
+  /* Diagram boxes */
+  .diagram {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 16px 0;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em;
+    line-height: 1.6;
+    overflow-x: auto;
+    white-space: pre;
+    color: var(--accent);
+  }
+
+  /* Image placeholders with SVG diagrams */
+  .illustration {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+  }
+  .illustration svg {
+    max-width: 100%;
+    height: auto;
+  }
+  .illustration .caption {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-top: 10px;
+  }
+
+  /* Columns */
+  .cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin: 16px 0;
+  }
+  @media (max-width: 640px) {
+    .cols { grid-template-columns: 1fr; }
+    .hero h1 { font-size: 1.5em; }
+  }
+  .col-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .col-card h4 { margin-top: 0; }
+
+  ul, ol { margin: 8px 0 8px 20px; }
+  li { margin: 4px 0; }
+  p { margin: 8px 0; }
+  strong { color: var(--text); }
+  a { color: var(--accent); }
+
+  /* Sources */
+  .sources {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin-top: 48px;
+  }
+  .sources h2 { color: var(--text-muted); margin-bottom: 12px; }
+  .sources a { font-size: 0.9em; }
+  .sources li { margin: 6px 0; }
+
+  /* Footer */
+  footer {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.85em;
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>釣りテクニック完全ガイド</h1>
+  <div class="subtitle">同じ道具・同じ餌でも釣果を左右する「差がつくテクニック」実践集</div>
+  <div class="date">Research date: 2026-04-26</div>
+</div>
+
+<div class="container">
+
+<!-- TL;DR -->
+<div class="tldr">
+  <h2>TL;DR</h2>
+  <ul>
+    <li><strong>釣果差の7割はタナ（棚）の精度</strong> — 50cm単位の微調整が爆釣とボウズの境界線</li>
+    <li><strong>投入ポイント1mのズレが10対0の差を生む</strong> — 「微差は大差」がプロの合言葉</li>
+    <li><strong>コマセと刺し餌の同調</strong>が最も重要かつ最も難しいスキル。ラインメンディングが同調の最大の敵</li>
+    <li><strong>餌の鮮度管理と交換頻度</strong>を怠ると同じ餌でも釣果が半減する</li>
+    <li><strong>結び方ひとつで強度26%→84%</strong>に激変。クリンチノットのノーマル版は実用外</li>
+    <li><strong>ボウズ逃れの鉄板</strong>は足元のストラクチャー狙い＋朝マズメ＋こまめな餌交換</li>
+  </ul>
+</div>
+
+<!-- TOC -->
+<div class="toc">
+  <h2>目次</h2>
+  <ol>
+    <li><a href="#s1">仕掛けの作り方</a></li>
+    <li><a href="#s2">結び方（ノット）— 強度データ付き</a></li>
+    <li><a href="#s3">餌の選び方</a></li>
+    <li><a href="#s4">餌の付け方 — 付け方で食いが変わる</a></li>
+    <li><a href="#s5">投げる場所の見極め方</a></li>
+    <li><a href="#s6">時合い・粘る時間・撤退のタイミング</a></li>
+    <li><a href="#s7">合わせのテクニック</a></li>
+    <li><a href="#s8">餌・仕掛けの動かし方</a></li>
+    <li><a href="#s9">根がかり回避テクニック</a></li>
+    <li><a href="#s10">なんでもいいから釣りたい時の戦略</a></li>
+    <li><a href="#s11">特定魚種を狙う時の戦略</a></li>
+    <li><a href="#s12">差がつくテクニック — 実例集【最重要】</a></li>
+  </ol>
+</div>
+
+<!-- ============================== -->
+<!-- SECTION 1: 仕掛けの作り方 -->
+<!-- ============================== -->
+<section id="s1">
+<h2 class="section-title">1. 仕掛けの作り方</h2>
+
+<h3>ウキ釣り基本仕掛けの構成</h3>
+
+<div class="diagram">
+  竿先
+  │
+  ┣━ 道糸（ナイロン 2〜3号）
+  │
+  ├─ ウキ止め糸
+  ├─ シモリ玉
+  ├─ <span style="color:#3fb950">【ウキ】</span> ← 浮力表示を確認
+  ├─ からまん棒
+  │
+  ├─ <span style="color:#f0883e">【ガン玉（オモリ）】</span> ← ウキの浮力に合わせる
+  │
+  ├─ サルカン（スイベル）
+  │
+  ├─ <span style="color:#f778ba">【ハリス】</span>（フロロカーボン）
+  │      道糸の50〜70%の太さ
+  │      長さ: 1ヒロ（約1.5m）が基本
+  │
+  └─ <span style="color:#f85149">【針】</span>
+         ↓
+       餌をセット
+</div>
+
+<h3>ハリスの号数早見表</h3>
+<table>
+  <tr><th>対象魚</th><th>ハリス号数</th><th>長さの目安</th></tr>
+  <tr><td>メバル・アジ・ハゼ</td><td>0.8〜1号</td><td>30cm〜1m</td></tr>
+  <tr><td>チヌ（40cmまで）</td><td>1.25〜1.5号</td><td>1〜1.5ヒロ</td></tr>
+  <tr><td>口太グレ</td><td>1.25〜1.75号</td><td>1〜2ヒロ</td></tr>
+  <tr><td>尾長グレ（60cm級）</td><td>2〜2.75号</td><td>状況次第</td></tr>
+</table>
+
+<div class="tip">
+  <strong>初心者が見落としがちなポイント:</strong>
+  ハリスは道糸より必ず細くすること。根がかりや大物掛かり時に、道糸ではなくハリス側で切れるため、ウキや道糸を回収できる（高切れ防止）。
+</div>
+
+<h3>オモリの基本法則</h3>
+<p>「<strong>1号 = 3.75g = 水深1mを沈める目安</strong>」を覚えておくと便利。</p>
+
+<table>
+  <tr><th>用途</th><th>オモリの種類</th><th>重さの目安</th></tr>
+  <tr><td>ウキ釣り微調整</td><td>ガン玉（G1〜G8、B〜6B）</td><td>ウキの浮力表示に合わせる</td></tr>
+  <tr><td>サビキ・胴突き</td><td>ナス型オモリ</td><td>水深5mなら5号</td></tr>
+  <tr><td>投げ釣り</td><td>天秤オモリ</td><td>7号（26.25g）基準</td></tr>
+  <tr><td>ぶっこみ釣り</td><td>中通しオモリ</td><td>食い込み重視で軽め</td></tr>
+</table>
+
+<div class="tip warn">
+  <strong>竿の「オモリ負荷」を必ず確認:</strong>
+  範囲外のオモリを投げると竿が折れる。特に投げ釣りでは致命的。
+</div>
+
+<h3>ウキの浮力調整のコツ</h3>
+<p>ウキが<strong>「ギリギリ頭だけ出る」状態</strong>が理想。ウキが浮きすぎていると、魚がエサをくわえた時に抵抗を感じて吐き出してしまう。</p>
+
+<p>フカセ釣りでの実践例（宮原浩プロの方法）:</p>
+<ul>
+  <li>Bウキの場合: 直結部にG1、ハリス中間にG5を打つ</li>
+  <li>潮流が良い場合: ハリス側のオモリを外して「完全フカセ」に</li>
+  <li>風が強い場合: ハリス側のオモリを中間まで下げて強制的に沈める</li>
+</ul>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 2: 結び方 -->
+<!-- ============================== -->
+<section id="s2">
+<h2 class="section-title">2. 結び方（ノット）— 強度データ付き</h2>
+
+<h3>実測強度比較（Honda釣り倶楽部）</h3>
+<p>10lb（約2.5号）ナイロンラインでの実測データ:</p>
+
+<table>
+  <tr><th>ノット名</th><th>平均強度(kg)</th><th>直線強度比</th><th>評価</th></tr>
+  <tr><td>クリンチノット</td><td>1.401</td><td style="color:var(--red)">26%</td><td><span class="badge" style="background:rgba(248,81,73,0.2);color:var(--red)">実用外</span></td></tr>
+  <tr><td>改良クリンチノット</td><td>1.944</td><td>36%</td><td><span class="badge orange">弱い</span></td></tr>
+  <tr><td>ユニノット</td><td>3.669</td><td>68%</td><td><span class="badge green">実用的</span></td></tr>
+  <tr><td>パロマーノット</td><td>4.424</td><td style="color:var(--accent2)">82%</td><td><span class="badge green">高強度・安定</span></td></tr>
+  <tr><td>ダブルクリンチノット</td><td>4.549</td><td style="color:var(--accent2)">84%</td><td><span class="badge green">高強度</span></td></tr>
+  <tr><td>エイゾー・スペシャル</td><td>5.224</td><td style="color:var(--accent2)">96%</td><td><span class="badge pink">最強</span></td></tr>
+</table>
+
+<div class="tip critical">
+  <strong>クリンチノットのノーマル版は使うな!</strong>
+  「最初に覚える結び」として有名だが、強度はわずか26%で大物がかかると確実にバレる。必ず「ダブル」版を使うこと。
+</div>
+
+<h3>推奨ノット: ユニノット</h3>
+<p><span class="badge green">万能</span> <span class="badge">強度68%</span> <span class="badge">簡単</span></p>
+
+<div class="diagram">
+  ユニノットの手順:
+
+  1. 金具にラインを通して15cmほど引き出す
+     ──────○──→ (15cm)
+            金具
+
+  2. 折り返してループを作り、4〜5回巻きつける
+     ┌──────────┐
+     │  ○  ← 巻く →│
+     └──────────┘
+
+  3. 先端を引いて結び目を作る
+
+  4. <span style="color:var(--red)">★ 必ず濡らしてから締める</span>（摩擦熱でライン劣化を防止）
+
+  5. 本線を引いて結び目を金具に寄せる
+
+  6. 余り糸を5mmほど残してカット
+</div>
+
+<h3>推奨ノット: パロマーノット</h3>
+<p><span class="badge green">高強度82%</span> <span class="badge pink">ブレが少ない</span></p>
+<p><strong>最大の強み</strong>: 標準偏差が小さく、<strong>誰がやっても安定した強度が出る</strong>。初心者でも失敗しにくい。</p>
+
+<h3>針とハリスの結び: 外掛け結び</h3>
+<p>エサ釣り全般で最も基本的な針結び。</p>
+
+<div class="tip critical">
+  <strong>絶対確認:</strong> 完成後にハリス本線が<strong>針の内側（フトコロ側）</strong>から出ているか確認。外側から出ていると合わせた瞬間にすっぽ抜ける。
+</div>
+
+<h3>結び方の使い分け早見表</h3>
+<table>
+  <tr><th>状況</th><th>推奨ノット</th></tr>
+  <tr><td>ルアー・スナップへ（初心者）</td><td>ユニノット</td></tr>
+  <tr><td>ルアー・スナップへ（強度重視）</td><td>パロマーノット / ダブルクリンチノット</td></tr>
+  <tr><td>針とハリス（標準）</td><td>外掛け結び</td></tr>
+  <tr><td>針とハリス（短ハリス）</td><td>内掛け結び</td></tr>
+  <tr><td>道糸とハリスの直結</td><td>電車結び / サージェンスノット</td></tr>
+</table>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 3: 餌の選び方 -->
+<!-- ============================== -->
+<section id="s3">
+<h2 class="section-title">3. 餌の選び方</h2>
+
+<h3>万能餌ランキング</h3>
+
+<div class="rank-card rank-1">
+  <div class="rank-num">1</div>
+  <div>
+    <h4 style="margin-top:0">アオイソメ（青イソメ）</h4>
+    <p>海釣り最強の万能生き餌。ウキ釣り・投げ釣り・穴釣り・海上釣り堀なんでもOK。水中でよく動き、体液で魚を寄せるアピール力。価格もリーズナブル。</p>
+    <p><span class="badge">対象</span> クロダイ・スズキ・カレイ・アナゴ・キス・カサゴ・メバル・ハゼ</p>
+  </div>
+</div>
+
+<div class="rank-card rank-2">
+  <div class="rank-num">2</div>
+  <div>
+    <h4 style="margin-top:0">オキアミ</h4>
+    <p>付けエサにも撒き餌にもなる冷凍エサの代表格。Lサイズが万能で10cm以下の小魚から60cm超の真鯛まで対応。</p>
+    <p><span class="badge">対象</span> クロダイ・メジナ・カサゴ・アジ・マダイ・青物</p>
+  </div>
+</div>
+
+<div class="rank-card rank-3">
+  <div class="rank-num">3</div>
+  <div>
+    <h4 style="margin-top:0">イシゴカイ（ジャリメ）</h4>
+    <p>アオイソメより小型で、口の小さい魚に最適。キスやハゼの投げ釣りでは圧倒的な実績。</p>
+    <p><span class="badge">対象</span> キス・ハゼ・メバル・カサゴ・カワハギ</p>
+  </div>
+</div>
+
+<div class="rank-card rank-4">
+  <div class="rank-num">4</div>
+  <div>
+    <h4 style="margin-top:0">練り餌</h4>
+    <p>保存性が高く手を汚しにくい。チヌ用・グレ用など魚種別製品が充実。</p>
+  </div>
+</div>
+
+<div class="rank-card rank-5">
+  <div class="rank-num">5</div>
+  <div>
+    <h4 style="margin-top:0">パワーイソメ（人工餌）</h4>
+    <p>常温保存可能で虫を触らなくてよい。ただし<strong>置き竿では本物に劣る</strong>。積極的に動かす誘いが必須。</p>
+  </div>
+</div>
+
+<h3>ターゲット別・餌選択マトリクス</h3>
+<table>
+  <tr><th>ターゲット</th><th>最適な餌</th><th>備考</th></tr>
+  <tr><td>クロダイ</td><td>オキアミ、練り餌、イワガニ</td><td>筏ではボケが特効</td></tr>
+  <tr><td>メジナ</td><td>オキアミ（生・ボイル）</td><td>撒き餌との同調が鍵</td></tr>
+  <tr><td>アジ</td><td>アミエビ（サビキ）</td><td>サビキ釣りの定番</td></tr>
+  <tr><td>キス</td><td>イシゴカイ &gt; アオイソメ</td><td>小さく切って使う</td></tr>
+  <tr><td>カサゴ・メバル</td><td>シラサエビ、アオイソメ</td><td>穴釣り・胴付で効果抜群</td></tr>
+  <tr><td>ハゼ</td><td>アオイソメ、イシゴカイ</td><td>イソメ系が最安定</td></tr>
+  <tr><td>カワハギ</td><td>アサリ（むき身）</td><td>塩締めで硬さ調整</td></tr>
+  <tr><td>渓流魚</td><td>川虫、ブドウ虫、ミミズ</td><td>雨後はミミズ最強</td></tr>
+  <tr><td>スズキ</td><td>シラサエビ、活アジ</td><td>エビ撒き釣り定番</td></tr>
+</table>
+
+<h3>生オキアミ vs ボイルオキアミ</h3>
+<div class="cols">
+  <div class="col-card">
+    <h4>生オキアミ</h4>
+    <ul>
+      <li>沈降速度が速い（10秒で50〜80cm）</li>
+      <li>食いは生が上</li>
+      <li>解凍後の劣化が早い</li>
+      <li>黒変すると身崩れして使えなくなる</li>
+    </ul>
+  </div>
+  <div class="col-card">
+    <h4>ボイルオキアミ</h4>
+    <ul>
+      <li>身が硬くしまり針持ちが良い</li>
+      <li>ゆっくり沈降（気泡を含む）</li>
+      <li>エサ取り対策に有効</li>
+      <li>食いはやや劣る</li>
+    </ul>
+  </div>
+</div>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 4: 餌の付け方 -->
+<!-- ============================== -->
+<section id="s4">
+<h2 class="section-title">4. 餌の付け方 — 付け方で食いが変わる</h2>
+
+<h3>虫エサの付け方4パターン</h3>
+
+<div class="illustration">
+<svg viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg">
+  <!-- チョン掛け -->
+  <rect x="10" y="10" width="185" height="240" rx="10" fill="#1c2333" stroke="#30363d"/>
+  <text x="102" y="40" text-anchor="middle" fill="#f0883e" font-size="15" font-weight="bold">チョン掛け</text>
+  <!-- hook -->
+  <path d="M80,80 L80,140 Q80,170 100,170 Q120,170 120,140 L120,120" fill="none" stroke="#8b949e" stroke-width="2.5"/>
+  <circle cx="120" cy="118" r="2" fill="#f85149"/>
+  <!-- worm -->
+  <path d="M78,82 Q60,90 55,110 Q50,130 60,150 Q70,170 85,180 Q100,190 115,185 Q130,180 140,170 Q155,155 165,140" fill="none" stroke="#3fb950" stroke-width="4" stroke-linecap="round"/>
+  <text x="102" y="210" text-anchor="middle" fill="#8b949e" font-size="11">1箇所だけ刺す</text>
+  <text x="102" y="228" text-anchor="middle" fill="#3fb950" font-size="11">アピール力◎ 餌持ち△</text>
+
+  <!-- 通し刺し -->
+  <rect x="205" y="10" width="185" height="240" rx="10" fill="#1c2333" stroke="#30363d"/>
+  <text x="297" y="40" text-anchor="middle" fill="#f0883e" font-size="15" font-weight="bold">通し刺し</text>
+  <path d="M275,80 L275,140 Q275,170 295,170 Q315,170 315,140 L315,120" fill="none" stroke="#8b949e" stroke-width="2.5"/>
+  <circle cx="315" cy="118" r="2" fill="#f85149"/>
+  <!-- worm threaded on hook -->
+  <path d="M273,78 Q268,90 270,105 Q272,120 278,130 Q285,145 290,155 Q296,165 305,168 Q315,165 325,155 Q340,140 350,125" fill="none" stroke="#3fb950" stroke-width="4" stroke-linecap="round"/>
+  <text x="297" y="210" text-anchor="middle" fill="#8b949e" font-size="11">体内に針を通す</text>
+  <text x="297" y="228" text-anchor="middle" fill="#58a6ff" font-size="11">餌持ち◎ 投げ釣り向き</text>
+
+  <!-- 縫い刺し -->
+  <rect x="400" y="10" width="185" height="240" rx="10" fill="#1c2333" stroke="#30363d"/>
+  <text x="492" y="40" text-anchor="middle" fill="#f0883e" font-size="15" font-weight="bold">縫い刺し</text>
+  <path d="M470,80 L470,140 Q470,170 490,170 Q510,170 510,140 L510,120" fill="none" stroke="#8b949e" stroke-width="2.5"/>
+  <circle cx="510" cy="118" r="2" fill="#f85149"/>
+  <!-- worm sewn -->
+  <path d="M468,78 Q460,95 468,105 Q476,115 468,130 Q460,145 468,155 Q476,165 490,170 Q505,165 520,155 Q530,145 540,130" fill="none" stroke="#3fb950" stroke-width="4" stroke-linecap="round"/>
+  <text x="492" y="210" text-anchor="middle" fill="#8b949e" font-size="11">縫うように複数回通す</text>
+  <text x="492" y="228" text-anchor="middle" fill="#f778ba" font-size="11">エサ取り名人対策◎</text>
+
+  <!-- 房掛け -->
+  <rect x="595" y="10" width="195" height="240" rx="10" fill="#1c2333" stroke="#30363d"/>
+  <text x="692" y="40" text-anchor="middle" fill="#f0883e" font-size="15" font-weight="bold">房掛け</text>
+  <path d="M670,80 L670,140 Q670,170 690,170 Q710,170 710,140 L710,120" fill="none" stroke="#8b949e" stroke-width="2.5"/>
+  <circle cx="710" cy="118" r="2" fill="#f85149"/>
+  <!-- multiple worms -->
+  <path d="M668,78 Q660,95 665,115 Q670,135 680,150 Q690,160 700,165" fill="none" stroke="#3fb950" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M672,88 Q680,100 685,115 Q690,130 700,145 Q710,155 720,150" fill="none" stroke="#58d660" stroke-width="3" stroke-linecap="round"/>
+  <path d="M676,95 Q685,108 690,120 Q695,135 705,148 Q718,158 730,148" fill="none" stroke="#2d9940" stroke-width="3" stroke-linecap="round"/>
+  <text x="692" y="210" text-anchor="middle" fill="#8b949e" font-size="11">3〜5匹をまとめ付け</text>
+  <text x="692" y="228" text-anchor="middle" fill="#f0883e" font-size="11">大物狙い◎ 夜釣り◎</text>
+
+  <!-- 下部: 使い分けガイド -->
+  <rect x="10" y="270" width="780" height="240" rx="10" fill="#161b22" stroke="#30363d"/>
+  <text x="400" y="300" text-anchor="middle" fill="#58a6ff" font-size="16" font-weight="bold">状況別・付け方の使い分け</text>
+
+  <text x="30" y="335" fill="#f0883e" font-size="13" font-weight="bold">ウキ釣り・メバル・アジ →</text>
+  <text x="280" y="335" fill="#e6edf3" font-size="13">チョン掛け（最大アピール）</text>
+
+  <text x="30" y="365" fill="#f0883e" font-size="13" font-weight="bold">投げ釣り・カレイ・キス →</text>
+  <text x="280" y="365" fill="#e6edf3" font-size="13">通し刺し（遠投でも外れない）</text>
+
+  <text x="30" y="395" fill="#f0883e" font-size="13" font-weight="bold">カワハギ・フグ →</text>
+  <text x="280" y="395" fill="#e6edf3" font-size="13">縫い刺し（齧り取り対策）</text>
+
+  <text x="30" y="425" fill="#f0883e" font-size="13" font-weight="bold">夜釣り・大物狙い →</text>
+  <text x="280" y="425" fill="#e6edf3" font-size="13">房掛け（ニオイ＋動きでアピール）</text>
+
+  <text x="30" y="460" fill="#f0883e" font-size="13" font-weight="bold">食い渋り時 →</text>
+  <text x="280" y="460" fill="#e6edf3" font-size="13">垂らしを長くする or 餌を小さくする</text>
+
+  <text x="30" y="490" fill="#f0883e" font-size="13" font-weight="bold">エサ取り多い時 →</text>
+  <text x="280" y="490" fill="#e6edf3" font-size="13">垂らしを短くして針掛かり優先</text>
+</svg>
+<div class="caption">虫エサの基本的な4つの付け方と状況別の使い分け</div>
+</div>
+
+<h3>オキアミの付け方 — 海釣り最重要</h3>
+
+<table>
+  <tr><th>付け方</th><th>特徴</th><th>適した状況</th></tr>
+  <tr><td>尻掛け</td><td>基本形。真っすぐ刺すことが最重要</td><td>堤防・船の標準</td></tr>
+  <tr><td>胴掛け</td><td>針先を出さず警戒心の強い魚に有効</td><td>フカセ・食い渋り</td></tr>
+  <tr><td>背掛け</td><td>背中の硬い部分で固定。エサ取り対策</td><td>遠投・エサ取り多い</td></tr>
+  <tr><td>抱き合わせ</td><td>2匹重ねでアピール最大</td><td>大物狙い・船釣り</td></tr>
+  <tr><td>剥き身</td><td>殻を剥いて食い込み最優先</td><td>極度の食い渋り</td></tr>
+</table>
+
+<div class="tip critical">
+  <strong>鉄則: オキアミは付ける前に必ず尻尾を取る。</strong>
+  尻尾が残っていると水の抵抗で回転し、魚に違和感を与える。
+</div>
+
+<div class="tip">
+  <strong>プロのコツ:</strong>
+  「針でオキアミを刺そうとしない。針を持った手は固定し、<strong>オキアミ側を動かして入れていく</strong>」。これでエサが潰れにくくなる。
+</div>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 5: 投げる場所 -->
+<!-- ============================== -->
+<section id="s5">
+<h2 class="section-title">5. 投げる場所の見極め方</h2>
+
+<h3>堤防・漁港のポイントマップ</h3>
+
+<div class="illustration">
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- 海 -->
+  <rect x="0" y="0" width="800" height="500" fill="#0a1628"/>
+  <text x="650" y="50" fill="#1a3a6b" font-size="40" font-weight="bold">海</text>
+
+  <!-- 堤防本体 -->
+  <rect x="50" y="200" width="550" height="40" fill="#4a4a5a" stroke="#666" stroke-width="2"/>
+  <text x="300" y="225" text-anchor="middle" fill="#ccc" font-size="14">堤 防</text>
+
+  <!-- 陸地 -->
+  <rect x="0" y="350" width="200" height="150" fill="#2a3a2a" stroke="#3a5a3a"/>
+  <text x="100" y="420" text-anchor="middle" fill="#5a8a5a" font-size="16">陸地</text>
+
+  <!-- 付け根 -->
+  <circle cx="80" cy="220" r="30" fill="none" stroke="#f0883e" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="80" y="280" text-anchor="middle" fill="#f0883e" font-size="12" font-weight="bold">付け根</text>
+  <text x="80" y="296" text-anchor="middle" fill="#8b949e" font-size="10">波穏やか</text>
+  <text x="80" y="310" text-anchor="middle" fill="#8b949e" font-size="10">サビキ向き</text>
+
+  <!-- 中間の継ぎ目 -->
+  <line x1="300" y1="200" x2="300" y2="240" stroke="#f778ba" stroke-width="2" stroke-dasharray="4,2"/>
+  <text x="300" y="186" text-anchor="middle" fill="#f778ba" font-size="12" font-weight="bold">継ぎ目</text>
+  <text x="300" y="168" text-anchor="middle" fill="#8b949e" font-size="10">水中に隙間あり</text>
+
+  <!-- 先端 -->
+  <circle cx="600" cy="220" r="35" fill="none" stroke="#f85149" stroke-width="3"/>
+  <text x="600" y="170" text-anchor="middle" fill="#f85149" font-size="14" font-weight="bold">先端（一等地）</text>
+  <text x="600" y="154" text-anchor="middle" fill="#8b949e" font-size="10">潮流複雑・回遊魚集中</text>
+
+  <!-- テトラ -->
+  <g transform="translate(100,140)">
+    <polygon points="0,50 15,20 30,50" fill="#555" stroke="#777"/>
+    <polygon points="25,50 40,20 55,50" fill="#555" stroke="#777"/>
+    <polygon points="50,50 65,20 80,50" fill="#555" stroke="#777"/>
+    <polygon points="75,50 90,20 105,50" fill="#555" stroke="#777"/>
+    <polygon points="100,50 115,20 130,50" fill="#555" stroke="#777"/>
+  </g>
+  <text x="165" y="130" text-anchor="middle" fill="#3fb950" font-size="12" font-weight="bold">テトラ帯</text>
+  <text x="165" y="116" text-anchor="middle" fill="#8b949e" font-size="10">根魚の宝庫</text>
+
+  <!-- 潮目 -->
+  <path d="M400,60 Q450,80 420,110 Q390,140 440,160" fill="none" stroke="#58a6ff" stroke-width="2" stroke-dasharray="8,4"/>
+  <text x="460" y="110" fill="#58a6ff" font-size="12" font-weight="bold">潮目</text>
+  <text x="460" y="126" fill="#8b949e" font-size="10">泡・ゴミが</text>
+  <text x="460" y="140" fill="#8b949e" font-size="10">溜まる筋</text>
+
+  <!-- ミオ筋 -->
+  <rect x="400" y="240" width="80" height="120" rx="5" fill="none" stroke="#ffd700" stroke-width="2" stroke-dasharray="6,3"/>
+  <text x="440" y="310" text-anchor="middle" fill="#ffd700" font-size="11" font-weight="bold">ミオ筋</text>
+  <text x="440" y="328" text-anchor="middle" fill="#8b949e" font-size="10">船の通り道</text>
+  <text x="440" y="344" text-anchor="middle" fill="#8b949e" font-size="10">深い溝</text>
+
+  <!-- カケアガリ矢印 -->
+  <path d="M360,380 L480,260" fill="none" stroke="#c0c0c0" stroke-width="1.5"/>
+  <path d="M480,260 L472,272 M480,260 L488,270" fill="none" stroke="#c0c0c0" stroke-width="1.5"/>
+  <text x="360" y="398" text-anchor="middle" fill="#c0c0c0" font-size="11">カケアガリ</text>
+  <text x="360" y="414" text-anchor="middle" fill="#8b949e" font-size="10">(駆け上がり)</text>
+
+  <!-- 角 -->
+  <rect x="580" y="235" width="30" height="60" fill="#4a4a5a" stroke="#666"/>
+  <circle cx="595" cy="265" r="22" fill="none" stroke="#f0883e" stroke-width="2"/>
+  <text x="640" y="260" fill="#f0883e" font-size="12" font-weight="bold">角</text>
+  <text x="640" y="276" fill="#8b949e" font-size="10">潮の変化点</text>
+
+  <!-- 凡例 -->
+  <rect x="580" y="380" width="200" height="110" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="680" y="405" text-anchor="middle" fill="#e6edf3" font-size="12" font-weight="bold">ポイント優先度</text>
+  <circle cx="600" cy="425" r="5" fill="#f85149"/>
+  <text x="615" y="430" fill="#e6edf3" font-size="11">先端 = 最優先</text>
+  <circle cx="600" cy="448" r="5" fill="#f0883e"/>
+  <text x="615" y="453" fill="#e6edf3" font-size="11">角・付け根 = 次点</text>
+  <circle cx="600" cy="471" r="5" fill="#3fb950"/>
+  <text x="615" y="476" fill="#e6edf3" font-size="11">テトラ = 根魚特化</text>
+</svg>
+<div class="caption">堤防・漁港の主要ポイント俯瞰図</div>
+</div>
+
+<h3>水中地形の推測方法</h3>
+<table>
+  <tr><th>観察方法</th><th>見るべきもの</th><th>判別できること</th></tr>
+  <tr><td>偏光グラス</td><td>水面下の色変化・障害物の輪郭</td><td>シモリ、藻場、カケアガリ</td></tr>
+  <tr><td>水色の変化</td><td>暗い色=深い、明るい色=浅い</td><td>水深の変化点</td></tr>
+  <tr><td>リールの巻き感</td><td>重くなる=深い/流れ当たる</td><td>潮流・地形変化</td></tr>
+  <tr><td>オモリで底質調査</td><td>コツン=岩、ズズッ=砂、ヌルッ=泥</td><td>底質の種類</td></tr>
+  <tr><td>水面の吹き上がり</td><td>鏡のようにモワッとした部分</td><td>沈み石の位置と大きさ</td></tr>
+</table>
+
+<h3>川のポイント</h3>
+<div class="illustration">
+<svg viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg">
+  <!-- 川全体 -->
+  <rect x="0" y="0" width="800" height="350" fill="#0a1628"/>
+
+  <!-- 流れ方向 -->
+  <text x="400" y="25" text-anchor="middle" fill="#1a3a6b" font-size="14">← 上流　　　　　　　　　下流 →</text>
+
+  <!-- 岸 上 -->
+  <path d="M0,60 Q200,80 400,55 Q600,30 800,70" fill="#2a3a2a" stroke="#3a5a3a" stroke-width="2"/>
+  <!-- 岸 下 -->
+  <path d="M0,300 Q200,280 400,310 Q600,330 800,290" fill="#2a3a2a" stroke="#3a5a3a" stroke-width="2"/>
+
+  <!-- 流心 -->
+  <path d="M50,180 Q200,170 400,180 Q600,190 750,175" fill="none" stroke="#58a6ff" stroke-width="2" stroke-dasharray="8,4"/>
+  <text x="400" y="200" text-anchor="middle" fill="#58a6ff" font-size="11">流心（本流の筋）</text>
+
+  <!-- 淵 -->
+  <ellipse cx="150" cy="180" rx="60" ry="50" fill="rgba(0,40,80,0.5)" stroke="#3fb950" stroke-width="2"/>
+  <text x="150" y="175" text-anchor="middle" fill="#3fb950" font-size="13" font-weight="bold">淵</text>
+  <text x="150" y="193" text-anchor="middle" fill="#8b949e" font-size="10">大物・越冬場所</text>
+
+  <!-- 瀬 -->
+  <g transform="translate(310,100)">
+    <text x="0" y="0" fill="#aac" font-size="9">〜〜〜〜〜</text>
+    <text x="5" y="12" fill="#aac" font-size="9">〜〜〜〜</text>
+    <text x="-3" y="24" fill="#aac" font-size="9">〜〜〜〜〜</text>
+  </g>
+  <text x="330" y="145" text-anchor="middle" fill="#f0883e" font-size="13" font-weight="bold">瀬</text>
+  <text x="330" y="160" text-anchor="middle" fill="#8b949e" font-size="10">初夏以降に有効</text>
+
+  <!-- 落ち込み -->
+  <path d="M490,100 L490,130 Q490,150 510,150 L530,150" fill="none" stroke="#f778ba" stroke-width="3"/>
+  <text x="510" y="95" text-anchor="middle" fill="#f778ba" font-size="13" font-weight="bold">落ち込み</text>
+  <text x="510" y="170" text-anchor="middle" fill="#8b949e" font-size="10">酸素豊富・一投目から</text>
+
+  <!-- 反転流 -->
+  <path d="M640,130 Q660,115 675,130 Q690,145 670,155 Q650,145 640,130" fill="none" stroke="#ffd700" stroke-width="1.5"/>
+  <circle cx="660" cy="140" r="3" fill="#ffd700"/>
+  <text x="660" y="110" text-anchor="middle" fill="#ffd700" font-size="12" font-weight="bold">反転流</text>
+  <text x="660" y="175" text-anchor="middle" fill="#8b949e" font-size="10">エサ溜まりポイント</text>
+
+  <!-- 大石 -->
+  <ellipse cx="660" cy="200" rx="20" ry="15" fill="#4a4a5a" stroke="#666"/>
+  <text x="660" y="235" text-anchor="middle" fill="#8b949e" font-size="10">大石の裏に反転流</text>
+
+  <!-- トロ -->
+  <rect x="400" y="230" width="100" height="40" rx="20" fill="rgba(0,30,60,0.4)" stroke="#58a6ff" stroke-dasharray="4,2"/>
+  <text x="450" y="255" text-anchor="middle" fill="#58a6ff" font-size="12">トロ場</text>
+  <text x="450" y="285" text-anchor="middle" fill="#8b949e" font-size="10">オールシーズン対応</text>
+</svg>
+<div class="caption">渓流・川のポイント概念図</div>
+</div>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 6: 時合い・粘る時間・撤退 -->
+<!-- ============================== -->
+<section id="s6">
+<h2 class="section-title">6. 時合い・粘る時間・撤退のタイミング</h2>
+
+<h3>朝マズメ・夕マズメの時間帯（東京基準）</h3>
+<table>
+  <tr><th>季節</th><th>朝マズメ</th><th>夕マズメ</th></tr>
+  <tr><td>春</td><td>4:30〜6:00</td><td>17:30〜19:00</td></tr>
+  <tr><td>夏</td><td>4:00〜5:30</td><td>18:00〜19:30</td></tr>
+  <tr><td>秋</td><td>4:30〜6:00</td><td>17:00〜18:30</td></tr>
+  <tr><td>冬</td><td>6:00〜7:00</td><td>16:00〜17:30</td></tr>
+</table>
+
+<h3>なぜマズメに釣れるのか</h3>
+<ul>
+  <li>植物プランクトンが水面に浮上 → 小魚 → 大型魚と食物連鎖が活性化</li>
+  <li>「暗すぎず明るすぎない」光量で、魚がエサを見つけやすく外敵から隠れやすい</li>
+  <li>人間活動が少なく魚の警戒心が低い</li>
+</ul>
+
+<h3>潮の動きと魚の活性</h3>
+<div class="illustration">
+<svg viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="250" fill="#161b22" rx="10"/>
+  <!-- 潮位曲線 -->
+  <path d="M50,120 Q150,40 250,120 Q350,200 450,120 Q550,40 650,120 Q700,160 750,120" fill="none" stroke="#58a6ff" stroke-width="3"/>
+
+  <!-- ラベル -->
+  <text x="150" y="30" text-anchor="middle" fill="#3fb950" font-size="13" font-weight="bold">満潮</text>
+  <text x="350" y="225" text-anchor="middle" fill="#f0883e" font-size="13" font-weight="bold">干潮</text>
+  <text x="550" y="30" text-anchor="middle" fill="#3fb950" font-size="13" font-weight="bold">満潮</text>
+
+  <!-- 活性帯 -->
+  <rect x="80" y="55" width="50" height="25" rx="5" fill="rgba(248,81,73,0.2)" stroke="#f85149" stroke-dasharray="3,2"/>
+  <text x="105" y="72" text-anchor="middle" fill="#f85149" font-size="9">チャンス!</text>
+
+  <rect x="280" y="160" width="50" height="25" rx="5" fill="rgba(248,81,73,0.2)" stroke="#f85149" stroke-dasharray="3,2"/>
+  <text x="305" y="177" text-anchor="middle" fill="#f85149" font-size="9">チャンス!</text>
+
+  <rect x="480" y="55" width="50" height="25" rx="5" fill="rgba(248,81,73,0.2)" stroke="#f85149" stroke-dasharray="3,2"/>
+  <text x="505" y="72" text-anchor="middle" fill="#f85149" font-size="9">チャンス!</text>
+
+  <!-- 潮止まり -->
+  <line x1="250" y1="100" x2="250" y2="140" stroke="#8b949e" stroke-dasharray="3,2"/>
+  <text x="250" y="95" text-anchor="middle" fill="#8b949e" font-size="10">潮止まり</text>
+
+  <line x1="450" y1="100" x2="450" y2="140" stroke="#8b949e" stroke-dasharray="3,2"/>
+  <text x="450" y="148" text-anchor="middle" fill="#8b949e" font-size="10">潮止まり</text>
+
+  <text x="400" y="245" text-anchor="middle" fill="#58a6ff" font-size="11">潮止まり前後30分 = 移動 or チャンス待ちの転機</text>
+</svg>
+<div class="caption">潮位変化と魚の活性タイミング — 潮が動き始める瞬間が最大のチャンス</div>
+</div>
+
+<h3>何分アタリがなければ移動？</h3>
+
+<table>
+  <tr><th>釣り方</th><th>見切りの目安</th><th>補足</th></tr>
+  <tr><td>ルアー（アジング等）</td><td><strong>9投ルール</strong>: 正面・左・右に各3投</td><td>いれば何かしら反応あり</td></tr>
+  <tr><td>ランガン型</td><td>1箇所あたり2〜3投</td><td>10〜20m間隔で移動</td></tr>
+  <tr><td>エサ釣り</td><td>30分〜1時間</td><td>潮止まりで移動が合理的</td></tr>
+  <tr><td>渓流</td><td>数投で見切り</td><td>釣り上がりながら移動</td></tr>
+</table>
+
+<h3>ランガン vs 粘りの使い分け</h3>
+<table>
+  <tr><th>状況</th><th>推奨</th><th>理由</th></tr>
+  <tr><td>初めての釣り場</td><td><span class="badge orange">ランガン</span></td><td>ポイント特性を把握</td></tr>
+  <tr><td>回遊魚（アジ、青物）</td><td><span class="badge orange">ランガン</span></td><td>いなければ釣れない</td></tr>
+  <tr><td>根魚（カサゴ、メバル）</td><td><span class="badge green">粘り</span></td><td>居着き魚は動かない</td></tr>
+  <tr><td>潮が動いている時</td><td><span class="badge green">粘り</span></td><td>チャンスタイム中に移動は損</td></tr>
+  <tr><td>潮止まり</td><td><span class="badge orange">ランガン</span></td><td>次の潮動きに新ポイントで備える</td></tr>
+</table>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 7: 合わせのテクニック -->
+<!-- ============================== -->
+<section id="s7">
+<h2 class="section-title">7. 合わせのテクニック</h2>
+
+<h3>4つの合わせ方</h3>
+
+<div class="cols">
+  <div class="col-card">
+    <h4>即合わせ（早合わせ）</h4>
+    <p>アタリの瞬間にノーモーションで合わせる。</p>
+    <p><span class="badge">使う場面</span> メジナのフカセ、すぐ吐き出す魚</p>
+  </div>
+  <div class="col-card">
+    <h4>聞き合わせ</h4>
+    <p>竿先をゆっくり立てて糸にテンションをかけ確認。</p>
+    <p><span class="badge">使う場面</span> 根魚の探り、カワハギ、繊細なアタリ</p>
+  </div>
+  <div class="col-card">
+    <h4>遅合わせ</h4>
+    <p>十分に食い込ませてから合わせる。</p>
+    <p><span class="badge">使う場面</span> チヌ（前アタリ→本アタリの二段階）</p>
+  </div>
+  <div class="col-card">
+    <h4>向こう合わせ</h4>
+    <p>自分から合わせず、魚が勝手に掛かる。</p>
+    <p><span class="badge">使う場面</span> アジ・イワシ（口が弱い）、泳がせ</p>
+  </div>
+</div>
+
+<h3>ウキの動きから魚種を推測</h3>
+<table>
+  <tr><th>ウキの動き</th><th>推測される魚</th><th>対応</th></tr>
+  <tr><td>一気に力強く消し込む</td><td>活性高いチヌ・青物</td><td>即合わせ</td></tr>
+  <tr><td>ゆっくり沈み→加速して消し込む</td><td>チヌ（標準アタリ）</td><td>遅合わせ</td></tr>
+  <tr><td>5cmほど沈んで止まる</td><td>チヌ（居食い）/低活性</td><td>聞き合わせ</td></tr>
+  <tr><td>ウキが横に走る</td><td>安心して餌を拾う魚</td><td>軽く合わせ</td></tr>
+  <tr><td>道糸が急に走る</td><td>大型魚</td><td>大きくゆっくり合わせ</td></tr>
+  <tr><td>目立ったアタリなし</td><td>カワハギ</td><td>聞き合わせ頻発</td></tr>
+</table>
+
+<div class="tip">
+  <strong>基本原則:</strong> 「弱いアタリには素早く小さな合わせ、強いアタリには大きくゆっくり合わせる」
+</div>
+
+<h3>カワハギの合わせ — 最高難度の実例</h3>
+<p><strong>「タタキ・タルマセ・聞きアワセ」の3ステップ</strong>が基本:</p>
+<ol>
+  <li><strong>タタキ</strong>: 竿を小刻みに上下してエサだけ踊らせ、カワハギの興味を引く</li>
+  <li><strong>タルマセ</strong>: 竿先を下げてラインを緩め、エサを吸い込みやすくする</li>
+  <li><strong>聞きアワセ</strong>: 竿をゆっくり持ち上げ、重みがあればそのまま掛ける</li>
+</ol>
+<p>上級者は「誘い掛け」メソッドで、ラインの張り弛みを繰り返す中でカワハギを自動的に掛ける。</p>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 8: 動かし方 -->
+<!-- ============================== -->
+<section id="s8">
+<h2 class="section-title">8. 餌・仕掛けの動かし方</h2>
+
+<h3>誘いの3つの基本動作</h3>
+
+<div class="cols">
+  <div class="col-card">
+    <h4>サビく（引く）</h4>
+    <p>海底をゆっくり引きずる誘い。<strong>キス釣りの基本</strong>。</p>
+    <p>スピード = 「アリの歩く速さ」。ガクガク暴れさせるのはNG。</p>
+    <p>風が強い日は竿を寝かせると操作しやすい。</p>
+  </div>
+  <div class="col-card">
+    <h4>シャクる（跳ね上げ）</h4>
+    <p>竿を上方向に振り上げるアクション。<strong>船釣り・エギングの基本</strong>。</p>
+    <p>バイトはシャクリ後の<strong>フォール（落下）中</strong>に集中する。</p>
+  </div>
+</div>
+
+<h3>「間」の取り方 — 止めて食わせる</h3>
+
+<div class="tip">
+  <strong>全釣り共通の核心:</strong>
+  誘い → <strong>止め（ステイ）</strong> → 食い → アタリ、のサイクル。止めの「間」がないと魚が食えない。
+</div>
+
+<ul>
+  <li><strong>キス釣り</strong>: サビいた後に必ず止める。砂煙が舞っている間が食いの間</li>
+  <li><strong>カワハギ</strong>: タタキ→タルマセ。タルマセの瞬間がカワハギの食いの間</li>
+  <li><strong>フカセ釣り</strong>: 仕掛けを流している途中で故意に止める（張る）→食い気を誘発</li>
+</ul>
+
+<h3>コマセと刺し餌の同調（フカセ釣りの核心）</h3>
+
+<blockquote>
+  「同調とはコマセの中に刺し餌を配置させること。コマセに紛れさせることで、警戒心の強い魚の不安を軽減し、針への違和感を減らす」
+</blockquote>
+
+<p>実践テクニック:</p>
+<ol>
+  <li>オキアミ単体の沈下速度を把握する（静水で1m沈むのに20〜40秒）</li>
+  <li>仕掛けの潮上5m・10m・15m地点に後打ちコマセを複数投入</li>
+  <li>アタリが出た投入距離に絞り込んでいく</li>
+  <li>手前に餌取りを寄せてから沖へ遠投する「分離作戦」</li>
+</ol>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 9: 根がかり回避 -->
+<!-- ============================== -->
+<section id="s9">
+<h2 class="section-title">9. 根がかり回避テクニック</h2>
+
+<h3>仕掛けの工夫</h3>
+
+<div class="cols">
+  <div class="col-card">
+    <h4>捨てオモリ仕掛け</h4>
+    <p>オモリ部分に本線より<strong>細い糸（捨て糸）</strong>を使用。根がかり時にオモリだけが切れ、仕掛け本体は守られる。</p>
+  </div>
+  <div class="col-card">
+    <h4>中通しオモリ</h4>
+    <p>天秤より根がかりしにくくコストも安い。近場狙いなら1〜2号推奨。<strong>軽いほど根がかりしにくい</strong>。</p>
+  </div>
+  <div class="col-card">
+    <h4>ヒゲ付きオモリ</h4>
+    <p>六角オモリに太フロロの「ヒゲ」を4〜6本差し込む。ヒゲが隙間への入り込みを防止。</p>
+  </div>
+  <div class="col-card">
+    <h4>リフト&フォール</h4>
+    <p>横に引くのではなく<strong>縦の釣り</strong>で横方向の引っ掛かりを排除。バイトはフォール中に集中。</p>
+  </div>
+</div>
+
+<h3>根がかりした時の外し方</h3>
+<ol>
+  <li><strong>即座にクラッチを切る</strong>（糸が出るようにする）</li>
+  <li><strong>竿の上げ下げ</strong>: 糸を緩めたり張ったりして外す。十分に糸を緩めることがポイント</li>
+  <li><strong>逆方向から引く</strong>: 投げた方向と反対から引くと最も外れやすい。立ち位置を変える</li>
+  <li>外れない場合: <strong>できるだけハリス側で切る</strong>（道糸・ウキを守る）</li>
+</ol>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 10: ボウズ逃れ戦略 -->
+<!-- ============================== -->
+<section id="s10">
+<h2 class="section-title">10. なんでもいいから釣りたい時の戦略</h2>
+
+<h3>ボウズ逃れの鉄板パターン</h3>
+
+<div class="illustration">
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="300" fill="#161b22" rx="12"/>
+
+  <!-- 3つの柱 -->
+  <rect x="30" y="50" width="230" height="220" rx="10" fill="#1c2333" stroke="#3fb950" stroke-width="2"/>
+  <text x="145" y="85" text-anchor="middle" fill="#3fb950" font-size="16" font-weight="bold">餌</text>
+  <line x1="60" y1="95" x2="230" y2="95" stroke="#30363d"/>
+  <text x="50" y="120" fill="#e6edf3" font-size="12">1. アオイソメ（万能）</text>
+  <text x="50" y="145" fill="#e6edf3" font-size="12">2. オキアミ（集魚力）</text>
+  <text x="50" y="170" fill="#e6edf3" font-size="12">3. ジャリメ（小物確実）</text>
+  <text x="50" y="205" fill="#8b949e" font-size="11">イソメ＋オキアミの</text>
+  <text x="50" y="222" fill="#8b949e" font-size="11">二刀流で中層＋底を</text>
+  <text x="50" y="239" fill="#8b949e" font-size="11">同時に狙う</text>
+
+  <rect x="285" y="50" width="230" height="220" rx="10" fill="#1c2333" stroke="#f0883e" stroke-width="2"/>
+  <text x="400" y="85" text-anchor="middle" fill="#f0883e" font-size="16" font-weight="bold">仕掛け</text>
+  <line x1="315" y1="95" x2="485" y2="95" stroke="#30363d"/>
+  <text x="305" y="120" fill="#e6edf3" font-size="12">1. サビキ＋コマセカゴ</text>
+  <text x="305" y="145" fill="#e6edf3" font-size="12">2. 胴付き仕掛け</text>
+  <text x="305" y="170" fill="#e6edf3" font-size="12">3. ちょい投げ</text>
+  <text x="305" y="205" fill="#8b949e" font-size="11">「ボウズのがれ」シリーズ</text>
+  <text x="305" y="222" fill="#8b949e" font-size="11">（ささめ針）は中層と底</text>
+  <text x="305" y="239" fill="#8b949e" font-size="11">を同時に探れる</text>
+
+  <rect x="540" y="50" width="230" height="220" rx="10" fill="#1c2333" stroke="#58a6ff" stroke-width="2"/>
+  <text x="655" y="85" text-anchor="middle" fill="#58a6ff" font-size="16" font-weight="bold">場所と時間</text>
+  <line x1="570" y1="95" x2="740" y2="95" stroke="#30363d"/>
+  <text x="560" y="120" fill="#e6edf3" font-size="12">1. 足元のストラクチャー</text>
+  <text x="560" y="145" fill="#e6edf3" font-size="12">2. テトラ周り・壁際</text>
+  <text x="560" y="170" fill="#e6edf3" font-size="12">3. 朝マズメ（日の出前）</text>
+  <text x="560" y="205" fill="#8b949e" font-size="11">不発に備えて移動先を</text>
+  <text x="560" y="222" fill="#8b949e" font-size="11">3箇所以上事前に</text>
+  <text x="560" y="239" fill="#8b949e" font-size="11">決めておく</text>
+</svg>
+<div class="caption">ボウズ逃れの3本柱: 餌 × 仕掛け × 場所と時間</div>
+</div>
+
+<div class="tip">
+  <strong>最強の組み合わせ:</strong>
+  「ボウズのがれ」仕掛け ＋ アオイソメ ＋ 足元のテトラ or 壁際 ＋ 朝マズメ。これで「確実に何か釣れる」。
+</div>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 11: ターゲット狙い -->
+<!-- ============================== -->
+<section id="s11">
+<h2 class="section-title">11. 特定魚種を狙う時の戦略</h2>
+
+<h3>ターゲットを絞るときに変えること</h3>
+
+<table>
+  <tr><th>要素</th><th>五目釣り</th><th>ターゲット狙い</th></tr>
+  <tr><td>針サイズ</td><td>中庸</td><td>ターゲットの口に合わせる（小アジに大針はNG）</td></tr>
+  <tr><td>ハリス</td><td>中太</td><td>細くして食いを優先（大物は太め）</td></tr>
+  <tr><td>餌</td><td>万能餌（イソメ）</td><td>対象魚の嗜好に合わせる</td></tr>
+  <tr><td>タナ</td><td>広範囲</td><td>対象魚の遊泳層にピンポイント</td></tr>
+  <tr><td>時間帯</td><td>マズメ</td><td>対象魚の活性パターンに合わせる</td></tr>
+  <tr><td>コマセ</td><td>汎用</td><td>撒き餌の色と刺し餌の色を統一</td></tr>
+</table>
+
+<h3>グレ（メジナ）狙いの餌使い分け</h3>
+<ul>
+  <li><strong>活性が高い時</strong>: 特鮮むきエビ（シバエビ）で良型狙い</li>
+  <li><strong>小型青物が多い時</strong>: ボイルオキアミ（2L〜3L）や練り餌で小型回避</li>
+  <li><strong>活性が低い時</strong>: 活性起爆剤を配合餌に追加</li>
+</ul>
+
+<div class="tip warn">
+  <strong>文春オンライン「5つのNG」から:</strong>
+  狙う魚が明確でない → 針サイズが違うだけで大敗した実例。仕掛けの放置 → 投げっ放しでは釣れない。コマセを使わない → 集魚力が桁違い。
+</div>
+
+</section>
+
+<!-- ============================== -->
+<!-- SECTION 12: 差がつくテクニック -->
+<!-- ============================== -->
+<section id="s12">
+<h2 class="section-title">12. 差がつくテクニック — 実例集【最重要】</h2>
+
+<h3>釣果差の構成要因</h3>
+
+<div class="illustration">
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="200" fill="#161b22" rx="12"/>
+
+  <!-- タナ 70% -->
+  <rect x="50" y="50" width="490" height="50" rx="8" fill="#f85149" opacity="0.3"/>
+  <rect x="50" y="50" width="490" height="50" rx="8" fill="none" stroke="#f85149" stroke-width="2"/>
+  <text x="295" y="82" text-anchor="middle" fill="#f85149" font-size="18" font-weight="bold">タナ（棚）の精度 — 70%</text>
+
+  <!-- 操作 20% -->
+  <rect x="550" y="50" width="120" height="50" rx="8" fill="#f0883e" opacity="0.3"/>
+  <rect x="550" y="50" width="120" height="50" rx="8" fill="none" stroke="#f0883e" stroke-width="2"/>
+  <text x="610" y="82" text-anchor="middle" fill="#f0883e" font-size="14" font-weight="bold">操作 20%</text>
+
+  <!-- 仕掛け 10% -->
+  <rect x="680" y="50" width="70" height="50" rx="8" fill="#3fb950" opacity="0.3"/>
+  <rect x="680" y="50" width="70" height="50" rx="8" fill="none" stroke="#3fb950" stroke-width="2"/>
+  <text x="715" y="82" text-anchor="middle" fill="#3fb950" font-size="12" font-weight="bold">仕掛け</text>
+  <text x="715" y="95" text-anchor="middle" fill="#3fb950" font-size="10">10%</text>
+
+  <text x="400" y="140" text-anchor="middle" fill="#e6edf3" font-size="14">船釣りの船長曰く「朝一の投入で全員のタナがビシッと合った時は</text>
+  <text x="400" y="162" text-anchor="middle" fill="#e6edf3" font-size="14">『今日は大丈夫だ』と安心する」ほどタナの精度が釣果を支配する</text>
+  <text x="400" y="185" text-anchor="middle" fill="#8b949e" font-size="11">出典: 釣太郎 / こうゆう丸</text>
+</svg>
+</div>
+
+<h3>TOP 5: 同じ道具・同じ餌で差がつく要素</h3>
+
+<!-- Rank 1 -->
+<div class="rank-card rank-1">
+  <div class="rank-num">1</div>
+  <div>
+    <h4 style="margin-top:0">タナ（棚）の精度 — 50cm単位の微調整</h4>
+    <p>乗合船で隣だけ爆釣する原因の7割がタナ。<strong>リールカウンタではなく道糸のマーキングで計測する</strong>のが正確。指示タナ22mの場合、色2つ(20m)+マーキング2つ(2m)を数え、2つ目が水面少し上で止める。</p>
+    <p>潮が緩い時は仕掛けが垂れるため、コマセカゴを指示タナより少し上にセットする補正が必要。</p>
+  </div>
+</div>
+
+<!-- Rank 2 -->
+<div class="rank-card rank-2">
+  <div class="rank-num">2</div>
+  <div>
+    <h4 style="margin-top:0">投入ポイントの精度 — 1mのズレが10対0</h4>
+    <p>Honda釣り倶楽部の記事「すぐ隣で10対0」から: ルアーの着点が<strong>たった1mズレるだけで「入れ食い」と「無反応」の差</strong>になる。魚がエサを追い込む通常コースと同じ軌道でルアーを通すとヒット率が跳ね上がる。</p>
+    <blockquote>「微差は大差」 — これが釣果差の根本原理</blockquote>
+  </div>
+</div>
+
+<!-- Rank 3 -->
+<div class="rank-card rank-3">
+  <div class="rank-num">3</div>
+  <div>
+    <h4 style="margin-top:0">コマセと刺し餌の同調</h4>
+    <p>見えない海中を想像する推理ゲーム。ラインメンディング（膨らんだラインを潮上に切り返す操作）が同調の最大の敵で、<strong>これをやるかやらないかで釣果が劇的に変わる</strong>。</p>
+    <p>撒き餌と刺し餌の色を統一すると（例: 赤系配合餌なら赤系くわせオキアミ）、<strong>フグなどの餌取りに刺し餌を見つけられにくくなる</strong>。</p>
+  </div>
+</div>
+
+<!-- Rank 4 -->
+<div class="rank-card rank-4">
+  <div class="rank-num">4</div>
+  <div>
+    <h4 style="margin-top:0">餌の鮮度・付け方・交換頻度</h4>
+    <ul>
+      <li>イソメの体液が出尽くすと集魚効果激減 → <strong>アタリがなくても数分ごとに交換</strong></li>
+      <li>オキアミは海水で白くなり食い低下 → <strong>5分放置したら交換</strong>する上級者も</li>
+      <li>餌の付け方だけでも: イソメの<strong>尻から刺すと生き続けて針外れしにくい</strong></li>
+      <li>練り餌をピラミッド型に整形すると回転しながら沈降し注目を集める</li>
+    </ul>
+    <blockquote>「エサ交換をケチる人は釣果もケチられる」</blockquote>
+  </div>
+</div>
+
+<!-- Rank 5 -->
+<div class="rank-card rank-5">
+  <div class="rank-num">5</div>
+  <div>
+    <h4 style="margin-top:0">ライン管理とラインメンディング</h4>
+    <p>表層流でラインが潮下に膨らむと、刺し餌がコマセのコースから外れてしまう。膨らんだラインを潮上に切り返す操作が必須。ラインの太さが違うだけで同じルアーの潜行深度も変わる。</p>
+  </div>
+</div>
+
+<h3>見落としがちな基本テクニック集</h3>
+
+<table>
+  <tr><th>テクニック</th><th>内容</th><th>影響</th></tr>
+  <tr>
+    <td><strong>針先チェック</strong></td>
+    <td>爪に当てて滑るなら即交換。根がかり後は必ず確認</td>
+    <td>フッキング率が激変</td>
+  </tr>
+  <tr>
+    <td><strong>ハリスを細く</strong></td>
+    <td>4号→2号に落としたらアタリが出始めた実例あり（沖磯の尾長グレ）</td>
+    <td>澄み潮では特に致命的</td>
+  </tr>
+  <tr>
+    <td><strong>ハリスを長く</strong></td>
+    <td>潮が緩い時は2ヒロ〜。フカセでは3m〜10mもあり</td>
+    <td>フワフワ漂う自然な演出</td>
+  </tr>
+  <tr>
+    <td><strong>手返しの速さ</strong></td>
+    <td>魚の扱いと道具の配置を事前に最適化。テンポよく次の投入</td>
+    <td>釣果の総数に直結</td>
+  </tr>
+  <tr>
+    <td><strong>竿の硬さ</strong></td>
+    <td>硬すぎると魚が違和感で吐き出す。同じ食いつき回数でも掛かる数が違う</td>
+    <td>フッキング率に大差</td>
+  </tr>
+  <tr>
+    <td><strong>隣の観察</strong></td>
+    <td>竿の角度、投入位置、リーリングスピード、タナの深さを冷静に見る</td>
+    <td>引き出しが増える</td>
+  </tr>
+  <tr>
+    <td><strong>結び方の濡らし</strong></td>
+    <td>締め込み時に必ず唾液か水で濡らす。フロロは特に摩擦熱に弱い</td>
+    <td>強度低下を防止</td>
+  </tr>
+</table>
+
+<h3>状況適応力 — 天候・潮への対応</h3>
+
+<div class="cols">
+  <div class="col-card">
+    <h4>意外な事実</h4>
+    <p><strong>快晴無風が最悪になりうる</strong>。潮が動かず魚が食わないことが多い。多少の波・風がある方が潮も動きアタリも多い。</p>
+  </div>
+  <div class="col-card">
+    <h4>潮変化への対応</h4>
+    <p>潮が緩い時 → ハリスを長く、エサをフワフワ漂わせる。<br>潮が速い時 → ハリスを短く、操作性確保。</p>
+  </div>
+</div>
+
+<h3>最終結論</h3>
+
+<div class="tldr" style="border-color: var(--accent2);">
+  <h2 style="color: var(--accent2);">差がつく最大のテクニックとは</h2>
+  <p style="font-size: 1.1em; line-height: 1.9;">
+    同じ道具、同じ餌を使っても、<strong>タナの精度、投入ポイントの精度、コマセとの同調、餌の鮮度管理、ライン管理</strong>という5つの微細な差の積み重ねが「10対0」の差を生む。
+  </p>
+  <p style="font-size: 1.1em; line-height: 1.9;">
+    そして最も重要なのは、<strong>隣の釣り人を気にして集中力を失わないこと</strong>。自分のリズムを保ち、一つ一つの動作を丁寧に行うことが、結局は最大の「差がつくテクニック」である。
+  </p>
+  <p style="text-align: right; color: var(--text-muted); font-size: 0.9em;">— Honda釣り倶楽部「微差は大差」</p>
+</div>
+
+</section>
+
+<!-- ============================== -->
+<!-- Sources -->
+<!-- ============================== -->
+<div class="sources">
+  <h2>Sources</h2>
+  <ul>
+    <li><a href="https://www.honda.co.jp/fishing/labo/vol02/">Honda釣り倶楽部 — ノット強度比較実験</a></li>
+    <li><a href="https://www.honda.co.jp/fishing/news/news-20180828/">Honda釣り倶楽部 — すぐ隣で10対0尾</a></li>
+    <li><a href="https://www.honda.co.jp/fishing/enjoy/season/season-201704/step-2/">Honda釣り倶楽部 — ポイントの見つけ方</a></li>
+    <li><a href="https://www.honda.co.jp/fishing/enjoy/season/season-201012/step-3/">Honda釣り倶楽部 — カワハギ釣り</a></li>
+    <li><a href="https://www.honda.co.jp/fishing/enjoy/season/season-201009/step-4/">Honda釣り倶楽部 — シロギス投げ釣り</a></li>
+    <li><a href="https://tsurinews.jp/124254/">TSURINEWS — 釣りエサの刺し方3選</a></li>
+    <li><a href="https://tsurinews.jp/115294/">TSURINEWS — 時合いの代表例4選</a></li>
+    <li><a href="https://tsurinews.jp/130080/">TSURINEWS — ポイントを見切るタイミング</a></li>
+    <li><a href="https://tsurinews.jp/261056/">TSURINEWS — 堤防ルアー釣り5つのポイント</a></li>
+    <li><a href="https://tsurinews.jp/111322/">TSURINEWS — オモリの根掛かりを減らす方法</a></li>
+    <li><a href="https://tsurihack.com/3182">TSURI HACK — 堤防・漁港でのポイント選び</a></li>
+    <li><a href="https://tsurihack.com/907">TSURI HACK — ユニノット・ダブルユニノット</a></li>
+    <li><a href="https://tsurihack.com/5264">TSURI HACK — オキアミの付け方4パターン</a></li>
+    <li><a href="https://tsurihack.com/7168">TSURI HACK — 釣りエサ総まとめ</a></li>
+    <li><a href="https://tsurihack.com/4438">TSURI HACK — パワーイソメvs青イソメ検証</a></li>
+    <li><a href="https://tsurihack.com/5961">TSURI HACK — ボウズのがれは本当にボウズを逃れられるのか</a></li>
+    <li><a href="https://tsurihack.com/5310">TSURI HACK — 渓流釣りの餌</a></li>
+    <li><a href="https://fish.shimano.com/ja-JP/content/beginners/fishing/timing/index.html">シマノ — 魚が釣れやすいタイミング</a></li>
+    <li><a href="https://fish.shimano.com/ja-JP/content/fishingstyle/article/river/vol08.html">シマノ — 渓流の主なポイント</a></li>
+    <li><a href="https://fishing.sunline.co.jp/column/26572/">サンライン — フカセ釣りの道糸・ハリス・オモリ選び</a></li>
+    <li><a href="https://www.seaguar.ne.jp/knot/harris/harris_1.html">Seaguar — 外掛け結び</a></li>
+    <li><a href="https://www.daiwa.com/jp/beginner/line/innerhangingknot/">DAIWA — 内掛け結び</a></li>
+    <li><a href="https://heat-hayabusa.com/2023/10/06/shikakeyasan-8/">Hayabusa HEAT — 虫エサの正しい付け方</a></li>
+    <li><a href="https://heat-hayabusa.com/2022/05/19/beginner-knowledge/">Hayabusa HEAT — 釣りポイントマップ</a></li>
+    <li><a href="https://heat-hayabusa.com/2021/07/09/negakari-2/">Hayabusa HEAT — 根掛かり回避アクション法</a></li>
+    <li><a href="https://kouyuu-ngt.com/tanatori_howto.html">こうゆう丸 — 正しいタナの取り方</a></li>
+    <li><a href="https://kouyuu-ngt.com/negakari.html">こうゆう丸 — 根がかり防止と対処</a></li>
+    <li><a href="https://tsuttarou.net/archives/253531">釣太郎 — 釣果の差は棚7割</a></li>
+    <li><a href="https://tips.tsuri.cloud/gure-fukase-01/">釣りクラウド — コマセと刺し餌の同調</a></li>
+    <li><a href="https://memenet.co.jp/kantsuri/bait_fishing/45415/">関西のつりweb — 撒き餌と刺し餌の戦略的使用法</a></li>
+    <li><a href="https://nfg-lure.com/technique-002/">NFG — 同じルアーでもなぜ釣果に差が出るのか</a></li>
+    <li><a href="https://otomiya.com/cool-technique/technique/fishing-technique-2/">海釣り道場 — アワセのテクニック</a></li>
+    <li><a href="https://tsuriken.co.jp/ukitsuri/?p=97">釣研 — ウキ釣り超入門 アタリを覚えよう</a></li>
+    <li><a href="https://onishifishingfactory.com/kawahagiapplicablemethod/">O.F.F 大西釣具工房 — カワハギ誘い掛け</a></li>
+    <li><a href="https://www.point-i.jp/features/1983476?author_id=39">釣具のポイント — フカセ釣り初心者講座</a></li>
+    <li><a href="https://umitokanpai.jp/mazume-fishing-time/">海と乾杯 — 朝マズメ・夕マズメ完全ガイド</a></li>
+    <li><a href="https://y-nax.com/run-gun/">ナチュラルリリース — ランガンのやり方</a></li>
+    <li><a href="https://bunshun.jp/articles/-/47293">文春オンライン — 釣果が上がらない人の5つのNG</a></li>
+    <li><a href="https://news.yahoo.co.jp/expert/articles/67b96ad15ca328b3801fe849419dce0cf4e28a63">Yahoo!ニュース — エサの付け方ひとつで釣果が変わる</a></li>
+    <li><a href="https://tsurineta.69moons.com/harris-knowledge/">釣りのネタ帳 — ハリスの選び方</a></li>
+    <li><a href="https://www.happousyumi.com/entry/keiryuu-teii%E2%80%90point">八方趣味人 — 渓流魚が居着くポイント</a></li>
+    <li><a href="https://pochihiko-inunosuke.hatenablog.com/entry/2018/11/26/170254">俺のぬし釣り — ボウズを逃れたいならこれを持ってけ</a></li>
+  </ul>
+</div>
+
+<footer>
+  Research by Claude Code | 2026-04-26 | 41 sources referenced
+</footer>
+
+</div>
+</body>
+</html>
