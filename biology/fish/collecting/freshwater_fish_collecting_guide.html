@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本の淡水小魚 採集完全ガイド</title>
+<style>
+  :root {
+    --primary: #1a6b3c;
+    --primary-light: #e8f5e9;
+    --accent: #2196F3;
+    --accent-light: #e3f2fd;
+    --warning: #ff9800;
+    --warning-light: #fff3e0;
+    --danger: #e53935;
+    --danger-light: #ffebee;
+    --text: #333;
+    --bg: #fafafa;
+    --card-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.8;
+    font-size: 16px;
+  }
+  header {
+    background: linear-gradient(135deg, #1a6b3c 0%, #2e7d32 50%, #1b5e20 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="60" opacity="0.05">🐟</text></svg>') repeat;
+    background-size: 80px;
+  }
+  header h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+    position: relative;
+    text-shadow: 1px 2px 4px rgba(0,0,0,0.3);
+  }
+  header p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+    position: relative;
+  }
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  nav.toc {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--card-shadow);
+    border-left: 4px solid var(--primary);
+  }
+  nav.toc h2 { font-size: 1.2rem; color: var(--primary); margin-bottom: 0.8rem; }
+  nav.toc ol { padding-left: 1.5rem; }
+  nav.toc li { margin-bottom: 0.4rem; }
+  nav.toc a { color: var(--accent); text-decoration: none; }
+  nav.toc a:hover { text-decoration: underline; }
+
+  section {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--card-shadow);
+  }
+  h2 {
+    font-size: 1.6rem;
+    color: var(--primary);
+    border-bottom: 3px solid var(--primary);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+  h3 {
+    font-size: 1.25rem;
+    color: #2e7d32;
+    margin: 1.5rem 0 0.8rem;
+    padding-left: 0.8rem;
+    border-left: 4px solid var(--primary);
+  }
+  h4 {
+    font-size: 1.05rem;
+    color: #444;
+    margin: 1rem 0 0.5rem;
+  }
+  p { margin-bottom: 0.8rem; }
+  ul, ol { margin: 0.5rem 0 1rem 1.5rem; }
+  li { margin-bottom: 0.3rem; }
+
+  .tip {
+    background: var(--primary-light);
+    border-left: 4px solid var(--primary);
+    padding: 1rem 1.2rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+  }
+  .tip::before { content: "TIPS: "; font-weight: bold; color: var(--primary); }
+
+  .warning {
+    background: var(--warning-light);
+    border-left: 4px solid var(--warning);
+    padding: 1rem 1.2rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+  }
+  .warning::before { content: "注意: "; font-weight: bold; color: #e65100; }
+
+  .danger {
+    background: var(--danger-light);
+    border-left: 4px solid var(--danger);
+    padding: 1rem 1.2rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+  }
+  .danger::before { content: "重要: "; font-weight: bold; color: var(--danger); }
+
+  .info {
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    padding: 1rem 1.2rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1rem 0;
+  }
+  .info::before { content: "INFO: "; font-weight: bold; color: var(--accent); }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.95rem;
+  }
+  th, td {
+    padding: 0.7rem 0.8rem;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  th {
+    background: var(--primary);
+    color: white;
+    font-weight: 600;
+  }
+  tr:nth-child(even) { background: #f5f5f5; }
+  tr:hover { background: #e8f5e9; }
+
+  .tool-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  .tool-card {
+    background: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  .tool-card h4 {
+    margin: 0 0 0.5rem;
+    color: var(--primary);
+  }
+
+  .step {
+    display: flex;
+    align-items: flex-start;
+    margin: 1rem 0;
+    gap: 1rem;
+  }
+  .step-num {
+    background: var(--primary);
+    color: white;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    flex-shrink: 0;
+  }
+  .step-content { flex: 1; }
+
+  .season-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  .season-card {
+    border-radius: 8px;
+    padding: 1.2rem;
+    text-align: center;
+  }
+  .season-card.spring { background: #fce4ec; border: 2px solid #e91e63; }
+  .season-card.summer { background: #e3f2fd; border: 2px solid #2196f3; }
+  .season-card.autumn { background: #fff3e0; border: 2px solid #ff9800; }
+  .season-card.winter { background: #e8eaf6; border: 2px solid #3f51b5; }
+  .season-card h4 { font-size: 1.2rem; margin-bottom: 0.5rem; }
+
+  .badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-right: 0.3rem;
+  }
+  .badge-easy { background: #c8e6c9; color: #1b5e20; }
+  .badge-medium { background: #fff9c4; color: #f57f17; }
+  .badge-hard { background: #ffcdd2; color: #b71c1c; }
+
+  footer {
+    text-align: center;
+    padding: 2rem;
+    color: #888;
+    font-size: 0.85rem;
+    border-top: 1px solid #e0e0e0;
+  }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.6rem; }
+    .container { padding: 1rem; }
+    section { padding: 1.2rem; }
+    .tool-grid, .season-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>日本の淡水小魚 採集完全ガイド</h1>
+  <p>ヨシノボリ・ハゼ類・メダカ・タナゴ・グッピーなど &mdash; 効率的に採集するための実践マニュアル</p>
+</header>
+
+<div class="container">
+
+<!-- 目次 -->
+<nav class="toc">
+  <h2>目次</h2>
+  <ol>
+    <li><a href="#gasagasa">ガサガサ（タモ網採集）</a></li>
+    <li><a href="#trap">罠・トラップ（セルビン・もんどり・ペットボトルトラップ）</a></li>
+    <li><a href="#fishing">釣り（タナゴ釣り・ハゼ釣り・マイクロフィッシング）</a></li>
+    <li><a href="#castnet">投網</a></li>
+    <li><a href="#tools">必要な道具一覧</a></li>
+    <li><a href="#law">法規制・注意点</a></li>
+    <li><a href="#season">季節・時間帯ごとの採集戦略</a></li>
+    <li><a href="#species">対象魚種別 採集Tips</a></li>
+  </ol>
+</nav>
+
+<!-- ======================== 1. ガサガサ ======================== -->
+<section id="gasagasa">
+  <h2>1. ガサガサ（タモ網採集）</h2>
+
+  <h3>ガサガサとは</h3>
+  <p>ガサガサとは、川や用水路などの水辺でタモ網を使って水生生物を採集する行為の通称です。川岸の茂みや石の周りをタモ網でガサガサと探ることから、この名前がついています。最も手軽で確実な小魚採集法であり、初心者からベテランまで幅広く親しまれています。</p>
+
+  <h3>基本的なやり方</h3>
+
+  <div class="step">
+    <div class="step-num">1</div>
+    <div class="step-content">
+      <strong>網を下流側にセットする</strong><br>
+      魚は驚くと流れに乗って下流に逃げる習性があるため、タモ網を下流側に構えて待ち受けます。網の底辺を川底にぴったりと密着させ、隙間を作らないことが重要です。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">2</div>
+    <div class="step-content">
+      <strong>上流側から追い込む</strong><br>
+      網の上流側の草むらや石を足で蹴ったり、手で揺すったりして隠れている魚を驚かせます。「ガサガサ」と草の中をかき回すようにして、生き物を網の方向に追い込みます。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">3</div>
+    <div class="step-content">
+      <strong>素早く引き上げる</strong><br>
+      魚が入った感触があったら、素早く網を引き上げます。引き上げが遅いと逃げられてしまいます。
+    </div>
+  </div>
+
+  <div class="tip">追いかけ回しても魚はまず捕れません。「生き物が潜んでいそうなところに先読みして網を入れる」のが上手に捕まえるコツです。</div>
+
+  <h3>狙うべきポイント</h3>
+  <ul>
+    <li><strong>川岸の草の根元</strong> &mdash; 最も基本的なポイント。水中に垂れ下がった草の根は小魚の絶好の隠れ家</li>
+    <li><strong>石の下・石の間</strong> &mdash; ヨシノボリやカジカなど底生魚の定番ポイント。石をひっくり返しながら網で受ける</li>
+    <li><strong>水草の中</strong> &mdash; メダカやタナゴ類が隠れやすい</li>
+    <li><strong>倒木や護岸の隙間</strong> &mdash; 意外な大物が潜んでいることも</li>
+    <li><strong>用水路の水門付近</strong> &mdash; 水流の変化で魚が溜まりやすい</li>
+    <li><strong>ワンド（淀み）</strong> &mdash; 流れの緩い入り江状の場所は稚魚・小魚の宝庫</li>
+  </ul>
+
+  <h3>タモ網の選び方</h3>
+
+  <table>
+    <tr>
+      <th>フレーム形状</th>
+      <th>特徴</th>
+      <th>適した用途</th>
+    </tr>
+    <tr>
+      <td><strong>三角型</strong></td>
+      <td>一辺が平らで川底に密着。隙間ができにくく魚の逃げ場がない</td>
+      <td>ガサガサの基本。最もおすすめ</td>
+    </tr>
+    <tr>
+      <td><strong>D型</strong></td>
+      <td>三角型同様に底辺が平ら。三角より開口部が広い</td>
+      <td>広い範囲を効率的にカバー</td>
+    </tr>
+    <tr>
+      <td><strong>丸型</strong></td>
+      <td>一般的な形状だが川底との隙間ができやすい</td>
+      <td>釣りのランディング用。ガサガサには不向き</td>
+    </tr>
+  </table>
+
+  <div class="tip">フレームの先端がステンレスガードで保護されている二重枠タイプは、川底の石に当てても壊れにくく長持ちします。木製シャフトのものは頑丈で長年使えます。</div>
+
+  <h4>網目の選び方</h4>
+  <ul>
+    <li><strong>細目（2〜3mm）</strong> &mdash; メダカ・稚魚・ヨシノボリなど極小の魚に必須</li>
+    <li><strong>中目（5mm程度）</strong> &mdash; 汎用的。オイカワ・カワムツなど</li>
+    <li><strong>粗目（8mm以上）</strong> &mdash; 水の抵抗が少なく素早い操作が可能。大型魚向き</li>
+  </ul>
+
+  <h3>適した場所</h3>
+  <ul>
+    <li><strong>里山の小川・用水路</strong> &mdash; 浅くて流れが穏やか。初心者に最適</li>
+    <li><strong>河川の中流域</strong> &mdash; 魚種が豊富。瀬と淵の変化がある場所が良い</li>
+    <li><strong>水田脇の水路</strong> &mdash; メダカ、ドジョウ、タナゴが多い</li>
+    <li><strong>都市河川</strong> &mdash; 意外にも魚は棲んでおり、護岸の隙間を狙う</li>
+  </ul>
+
+  <div class="warning">深場や流れの速い場所には近づかないこと。滑りやすい石の上での転倒にも注意。上流で大雨の場合、現地が晴れていても急激に増水する危険があります。</div>
+</section>
+
+<!-- ======================== 2. 罠・トラップ ======================== -->
+<section id="trap">
+  <h2>2. 罠・トラップ</h2>
+
+  <h3>セルビン（びんどう）</h3>
+  <p>セルビンは、入口は入りやすく出口は出にくい構造を持つ筒状の魚捕獲器です。かつてはセルロイド製だったことからこの名がつきました。餌を入れて水中に沈めておくだけで、自動的に魚が入る「待ちの採集法」です。</p>
+
+  <h4>市販品の種類</h4>
+  <ul>
+    <li><strong>プラスチック製セルビン</strong> &mdash; 透明で中が見える。軽量で持ち運びやすい。ホームセンターや釣具店で500〜1,500円程度</li>
+    <li><strong>お魚キラー（折りたたみ式）</strong> &mdash; 複数の入口があり効率が良い。折りたためて携帯性も高い</li>
+    <li><strong>もんどり（籠型）</strong> &mdash; 金属フレームにネットを張った大型の罠。ウナギやナマズなど大型魚も対象</li>
+  </ul>
+
+  <h3>ペットボトルトラップの作り方</h3>
+
+  <h4>材料</h4>
+  <ul>
+    <li>ペットボトル（2L推奨、炭酸飲料用が丈夫）</li>
+    <li>はさみ・カッター</li>
+    <li>ビニールテープ</li>
+    <li>きり（穴あけ用）</li>
+    <li>タコ糸または釣り糸</li>
+    <li>水切りネット（任意）</li>
+    <li>針金（固定用）</li>
+  </ul>
+
+  <div class="step">
+    <div class="step-num">1</div>
+    <div class="step-content">
+      <strong>ペットボトルをカット</strong><br>
+      飲み口から約1/3の位置でカッターで切断し、上部（漏斗部分）と下部（本体）に分けます。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">2</div>
+    <div class="step-content">
+      <strong>漏斗部分を逆さにして差し込む</strong><br>
+      切り取った上部をひっくり返して、飲み口が内側を向くように本体に差し込みます。これが魚の入口になります。ビニールテープでしっかり固定。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">3</div>
+    <div class="step-content">
+      <strong>沈降用の穴をあける</strong><br>
+      きりでペットボトルの側面に数カ所穴をあけます。これにより水が入り、沈みやすくなります。穴が大きすぎると小魚が逃げるので、2〜3mm程度に。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">4</div>
+    <div class="step-content">
+      <strong>回収用の紐をつける</strong><br>
+      タコ糸をしっかり結び付け、もう一端を岸辺の杭や石に固定します。
+    </div>
+  </div>
+
+  <h3>餌の種類と使い分け</h3>
+  <table>
+    <tr>
+      <th>餌の種類</th>
+      <th>特徴</th>
+      <th>適した対象</th>
+    </tr>
+    <tr>
+      <td><strong>さなぎ粉</strong></td>
+      <td>集魚効果が非常に高い。粉のままでも練り餌にしてもOK</td>
+      <td>小魚全般（最もおすすめ）</td>
+    </tr>
+    <tr>
+      <td><strong>米ぬか</strong></td>
+      <td>入手しやすく安価。ゆっくり溶けて長時間集魚</td>
+      <td>小魚、エビ類</td>
+    </tr>
+    <tr>
+      <td><strong>食パン・小麦粉練り餌</strong></td>
+      <td>手軽に作れる。子供の川遊びにも</td>
+      <td>小魚全般</td>
+    </tr>
+    <tr>
+      <td><strong>味噌</strong></td>
+      <td>匂いが強く集魚力がある。溶けにくいのも利点</td>
+      <td>エビ・ドジョウ</td>
+    </tr>
+    <tr>
+      <td><strong>市販の魚餌（マルキュー等）</strong></td>
+      <td>配合済みで使いやすい</td>
+      <td>全般</td>
+    </tr>
+    <tr>
+      <td><strong>魚のアラ・煮干し</strong></td>
+      <td>肉食性の魚やカニに効果的</td>
+      <td>テナガエビ・カニ・肉食魚</td>
+    </tr>
+  </table>
+
+  <h3>仕掛け方のコツ</h3>
+  <ul>
+    <li><strong>入口を上流に向ける</strong> &mdash; 餌の匂いが流れに乗って下流に広がり、魚が匂いを辿って入口に到達する</li>
+    <li><strong>流れの緩いワンドや淀みに設置</strong> &mdash; 流れが強いと餌がすぐ流出し、魚も入りにくい</li>
+    <li><strong>重石を入れる</strong> &mdash; 小石を数個入れておくと浮き上がり防止になる</li>
+    <li><strong>設置時間は30分〜数時間</strong> &mdash; 餌が溶けきる前に回収。長時間放置しすぎると魚が弱る</li>
+    <li><strong>夕方に仕掛けて翌朝回収</strong> &mdash; 夜行性の魚やエビを狙うなら一晩仕掛けるのも有効</li>
+    <li><strong>障害物の近くに設置</strong> &mdash; 石の陰、草の根元、護岸沿いなど魚が集まりやすい場所</li>
+  </ul>
+
+  <div class="tip">お魚キラーやセルビンの餌は「極端に言えば何でもいい」と言われるほど、餌より「場所選び」が重要です。魚の通り道や溜まり場を見極めることが大量捕獲のカギです。</div>
+
+  <div class="warning">もんどりやセルビンの使用は都道府県の漁業調整規則で制限されている場合があります。使用前に必ず地域のルールを確認してください。</div>
+</section>
+
+<!-- ======================== 3. 釣り ======================== -->
+<section id="fishing">
+  <h2>3. 釣り（小物釣り・マイクロフィッシング）</h2>
+
+  <h3>タナゴ釣り</h3>
+  <p>タナゴは「世界最小の釣り対象魚」とも呼ばれ、美しい婚姻色や繊細なアタリを楽しむ奥深い釣りです。極小の道具を使うため、道具選びが釣果を大きく左右します。</p>
+
+  <h4>必要な道具</h4>
+  <table>
+    <tr>
+      <th>道具</th>
+      <th>仕様</th>
+      <th>ポイント</th>
+    </tr>
+    <tr>
+      <td><strong>竿</strong></td>
+      <td>60cm〜2.1m（スライド式が便利）</td>
+      <td>「張り」のある竿で操作性重視。初心者はスライド式が長さ調節できて便利</td>
+    </tr>
+    <tr>
+      <td><strong>ライン</strong></td>
+      <td>ナイロン 0.3号</td>
+      <td>しなやかで扱いやすい。慣れたらポリエステルラインに</td>
+    </tr>
+    <tr>
+      <td><strong>ウキ</strong></td>
+      <td>極小シモリウキ / ハエウキ</td>
+      <td>高感度・小型。初心者はウキ止めゴム固定型がセットしやすい</td>
+    </tr>
+    <tr>
+      <td><strong>目印</strong></td>
+      <td>糸ウキ 5〜7個</td>
+      <td>微細なアタリを視覚的に捉える</td>
+    </tr>
+    <tr>
+      <td><strong>ハリ</strong></td>
+      <td>タナゴ専用 新半月・極小</td>
+      <td>タナゴ専用ハリは口が極めて小さいタナゴに合わせた設計</td>
+    </tr>
+    <tr>
+      <td><strong>オモリ</strong></td>
+      <td>板オモリ（極薄）</td>
+      <td>ウキのバランスを微調整できる</td>
+    </tr>
+    <tr>
+      <td><strong>餌</strong></td>
+      <td>タナゴグルテン（練り餌）</td>
+      <td>グルテン粉末に水を加えて練る。アカムシも可</td>
+    </tr>
+  </table>
+
+  <h4>仕掛けの種類</h4>
+  <ul>
+    <li><strong>シモリウキ仕掛け</strong> &mdash; 小型タナゴ狙いの定番。複数の小さなシモリウキで微細なアタリを捉える</li>
+    <li><strong>ハエウキ仕掛け</strong> &mdash; 大型タナゴ向き。アタリが見やすく初心者にもおすすめ</li>
+    <li><strong>連動シモリ仕掛け</strong> &mdash; 上級者向け。感度が極めて高い</li>
+  </ul>
+
+  <h4>釣り方のコツ</h4>
+  <ul>
+    <li>タナ（水深）は水面から40〜50cmで開始し、アタリがなければ上下に調整</li>
+    <li>目印が左右に振れたり、沈む途中で止まるなど「少しでもおかしい」と感じたら軽くアワセる</li>
+    <li>餌は米粒の半分以下のサイズに。つけすぎると食い込みが悪い</li>
+    <li>同じポイントに寄せ餌効果で群れを集めてから本命を狙う</li>
+  </ul>
+
+  <h3>ハゼ釣り（ミャク釣り）</h3>
+  <p>マハゼなどのハゼ類は、河口域から汽水域で手軽に釣れる人気の対象魚です。ミャク釣りが最も基本的な釣法です。</p>
+
+  <h4>ミャク釣りの仕掛け</h4>
+  <ul>
+    <li><strong>竿</strong>：1.8m〜2.7mの延べ竿（渓流竿でも可）</li>
+    <li><strong>道糸</strong>：ナイロン 0.8〜1号</li>
+    <li><strong>ハリス</strong>：0.6〜0.8号、15cm程度</li>
+    <li><strong>ハリ</strong>：袖針 4〜7号（シーズン序盤は小さめ、秋は大きめ）</li>
+    <li><strong>オモリ</strong>：ガン玉 B〜3B</li>
+    <li><strong>餌</strong>：アオイソメ、ジャリメが定番。ホタテの貝柱も効果的</li>
+  </ul>
+
+  <div class="tip">ハゼは底にいるため、仕掛けが川底をトントンと叩くように流すのがコツ。オモリが底に着いた感触を常に意識しましょう。</div>
+
+  <h3>マイクロフィッシング</h3>
+  <p>極小の淡水魚（ヨシノボリ、カワヨシノボリ、小型ハゼなど3〜5cm級の魚）を専用のタックルで狙う釣りです。近年、マイクロフィッシング専用の極小針や仕掛けが注目されています。</p>
+
+  <h4>マイクロフィッシングの道具</h4>
+  <ul>
+    <li><strong>竿</strong>：タナゴ竿やテンカラ竿の短いもの（60cm〜1.2m）</li>
+    <li><strong>ハリ</strong>：タナゴ用の極小針、または渓流用の極小袖針（1〜2号）</li>
+    <li><strong>ライン</strong>：0.2〜0.4号の極細ライン</li>
+    <li><strong>餌</strong>：赤虫（アカムシ）、サシ虫の切り身、川底の石裏にいる川虫</li>
+  </ul>
+
+  <div class="tip">ヨシノボリを釣りで狙う場合、岩陰に仕掛けを流し込み、なるべく川底を這わせるように流すのがポイント。現地で石裏の川虫を採って餌にすると食いが良いです。</div>
+</section>
+
+<!-- ======================== 4. 投網 ======================== -->
+<section id="castnet">
+  <h2>4. 投網</h2>
+
+  <h3>投網とは</h3>
+  <p>投網（とあみ）は、円錐形の網を魚の上に投げかけて捕獲する伝統的な漁具です。泳ぎが速くタモ網では捕まえにくい中層魚（オイカワ、ウグイ、アユなど）に特に有効です。</p>
+
+  <h3>投網の選び方</h3>
+  <table>
+    <tr>
+      <th>対象魚サイズ</th>
+      <th>目合い（節）</th>
+      <th>対象魚の例</th>
+    </tr>
+    <tr>
+      <td>全長 6〜10cm</td>
+      <td>21〜18節（細かい）</td>
+      <td>ワカサギ、モロコ、小型ヨシノボリ</td>
+    </tr>
+    <tr>
+      <td>全長 8〜13cm</td>
+      <td>16〜14節</td>
+      <td>オイカワ、ウグイ小型、カワムツ</td>
+    </tr>
+    <tr>
+      <td>全長 15cm以上</td>
+      <td>12〜10節（粗い）</td>
+      <td>アユ、ウグイ成魚、フナ</td>
+    </tr>
+  </table>
+
+  <h3>投げ方の基本</h3>
+
+  <div class="step">
+    <div class="step-num">1</div>
+    <div class="step-content">
+      <strong>手縄を利き手と反対の手首に通す</strong><br>
+      手縄の輪を手首に通し、もつれやねじれを取り除きながら手繰り寄せます。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">2</div>
+    <div class="step-content">
+      <strong>網を整える</strong><br>
+      網の手前部分をつまんでピンと張り、肘にかけます。錘の部分を等間隔に並べておくことで、きれいに円形に開きます。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">3</div>
+    <div class="step-content">
+      <strong>投げる</strong><br>
+      遠心力を利用して前方上方に向けて投げ出し、錘が前方に向かった瞬間に両腕を伸ばして手のひらを開放します。網が空中できれいに円形に開くのが理想です。
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">4</div>
+    <div class="step-content">
+      <strong>引き上げる</strong><br>
+      錘が底に沈んだら手縄をゆっくり手繰り寄せます。錘が寄り集まってポケット状になり、その中に魚が閉じ込められます。
+    </div>
+  </div>
+
+  <h3>適した場所</h3>
+  <ul>
+    <li><strong>浅い砂底・砂利底の瀬</strong> &mdash; 網が引っかかりにくい</li>
+    <li><strong>見通しの良い開けた場所</strong> &mdash; 魚群を目視で確認してから投げられる</li>
+    <li><strong>水深 膝〜腰程度</strong> &mdash; 深すぎると引き上げが困難</li>
+  </ul>
+
+  <div class="warning">岩場や倒木が多い場所では網が破れたり引っかかったりするため避けましょう。また、投網の使用は都道府県によって許可が必要な場合があります（後述の法規制を参照）。</div>
+
+  <div class="tip">練習は広い芝生の上で行うと網のかかり具合が確認しやすいです。ボールなどの的を置いて狙う練習を繰り返すと、精度が上がります。</div>
+</section>
+
+<!-- ======================== 5. 道具一覧 ======================== -->
+<section id="tools">
+  <h2>5. 必要な道具一覧</h2>
+
+  <h3>基本装備（必須）</h3>
+  <div class="tool-grid">
+    <div class="tool-card">
+      <h4>タモ網（魚取り網）</h4>
+      <p>三角型またはD型フレーム推奨。フレーム幅30〜40cm程度が使いやすい。細目と中目の2本あると万全。</p>
+      <p><strong>価格帯</strong>：1,000〜5,000円</p>
+    </div>
+    <div class="tool-card">
+      <h4>バケツ</h4>
+      <p>フタ付きのコマセバケツが最適。自立して水漏れしない。エアポンプのチューブを通す穴があるタイプが便利。10L程度。</p>
+      <p><strong>価格帯</strong>：500〜2,000円</p>
+    </div>
+    <div class="tool-card">
+      <h4>長靴</h4>
+      <p>膝下程度の水深なら長靴で十分。滑りにくいソールのものを選ぶ。フェルトソールが理想的。</p>
+      <p><strong>価格帯</strong>：2,000〜5,000円</p>
+    </div>
+  </div>
+
+  <h3>あると便利な装備</h3>
+  <div class="tool-grid">
+    <div class="tool-card">
+      <h4>ウェーダー（胴長）</h4>
+      <p>腰〜胸までの水深に入る場合は必須。チェストハイ型が汎用性高い。夏場はナイロン、冬場はネオプレン素材が快適。</p>
+      <p><strong>価格帯</strong>：3,000〜15,000円</p>
+    </div>
+    <div class="tool-card">
+      <h4>携帯エアポンプ</h4>
+      <p>電池式のエアポンプ。採集した魚の酸欠防止に重要。特に夏場の水温が高い時期は必須。乾電池式が主流。</p>
+      <p><strong>価格帯</strong>：1,000〜3,000円</p>
+    </div>
+    <div class="tool-card">
+      <h4>観察ケース</h4>
+      <p>透明なプラスチック製の薄型ケース。魚を横から観察・撮影できる。種同定にも便利。幅15〜30cm程度。</p>
+      <p><strong>価格帯</strong>：500〜2,000円</p>
+    </div>
+    <div class="tool-card">
+      <h4>クーラーボックス</h4>
+      <p>持ち帰り時の水温維持に。小型（5〜10L）で十分。保冷剤で水温上昇を防ぐ。</p>
+      <p><strong>価格帯</strong>：1,500〜5,000円</p>
+    </div>
+    <div class="tool-card">
+      <h4>プラケース（虫かご）</h4>
+      <p>採集した魚の一時保管用。蓋付きで水を入れられるもの。100円ショップでも入手可能。</p>
+      <p><strong>価格帯</strong>：100〜500円</p>
+    </div>
+    <div class="tool-card">
+      <h4>偏光サングラス</h4>
+      <p>水面の反射を除去して水中が見える。魚の居場所の確認やポイント選びに非常に有効。</p>
+      <p><strong>価格帯</strong>：1,000〜10,000円</p>
+    </div>
+  </div>
+
+  <h3>安全装備</h3>
+  <div class="tool-grid">
+    <div class="tool-card">
+      <h4>ライフジャケット</h4>
+      <p>深い場所や流れのある場所では着用推奨。子供は必須。膨張式は川では不向き。固定式を。</p>
+    </div>
+    <div class="tool-card">
+      <h4>帽子・日焼け止め</h4>
+      <p>夏場は熱中症対策として必須。ツバの広い帽子が良い。</p>
+    </div>
+    <div class="tool-card">
+      <h4>手袋（軍手）</h4>
+      <p>石をひっくり返す際のケガ防止。カニやザリガニに挟まれる防止にも。</p>
+    </div>
+  </div>
+
+  <h3>持ち物チェックリスト</h3>
+  <table>
+    <tr><th>カテゴリ</th><th>必須</th><th>推奨</th></tr>
+    <tr><td>採集道具</td><td>タモ網、バケツ</td><td>セルビン、投網、観察ケース</td></tr>
+    <tr><td>足回り</td><td>長靴 or ウェーダー</td><td>マリンシューズ（夏場）</td></tr>
+    <tr><td>保管</td><td>バケツ</td><td>エアポンプ、クーラーボックス、保冷剤</td></tr>
+    <tr><td>安全</td><td>帽子、飲み物</td><td>ライフジャケット、手袋、日焼け止め</td></tr>
+    <tr><td>記録</td><td>スマホ（カメラ）</td><td>偏光サングラス、観察ケース、図鑑</td></tr>
+    <tr><td>その他</td><td>着替え、タオル</td><td>虫除けスプレー、ゴミ袋</td></tr>
+  </table>
+</section>
+
+<!-- ======================== 6. 法規制 ======================== -->
+<section id="law">
+  <h2>6. 法規制・注意点</h2>
+
+  <h3>知っておくべき法律・規則</h3>
+
+  <h4>1. 都道府県漁業調整規則</h4>
+  <p>各都道府県が独自に定めるルールです。以下の内容が規定されています：</p>
+  <ul>
+    <li><strong>使用可能な漁具・漁法</strong> &mdash; タモ網と竿釣りはほぼ全国でOK。投網は許可が必要な県もある</li>
+    <li><strong>禁止区域・禁止期間</strong> &mdash; 産卵期の特定区域での採捕禁止など</li>
+    <li><strong>体長制限</strong> &mdash; 一定サイズ以下の魚の採捕禁止</li>
+    <li><strong>数量制限</strong> &mdash; 一部の魚種で1日の捕獲上限あり</li>
+  </ul>
+
+  <div class="danger">京都府など一部の県では、投網は知事の許可なしに使用できません。必ず事前に各都道府県のルールを確認してください。</div>
+
+  <h4>2. 内水面漁業権と遊漁券</h4>
+  <p>河川や湖沼には漁業協同組合が「第5種共同漁業権」の免許を受けている場合があります。漁業権が設定された水域では：</p>
+  <ul>
+    <li><strong>遊漁券（入漁券）の購入が必要</strong> &mdash; 釣具店やコンビニで販売。日券500〜2,000円、年券3,000〜10,000円程度</li>
+    <li><strong>遊漁規則の遵守</strong> &mdash; 期間、漁具、漁法が定められている</li>
+    <li>タモ網でのガサガサは遊漁券が不要な場合も多いが、地域による</li>
+  </ul>
+
+  <div class="info">漁業権が設定されているかは、各都道府県の水産課や漁業協同組合に問い合わせるのが確実です。「○○県 内水面 遊漁」で検索すると各県の情報が見つかります。</div>
+
+  <h4>3. 特定外来生物法</h4>
+  <p>特定外来生物に指定された生物は<strong>飼養・保管・運搬・輸入が禁止</strong>されています。採集時に特に注意すべき淡水魚：</p>
+
+  <table>
+    <tr>
+      <th>種名</th>
+      <th>区分</th>
+      <th>注意事項</th>
+    </tr>
+    <tr>
+      <td><strong>オオクチバス（ブラックバス）</strong></td>
+      <td>特定外来生物</td>
+      <td>持ち帰り・移動禁止。都道府県によりリリース禁止の条例もある</td>
+    </tr>
+    <tr>
+      <td><strong>コクチバス</strong></td>
+      <td>特定外来生物</td>
+      <td>同上</td>
+    </tr>
+    <tr>
+      <td><strong>ブルーギル</strong></td>
+      <td>特定外来生物</td>
+      <td>同上</td>
+    </tr>
+    <tr>
+      <td><strong>カダヤシ</strong></td>
+      <td>特定外来生物</td>
+      <td>メダカと酷似。持ち帰り厳禁。違反すると3年以下の懲役または300万円以下の罰金</td>
+    </tr>
+    <tr>
+      <td><strong>チャネルキャットフィッシュ</strong></td>
+      <td>特定外来生物</td>
+      <td>利根川水系などで増加中。持ち帰り禁止</td>
+    </tr>
+  </table>
+
+  <div class="danger">
+    <strong>メダカとカダヤシの見分け方</strong>：メダカは背びれが体の後方寄り、尾びれの縁が真っ直ぐ。カダヤシは背びれが体の中央付近、尾びれの縁が丸い。カダヤシはグッピーと同じカダヤシ目で、メダカ（ダツ目）とは分類が全く異なります。カダヤシを持ち帰ると法律違反になるため、必ず見分けられるようにしておきましょう。
+  </div>
+
+  <h4>4. その他の規制・注意点</h4>
+  <ul>
+    <li><strong>天然記念物</strong> &mdash; イタセンパラ、ミヤコタナゴ、アユモドキなど。採集は一切禁止</li>
+    <li><strong>絶滅危惧種</strong> &mdash; ニッポンバラタナゴ、ゼニタナゴなど。法的に禁止でなくても倫理的に採集を控えるべき</li>
+    <li><strong>サケ・マス類</strong> &mdash; 多くの県でサケの採捕は禁止。マス類も制限あり</li>
+    <li><strong>ウナギ</strong> &mdash; シラスウナギの採捕は全国的に許可制。成魚も各県で規制あり</li>
+    <li><strong>私有地・立入禁止区域</strong> &mdash; 許可なく立ち入ると不法侵入になる</li>
+    <li><strong>採集個体の移動放流</strong> &mdash; 別の水域への放流は遺伝子撹乱の原因。絶対にしない</li>
+  </ul>
+
+  <h3>採集マナー</h3>
+  <ul>
+    <li>必要以上に採集しない（観察後は元の場所にリリース）</li>
+    <li>ひっくり返した石は元に戻す（水生昆虫やハゼ類の卵が付着している場合がある）</li>
+    <li>ゴミは持ち帰る。河川敷を汚さない</li>
+    <li>地元の方や漁業者との良好な関係を維持する</li>
+    <li>希少種がいる場所の情報をSNS等で安易に公開しない</li>
+  </ul>
+</section>
+
+<!-- ======================== 7. 季節・時間帯 ======================== -->
+<section id="season">
+  <h2>7. 季節・時間帯ごとの採集戦略</h2>
+
+  <div class="season-grid">
+    <div class="season-card spring">
+      <h4>春（3〜5月）</h4>
+      <p><strong>水温上昇期</strong></p>
+    </div>
+    <div class="season-card summer">
+      <h4>夏（6〜8月）</h4>
+      <p><strong>最盛期</strong></p>
+    </div>
+    <div class="season-card autumn">
+      <h4>秋（9〜11月）</h4>
+      <p><strong>充実期</strong></p>
+    </div>
+    <div class="season-card winter">
+      <h4>冬（12〜2月）</h4>
+      <p><strong>低活性期</strong></p>
+    </div>
+  </div>
+
+  <h3>春（3〜5月）</h3>
+  <ul>
+    <li><strong>特徴</strong>：水温が上昇し始め、魚の活性が徐々に高まる。繁殖のために浅場に移動する魚種も</li>
+    <li><strong>狙い目</strong>：水田に水が入り始める4〜5月は用水路にメダカやドジョウが増える</li>
+    <li><strong>ヨシノボリ</strong>：春〜初夏が繁殖期。雄が縄張りを持ち、石の下で卵を守る姿が見られる</li>
+    <li><strong>タナゴ</strong>：婚姻色が最も美しい時期。二枚貝の近くで採集チャンスが増える</li>
+    <li><strong>注意</strong>：増水しやすい時期。雪解け水で水温が低い場所もある</li>
+  </ul>
+
+  <h3>夏（6〜8月）</h3>
+  <ul>
+    <li><strong>特徴</strong>：魚の活性が最も高く、採集の最盛期。水生生物全般が活発</li>
+    <li><strong>狙い目</strong>：早朝か夕方がベスト。日中は魚も日陰に隠れがち</li>
+    <li><strong>メダカ</strong>：水温が高い浅い水路で活発に泳ぐ。朝夕が捕りやすい</li>
+    <li><strong>テナガエビ</strong>：夜間の採集が効果的。ヘッドライトで照らすと石の隙間から出てくる</li>
+    <li><strong>注意</strong>：熱中症対策必須。水温上昇で採集した魚が酸欠になりやすいので、エアポンプと日陰の確保を</li>
+  </ul>
+
+  <h3>秋（9〜11月）</h3>
+  <ul>
+    <li><strong>特徴</strong>：魚が冬に備えて盛んに餌を食べる。サイズの良い個体が多い</li>
+    <li><strong>狙い目</strong>：水温がやや下がり始めるが、まだ活性は高い。日中でも採集しやすい</li>
+    <li><strong>ハゼ</strong>：マハゼは秋が最盛期。サイズも大きくなり「落ちハゼ」と呼ばれる深場への移動前が狙い目</li>
+    <li><strong>グッピー</strong>（沖縄・温泉地）：まだ水温が高く活発。用水路や温排水の周辺で見つかる</li>
+    <li><strong>注意</strong>：台風シーズン。増水後は魚の分布が変わることも</li>
+  </ul>
+
+  <h3>冬（12〜2月）</h3>
+  <ul>
+    <li><strong>特徴</strong>：水温低下で魚の活性が大幅に低下。採集効率は下がるが、不可能ではない</li>
+    <li><strong>狙い目</strong>：深い淵や温排水周辺に魚が集中するため、そこを狙えば効率的</li>
+    <li><strong>ヨシノボリ</strong>：石の下でじっとしていることが多い。石をひっくり返せば見つかる</li>
+    <li><strong>ドジョウ</strong>：泥の中に潜っていることが多いが、網で泥ごとすくえば採れる</li>
+    <li><strong>注意</strong>：ウェーダーでの入水は体温低下のリスク。短時間で切り上げる</li>
+  </ul>
+
+  <h3>時間帯による違い</h3>
+  <table>
+    <tr>
+      <th>時間帯</th>
+      <th>効率</th>
+      <th>特徴</th>
+    </tr>
+    <tr>
+      <td><strong>早朝（日の出〜8時）</strong></td>
+      <td><span class="badge badge-easy">高</span></td>
+      <td>マズメ時。魚の活性が高く、人も少ない。夏場は涼しく快適</td>
+    </tr>
+    <tr>
+      <td><strong>午前（8〜11時）</strong></td>
+      <td><span class="badge badge-easy">高</span></td>
+      <td>水温が上がり始め活性が上がる。視認性も良く観察しやすい</td>
+    </tr>
+    <tr>
+      <td><strong>日中（11〜15時）</strong></td>
+      <td><span class="badge badge-medium">中</span></td>
+      <td>夏は魚が日陰に避難。春秋は日中でも活性あり。冬は最も水温が高い時間帯で狙い目</td>
+    </tr>
+    <tr>
+      <td><strong>夕方（15〜日没）</strong></td>
+      <td><span class="badge badge-easy">高</span></td>
+      <td>夕マズメ。餌を求めて活発に動く時間帯</td>
+    </tr>
+    <tr>
+      <td><strong>夜間</strong></td>
+      <td><span class="badge badge-medium">中〜高</span></td>
+      <td>テナガエビ・ウナギ・ナマズなど夜行性の種に特化。ヘッドライト必須</td>
+    </tr>
+  </table>
+
+  <div class="tip">最も効率が良いのは「朝マズメ（日の出前後1時間）」と「夕マズメ（日没前後1時間）」です。魚が活発に餌を探し回るこの時間帯を逃さないようにしましょう。</div>
+</section>
+
+<!-- ======================== 8. 魚種別Tips ======================== -->
+<section id="species">
+  <h2>8. 対象魚種別 採集Tips</h2>
+
+  <h3>ヨシノボリ（Rhinogobius属）</h3>
+  <table>
+    <tr><th>項目</th><th>内容</th></tr>
+    <tr><td>生息環境</td><td>渓流〜中流域の石底、湖沼の岩場、用水路、都市河川まで幅広い</td></tr>
+    <tr><td>ベストシーズン</td><td>春〜秋（繁殖期の春〜初夏が最も見つけやすい）</td></tr>
+    <tr><td>採集法</td><td>タモ網で石をひっくり返しながら追い込む。石の下にいることが多い</td></tr>
+    <tr><td>コツ</td><td>大きめの石がゴロゴロしている瀬が好ポイント。腹の吸盤で石に張り付いているため、石を持ち上げた瞬間に素早く網で受ける</td></tr>
+    <tr><td>釣り</td><td>赤虫や川虫を餌に、岩陰に仕掛けを流し込む。川底を這わせるように</td></tr>
+  </table>
+
+  <h3>メダカ（Oryzias latipes）</h3>
+  <table>
+    <tr><th>項目</th><th>内容</th></tr>
+    <tr><td>生息環境</td><td>水田、用水路、小川の浅い止水域〜緩流域。水草の周辺</td></tr>
+    <tr><td>ベストシーズン</td><td>春〜秋（4〜10月）。水温20℃以上で活発</td></tr>
+    <tr><td>採集法</td><td>細目のタモ網でゆっくり水草の周りをすくう。セルビンも有効</td></tr>
+    <tr><td>コツ</td><td>群れで行動するので、1匹見つけたら周辺に多数いる可能性大。追い回すと散るので、静かに近づいて一気にすくう</td></tr>
+    <tr><td>注意</td><td>カダヤシとの見分け必須。野生メダカは減少中のため必要最低限の採集に留める</td></tr>
+  </table>
+
+  <h3>タナゴ類（Acheilognathinae）</h3>
+  <table>
+    <tr><th>項目</th><th>内容</th></tr>
+    <tr><td>生息環境</td><td>平野部の池、水路、河川下流域。二枚貝（マツカサガイ等）がいる砂泥底</td></tr>
+    <tr><td>ベストシーズン</td><td>春〜初夏（婚姻色が出る4〜6月が魅力的）</td></tr>
+    <tr><td>採集法</td><td>タナゴ釣りが最も確実。セルビンも有効。ガサガサでは水草の周辺を狙う</td></tr>
+    <tr><td>コツ</td><td>二枚貝が多い場所の近くに生息。産卵期は貝の周辺を重点的に探す</td></tr>
+    <tr><td>注意</td><td>ミヤコタナゴ・イタセンパラは天然記念物で採集禁止。ニッポンバラタナゴ等は絶滅危惧種</td></tr>
+  </table>
+
+  <h3>ハゼ類（汽水〜淡水）</h3>
+  <table>
+    <tr><th>項目</th><th>内容</th></tr>
+    <tr><td>生息環境</td><td>河口域〜中流域の砂泥底。マハゼは汽水域が中心。ヌマチチブは淡水域にも多い</td></tr>
+    <tr><td>ベストシーズン</td><td>マハゼは夏〜秋。ヌマチチブ・チチブは春〜秋</td></tr>
+    <tr><td>採集法</td><td>ミャク釣り、ガサガサ（石の下を狙う）。テナガエビと同じポイントにいることが多い</td></tr>
+    <tr><td>コツ</td><td>底にいるため、網を底に密着させて石をひっくり返す。釣りでは底を引きずるように</td></tr>
+  </table>
+
+  <h3>グッピー・外来小魚</h3>
+  <table>
+    <tr><th>項目</th><th>内容</th></tr>
+    <tr><td>生息環境</td><td>沖縄・温泉排水のある河川（鹿児島、大分など）の温暖な水域</td></tr>
+    <tr><td>ベストシーズン</td><td>通年（水温が安定している温排水域）、一般的には夏〜秋</td></tr>
+    <tr><td>採集法</td><td>タモ網で群れごとすくう。セルビンも効果的</td></tr>
+    <tr><td>注意</td><td>グッピーは「生態系被害防止外来種」。カダヤシは特定外来生物で持ち帰り厳禁。採集の際は在来種との見分けに注意</td></tr>
+  </table>
+
+  <div class="tip">どの魚種でも共通して言えるのは、「水中の障害物（石・草・護岸）の周辺を探る」のが鉄則です。開けた水面のど真ん中に小魚がぽつんといることは稀です。隠れ家と餌場の近くを重点的に攻めましょう。</div>
+</section>
+
+</div><!-- /container -->
+
+<footer>
+  <p>日本の淡水小魚 採集完全ガイド &mdash; 2026年4月作成</p>
+  <p>採集の際は各都道府県の漁業調整規則を確認し、法令を遵守してください。</p>
+  <p>自然環境の保全と生物多様性の維持に配慮した採集を心がけましょう。</p>
+</footer>
+
+</body>
+</html>
