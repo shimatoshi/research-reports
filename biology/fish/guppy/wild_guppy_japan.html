@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本国内における野生化グッピー（Poecilia reticulata）の生息状況</title>
+<style>
+  :root {
+    --primary: #1a5276;
+    --secondary: #2980b9;
+    --accent: #e74c3c;
+    --bg: #f8f9fa;
+    --card-bg: #ffffff;
+    --text: #2c3e50;
+    --border: #dee2e6;
+    --highlight: #fff3cd;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', 'Yu Gothic', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.8;
+  }
+  .hero {
+    background: linear-gradient(135deg, #1a5276 0%, #2980b9 50%, #1abc9c 100%);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 2.2em;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  }
+  .hero .subtitle {
+    font-size: 1.1em;
+    opacity: 0.9;
+  }
+  .hero .sci-name {
+    font-style: italic;
+    font-size: 1.3em;
+    margin-top: 8px;
+    opacity: 0.85;
+  }
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .toc {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px 30px;
+    margin: 30px 0;
+  }
+  .toc h2 {
+    font-size: 1.3em;
+    margin-bottom: 12px;
+    color: var(--primary);
+  }
+  .toc ul {
+    list-style: none;
+    columns: 2;
+    column-gap: 30px;
+  }
+  .toc li {
+    margin-bottom: 6px;
+  }
+  .toc a {
+    color: var(--secondary);
+    text-decoration: none;
+    font-size: 0.95em;
+  }
+  .toc a:hover { text-decoration: underline; }
+
+  .section {
+    background: var(--card-bg);
+    border-radius: 10px;
+    margin: 30px 0;
+    padding: 30px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    border-left: 5px solid var(--secondary);
+  }
+  .section.overview { border-left-color: #8e44ad; }
+  .section.kanto { border-left-color: #e74c3c; }
+  .section.chubu { border-left-color: #f39c12; }
+  .section.kinki { border-left-color: #27ae60; }
+  .section.chugoku { border-left-color: #16a085; }
+  .section.shikoku { border-left-color: #2ecc71; }
+  .section.kyushu { border-left-color: #e67e22; }
+  .section.okinawa { border-left-color: #3498db; }
+  .section.tohoku { border-left-color: #9b59b6; }
+  .section.hokkaido { border-left-color: #1abc9c; }
+  .section.academic { border-left-color: #34495e; }
+
+  h2 {
+    font-size: 1.6em;
+    color: var(--primary);
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--border);
+  }
+  h3 {
+    font-size: 1.2em;
+    color: var(--secondary);
+    margin: 20px 0 10px;
+  }
+  h4 {
+    font-size: 1.05em;
+    color: #555;
+    margin: 15px 0 8px;
+  }
+
+  .point-card {
+    background: #f0f7ff;
+    border: 1px solid #c8dff0;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 14px 0;
+  }
+  .point-card h4 {
+    color: var(--primary);
+    margin-top: 0;
+    font-size: 1.1em;
+  }
+  .point-card .tag {
+    display: inline-block;
+    background: var(--secondary);
+    color: white;
+    font-size: 0.75em;
+    padding: 2px 8px;
+    border-radius: 3px;
+    margin-right: 5px;
+    margin-bottom: 4px;
+  }
+  .point-card .tag.hot-spring { background: #e74c3c; }
+  .point-card .tag.sewage { background: #8e44ad; }
+  .point-card .tag.industrial { background: #f39c12; }
+  .point-card .tag.natural { background: #27ae60; }
+  .point-card .tag.eradicated { background: #95a5a6; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+    font-size: 0.92em;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 10px 12px;
+    text-align: left;
+  }
+  th {
+    background: var(--primary);
+    color: white;
+    font-weight: 600;
+  }
+  tr:nth-child(even) { background: #f8f9fa; }
+
+  .info-box {
+    background: var(--highlight);
+    border: 1px solid #ffc107;
+    border-radius: 6px;
+    padding: 14px 18px;
+    margin: 15px 0;
+    font-size: 0.93em;
+  }
+  .info-box strong { color: #856404; }
+
+  .warning-box {
+    background: #fdecea;
+    border: 1px solid #e74c3c;
+    border-radius: 6px;
+    padding: 14px 18px;
+    margin: 15px 0;
+    font-size: 0.93em;
+  }
+
+  .source-list {
+    background: #f5f5f5;
+    border-radius: 6px;
+    padding: 16px 20px;
+    margin: 15px 0;
+    font-size: 0.88em;
+  }
+  .source-list a {
+    color: var(--secondary);
+    word-break: break-all;
+  }
+
+  .img-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .img-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  }
+  .img-container .caption {
+    font-size: 0.85em;
+    color: #888;
+    margin-top: 6px;
+  }
+
+  .map-summary {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+    margin: 20px 0;
+  }
+  .map-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+  }
+  .map-card .region {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: var(--primary);
+  }
+  .map-card .status {
+    font-size: 0.9em;
+    margin-top: 6px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    display: inline-block;
+  }
+  .map-card .status.established { background: #e74c3c; color: white; }
+  .map-card .status.hotspring { background: #f39c12; color: white; }
+  .map-card .status.sewage { background: #8e44ad; color: white; }
+  .map-card .status.eradicated { background: #95a5a6; color: white; }
+  .map-card .status.widespread { background: #c0392b; color: white; }
+  .map-card .status.unknown { background: #bdc3c7; color: #333; }
+
+  footer {
+    text-align: center;
+    padding: 30px;
+    color: #888;
+    font-size: 0.85em;
+    border-top: 1px solid var(--border);
+    margin-top: 40px;
+  }
+
+  @media (max-width: 768px) {
+    .hero h1 { font-size: 1.5em; }
+    .toc ul { columns: 1; }
+    .section { padding: 20px; }
+    .map-summary { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>日本国内における野生化グッピーの生息状況</h1>
+  <div class="sci-name">Poecilia reticulata Peters, 1859</div>
+  <div class="subtitle">地方別・採集ポイント別 総合レポート</div>
+</div>
+
+<div class="container">
+
+<!-- 目次 -->
+<div class="toc">
+  <h2>目次</h2>
+  <ul>
+    <li><a href="#overview">1. 概要 -- 日本におけるグッピーの野生化</a></li>
+    <li><a href="#distribution-map">2. 全国分布サマリー</a></li>
+    <li><a href="#kanto">3. 関東地方（重点）</a></li>
+    <li><a href="#chubu">4. 中部地方</a></li>
+    <li><a href="#kinki">5. 近畿地方</a></li>
+    <li><a href="#chugoku">6. 中国地方</a></li>
+    <li><a href="#shikoku">7. 四国地方</a></li>
+    <li><a href="#kyushu">8. 九州地方</a></li>
+    <li><a href="#okinawa">9. 沖縄・南西諸島</a></li>
+    <li><a href="#tohoku">10. 東北地方</a></li>
+    <li><a href="#hokkaido">11. 北海道</a></li>
+    <li><a href="#academic">12. 学術的知見・参考文献</a></li>
+  </ul>
+</div>
+
+<!-- 概要 -->
+<div class="section overview" id="overview">
+  <h2>1. 概要 -- 日本におけるグッピーの野生化</h2>
+
+  <p>グッピー（<i>Poecilia reticulata</i>）は南米ベネズエラ・ガイアナ原産の卵胎生メダカ科の淡水魚で、観賞魚として世界中で飼育されている。日本へは戦後（1955年頃）に観賞用として輸入が始まり、その後の放逐・逸出により各地で野生化が確認されている。</p>
+
+  <h3>定着の要因</h3>
+  <p>グッピーは熱帯魚であり、本来は水温18℃以下では生存が困難である。しかし、日本では以下の要因により各地で越冬・定着が可能となっている：</p>
+  <ul>
+    <li><strong>温泉排水</strong> -- 温泉地の排水が河川・水路に流入し、冬季でも水温20℃前後を維持（別府、蓮台寺、指宿、内郷など）</li>
+    <li><strong>下水処理場排水</strong> -- 処理水の水温は年間を通じて20～30℃に保たれる（荒川・利根川流域など）</li>
+    <li><strong>生活排水</strong> -- 都市河川の水温上昇（多摩川「タマゾン川」現象）</li>
+    <li><strong>亜熱帯気候</strong> -- 沖縄・小笠原では温排水なしで自然定着</li>
+  </ul>
+
+  <h3>生態的特徴</h3>
+  <table>
+    <tr><th>項目</th><th>内容</th></tr>
+    <tr><td>学名</td><td><i>Poecilia reticulata</i> Peters, 1859</td></tr>
+    <tr><td>原産地</td><td>ベネズエラ、ガイアナ、トリニダード・トバゴ</td></tr>
+    <tr><td>体長</td><td>オス 約3.5cm / メス 約5cm</td></tr>
+    <tr><td>繁殖</td><td>卵胎生、25℃以上で月1回産仔、1回あたり10～100匹</td></tr>
+    <tr><td>食性</td><td>雑食性（藻類、小動物、有機物）</td></tr>
+    <tr><td>耐性</td><td>水質汚染に極めて強い、汽水域でも生存可能</td></tr>
+    <tr><td>法的位置づけ</td><td>環境省「生態系被害防止外来種リスト」定着予防外来種</td></tr>
+  </table>
+
+  <div class="warning-box">
+    <strong>生態系への影響：</strong>グッピーは在来のメダカ（<i>Oryzias latipes</i>）と生息環境が競合し、餌資源の奪取や生息域の圧迫が懸念されている。沖縄では既にカダヤシ（<i>Gambusia affinis</i>）を駆逐した事例が報告されている。
+  </div>
+</div>
+
+<!-- 全国分布サマリー -->
+<div class="section" id="distribution-map">
+  <h2>2. 全国分布サマリー</h2>
+  <div class="map-summary">
+    <div class="map-card">
+      <div class="region">北海道</div>
+      <div class="status eradicated">根絶済（オンネトー）</div>
+    </div>
+    <div class="map-card">
+      <div class="region">東北</div>
+      <div class="status hotspring">温泉依存型定着</div>
+    </div>
+    <div class="map-card">
+      <div class="region">関東</div>
+      <div class="status sewage">温排水依存型定着</div>
+    </div>
+    <div class="map-card">
+      <div class="region">中部</div>
+      <div class="status hotspring">温泉依存型定着</div>
+    </div>
+    <div class="map-card">
+      <div class="region">近畿</div>
+      <div class="status unknown">散発的報告</div>
+    </div>
+    <div class="map-card">
+      <div class="region">中国</div>
+      <div class="status hotspring">温泉依存型定着</div>
+    </div>
+    <div class="map-card">
+      <div class="region">四国</div>
+      <div class="status unknown">情報限定的</div>
+    </div>
+    <div class="map-card">
+      <div class="region">九州</div>
+      <div class="status established">温泉排水で定着</div>
+    </div>
+    <div class="map-card">
+      <div class="region">沖縄</div>
+      <div class="status widespread">全域に広く定着</div>
+    </div>
+  </div>
+</div>
+
+<!-- 関東地方 -->
+<div class="section kanto" id="kanto">
+  <h2>3. 関東地方（重点調査エリア）</h2>
+  <p>関東地方は下水処理場の温排水を主因とした定着が多く、「タマゾン川」と揶揄される多摩川をはじめ、荒川・利根川流域でも確認例がある。</p>
+
+  <h3>3-1. 東京都</h3>
+
+  <div class="point-card">
+    <h4>多摩川（通称「タマゾン川」）</h4>
+    <span class="tag sewage">生活排水</span>
+    <span class="tag">放逐</span>
+    <p><strong>場所：</strong>多摩川全域（東京都・神奈川県境）</p>
+    <p><strong>定着要因：</strong>生活排水の流入により河川水温が上昇し、本来の水温より数℃高い状態が常態化。加えてペットの放逐が後を絶たない。</p>
+    <p><strong>確認魚種：</strong>グッピーのほか、ネオンテトラ、エンゼルフィッシュ、ピラニア、タイガーシャベルノーズキャットなど200種以上の外来魚が確認されている。</p>
+    <p><strong>採集情報：</strong>堤防沿いのガサガサ採集で野生グッピーの捕獲報告あり（YouTube等、2021年3月など）。温排水流入部が特にホットスポット。</p>
+    <p><strong>備考：</strong>「おさかなポスト」（山崎充哲氏主宰）が設置され、ペットの放逐防止活動が行われている。</p>
+    <div class="source-list">
+      参考: <a href="https://www.jiji.com/jc/v8?id=202206tamazongawa-team" target="_blank">時事ドットコム「タマゾン川」特集</a> /
+      <a href="https://www.nikkei.com/article/DGXNASDG10013_Q0A111C1CC0000/" target="_blank">日本経済新聞「タマゾン川」報道</a> /
+      <a href="https://www.youtube.com/watch?v=yuuPg-VPTS4" target="_blank">YouTube: 多摩川野生グッピー採集</a>
+    </div>
+  </div>
+
+  <h3>3-2. 東京都～埼玉県</h3>
+
+  <div class="point-card">
+    <h4>荒川温排水エリア（戸田市～さいたま市）</h4>
+    <span class="tag sewage">下水処理場排水</span>
+    <p><strong>場所：</strong>埼玉県戸田市 荒川水循環センター排水口付近（彩湖下流）</p>
+    <p><strong>施設：</strong>荒川水循環センター（日本最大規模の流域下水道処理施設、約200万人分の下水を処理）</p>
+    <p><strong>水温：</strong>冬季でも排水温度は20℃以上をキープ</p>
+    <p><strong>定着要因：</strong>処理水の温排水が荒川に流入し、周辺水温を通年高く保つ。</p>
+    <p><strong>採集情報：</strong>静岡大学の加藤英明准教授（生物ハンター）がグッピーの異常繁殖を確認。「めっちゃ捕れた」と報告（2021年10月、2022年4月のYouTube動画）。冬季にも再調査で確認。</p>
+    <div class="source-list">
+      参考: <a href="https://www.youtube.com/watch?v=5O3jT2CX7Os" target="_blank">YouTube: 荒川でグッピーめっちゃ捕れた！（加藤英明）</a> /
+      <a href="https://www.youtube.com/watch?v=PzXSLlmonbM" target="_blank">YouTube: 荒川グッピー冬季再調査</a> /
+      <a href="https://note.bs-tbs.co.jp/n/n7a1d8065ab23" target="_blank">BS-TBS「噂の！東京マガジン」荒川外来生物特集</a>
+    </div>
+  </div>
+
+  <h3>3-3. 神奈川県</h3>
+
+  <div class="point-card">
+    <h4>横浜市都筑区 佐江戸せせらぎ水辺（水路）</h4>
+    <span class="tag sewage">下水処理場排水</span>
+    <p><strong>場所：</strong>神奈川県横浜市都筑区佐江戸町（ららぽーと横浜近く）</p>
+    <p><strong>施設：</strong>都筑水再生センター（上流）の処理水が流入</p>
+    <p><strong>水温：</strong>年間を通じて約20℃前後に維持</p>
+    <p><strong>確認魚種：</strong>グッピー、ゴールデンゼブラシクリッド（アフリカンシクリッド）が1,000匹以上</p>
+    <p><strong>採集情報：</strong>2022年5月にテレビ各局（めざましテレビ等）で報道され、大きな話題に。住宅街の水路で子供がタモ網で採集する姿が目撃されている。</p>
+    <p><strong>現状：</strong>マスコミ報道後、見物客が殺到し、地域住民と水路管理組合により<strong>釣り・採集禁止</strong>となっている模様。</p>
+    <div class="source-list">
+      参考: <a href="https://tsuzukiku.blogspot.com/2022/05/blog-post_19.html" target="_blank">都筑ライフ「佐江戸せせらぎ水辺」</a> /
+      <a href="https://note.com/macaidnote/n/n2a4d79008d1b" target="_blank">note: 熱帯魚がいる横浜の水路</a> /
+      <a href="https://togetter.com/li/1883675" target="_blank">Togetter: シクリッド大量発生</a>
+    </div>
+  </div>
+
+  <div class="point-card">
+    <h4>神奈川県内 その他の温排水水路</h4>
+    <span class="tag sewage">浄化排水</span>
+    <p><strong>場所：</strong>「関東のとある水路2か所」として報告（具体的地名は非公開）</p>
+    <p><strong>特徴：</strong>住宅街の中を流れる美しい水路で、高濃度浄化排水が流入。グッピーやゴールデンゼブラシクリッドが「恐ろしい程の数」生息。タナゴ竿にミミズで「短時間で入れ食い状態」との報告。</p>
+    <p><strong>備考：</strong>横浜市内では、温排水で熱帯魚（グッピー・アフリカンシクリッド）を探す体験ツアーも開催されている。</p>
+    <div class="source-list">
+      参考: <a href="https://brecol-store.com/blogs/blog/goldenzebracichlid_kanagawa" target="_blank">BRECOL: ゴールデンゼブラシクリッド神奈川</a> /
+      <a href="https://activityjapan.com/publish/plan/48728" target="_blank">アクティビティジャパン: 温排水で熱帯魚探しツアー</a>
+    </div>
+  </div>
+
+  <h3>3-4. 埼玉県・群馬県（利根川流域）</h3>
+
+  <div class="point-card">
+    <h4>利根川中流域 下水処理場排水口</h4>
+    <span class="tag sewage">下水処理場排水</span>
+    <p><strong>場所：</strong>利根川中流域、とある下水処理場の排水口（具体的施設名は非公開）</p>
+    <p><strong>採集情報：</strong>タモ網で約30匹のグッピーを採集（2021年8月報告）。4年前（2017年頃）にも同地点で採集の記録あり。</p>
+    <p><strong>定着要因：</strong>ペットとして飼育されていたグッピーが利根川に遺棄され、下水処理水（温水）が流出するポイントに定着・繁殖。処理水温度は約30℃を年間維持。</p>
+    <div class="source-list">
+      参考: <a href="https://www.outdoorfoodgathering.jp/fish/guppyajillo/" target="_blank">野食ハンマープライス「利根川で野生化グッピーを採ってアヒージョにしてみた」</a>
+    </div>
+  </div>
+
+  <h3>3-5. 千葉県・茨城県・栃木県</h3>
+  <p>千葉県・茨城県・栃木県からの具体的なグッピーの野生化報告は現時点で確認できていない。ただし、これらの県にも多数の下水処理場があり、温排水が河川に流入するポイントが存在するため、未発見の個体群がいる可能性は否定できない。</p>
+
+  <div class="info-box">
+    <strong>関東地方の特徴まとめ：</strong>関東では温泉排水ではなく、<strong>下水処理場の温排水</strong>が主な定着要因。荒川水循環センター（戸田市）、都筑水再生センター（横浜市）など、大規模下水処理施設の排水口付近がホットスポットとなっている。冬季でも20～30℃の温排水が流入し、熱帯魚の越冬を可能にしている。
+  </div>
+</div>
+
+<!-- 中部地方 -->
+<div class="section chubu" id="chubu">
+  <h2>4. 中部地方</h2>
+  <p>中部地方は温泉地を中心とした定着が特徴的。静岡県蓮台寺温泉は日本で最も古くから知られる野生グッピーの生息地の一つ。</p>
+
+  <div class="point-card">
+    <h4>静岡県下田市 蓮台寺温泉</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>静岡県下田市蓮台寺温泉周辺の小川・水路</p>
+    <p><strong>歴史：</strong><strong>50年以上前</strong>から野生グッピーの生息が確認されている、日本最古級の定着地。1966年の学術論文にも記録あり。</p>
+    <p><strong>定着要因：</strong>豊富な湯量を持つ温泉の排水が近くの小川（排水路）に流入し、年間を通じて水温が温かく維持される。</p>
+    <p><strong>特徴：</strong>ペットショップの品種改良個体とは異なり、「地味で素朴な色合い」の野良グッピー。同所的にミナミヌマエビ、ヤマトヌマエビも生息。</p>
+    <p><strong>メディア：</strong>静岡大学・加藤英明准教授が「半世紀前にグッピーがいた水路には今ナニがいる？」と題してYouTubeで捕獲調査を実施。下田市も撮影に協力。</p>
+    <div class="source-list">
+      参考: <a href="https://shimoda-life.com/archives/1736" target="_blank">Shimoda Life「野良犬ならぬ野良グッピー」</a> /
+      <a href="https://www.youtube.com/watch?v=Kzpi2efDuUo" target="_blank">YouTube: 伊豆下田の川で捕獲調査（加藤英明）</a> /
+      <a href="https://www.jstage.jst.go.jp/article/mez/17/1/17_KJ00003467056/_article/-char/ja/" target="_blank">J-STAGE: グッピーの生態学的研究I（1966年）</a>
+    </div>
+  </div>
+
+  <div class="point-card">
+    <h4>長野県 戸倉・上山田温泉</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>長野県千曲市 戸倉上山田温泉（千曲川沿い）</p>
+    <p><strong>定着要因：</strong>52本の源泉を持つ温泉郷で、温泉排水が水路に流入。</p>
+    <p><strong>備考：</strong>国立環境研究所の侵入生物DBに記録あり。</p>
+  </div>
+
+  <div class="point-card">
+    <h4>長野県 浅間温泉</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>長野県松本市 浅間温泉</p>
+    <p><strong>定着要因：</strong>温泉排水の流入による水温維持。</p>
+    <p><strong>備考：</strong>国立環境研究所の侵入生物DBに記録あり。</p>
+  </div>
+
+  <div class="info-box">
+    <strong>伊豆・箱根エリア：</strong>伊豆半島や箱根の温泉地でも野生グッピーの目撃報告がある。温泉街の排水溝や用水路に定着していると考えられる。
+  </div>
+</div>
+
+<!-- 近畿地方 -->
+<div class="section kinki" id="kinki">
+  <h2>5. 近畿地方</h2>
+  <p>近畿地方からの大規模な野生グッピーの定着報告は現時点で限られている。ただし、大阪府立環境農林水産総合研究所の淡水魚図鑑にグッピーが外来種として掲載されていることから、散発的な確認例はあるとみられる。</p>
+
+  <div class="point-card">
+    <h4>大阪府</h4>
+    <span class="tag sewage">下水処理場排水</span>
+    <p><strong>状況：</strong>大阪府の淡水魚図鑑（外来種）にグッピーが掲載されており、府内での確認記録がある。12か所の下水処理場を有し、温排水流入ポイントが多数存在する。</p>
+    <p><strong>備考：</strong>冬季の気温が低いため定着は温排水ポイントに限定されると考えられる。</p>
+    <div class="source-list">
+      参考: <a href="https://www.knsk-osaka.jp/zukan/zukan_database/tansui_gairai/8750b31cde3fe95/3650b85435bce95.html" target="_blank">大阪府立環境農林水産総合研究所 グッピー</a>
+    </div>
+  </div>
+</div>
+
+<!-- 中国地方 -->
+<div class="section chugoku" id="chugoku">
+  <h2>6. 中国地方</h2>
+
+  <div class="point-card">
+    <h4>岡山県 奥津温泉</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>岡山県鏡野町 奥津温泉（吉井川沿い、美作三湯の一つ）</p>
+    <p><strong>定着要因：</strong>40℃以上の温泉水が湧出し、温泉排水が吉井川に流入。</p>
+    <p><strong>備考：</strong>国立環境研究所の侵入生物DBに記録あり。足踏み洗濯（洗濯湯）で知られる温泉地。</p>
+  </div>
+</div>
+
+<!-- 四国地方 -->
+<div class="section shikoku" id="shikoku">
+  <h2>7. 四国地方</h2>
+  <p>四国地方からのグッピーの定着に関する具体的な報告は現時点で確認できていない。四国にも道後温泉（愛媛）や祖谷温泉（徳島）など有名温泉地が多数あるが、野生グッピーの生息記録は見つかっていない。ただし、侵入生物DBの学術論文（1966年）では日本各地の温泉地で調査が行われており、四国でも温泉排水流入河川における未報告の個体群がいる可能性は否定できない。</p>
+</div>
+
+<!-- 九州地方 -->
+<div class="section kyushu" id="kyushu">
+  <h2>8. 九州地方</h2>
+  <p>九州は別府温泉を中心に古くからグッピーの野生化が知られている。温泉県として名高い大分県は特に有名。</p>
+
+  <div class="point-card">
+    <h4>大分県別府市 春木川</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>大分県別府市 春木川下流部</p>
+    <p><strong>特徴：</strong>護岸が整備された浅い流れ。温泉水が流入し年間を通じて水温が高い。</p>
+    <p><strong>確認魚種：</strong>グッピー、ナイルティラピア、ゴクラクハゼ</p>
+    <p><strong>採集情報：</strong>昼間はグッピーが警戒して採集困難だが、夜間は「眠ってしまう」ため採集が容易（6月下旬、梅雨時期の報告）。</p>
+    <div class="source-list">
+      参考: <a href="https://dailyportalz.jp/kiji/130708161096" target="_blank">デイリーポータルZ「大分の川には野良グッピーがいる」</a> /
+      <a href="https://ameblo.jp/umakko2/entry-11404717739.html" target="_blank">ameblo「別府春木川でグッピーゲット」</a>
+    </div>
+  </div>
+
+  <div class="point-card">
+    <h4>大分県別府市 亀川温泉周辺</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>大分県別府市亀川地区の河川・水路</p>
+    <p><strong>定着要因：</strong>別府八湯の一つ「亀川温泉」からの温泉排水が河川に流入。</p>
+  </div>
+
+  <div class="point-card">
+    <h4>大分県由布市 金鱗湖（きんりんこ）</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>大分県由布市湯布院町 金鱗湖（周囲約400m）</p>
+    <p><strong>特徴：</strong>湖底から温泉水が湧き出す珍しい湖。冬の朝には湖面から霧が立ち昇る幻想的な光景で知られる。</p>
+    <p><strong>定着要因：</strong>湖底からの温泉湧水により通年で水温が高い。</p>
+    <div class="source-list">
+      参考: <a href="https://dailyportalz.jp/kiji/130708161096" target="_blank">デイリーポータルZ「大分の川には野良グッピーがいる」</a>
+    </div>
+  </div>
+
+  <div class="point-card">
+    <h4>鹿児島県 指宿温泉</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>鹿児島県指宿市 指宿温泉周辺の河川・水路</p>
+    <p><strong>定着要因：</strong>砂むし温泉で有名な指宿は地熱が高く、温泉排水が水路に流入。</p>
+    <p><strong>備考：</strong>国立環境研究所の侵入生物DB、鹿児島県立博物館の記録に記載あり。鹿児島県「かごしま生きものラボ」にもグッピーが登録されている。冬季は水温18℃以下にならない温泉排水流入地点に限定して生息。</p>
+    <div class="source-list">
+      参考: <a href="https://kagoshima-ikimonolabo.jp/pictorial_book/187/" target="_blank">かごしま生きものラボ: グッピー</a>
+    </div>
+  </div>
+</div>
+
+<!-- 沖縄 -->
+<div class="section okinawa" id="okinawa">
+  <h2>9. 沖縄・南西諸島</h2>
+  <p>沖縄は日本国内で最もグッピーの定着が進んでいる地域であり、温排水に依存しない<strong>自然定着</strong>が成立している唯一の地域。亜熱帯気候により年間を通じて水温が高く、温泉や温排水なしでもグッピーが繁殖・越冬可能。</p>
+
+  <div class="warning-box">
+    <strong>沖縄の深刻な状況：</strong>現在の沖縄本島では、<strong>北部の一部地域を除くほぼ全域の淡水域がグッピーによって席巻された状態</strong>（琉球大学研究報告）。駆除は不可能なレベルまで生息域が拡大している。
+  </div>
+
+  <div class="point-card">
+    <h4>沖縄本島 中南部の河川全般</h4>
+    <span class="tag natural">亜熱帯気候</span>
+    <p><strong>場所：</strong>沖縄本島中南部のほぼ全域の河川、用水路、農業水路、池</p>
+    <p><strong>主な河川：</strong>国場川、安里川、久茂地川、安謝川、比謝川（沖縄本島最大流域面積）など那覇市周辺の二級河川を含む全域</p>
+    <p><strong>定着要因：</strong>亜熱帯気候により年間水温が十分に高い。温排水不要で自然定着。</p>
+    <p><strong>密度：</strong>那覇市では用水路やドブ川でも生息しており、「どこでも見ることができる」状態。</p>
+    <p><strong>生態系影響：</strong>1970年代に侵入・定着し、もともと蚊の駆除目的で導入されていたカダヤシの分布を変化させた。さらに在来のメダカ（琉球メダカ）の生息域も圧迫。</p>
+  </div>
+
+  <div class="point-card">
+    <h4>琉球大学の研究成果（2026年1月発表）</h4>
+    <span class="tag">学術研究</span>
+    <p><strong>概要：</strong>琉球大学の研究チームが2018年に沖縄本島中南部の<strong>8か所の河川・湧水池</strong>から環境DNAを調査。</p>
+    <p><strong>発見：</strong>グッピーの天敵となる「捕食性魚類」は10科のみで、原産地トリニダード島の21科の半分以下。この<strong>「生態的解放」</strong>（天敵からの解放）がグッピーの侵入成功の鍵と指摘。</p>
+    <p><strong>色彩適応：</strong>沖縄のグッピーは捕食性魚類の存在に対応して、体色が地味な方向へ変化するカモフラージュ形質を発達。</p>
+    <div class="source-list">
+      参考: <a href="https://www.u-ryukyu.ac.jp/news/75159/" target="_blank">琉球大学プレスリリース「グッピーの侵入メカニズム」</a> /
+      <a href="https://www.okinawatimes.co.jp/articles/-/1765586" target="_blank">沖縄タイムス報道</a>
+    </div>
+  </div>
+
+  <div class="point-card">
+    <h4>グッピーによるカダヤシ駆逐</h4>
+    <span class="tag">学術研究</span>
+    <p><strong>概要：</strong>琉球大学の研究で、雄グッピーがカダヤシの雌に対して交尾行動を行い（生殖干渉）、カダヤシの繁殖を妨害して駆逐するメカニズムが<strong>世界で初めて</strong>確認された。</p>
+    <p><strong>応用可能性：</strong>侵略的外来種カダヤシの駆除にグッピーを利用できる可能性が示唆されているが、グッピー自身も外来種であるためジレンマが存在。</p>
+    <div class="source-list">
+      参考: <a href="https://www.u-ryukyu.ac.jp/news/3763/" target="_blank">琉球大学「カダヤシはグッピーに交尾され駆逐された」</a> /
+      <a href="https://ryukyushimpo.jp/news/entry-897496.html" target="_blank">琉球新報報道</a>
+    </div>
+  </div>
+
+  <div class="point-card">
+    <h4>小笠原諸島</h4>
+    <span class="tag natural">亜熱帯気候</span>
+    <p><strong>場所：</strong>小笠原諸島</p>
+    <p><strong>定着要因：</strong>亜熱帯海洋性気候により温排水なしで自然定着。</p>
+    <p><strong>備考：</strong>国立環境研究所の侵入生物DBに記録あり。</p>
+  </div>
+</div>
+
+<!-- 東北地方 -->
+<div class="section tohoku" id="tohoku">
+  <h2>10. 東北地方</h2>
+  <p>東北地方は寒冷な気候のため定着は温泉排水に強く依存する。確認例は限られている。</p>
+
+  <div class="point-card">
+    <h4>福島県福島市 瀬上町（住宅街の水路）</h4>
+    <span class="tag">住宅街水路</span>
+    <p><strong>場所：</strong>福島県福島市瀬上町の住宅街にある水路</p>
+    <p><strong>発見経緯：</strong>住民夫妻が小魚を網ですくった際に発見。鮮やかな体色のオスとメダカに似たメスが同時に捕獲された。</p>
+    <p><strong>繁殖状況：</strong>腹の大きなメス（妊娠個体）や稚魚も多数確認。地元ペットショップで種の確認が行われた。</p>
+    <p><strong>定着要因：</strong>生活排水による水温上昇の可能性。</p>
+    <div class="source-list">
+      参考: <a href="https://tsurinews.jp/132052/" target="_blank">TSURINEWS「野良グッピー発見」</a>
+    </div>
+  </div>
+
+  <div class="point-card">
+    <h4>福島県いわき市 内郷温泉</h4>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>福島県いわき市 内郷温泉周辺</p>
+    <p><strong>定着要因：</strong>温泉排水の流入による水温維持。</p>
+    <p><strong>備考：</strong>国立環境研究所の侵入生物DBに記録あり。東北地方で最も有名な野生グッピー定着地の一つとされる。</p>
+  </div>
+</div>
+
+<!-- 北海道 -->
+<div class="section hokkaido" id="hokkaido">
+  <h2>11. 北海道</h2>
+
+  <div class="point-card">
+    <h4>オンネトー湯の滝（足寄町）-- 根絶成功事例</h4>
+    <span class="tag eradicated">根絶済</span>
+    <span class="tag hot-spring">温泉排水</span>
+    <p><strong>場所：</strong>北海道足寄郡足寄町 阿寒摩周国立公園内 オンネトー湯の滝（国指定天然記念物）</p>
+    <p><strong>経緯：</strong></p>
+    <ul>
+      <li><strong>昭和60年代（1985年頃）：</strong>滝下の湯だまりに熱帯性外来魚（ナイルティラピア・グッピー）が放流される</li>
+      <li>外来魚がマンガン鉱物生成に必要な藻類を食べて繁殖、「生きている鉱床」（世界唯一のマンガン酸化物生成地）に深刻な被害</li>
+      <li><strong>平成11年度（1999年）：</strong>環境省と足寄町教育委員会が駆除対策を開始</li>
+      <li>温泉水をホースで迂回させ、沢の冷水を流し込んで水温を低下させる対策を実施</li>
+      <li><strong>平成29年度末（2018年3月）：</strong>3回連続で確認数・捕獲数がゼロに</li>
+      <li><strong>2019年1月：</strong>外来魚の<strong>根絶を正式確認</strong></li>
+    </ul>
+    <p><strong>意義：</strong>野外に定着したナイルティラピア・グッピーを駆除事業により根絶させた<strong>全国初の事例</strong>。</p>
+    <div class="source-list">
+      参考: <a href="https://www.env.go.jp/press/106377.html" target="_blank">環境省プレスリリース「オンネトー湯の滝の外来魚根絶確認」</a> /
+      <a href="https://karapaia.com/archives/52144256.html" target="_blank">カラパイア「北海道阿寒で根絶大作戦」</a>
+    </div>
+  </div>
+</div>
+
+<!-- 学術的知見 -->
+<div class="section academic" id="academic">
+  <h2>12. 学術的知見・参考文献</h2>
+
+  <h3>国立環境研究所 侵入生物データベース</h3>
+  <p>グッピーは国立環境研究所の侵入生物データベースに登録されており、以下の地域で定着が記録されている：</p>
+  <table>
+    <tr><th>地域</th><th>定着地</th><th>定着要因</th></tr>
+    <tr><td>北海道</td><td>オンネトー湯の滝</td><td>温泉（2019年根絶確認）</td></tr>
+    <tr><td>東北</td><td>福島県内郷温泉</td><td>温泉排水</td></tr>
+    <tr><td>中部</td><td>長野県戸倉・上山田・浅間温泉、静岡県蓮台寺温泉</td><td>温泉排水</td></tr>
+    <tr><td>中国</td><td>岡山県奥津温泉</td><td>温泉排水</td></tr>
+    <tr><td>九州</td><td>大分県別府温泉、鹿児島県指宿温泉</td><td>温泉排水</td></tr>
+    <tr><td>沖縄・小笠原</td><td>沖縄各地、小笠原</td><td>亜熱帯気候（自然定着）</td></tr>
+  </table>
+  <div class="source-list">
+    <a href="https://www.nies.go.jp/biodiversity/invasive/DB/detail/50240.html" target="_blank">国立環境研究所 侵入生物DB: グッピー</a>
+  </div>
+
+  <h3>主要な学術論文・報告</h3>
+  <ul>
+    <li>「グッピーの生態学的研究 I：日本の温泉地において自然繁殖するグッピーについて」（1966年）-- 日本で最初期の学術調査。温泉地での生息状況を報告。
+      <a href="https://www.jstage.jst.go.jp/article/mez/17/1/17_KJ00003467056/_article/-char/ja/" target="_blank">[J-STAGE]</a></li>
+    <li>琉球大学「沖縄の河川を席巻する外来魚グッピーの侵入メカニズム」（2026年1月）-- 天敵からの解放と色彩適応のメカニズムを解明。
+      <a href="https://www.u-ryukyu.ac.jp/news/75159/" target="_blank">[琉球大学]</a></li>
+    <li>琉球大学「カダヤシはグッピーに交尾され駆逐された」（2019年）-- 生殖干渉による外来種間競争を世界初確認。
+      <a href="https://www.u-ryukyu.ac.jp/news/3763/" target="_blank">[琉球大学]</a></li>
+    <li>環境省「オンネトー湯の滝の外来魚根絶確認」（2019年）-- 日本初の野外定着外来魚根絶事例。
+      <a href="https://www.env.go.jp/press/106377.html" target="_blank">[環境省]</a></li>
+  </ul>
+
+  <h3>定着パターンの類型化</h3>
+  <table>
+    <tr><th>類型</th><th>定着要因</th><th>主な地域</th><th>特徴</th></tr>
+    <tr>
+      <td><strong>温泉依存型</strong></td>
+      <td>温泉排水の流入</td>
+      <td>別府、蓮台寺、指宿、内郷、戸倉、奥津</td>
+      <td>冬季は温泉排水流入部に限定。夏季に分散。歴史が古い（1955年頃～）</td>
+    </tr>
+    <tr>
+      <td><strong>下水処理場依存型</strong></td>
+      <td>下水処理水の温排水</td>
+      <td>荒川（戸田）、利根川、横浜（都筑区）</td>
+      <td>処理水温20～30℃。大都市圏に多い。近年増加傾向</td>
+    </tr>
+    <tr>
+      <td><strong>生活排水依存型</strong></td>
+      <td>都市河川の水温上昇</td>
+      <td>多摩川</td>
+      <td>多種の外来魚と共存。放逐個体が主要な供給源</td>
+    </tr>
+    <tr>
+      <td><strong>自然定着型</strong></td>
+      <td>亜熱帯気候</td>
+      <td>沖縄、小笠原</td>
+      <td>温排水不要。広域に定着。駆除困難</td>
+    </tr>
+  </table>
+
+  <h3>動画・メディア情報（採集記録）</h3>
+  <table>
+    <tr><th>タイトル</th><th>場所</th><th>時期</th></tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=5O3jT2CX7Os" target="_blank">荒川でグッピーめっちゃ捕れた！（加藤英明）</a></td>
+      <td>荒川温排水（東京～埼玉）</td>
+      <td>2021年10月</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=PzXSLlmonbM" target="_blank">荒川グッピー冬季再調査（加藤英明）</a></td>
+      <td>荒川温排水（東京～埼玉）</td>
+      <td>2022年4月</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=yuuPg-VPTS4" target="_blank">多摩川 堤防 ガサガサ 野生グッピーをゲット</a></td>
+      <td>多摩川</td>
+      <td>2021年3月</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=PdhnWIXTC9E" target="_blank">多摩川よりもグッピーが大量捕獲できる川</a></td>
+      <td>不明（関東）</td>
+      <td>2020年11月</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=Kzpi2efDuUo" target="_blank">伊豆下田の川で捕獲調査（加藤英明）</a></td>
+      <td>蓮台寺温泉（静岡県下田市）</td>
+      <td>--</td>
+    </tr>
+  </table>
+</div>
+
+<!-- フッター -->
+<footer>
+  <p>本レポートは2026年4月28日時点のWeb検索結果に基づいて作成されました。</p>
+  <p>情報の正確性について最善を尽くしていますが、採集ポイントの現状は変化している可能性があります。</p>
+  <p>グッピーは環境省「生態系被害防止外来種リスト」掲載種です。野外への放逐は絶対にやめてください。</p>
+  <p style="margin-top:10px; font-size: 0.9em;">Generated with Claude Code</p>
+</footer>
+
+</div>
+</body>
+</html>
