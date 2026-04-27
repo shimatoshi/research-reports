@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本産ハゼ類の保全状況と絶滅危惧種</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">日本産ハゼ類の保全状況と絶滅危惧種</h1>
+<p>作成日: 2026-04-17
+対象: ハゼ目ハゼ亜目 (ハゼ科 Gobiidae, カワアナゴ科 Eleotridae, ドンコ科 Odontobutidae, スナハゼ科 Kraemeriidae, オオメワラスボ科 Taenioididae 等を含む、いわゆる「ハゼ類」)</p>
+<h2 id="1-4-rl2020">1. 環境省レッドリスト (第4次 RL2020) における日本産ハゼ類</h2>
+<p>環境省版レッドリストは、第4次レッドリストの第5回改訂版 (レッドリスト2020) が汽水・淡水魚類では最新である。2025年より第5次レッドリストの公表が始まったが、汽水・淡水魚類を含む残余分類群の第5次公表は<strong>2026年度以降</strong>に順次行われる予定であり、本稿執筆時点 (2026年4月) では<strong>2020年版が最新</strong>となる (<a href="https://www.env.go.jp/press/107905.html">環境省報道発表2020</a>, <a href="https://www.env.go.jp/press/press_04578.html">第5次進捗</a>)。</p>
+<p>汽水・淡水魚類のレッドリストには、日本産ハゼ類のうち約60種前後が掲載されており、これは全ハゼ類既知種約220種のうち約27%に達する。以下、2020年版における主要掲載種をカテゴリ別に整理する (沖縄県版を含む地方版で扱いの異なる種は後述)。</p>
+<h3 id="11-ex">1.1 絶滅 (EX)</h3>
+<p>ハゼ類では環境省RL2020 (汽水・淡水魚類) に該当種なし。ただし、大根島 (島根県中海) の地下水産<strong>ドウクツミミズハゼ</strong> <em>Luciogobius albus</em> は模式産地個体群が絶滅したと考えられている (五島列島の残存個体群もCR評価) (<a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9F%E3%82%BA%E3%83%8F%E3%82%BC">ミミズハゼ - Wikipedia</a>)。</p>
+<h3 id="12-ew">1.2 野生絶滅 (EW)</h3>
+<p>ハゼ類では該当種なし。</p>
+<h3 id="13-ia-cr">1.3 絶滅危惧IA類 (CR)</h3>
+<ul>
+<li>トカゲハゼ <em>Scartelaos histophorus</em> (沖縄本島中城湾・泡瀬干潟ほぼ唯一の生息地)</li>
+<li>ドウクツミミズハゼ <em>Luciogobius albus</em> (五島列島残存個体群)</li>
+<li>アカボウズハゼ <em>Sicyopus zosterophorus</em> (南西諸島)</li>
+<li>ヨロイボウズハゼ <em>Lentipes armatus</em> (沖縄本島・奄美大島ほかの渓流、滝上流部)</li>
+<li>カエルハゼ <em>Smilosicyopus leprurus</em> (南西諸島渓流、石垣島・西表島・屋久島など)</li>
+<li>ハヤセボウズハゼ <em>Sicyopus rubicundus</em> (南西諸島)</li>
+<li>ミスジハゼ <em>Acentrogobius audax</em> (南西諸島)</li>
+<li>クロトサカハゼ <em>Cristatogobius nonatoae</em> (琉球列島、極少数記録)</li>
+<li>ヒメトサカハゼ <em>Cristatogobius aurimaculatus</em> (琉球列島)</li>
+<li>キセルハゼ <em>Gymnogobius cylindricus</em> (2020年再評価でEN→CR相当の個体群減少報告あり、有明海・瀬戸内海の干潟)</li>
+</ul>
+<h3 id="14-ib-en">1.4 絶滅危惧IB類 (EN)</h3>
+<ul>
+<li>ムツゴロウ <em>Boleophthalmus pectinirostris</em> (有明海・八代海奥部)</li>
+<li>ジャノメハゼ <em>Bostrychus sinensis</em> (九州・南西諸島汽水域)</li>
+<li>クボハゼ <em>Gymnogobius scrobiculatus</em> (本州中部以西〜九州の河口干潟、日本固有種)</li>
+<li>キセルハゼ <em>Gymnogobius cylindricus</em> (評価会により2020年でEN継続との分類もあり)</li>
+<li>ヨシノボリ小笠原集団 (オガサワラヨシノボリ) <em>Rhinogobius ogasawaraensis</em> (小笠原諸島固有、両側回遊性)</li>
+<li>ナガノゴリ <em>Chaenogobius annularis</em> 北日本系統など (汽水) ※亜種/地域群評価あり</li>
+<li>サルハゼ属の一種 (南西諸島)</li>
+</ul>
+<h3 id="15-ii-vu">1.5 絶滅危惧II類 (VU)</h3>
+<ul>
+<li>ワラスボ <em>Odontamblyopus lacepedii</em> (有明海奥部。オオメワラスボ科)</li>
+<li>エドハゼ <em>Gymnogobius macrognathos</em> (東京湾〜九州の河口干潟)</li>
+<li>チクゼンハゼ <em>Gymnogobius uchidai</em> (九州北部・本州西部、日本固有)</li>
+<li>タビラクチ <em>Apocryptodon punctatus</em> (有明海・八代海の干潟)</li>
+<li>ルリボウズハゼ <em>Sicyopterus lagocephalus</em> (南西諸島・小笠原の渓流)</li>
+<li>ナンヨウボウズハゼ <em>Stiphodon percnopterygionus</em></li>
+<li>コンテリボウズハゼ <em>Stiphodon alcedo</em> (南西諸島渓流)</li>
+<li>シマサルハゼ <em>Oxyurichthys visayanus</em></li>
+<li>ウラウチイソハゼ <em>Eviota ocellifer</em> (西表島浦内川)</li>
+<li>ドウクツミミズハゼの地域個体群 (再評価によりCR→VU への変更提案あり)</li>
+</ul>
+<h3 id="16-nt">1.6 準絶滅危惧 (NT)</h3>
+<ul>
+<li>トビハゼ <em>Periophthalmus modestus</em> (泥干潟。東京湾・伊勢湾・三河湾・有明海など)</li>
+<li>ヒモハゼ <em>Eutaeniichthys gilli</em> (河口域・内湾汽水)</li>
+<li>イドミミズハゼ <em>Luciogobius pallidus</em> (河口域の伏流水・地下水性)</li>
+<li>ショウキハゼ <em>Tridentiger barbatus</em> (瀬戸内海・九州)</li>
+<li>ホクロハゼ <em>Acentrogobius caninus</em> (汽水域)</li>
+<li>チワラスボ <em>Taenioides cirratus</em></li>
+<li>ドロクイ属等の干潟性種</li>
+<li>カワアナゴ <em>Eleotris oxycephala</em></li>
+<li>テンジクカワアナゴ <em>Eleotris acanthopoma</em> (地域評価)</li>
+</ul>
+<h3 id="17-dd">1.7 情報不足 (DD)</h3>
+<ul>
+<li>ビワヨシノボリ <em>Rhinogobius biwaensis</em> (琵琶湖固有。環境省はDD、IUCNはEN)</li>
+<li>カワバタモロコは<strong>非ハゼ</strong>のため対象外</li>
+<li>ミミズハゼ属未記載種複数 (<em>Luciogobius</em> sp.3, <em>L. fonticola</em> 近縁群等の分類学的不確実性)</li>
+<li>オキナワチチブ <em>Tridentiger bifasciatus</em> の一部地域個体群</li>
+<li>タナゴモドキ <em>Hypseleotris cyprinoides</em> (カワアナゴ科、沖縄域の記録が限定的)</li>
+</ul>
+<h3 id="18-lp">1.8 地域個体群 (LP)</h3>
+<ul>
+<li>トビハゼ「東京湾個体群」および「沖縄本島個体群」 (1999年版では地域個体群扱いだったが、2007年版以降は全国的NTに統合されつつ、東京湾・伊勢湾のLP記載が残る)</li>
+<li>ヨシノボリ類「琵琶湖個体群」(ビワヨシノボリ以外のトウヨシノボリ・オオヨシノボリの地域群)</li>
+</ul>
+<p>(参考: <a href="https://ja.wikipedia.org/wiki/%E6%B1%BD%E6%B0%B4%E3%83%BB%E6%B7%A1%E6%B0%B4%E9%AD%9A%E9%A1%9E%E3%83%AC%E3%83%83%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88_(%E7%92%B0%E5%A2%83%E7%9C%81)">汽水・淡水魚類レッドリスト(環境省) - Wikipedia</a>, <a href="https://ikilog.biodic.go.jp/Rdb/env">環境省絶滅危惧種検索ikilog</a>)</p>
+<h2 id="2-iucn">2. IUCN レッドリスト (世界) におけるハゼ類の概況</h2>
+<p>IUCN レッドリストにおいても、日本のハゼ類のうち干潟性・渓流性種を中心に評価が進んでいる。</p>
+<ul>
+<li><strong>ムツゴロウ</strong> <em>Boleophthalmus pectinirostris</em>: 2025年更新でIUCNが絶滅危惧 (Vulnerable) に追加。日本・中国・韓国の干潟減少が主因とされる (<a href="https://www.nikkei.com/article/DGKKZO87653470Y5A320C2CE0000/">日経新聞 2025-03-28</a>)。</li>
+<li><strong>ビワヨシノボリ</strong> <em>Rhinogobius biwaensis</em>: IUCNでEN、琵琶湖固有で湖水位低下・浚渫・外来種圧がリスク要因。</li>
+<li><strong>オガサワラヨシノボリ</strong> <em>Rhinogobius ogasawaraensis</em>: IUCNでENまたはCR、小笠原固有で外来ティラピア・改修影響。</li>
+<li>世界のハゼ科 (約2,000種) のうちIUCNでThreatened (CR+EN+VU) 評価されるのは約60〜80種、Data Deficient が非常に多いことが特徴。海域性種は評価未実施が多い。</li>
+<li>洞窟性ハゼ (Typhlogobius, Milyeringa 等) は世界的にも保全優先度が高く、日本のLuciogobius属も同様のフレームで語られる。</li>
+</ul>
+<h2 id="3-rdb">3. 地域別RDB (都道府県版レッドデータブック) の重要事項</h2>
+<h3 id="31-3-292017">3.1 沖縄県 (第3版: 平成29年/2017年発行)</h3>
+<p>琉球列島は日本のハゼ多様性ホットスポットであり、沖縄RDBは環境省RLより厳しい評価を多くの種に付けている (<a href="https://www.pref.okinawa.jp/kurashikankyo/kankyo/1004621/1004628.html">沖縄県公式</a>)。</p>
+<ul>
+<li>絶滅危惧IA類: アカボウズハゼ、カエルハゼ、ハヤセボウズハゼ、ミスジハゼ、クロトサカハゼ、コンテリボウズハゼ (沖縄)、ヒメトサカハゼ</li>
+<li>絶滅危惧IB類: ルリボウズハゼ、ヨロイボウズハゼ、コンテリボウズハゼ(環境省ではVU)</li>
+<li>脅威: 道路整備・橋梁工事による赤土流出、渓流の取水・ダム、観賞魚としての乱獲 (特にボウズハゼ属・Stiphodon属)</li>
+</ul>
+<h3 id="32-201520162023">3.2 鹿児島県 (改訂2015/2016、補遺2023)</h3>
+<p>奄美大島・種子島・屋久島を含み、両側回遊性ハゼの南限〜中間分布帯として重要。クボハゼ <em>Gymnogobius scrobiculatus</em> は鹿児島湾・錦江湾で絶滅危惧I類 (<a href="https://journal.kagoshima-nature.org/035-002/">Nature of Kagoshima</a>)。イドミミズハゼが鹿児島湾から初確認された (2020) 報告も絶滅危惧として取り上げられている (<a href="https://journal.kagoshima-nature.org/046-057/">Nature of Kagoshima 2020</a>)。</p>
+<h3 id="33">3.3 高知県</h3>
+<p>四万十川水系と黒潮沿いの汽水環境で多様性が高い。ボウズハゼ、アカボウズハゼ、ルリボウズハゼ、ナンヨウボウズハゼ、ヨロイボウズハゼ全てに記録があり、渓流改修や堰堤による遡上阻害が懸念。</p>
+<h3 id="34">3.4 三重県</h3>
+<p>伊勢湾奥の干潟 (木曽川・長良川・揖斐川河口) にエドハゼ、クボハゼ、ヒモハゼ、チクゼンハゼ、トビハゼの主要生息地。イドミミズハゼの生息地として三重県RDBでNT相当。</p>
+<h3 id="35">3.5 東京都 (本土部・伊豆諸島・小笠原)</h3>
+<p>東京湾のトビハゼは「都区部でほぼ絶滅」状態。多摩川河口・葛西臨海公園干潟がわずかな残存地。小笠原諸島ではオガサワラヨシノボリが最重要 (東京都RDB絶滅危惧IA類)。</p>
+<h3 id="36">3.6 滋賀県</h3>
+<p>琵琶湖固有のビワヨシノボリ (滋賀県DDだが滋賀県RDBでは希少種)、琵琶湖周辺のゴクラクハゼ、トウヨシノボリ橙色型、シマヨシノボリ。地域個体群の遺伝的固有性保全が課題 (<a href="https://www.pref.shiga.lg.jp/file/attachment/5292202.pdf">滋賀県湖辺域</a>)。</p>
+<h3 id="37">3.7 大分県・福岡県</h3>
+<p>大分RDB2022はイドミミズハゼ等を掲載 (<a href="https://www.rdb-oita.jp/data/9829/">レッドデータブックおおいた2022</a>)。福岡県RDBではチクゼンハゼの模式産地・室見川水系で絶滅の可能性が高いと明記 (<a href="https://biodiversity.pref.fukuoka.lg.jp/rdb/rdbs/detail/201400043">福岡県RDB</a>)。</p>
+<h2 id="4">4. 主要な脅威</h2>
+<h3 id="41">4.1 河川改修・ダム・堰堤による遡上阻害</h3>
+<p>両側回遊性ハゼ (ボウズハゼ類、ヨシノボリ類、ウキゴリ、ヒナハゼ等) は、海と河川上流を往復する生活史を持つため、堰堤・ダム・落差工による横断構造物が致命的である。特に<strong>ボウズハゼ属</strong>・<strong>Stiphodon属</strong>・<strong>Sicyopterus属</strong>は滝上流に生息するため、河口から上流までの連続性が必須。白丸ダム魚道 (多摩川) はループ式で両側回遊ハゼ類の遡上を可能にした先進事例だが、日本全体で「ほったらかし魚道」が多く機能していないとの指摘もある (<a href="http://protectingecology.org/report/7664">流域の自然を考えるネットワーク</a>)。</p>
+<h3 id="42">4.2 干潟・河口の埋立と干拓</h3>
+<p>有明海諫早湾干拓 (1997年締切) により同湾奥部のムツゴロウ個体群は局所絶滅したと推定。東京湾・伊勢湾・三河湾でも埋立により泥干潟が減少し、トビハゼ・エドハゼ・クボハゼ・チクゼンハゼ・ヒモハゼの各個体群が分断・縮小した。</p>
+<h3 id="43">4.3 水質汚濁・赤土流出</h3>
+<p>沖縄では宅地造成・道路工事に伴う赤土流出が渓流性ハゼ (ボウズハゼ属・Stiphodon属) の付着藻類食性・産卵基質を破壊する。沖縄県は赤土等流出防止条例で対応するが、効果は限定的。</p>
+<h3 id="44">4.4 外来魚による捕食・競合</h3>
+<ul>
+<li>オオクチバス <em>Micropterus salmoides</em>、コクチバス <em>M. dolomieu</em>、ブルーギル <em>Lepomis macrochirus</em>、カダヤシ <em>Gambusia affinis</em> が淡水性ハゼ幼魚を捕食。(カワマス属の学名はGobius属ではないため混同に注意)。</li>
+<li>琵琶湖ではオオクチバス・ブルーギルによりヨシノボリ類稚魚が減少、琵琶湖博物館の調査で胃内容物に多数記録。</li>
+<li>小笠原ではティラピアがオガサワラヨシノボリと競合。</li>
+</ul>
+<h3 id="45">4.5 国内外来・放流による遺伝子撹乱</h3>
+<ul>
+<li><strong>ヌマチチブ</strong> <em>Tridentiger brevispinis</em> の琵琶湖移入: ワカサギ・アユ種苗に混入し、1989年に姉川で稚魚確認後、琵琶湖全域へ拡散。在来チチブ属との交雑が懸念。</li>
+<li><strong>トウヨシノボリ橙色型・スミウキゴリ型</strong> は人為放流により本来分布域外に拡散。関東や中部の溜池・ダム湖で繁殖し、地域在来のクロヨシノボリ・オオヨシノボリ・シマヨシノボリと交雑し遺伝子汚染を生じる (<a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%83%A8%E3%82%B7%E3%83%8E%E3%83%9C%E3%83%AA">トウヨシノボリ Wikipedia</a>)。</li>
+<li><strong>ビワヨシノボリ</strong> が岐阜・三重・島根・愛媛のダム湖等で移入定着。</li>
+</ul>
+<h3 id="46">4.6 乱獲・観賞魚採集圧</h3>
+<p>色彩が美しいコンテリボウズハゼ・ニジイロボウズハゼ近縁群・ルリボウズハゼは観賞魚として採集圧が高く、沖縄県は一部で採集を規制している。</p>
+<h2 id="5">5. 保全活動事例</h2>
+<h3 id="51">5.1 ムツゴロウ保全 (有明海)</h3>
+<p>佐賀県は漁獲規制 (禁漁期、体長規制) を設け、六角川河口の禁猟区で生息密度を維持。佐賀県有明海漁業協同組合による資源管理も機能している (<a href="https://www.saga-s.co.jp/articles/-/1434564">佐賀新聞 2025</a>, <a href="https://www.jf-sariake.or.jp/page/maeumimon_mutsugorou.html">JF佐賀有明</a>)。ただし諫早湾閉め切り問題は未解決。</p>
+<h3 id="52">5.2 魚道整備</h3>
+<p>東京都白丸ダムのループ魚道は両側回遊性ハゼ類の遡上回復に寄与。四万十川流域では堰堤改修時に小型ハゼ類対応の低流速魚道が試験導入されている。</p>
+<h3 id="53">5.3 ボウズハゼ類の復活事業</h3>
+<p>アクアマリンふくしまは絶滅危惧ハゼ類の飼育下繁殖に成功しており (<a href="https://tenbou.nies.go.jp/news/jnews/detail.php?i=30729">環境展望台</a>)、ナンヨウボウズハゼ・アカボウズハゼの生活史解明と域外保全を進めている。</p>
+<h3 id="54">5.4 地域個体群保全</h3>
+<p>滋賀県は琵琶湖固有魚 (ビワヨシノボリ等) の移植・放流について遺伝的地域固有性を損なわない方針を採用。種苗放流時の外来ハゼ混入防止がマニュアル化されている。</p>
+<h2 id="6">6. 洞窟性・地下水性ハゼの保全課題</h2>
+<p><strong>イドミミズハゼ</strong> <em>Luciogobius pallidus</em>、<strong>ドウクツミミズハゼ</strong> <em>L. albus</em>、近縁の未記載種 <em>Luciogobius</em> sp. を含む地下水性ミミズハゼ属は、河口域の伏流水・海岸近くの洞窟湧水という極めて限定的な微小生息環境に依存する。</p>
+<p>脅威:
+1. 河口域の護岸・埋立による伏流水の消失
+2. 地下水過剰取水による水位低下と塩水化
+3. 海岸砂利採取・港湾改修による転石下環境の破壊
+4. 生物学的知見の乏しさ (成魚のみ知られ、仔稚魚の生態不明)
+5. モニタリング困難性 (目視確認がほぼ不可能)</p>
+<p>和歌山県・三重県の海岸伏流水では市民科学ベースの調査が進められているが、法的保護はほぼなく、環境影響評価でも評価対象になりにくい。<strong>琉球列島と和歌山・三重のLuciogobius属多様性ホットスポット</strong>は世界的にも類例のない保全優先地域である (<a href="https://www.shizenhaku.wakayama-c.ed.jp/goby_kishu_exp/goby_kishu_exp_08.html">和歌山県立自然博物館 ハゼの部屋</a>)。</p>
+<h2 id="7">7. 外来ハゼ問題</h2>
+<h3 id="71">7.1 チチブ属の琵琶湖移入</h3>
+<p><strong>ヌマチチブ</strong> <em>Tridentiger brevispinis</em> が1989年以降琵琶湖で確認され、流入河川・南湖で繁殖。アユ・ワカサギ種苗への混入が主因と考えられる。在来チチブ <em>T. obscurus</em> との競合および交雑の可能性がある。</p>
+<h3 id="72">7.2 トウヨシノボリ放流拡散</h3>
+<p><strong>トウヨシノボリ</strong> <em>Rhinogobius kurodai</em> はヘラブナ・コイ・オイカワ等の種苗混入や釣り餌として全国に拡散。</p>
+<ul>
+<li>スミウキゴリ型・橙色型・縞鰭型など複数のクリプティック系統が認識されており、これらが本来分布域外で交雑し在来系統を置換・希釈。</li>
+<li>関東地方のダム湖、東北地方の溜池で定着事例多数。</li>
+<li>遺伝子撹乱防止のため、放流時の由来確認と地域系統保全が環境省「国内外来種対策指針」で推奨されるが法的拘束力は弱い。</li>
+</ul>
+<h3 id="73">7.3 海外由来ハゼの定着リスク</h3>
+<ul>
+<li>ヨーロッパ・北米ではヨウスコウハゼ <em>Rhinogobius similis</em>、チチブモドキ <em>Neogobius melanostomus</em> (ラウンドゴビー) がバラスト水により各地の沿岸・湖に侵入し破壊的影響を与えている。日本でも港湾モニタリング対象。</li>
+</ul>
+<h2 id="8">8. 主要掲載種総括表</h2>
+<table>
+<thead>
+<tr>
+<th>和名</th>
+<th>学名</th>
+<th>環境省RL2020</th>
+<th>主要分布</th>
+<th>主要脅威</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>トカゲハゼ</td>
+<td><em>Scartelaos histophorus</em></td>
+<td>CR</td>
+<td>沖縄本島中城湾・泡瀬</td>
+<td>干潟埋立・港湾工事</td>
+</tr>
+<tr>
+<td>ドウクツミミズハゼ</td>
+<td><em>Luciogobius albus</em></td>
+<td>CR</td>
+<td>五島列島・大根島 (絶滅)</td>
+<td>地下水系破壊</td>
+</tr>
+<tr>
+<td>アカボウズハゼ</td>
+<td><em>Sicyopus zosterophorus</em></td>
+<td>CR</td>
+<td>南西諸島渓流</td>
+<td>河川改修・赤土流出</td>
+</tr>
+<tr>
+<td>ヨロイボウズハゼ</td>
+<td><em>Lentipes armatus</em></td>
+<td>CR</td>
+<td>沖縄・奄美渓流</td>
+<td>堰堤・取水</td>
+</tr>
+<tr>
+<td>カエルハゼ</td>
+<td><em>Smilosicyopus leprurus</em></td>
+<td>CR</td>
+<td>南西諸島渓流</td>
+<td>取水・土砂流入</td>
+</tr>
+<tr>
+<td>ハヤセボウズハゼ</td>
+<td><em>Sicyopus rubicundus</em></td>
+<td>CR</td>
+<td>南西諸島</td>
+<td>河川改修</td>
+</tr>
+<tr>
+<td>ミスジハゼ</td>
+<td><em>Acentrogobius audax</em></td>
+<td>CR</td>
+<td>南西諸島汽水</td>
+<td>河口改修</td>
+</tr>
+<tr>
+<td>クロトサカハゼ</td>
+<td><em>Cristatogobius nonatoae</em></td>
+<td>CR</td>
+<td>琉球列島</td>
+<td>生息地限定</td>
+</tr>
+<tr>
+<td>ヒメトサカハゼ</td>
+<td><em>Cristatogobius aurimaculatus</em></td>
+<td>CR</td>
+<td>琉球列島</td>
+<td>記録極少</td>
+</tr>
+<tr>
+<td>ムツゴロウ</td>
+<td><em>Boleophthalmus pectinirostris</em></td>
+<td>EN</td>
+<td>有明海・八代海</td>
+<td>干拓・乱獲</td>
+</tr>
+<tr>
+<td>ジャノメハゼ</td>
+<td><em>Bostrychus sinensis</em></td>
+<td>EN</td>
+<td>九州・南西諸島汽水</td>
+<td>マングローブ伐採</td>
+</tr>
+<tr>
+<td>クボハゼ</td>
+<td><em>Gymnogobius scrobiculatus</em></td>
+<td>EN</td>
+<td>本州中部以西〜九州河口干潟</td>
+<td>干潟埋立</td>
+</tr>
+<tr>
+<td>キセルハゼ</td>
+<td><em>Gymnogobius cylindricus</em></td>
+<td>EN</td>
+<td>有明海・瀬戸内</td>
+<td>干潟消失</td>
+</tr>
+<tr>
+<td>オガサワラヨシノボリ</td>
+<td><em>Rhinogobius ogasawaraensis</em></td>
+<td>EN</td>
+<td>小笠原諸島固有</td>
+<td>外来ティラピア</td>
+</tr>
+<tr>
+<td>ワラスボ</td>
+<td><em>Odontamblyopus lacepedii</em></td>
+<td>VU</td>
+<td>有明海</td>
+<td>干潟埋立・水質</td>
+</tr>
+<tr>
+<td>エドハゼ</td>
+<td><em>Gymnogobius macrognathos</em></td>
+<td>VU</td>
+<td>東京湾〜九州河口</td>
+<td>干潟埋立</td>
+</tr>
+<tr>
+<td>チクゼンハゼ</td>
+<td><em>Gymnogobius uchidai</em></td>
+<td>VU</td>
+<td>九州北部・本州西部</td>
+<td>河口改変</td>
+</tr>
+<tr>
+<td>タビラクチ</td>
+<td><em>Apocryptodon punctatus</em></td>
+<td>VU</td>
+<td>有明海・八代海干潟</td>
+<td>干潟消失</td>
+</tr>
+<tr>
+<td>ルリボウズハゼ</td>
+<td><em>Sicyopterus lagocephalus</em></td>
+<td>VU</td>
+<td>南西諸島・小笠原</td>
+<td>ダム・赤土流出</td>
+</tr>
+<tr>
+<td>ナンヨウボウズハゼ</td>
+<td><em>Stiphodon percnopterygionus</em></td>
+<td>VU</td>
+<td>南西諸島渓流</td>
+<td>河川改修</td>
+</tr>
+<tr>
+<td>コンテリボウズハゼ</td>
+<td><em>Stiphodon alcedo</em></td>
+<td>VU</td>
+<td>南西諸島渓流</td>
+<td>乱獲・工事</td>
+</tr>
+<tr>
+<td>シマサルハゼ</td>
+<td><em>Oxyurichthys visayanus</em></td>
+<td>VU</td>
+<td>南西諸島汽水</td>
+<td>マングローブ減少</td>
+</tr>
+<tr>
+<td>ウラウチイソハゼ</td>
+<td><em>Eviota ocellifer</em></td>
+<td>VU</td>
+<td>西表島浦内川</td>
+<td>生息地限定</td>
+</tr>
+<tr>
+<td>トビハゼ</td>
+<td><em>Periophthalmus modestus</em></td>
+<td>NT</td>
+<td>本州以南泥干潟</td>
+<td>埋立・護岸</td>
+</tr>
+<tr>
+<td>ヒモハゼ</td>
+<td><em>Eutaeniichthys gilli</em></td>
+<td>NT</td>
+<td>河口域汽水</td>
+<td>河口改変</td>
+</tr>
+<tr>
+<td>イドミミズハゼ</td>
+<td><em>Luciogobius pallidus</em></td>
+<td>NT</td>
+<td>本州〜九州河口伏流水</td>
+<td>地下水枯渇</td>
+</tr>
+<tr>
+<td>ショウキハゼ</td>
+<td><em>Tridentiger barbatus</em></td>
+<td>NT</td>
+<td>瀬戸内・九州</td>
+<td>泥干潟消失</td>
+</tr>
+<tr>
+<td>ホクロハゼ</td>
+<td><em>Acentrogobius caninus</em></td>
+<td>NT</td>
+<td>汽水域</td>
+<td>水質汚濁</td>
+</tr>
+<tr>
+<td>チワラスボ</td>
+<td><em>Taenioides cirratus</em></td>
+<td>NT</td>
+<td>有明海・南西諸島</td>
+<td>干潟減少</td>
+</tr>
+<tr>
+<td>カワアナゴ</td>
+<td><em>Eleotris oxycephala</em></td>
+<td>NT</td>
+<td>本州以南河川下流</td>
+<td>改修・外来魚</td>
+</tr>
+<tr>
+<td>ビワヨシノボリ</td>
+<td><em>Rhinogobius biwaensis</em></td>
+<td>DD (IUCN:EN)</td>
+<td>琵琶湖固有</td>
+<td>湖水位・外来魚</td>
+</tr>
+<tr>
+<td>タナゴモドキ</td>
+<td><em>Hypseleotris cyprinoides</em></td>
+<td>DD</td>
+<td>沖縄</td>
+<td>記録希少</td>
+</tr>
+</tbody>
+</table>
+<h2 id="9">9. まとめと今後の課題</h2>
+<p>日本産ハゼ類の保全は、(a) <strong>南西諸島の渓流性・両側回遊性種</strong>、(b) <strong>有明海・瀬戸内・東京湾等の干潟性種</strong>、(c) <strong>地下水性ミミズハゼ属</strong>、(d) <strong>琵琶湖・小笠原等の閉鎖系固有種</strong>、の4つの生態的グループで課題構造が大きく異なる。第5次レッドリスト (汽水・淡水魚類は2026年度以降公表予定) ではLuciogobius属の分類学的進展を反映した再評価が予想され、CR/ENカテゴリの大幅増加が見込まれる。特に国内外来・種苗混入・観賞魚流通による遺伝子撹乱は法的規制の空白域が残っており、種苗管理と地域個体群保全の制度化が求められる。</p>
+<h2 id="_2">参考文献・情報源</h2>
+<ul>
+<li>環境省 (2020) 環境省レッドリスト2020 <a href="https://www.env.go.jp/press/107905.html">報道発表</a>, <a href="https://www.env.go.jp/content/900502268.pdf">全種リスト(別添資料3)</a></li>
+<li>環境省 (2025) 第5次レッドリスト(植物・菌類、鳥類、爬虫類・両生類) <a href="https://www.env.go.jp/press/press_04578.html">プレス</a></li>
+<li>環境省 改訂レッドリスト付属説明資料 汽水・淡水魚類 (平成22年) <a href="https://ikilog.biodic.go.jp/rdbdata/files/explanatory_pdf/21fish.pdf">PDF</a></li>
+<li>環境省生物多様性センター <a href="https://ikilog.biodic.go.jp/Rdb/env">絶滅危惧種検索システム</a></li>
+<li>汽水・淡水魚類レッドリスト (環境省) - <a href="https://ja.wikipedia.org/wiki/%E6%B1%BD%E6%B0%B4%E3%83%BB%E6%B7%A1%E6%B0%B4%E9%AD%9A%E9%A1%9E%E3%83%AC%E3%83%83%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88_(%E7%92%B0%E5%A2%83%E7%9C%81)">Wikipedia</a></li>
+<li>日本のレッドデータ検索システム (国立環境研究所系) https://jpnrdb.com/</li>
+<li>沖縄県 改訂・沖縄県の絶滅のおそれのある野生生物 第3版 動物編 (2017) <a href="https://www.pref.okinawa.jp/kurashikankyo/kankyo/1004621/1004628.html">沖縄県</a></li>
+<li>大分県 レッドデータブックおおいた2022 https://www.rdb-oita.jp/</li>
+<li>福岡県レッドデータブック https://biodiversity.pref.fukuoka.lg.jp/rdb/</li>
+<li>Nature of Kagoshima (鹿児島県博物学会誌) 2020年 <a href="https://journal.kagoshima-nature.org/046-057/">絶滅危惧魚類イドミミズハゼの鹿児島湾からの初めての記録</a></li>
+<li>Nature of Kagoshima 鹿児島県における絶滅危惧種クボハゼの記録 https://journal.kagoshima-nature.org/035-002/</li>
+<li>和歌山県立自然博物館 <a href="https://www.shizenhaku.wakayama-c.ed.jp/goby_wakayama.html">ハゼの部屋</a></li>
+<li>滋賀県 湖辺域 琵琶湖の外来魚 <a href="https://www.pref.shiga.lg.jp/file/attachment/5292202.pdf">PDF</a></li>
+<li>日経新聞 (2025) ムツゴロウ、絶滅危惧種に <a href="https://www.nikkei.com/article/DGKKZO87653470Y5A320C2CE0000/">記事</a></li>
+<li>佐賀新聞 (2025) ムツゴロウ絶滅危惧種に 有明海のシンボル <a href="https://www.saga-s.co.jp/articles/-/1434564">記事</a></li>
+<li>WWFジャパン 西表島浦内川調査 <a href="https://www.wwf.or.jp/staffblog/activity/4666.html">ブログ</a></li>
+<li>国立環境研究所 環境展望台 アクアマリンふくしまによる絶滅危惧種ハゼ類繁殖 <a href="https://tenbou.nies.go.jp/news/jnews/detail.php?i=30729">記事</a></li>
+<li>流域の自然を考えるネットワーク 魚道機能評価 http://protectingecology.org/report/7664</li>
+<li>おきなわカエル商会 沖縄の汽水・淡水魚RDB一覧 http://www.okinawa-kaeru.net/endan/fish-rdb.html</li>
+<li>rhinogobius.jp (日本のヨシノボリ 図鑑) https://rhinogobius.jp/</li>
+<li>IUCN Red List https://www.iucnredlist.org/</li>
+</ul>
+<h2 id="_3">注記</h2>
+<p>本稿の種数・カテゴリは、環境省レッドリスト2020公表時点 (2020年3月) から2025年12月までの随時見直しを含む。個別種の扱いは第5次レッドリスト(汽水・淡水魚類) 公表 (2026年度以降予定) で改訂される見込み。特にLuciogobius属は近年多数の新種記載・分類学的再編が進んでおり、本稿の学名は暫定的なものを含む。</p>
+<footer>
+generated from <code>06-conservation.md</code> / dataset: gobies-overview
+</footer>
+</body>
+</html>

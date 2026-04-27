@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>淡水・汽水性甲殻類の生態と生活史</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">淡水・汽水性甲殻類の生態と生活史</h1>
+<p><em>作成日: 2026-04-17 / 作成者: 在野研究者 takeru</em></p>
+<p>本稿は、日本および東アジアを中心とする淡水・汽水性甲殻類（十脚類・鰓脚類・橈脚類・端脚類・等脚類）について、生活史戦略・繁殖生態・幼生発生・食性・共生関係・群集構造を総説的にまとめたものである。とくに「両側回遊 (amphidromy)」という概念を軸に、海との接続度が異なる種間の比較を行い、水田・地下水・湧水といった辺縁水域の固有群集にも触れる。</p>
+<hr />
+<h2 id="1-amphidromy-mcdowall">1. 両側回遊 (amphidromy) とは: McDowall の定義</h2>
+<p>McDowall (2007) は通し回遊 (diadromy) の一形態として両側回遊 (amphidromy) を再定義した。その定義要素は以下のとおりである。</p>
+<ol>
+<li>繁殖・産卵は<strong>淡水</strong>で行われる</li>
+<li>孵化直後の幼生 (larvae) は速やかに<strong>海</strong>へ流下する</li>
+<li>海で数週間から数ヶ月摂餌・成長する</li>
+<li>十分に成長した稚個体 (juvenile) が淡水へ遡上する</li>
+<li>その後は淡水で摂餌・成長し、ふたたび淡水で産卵する</li>
+</ol>
+<p>これはサケ科の遡河回遊 (anadromy; 海で成長→淡水で産卵) やウナギ目の降河回遊 (catadromy; 淡水で成長→海で産卵) とは根本的に異なる。とくに、両側回遊では「海へ行く段階」が幼生という受動的な移動能力しかもたない段階に限定され、幼生期以外の時間は淡水で完結する点が特徴である。McDowall (1997) の "Is There Such a Thing as Amphidromy?" (Micronesica 誌) 以来、この概念は太平洋島嶼河川の十脚類・ハゼ類・巻貝類生態学の基幹概念となった。</p>
+<h3 id="_2">両側回遊を行う主要な甲殻類グループ</h3>
+<ul>
+<li><strong>ヌマエビ科 (Atyidae)</strong>: ヤマトヌマエビ <em>Caridina multidentata</em>、ヌマエビ <em>Paratya compressa</em> など多くの種</li>
+<li><strong>テナガエビ科 (Palaemonidae)</strong>: テナガエビ <em>Macrobrachium nipponense</em>、ミナミテナガエビ <em>M. formosense</em>、コンジンテナガエビ <em>M. lar</em> ほか</li>
+<li><strong>モクズガニ属 (Varunidae: <em>Eriocheir</em>)</strong>: モクズガニ <em>Eriocheir japonica</em> (ただし厳密には成体が産卵のため降河するので catadromous 寄り)</li>
+<li><strong>ベンケイガニ科 (Sesarmidae)</strong>: アカテガニ <em>Chiromantes haematocheir</em>、クロベンケイガニ、ベンケイガニ <em>Orisarma intermedium</em> など</li>
+<li><strong>オカガニ科 (Gecarcinidae)</strong>、<strong>オカヤドカリ科 (Coenobitidae)</strong>: 海産幼生放出型の陸生種</li>
+</ul>
+<h3 id="non-diadromous">対照: 完全淡水種 (non-diadromous)</h3>
+<ul>
+<li><strong>サワガニ科 (Potamidae)</strong>: サワガニ <em>Geothelphusa dehaani</em> は卵の中で変態を完了し、孵化時点で親と同じ形の稚ガニとして出てくる (直接発生, direct development)。卵径 2 mm ほど・数十個の大卵少産型</li>
+<li><strong>アメリカザリガニ科 (Cambaridae)</strong>: ニホンザリガニ <em>Cambaroides japonicus</em> も直接発生で、母ガニが腹節下で稚個体を保護する</li>
+<li><strong>ショキタテナガエビ</strong> <em>Macrobrachium shokitai</em> (西表島固有、諸喜田茂充に献名): 日本産 Macrobrachium で唯一の完全陸封型。卵径が大きく、幼生が海に下らずに河川内で発育</li>
+</ul>
+<p>この「海産幼生放出型 vs 完全淡水型」の二極は、分散能力・地理的分布・固有種形成パターンを大きく規定する。Shih ら (2007 以降) が台湾や琉球の <em>Geothelphusa</em> で示したとおり、直接発生型の淡水ガニは更新世の氷期・間氷期サイクルで島嶼間分散が限られ、島ごとに隠蔽種が分化している。対して両側回遊型は海を介した幼生分散により広域分布を示す。</p>
+<hr />
+<h2 id="2">2. ゾエア幼生・メガロパ幼生: 発生段階の基礎</h2>
+<h3 id="caridea">エビ類 (Caridea; ヌマエビ・テナガエビ)</h3>
+<p>基本的に以下の段階を経る:</p>
+<ul>
+<li>卵: 母エビの腹肢 (pleopods) に抱卵される</li>
+<li>孵化後: <strong>ゾエア (zoea)</strong> 型幼生として出てくる (多くのカリデア類はナウプリウス期を卵内で済ませる)</li>
+<li>ゾエア期は通常 5–11 期 (種により異なる; <em>Macrobrachium rosenbergii</em> は 11 期前後)</li>
+<li>最終脱皮で <strong>ポストラーヴァ (post-larva)</strong> となり、形態は成体に近づき底生生活へ移行</li>
+</ul>
+<p>テナガエビ <em>M. nipponense</em> の場合、幼生は塩分 7.5–12.5 ‰ (半海水程度) で最大生残率を示し、淡水では発育完了しないことが確認されている (Wong 1987 ほか)。このため「河川型」「淡水湖沼型」「汽水湖沼型」の 3 遺伝的系統が記載され、湖沼型では卵サイズが大きく幼生期の塩分要求が緩和される方向で生活史が進化している。</p>
+<h3 id="brachyura">カニ類 (Brachyura; モクズガニ・ベンケイガニ・オカガニ)</h3>
+<ul>
+<li><strong>プレゾエア (prezoea)</strong>: 孵化直後の極めて短い段階 (数分～数十分)</li>
+<li><strong>ゾエア 1–5 (ゾエア 6 の種もあり)</strong>: 浮遊性、胸棘や額棘が発達</li>
+<li><strong>メガロパ (megalopa)</strong>: 底生化直前の段階、甲が平たくなり歩脚も機能的</li>
+<li><strong>第 1 稚ガニ (first crab instar)</strong></li>
+</ul>
+<p>モクズガニは水温 11–18 ℃で約 1 ヶ月、20 ℃で 22 日の胚発生を経て海域で孵化し、浅海でゾエア 5 期を経過、メガロパ以降は河口汽水域へ進入する。稚ガニとなってから河川を遡上し、2–3 年後に成熟して再び河口・海域へ降下するという古典的な降河回遊を示す。</p>
+<p>オカガニ科 (Gecarcinidae) では、メガロパが海岸に上陸してから陸上を 100 m 以上も内陸へ歩いて移動し、そこで脱皮して第 1 稚ガニになる種もある (Gecarcinus, Johngarthia)。メガロパが能動的に陸へ向かう行動は、陸生化グラデーションの重要な進化段階といえる。</p>
+<hr />
+<h2 id="3">3. 産卵生態: 抱卵・月齢同期放仔</h2>
+<h3 id="egg-carrying">抱卵 (egg-carrying)</h3>
+<p>淡水・汽水性十脚類のほぼ全種で、雌は卵を腹肢 (pleopods) に付着させ保持する。抱卵期間は水温・種によって 2 週間～数ヶ月と幅がある。ヤマトヌマエビでは水温 25 ℃前後で 2 週間～1 ヶ月、モクズガニでは水温 15–20 ℃で約 1 ヶ月、サワガニでは卵内で稚ガニ期まで発達するため抱卵期間は長い。</p>
+<h3 id="lunar-synchronized-larval-release">月齢同期放仔 (lunar-synchronized larval release)</h3>
+<p>Sesarmidae (ベンケイガニ科) のアカテガニ <em>Chiromantes haematocheir</em>、クロベンケイガニ、ベンケイガニ <em>Orisarma intermedium</em> は、<strong>夏の大潮の満月の夜に一斉に海岸へ下り、波打ち際で卵から幼生 (ゾエア) を放出する</strong>。この行動は「産卵」ではなく「<strong>放仔 (ほうし)</strong>」と呼ばれる。卵内ではすでにゾエアが形成されており、母ガニが波に腹部を浸すと卵殻が破れ幼生が海へ拡散する。</p>
+<p>この月齢同期は以下の適応的意義があると考えられる:</p>
+<ol>
+<li><strong>夜間の満潮</strong>により放仔直後の幼生が波で外洋へ拡散しやすく、陸上捕食者 (鳥類等) から逃れやすい</li>
+<li><strong>同調放仔による捕食者飽食効果</strong> (predator satiation): 同種他個体と同時に大量のゾエアが海へ出ることで個々の被食率を下げる</li>
+<li><strong>新月より満月が選ばれる理由</strong>として、月光がゾエアの初期分散方向ガイドになる仮説、満月大潮の潮差が大きく沿岸から外洋への流出が強い仮説などが提示されている</li>
+</ol>
+<p>類似の月齢同期は熱帯の Gecarcinidae (クリスマス島の <em>Gecarcoidea natalis</em> の集団移動放仔が有名) や Coenobitidae (オカヤドカリ) でもみられ、陸生甲殻類が海産幼生期を維持しつづけるための時間生態学的適応である。</p>
+<hr />
+<h2 id="4-sesarmidae-gecarcinidae-coenobitidae">4. 陸生化のグラデーション: Sesarmidae → Gecarcinidae → Coenobitidae</h2>
+<p>陸生化 (terrestrialization) は甲殻類の進化史で複数の系統で独立に起きた。日本近海・東アジア産で観察される陸化段階は以下のように整理できる。</p>
+<table>
+<thead>
+<tr>
+<th>グループ</th>
+<th>代表種</th>
+<th>成体の生活場所</th>
+<th>幼生</th>
+<th>鰓室の改変</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sesarmidae (ベンケイガニ科)</td>
+<td>アカテガニ、ベンケイガニ</td>
+<td>河口汽水域の岸・林縁、塩性湿地、水辺の林床</td>
+<td>海産ゾエア</td>
+<td>鰓室内に毛状構造、空気呼吸能あり</td>
+</tr>
+<tr>
+<td>Gecarcinidae (オカガニ科)</td>
+<td>ミナミオカガニ、ムラサキオカガニ (南西諸島)</td>
+<td>海岸林・海岸崖、かなり内陸まで</td>
+<td>海産ゾエア (母ガニが海岸まで降下)</td>
+<td>鰓室が「肺」様に平滑化 (smooth lung)</td>
+</tr>
+<tr>
+<td>Coenobitidae (オカヤドカリ科)</td>
+<td>オカヤドカリ類 <em>Coenobita</em>、ヤシガニ <em>Birgus latro</em></td>
+<td>完全な陸上 (ヤシガニは海から 6 km 内陸まで)</td>
+<td>海産ゾエア→メガロパで上陸</td>
+<td>鰓に加え鰓蓋腔肺 (branchiostegal lung)・腹部肺 (abdominal lung、ヤシガニ)</td>
+</tr>
+</tbody>
+</table>
+<p>Coenobitidae はさらに嗅覚系が拡大しており、触角と嗅覚葉が大型化して陸上での化学感覚に特化している。一方、同じく陸生の Brachyura (Gecarcinidae) ではむしろ嗅覚系は縮小する傾向にあり、両系統の陸生化が異なる感覚戦略をとっていることが注目される (Frontiers in Microbiology 2020 ほか)。</p>
+<p>いずれの陸生グループも「幼生期だけは海に戻る」という制約から完全に解放されていない点が重要である。これは鰓構造の転用限界と、初期発生でのイオン・水分調節能の制約が海水依存を残しているためと解釈されている。</p>
+<hr />
+<h2 id="5">5. 両側回遊エビの生活史: ヤマトヌマエビ・テナガエビ</h2>
+<h3 id="caridina-multidentata">ヤマトヌマエビ <em>Caridina multidentata</em></h3>
+<ul>
+<li><strong>産卵場</strong>: 河川中流～上流域の淵</li>
+<li><strong>抱卵数</strong>: 約 1,000–4,000 個、卵径約 0.5 mm の小卵多産型</li>
+<li><strong>孵化幼生</strong>: 浮遊性ゾエア、数日以内に河川流によって河口・海へ到達</li>
+<li><strong>海域での発育</strong>: 植物プランクトン・デトリタスを摂餌しながらゾエア→ポストラーヴァへ。淡水では数日以上生存できない</li>
+<li><strong>遡上</strong>: 稚エビになると河川の匂い (river scent) を頼りに河口から遡上。河口から 250 km 上流まで到達した記録あり</li>
+<li><strong>遡上能力</strong>: 高さ 10 m 級の砂防ダム・堰堤をも這い登る。湿った岩面を腹肢と歩脚で押し付けて登攀する</li>
+</ul>
+<p>同属のヌマエビ <em>Paratya compressa</em> や熱帯のミナミヌマエビ類も類似の生活史を示す。諸喜田 (1970s–1980s) による南西諸島の河川での飼育観察・詳細な幼生発育ステージ記載は、これら両側回遊エビの生活史解明の基礎となった。</p>
+<h3 id="macrobrachium-nipponense">テナガエビ <em>Macrobrachium nipponense</em></h3>
+<p>鈴木 (寿之) ほかによる研究では、テナガエビは 3 つの生活史型に分化していることが示されている:</p>
+<ol>
+<li><strong>河川型</strong>: 河口・下流域。小卵多産、幼生は汽水～海で発育</li>
+<li><strong>淡水湖沼型</strong>: 琵琶湖など閉鎖淡水域。大卵少産、湖内でライフサイクル完結</li>
+<li><strong>汽水湖沼型</strong>: 中間的な中卵型</li>
+</ol>
+<p>これは同一種内でも海との連絡状況に応じて生活史が可塑的に進化することを示す好例であり、幼生の塩分要求がボトルネックとして作用している。さらに琉球列島では <em>M. formosense</em>、<em>M. lar</em>、<em>M. japonicum</em> などが河川上中流の淵や渓流に分布し、諸喜田の研究により幼生発育と生息環境の対応関係が詳細に記述された。</p>
+<h3 id="sicyopterus">Sicyopterus (ボウズハゼ) との共通ニッチ</h3>
+<p>両側回遊エビは、同じく両側回遊を行うボウズハゼ <em>Sicyopterus japonicus</em> (Gobiidae: Sicydiinae) と河川内で<strong>共通のニッチ</strong>を占める:</p>
+<ul>
+<li><strong>場所</strong>: 河川中流～上流の早瀬・岩盤</li>
+<li><strong>食性</strong>: 岩盤上の付着藻類 (periphyton)・生物膜 (biofilm)</li>
+<li><strong>遡上能力</strong>: ボウズハゼは吸盤状腹鰭で、ヤマトヌマエビは歩脚と腹肢で、ともに急流・滝を登る</li>
+<li><strong>幼生</strong>: 両者とも海でプランクトン生活 (ボウズハゼの海洋幼生期は 150–180 日と両側回遊ハゼ類で最長)</li>
+</ul>
+<p>Iwata ら (Gobioidei 研究グループ) や Iguchi &amp; Mizuno らの日本淡水魚流下仔稚魚研究でも、ハゼ仔魚と十脚甲殻類幼生が河川流下パターンを共有することが示されている。また両側回遊甲殻類とハゼ類は<strong>河川連続体の共進化パートナー</strong>として議論され、河口堰・ダムによる通し回遊障壁では両者がそろって衰退することが多数報告されている。</p>
+<hr />
+<h2 id="6">6. 食性</h2>
+<h3 id="atyidae">ヌマエビ科 (Atyidae): 濾過食・掃除食</h3>
+<p>Atyidae のもっとも特徴的な形質は、第 1・第 2 胸脚 (chelae) 先端に発達する<strong>扇状の剛毛 (fan-like setae)</strong> である。完全な濾過食に特化した <em>Atya</em> 属や <em>Atyopsis</em> 属では、扇毛を流水中で開閉させて懸濁粒子 (植物プランクトン、デトリタス) を捕捉する。日本産の <em>Caridina</em>・<em>Neocaridina</em>・<em>Paratya</em> 属ではここまで特化しておらず、扇毛をブラシとして岩盤上の biofilm や糸状藻類を「scrape-and-pick」方式で掻き取る掃除食が主体である (いわゆる「コケ取りエビ」としてのアクアリウム利用はこの性質に由来)。</p>
+<h3 id="palaemonidae">テナガエビ科 (Palaemonidae): 捕食者</h3>
+<p>対照的に Palaemonidae、特に <em>Macrobrachium</em> は第 2 胸脚が長く発達した鋏として強力な捕食武器を構成する。食性は動物食寄りの雑食で、水生昆虫幼虫、小型甲殻類、稚魚、貝類、死骸を捕食・漁食する。日本産テナガエビが夏に河岸の岩陰で待ち伏せ型捕食者として行動することは釣人にも知られる。</p>
+<h3 id="potamidae">サワガニ科 (Potamidae): 雑食</h3>
+<p>サワガニ <em>Geothelphusa dehaani</em> は渓流の岩下に潜み、落葉・水生昆虫・小型甲殻類・死骸・菌類まで幅広く摂餌する雑食者である。渓流生態系では森林由来の陸上リター (CPOM) を分解する「破砕者 (shredder)」としての機能的役割も担っている。</p>
+<h3 id="sesarmidae">ベンケイガニ科 (Sesarmidae): マングローブ・河口林のリター処理者</h3>
+<p>汽水・半陸生のベンケイガニ類は、マングローブや河岸林の落葉を大量に摂食する。これにより陸上由来の炭素を河口汽水食物網に注入する機能を果たし、熱帯マングローブ生態系の物質循環における中核機能群として位置づけられる。</p>
+<hr />
+<h2 id="7">7. 共生・種間相互作用</h2>
+<h3 id="_3">河川内: ハゼ類との共存ネットワーク</h3>
+<p>両側回遊エビ (Atyidae, Palaemonidae) は、ヨシノボリ類 <em>Rhinogobius</em> spp.、ボウズハゼ類 Sicydiinae、ヌマチチブなどと<strong>同所的に共存</strong>する。これらは幼生の海洋分散という共通生活史を持ち、遡上時期・遡上距離・河川内ニッチ分割 (食性・基質選好) によって共存する。河川連続体に沿った群集の垂直構造としては、河口汽水域に Palaemonidae・モクズガニ・ゴクラクハゼ、中流に Atyidae・ヨシノボリ、上流にサワガニ・ショキタテナガエビ (固有淡水種)、さらに上流にニホンザリガニ (北日本のみ) という概形となる。</p>
+<h3 id="_4">海寄り: テッポウエビ–ハゼの相利共生</h3>
+<p>河川生態系とはやや異なるが、河口・浅海の砂泥底では<strong>テッポウエビ類 <em>Alpheus</em> とハゼ類の相利共生</strong>が古典例として知られる。テッポウエビは視力が弱いかわりに巣穴掘削を担当し、ハゼは視力で外敵警戒を担当する。ハゼ体表を触角で触れつづけることで相互連絡が維持され、捕食者接近時には両者同時に巣穴へ退避する。ハゼはエビの糞を食べ、エビは巣穴へハゼが運び込んだ餌の破片を摂食するなど、栄養面の相互依存も確認されている。分布は主にインド-太平洋熱帯域。</p>
+<hr />
+<h2 id="8-cambaroides-japonicus">8. ニホンザリガニ <em>Cambaroides japonicus</em>: 北方要素と完全淡水</h2>
+<p>ニホンザリガニは北海道および東北北部 (青森・秋田・岩手の一部) の冷水渓流・山地湖沼に固有分布する。特徴は:</p>
+<ul>
+<li><strong>完全淡水・直接発生</strong>: 秋に交尾、雌は精莢を腹部につけて越冬、春に腹肢に抱卵、孵化した稚ザリガニは母親の腹節下で保護されたあと独立</li>
+<li><strong>冷水要求</strong>: 水温 20 ℃以下を好み、夏の高水温は致命的</li>
+<li><strong>北方起源</strong>: Cambaroides 属は日本・朝鮮半島・ロシア極東に分布する東アジア北方要素</li>
+<li><strong>絶滅危惧</strong>: 環境省レッドリストで絶滅危惧 II 類。特定第二種国内希少野生動植物種指定。外来種であるウチダザリガニ <em>Pacifastacus leniusculus</em> との競合、ザリガニペストによる壊滅が問題</li>
+</ul>
+<p>ニホンザリガニは日本の淡水甲殻類の中で、海洋とまったく関係を持たない完全陸水種の代表であり、その分布が<strong>氷期の北方冷水性レリクト</strong>として解釈される点で生物地理学的に重要である。</p>
+<hr />
+<h2 id="9">9. 水田・季節的一時水域の甲殻類</h2>
+<h3 id="_5">ホウネンエビ・カブトエビ</h3>
+<ul>
+<li><strong>ホウネンエビ</strong> <em>Branchinella kugenumaensis</em> (鰓脚綱 Anostraca)</li>
+<li><strong>カブトエビ類</strong> <em>Triops</em> spp. (鰓脚綱 Notostraca)</li>
+</ul>
+<p>これらは水田など<strong>季節的一時水域 (temporary pool)</strong> に特化した甲殻類で、以下の共通戦略をもつ:</p>
+<ol>
+<li><strong>耐久卵 (resting egg / diapausing egg)</strong>: 厚い卵殻に包まれ、乾燥・高温・低温に耐える。土壌中で数年～数十年休眠可能</li>
+<li><strong>一斉孵化</strong>: 田植え前の湛水・代掻きで水が入ると一斉に孵化</li>
+<li><strong>急速成長</strong>: 数週間で成熟・産卵を完了</li>
+<li><strong>新たな耐久卵を残して個体は消える</strong></li>
+</ol>
+<p>ホウネンエビは先に孵化してミジンコ類を摂食し、カブトエビが遅れて孵化するとホウネンエビを捕食するという<strong>時間差の種間関係</strong>も記述されている。これら Branchiopoda は水田生態系に固有の一次消費者・中間捕食者群として機能するが、近年の用水路コンクリート化・乾田化・田面管理方式の変化により生息密度は激減している。</p>
+<h3 id="cladocera">ミジンコ (Cladocera)</h3>
+<ul>
+<li><em>Daphnia</em> 属が代表。環境良好時は<strong>単為生殖 (parthenogenesis)</strong> で増殖し、雌のみからなる集団を維持</li>
+<li>環境悪化時 (餌減少・水温変化・個体群密度上昇) に雄を産出し<strong>有性生殖</strong>に切り替え、<strong>休眠卵 (耐久卵)</strong> を産む</li>
+<li>休眠卵は鞍状殻 (ephippium) に包まれ、水田土壌・ため池底泥に蓄積し、湛水で孵化</li>
+<li>東北大 (浦部) の水田ため池長期観測 (2024 報告) では、競争に負ける種が休眠卵として残存し、長期的な種共存を支える「負けて勝つ」戦略が示された</li>
+</ul>
+<p>日本のミジンコ類には北米からの絶対単為生殖型帰化個体群が広範に拡散していることも近年明らかになっている。</p>
+<h3 id="copepoda">ケンミジンコ・カイアシ類 (Copepoda)</h3>
+<p>Cyclopoida (ケンミジンコ類) と Calanoida (ヒゲナガケンミジンコ類) は、湖沼・ため池・水田の主要一次〜二次消費者である。Calanoida は 100 µm³ 未満の微小粒子 (植物プランクトン) を選択的濾過食、Cyclopoida はより大型粒子 (大型藻類、輪虫類、他のケンミジンコ) を捕食する raptorial 型である。両者は食物網中で藻類・細菌・デトリタスと魚類・水生昆虫の仔幼生の間を橋渡しし、稲作水域の物質循環を駆動する中核機能群である。</p>
+<hr />
+<h2 id="10">10. 辺縁水域: ヨコエビ・ミズムシ</h2>
+<h3 id="_6">地下水性ヨコエビ</h3>
+<p>日本の淡水ヨコエビ類 (少なくとも 26 種が記載) のうち、多くは<strong>地下水・湧水</strong>依存種である。</p>
+<ul>
+<li><strong>メクラヨコエビ科 (Pseudocrangonyctidae)</strong>: <em>Pseudocrangonyx</em>、<em>Eocrangonyx</em> を含む。眼を完全に欠き、体色は白~半透明。湧水・井戸・洞窟に固有。ヤマトメクラヨコエビ <em>Eocrangonyx japonicus</em> は関東地方の湧水地 (国分寺の真姿の池湧水群など) に分布</li>
+<li><strong>マミズヨコエビ科 (Crangonyctidae)</strong>: 日本のものは北米からの移入とされる</li>
+</ul>
+<p>これらは氷期に河川上流から地下水系へ退避した古い系統を含み、湧水の物理化学的安定性に強く依存する。湧水の水量低下・水温変動・水質悪化は直接絶滅要因となる。</p>
+<h3 id="_7">等脚類: ミズムシと地下水性同胞種</h3>
+<ul>
+<li><strong>ミズムシ</strong> <em>Asellus hilgendorfii</em> (等脚目ミズムシ亜目): 日本で唯一の地表水常在ミズムシ。やや汚れた水域にも耐え、水質階級では「きたない水」のスコアに位置づけられる。Hilgendorf (ドイツ人教師) が明治期に東京の寺墓地で発見</li>
+<li><strong>地下水性ミズムシ</strong>: 日本には 24 種もの地下水性ミズムシ類が記録されており、多くが日本固有。<em>Mackinia japonica</em> (メクラミズムシモドキ) は体長 4 mm 未満、無眼、白色半透明で、東京都立川市の井戸から初記録された</li>
+</ul>
+<p>地下水性ヨコエビ・ミズムシはともに<strong>短距離固有分布</strong> (集水域や水系単位で固有種化) を示す。井戸・湧水・伏流水系は相互に不連続な水文単位であり、集団分断が固有種形成を促している。</p>
+<hr />
+<h2 id="11">11. 環境勾配と群集組成</h2>
+<p>河川に沿う甲殻類群集は、以下の環境勾配に応答して組み変わる。</p>
+<h3 id="_8">塩分勾配 (河口→上流)</h3>
+<ul>
+<li>汽水域 (0–30 ‰): モクズガニ、クロベンケイガニ、スジエビモドキ、Palaemonidae 汽水種</li>
+<li>下流淡水 (&lt;0.5 ‰): テナガエビ、スジエビ、ミナミテナガエビ</li>
+<li>中流: ヌマエビ、ヤマトヌマエビ (遡上中)、ヨシノボリ共存</li>
+<li>上流: サワガニ、ショキタテナガエビ (琉球)、ニホンザリガニ (北日本)</li>
+</ul>
+<h3 id="_9">流速・基質勾配</h3>
+<ul>
+<li>早瀬・岩盤: ヤマトヌマエビ、ボウズハゼ (付着藻類掃除食ニッチ)</li>
+<li>淵・緩流: テナガエビ (待ち伏せ捕食)</li>
+<li>砂泥底: モクズガニ、底生ヨコエビ類</li>
+<li>渓流・落葉堆積: サワガニ (リター破砕者)</li>
+</ul>
+<h3 id="_10">温度・溶存酸素勾配</h3>
+<ul>
+<li>冷水 (&lt;20 ℃) + 高 DO: ニホンザリガニ、渓流性サワガニ</li>
+<li>温水耐性 + 低 DO 耐性: ミズムシ、Asellus、富栄養化水域の Daphnia pulex 系統</li>
+</ul>
+<h3 id="_11">人為撹乱勾配</h3>
+<p>河口堰・砂防ダム・三面護岸・乾田化は両側回遊種と水田季節種の両方に壊滅的影響を与える一方、地下水性ヨコエビ・ミズムシは地下水揚水・湧水枯渇・宅地造成に敏感である。日本の淡水甲殻類保全は「海との連続性」「水田–ため池ネットワーク」「地下水–湧水系」という<strong>異質な 3 つの保全単位</strong>を並行して扱う必要がある。</p>
+<hr />
+<h2 id="12">12. まとめ: 海への依存度という軸</h2>
+<p>淡水・汽水性甲殻類の生活史を俯瞰すると、<strong>幼生期における海 (塩分) への依存度</strong>が生活史・分布・多様化パターンを強く規定していることが見えてくる。</p>
+<table>
+<thead>
+<tr>
+<th>海への依存度</th>
+<th>グループ</th>
+<th>分布特性</th>
+<th>固有種化</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>完全海産幼生 + 陸生成体</td>
+<td>Gecarcinidae, Coenobitidae</td>
+<td>熱帯海岸線に沿う広域分布</td>
+<td>島嶼間交流あり</td>
+</tr>
+<tr>
+<td>海産幼生 + 淡水成体 (両側回遊)</td>
+<td>Atyidae, Palaemonidae 多数, Sesarmidae, モクズガニ</td>
+<td>河川系を越えた広域分布</td>
+<td>弱い (島嶼含め広い)</td>
+</tr>
+<tr>
+<td>汽水依存幼生</td>
+<td>テナガエビ湖沼型</td>
+<td>閉鎖水域</td>
+<td>中程度</td>
+</tr>
+<tr>
+<td>完全淡水・直接発生</td>
+<td>Potamidae (サワガニ)、Cambaroides (ニホンザリガニ)、ショキタテナガエビ</td>
+<td>狭域・集水域固有</td>
+<td>強い (島ごと・水系ごと)</td>
+</tr>
+<tr>
+<td>一時水域・耐久卵</td>
+<td>Anostraca, Notostraca, Cladocera</td>
+<td>水田・ため池ネットワーク</td>
+<td>地域系統あり</td>
+</tr>
+<tr>
+<td>地下水・湧水依存</td>
+<td>Pseudocrangonyctidae, Mackinia</td>
+<td>湧水 1 箇所規模</td>
+<td>極めて強い</td>
+</tr>
+</tbody>
+</table>
+<p>Shih, 諸喜田、鈴木、Iguchi、Iwata、McDowall らが築いた知見の総合として、「海が分散のハブとして機能する群」と「海を切り離したことで固有種爆発が起きた群」という二極が、淡水・汽水甲殻類の多様性パターンの説明軸となる。今後は両極の中間に位置する「湖沼型」「陸封集団」の集団遺伝学的解像と、水田・地下水・湧水といった人為影響が極端に大きい辺縁水域の保全生物学が、日本の淡水甲殻類研究の要点となろう。</p>
+<hr />
+<h2 id="_12">参考文献・情報源</h2>
+<ul>
+<li>McDowall, R.M. (1997) "Is There Such a Thing as Amphidromy?" <em>Micronesica</em> 30(1): 3–14. <a href="https://www.micronesica.org/sites/default/files/1_-_mcdowellocr.pdf">https://www.micronesica.org/sites/default/files/1_-_mcdowellocr.pdf</a></li>
+<li>McDowall, R.M. (2007) "On amphidromy, a distinct form of diadromy in aquatic organisms." <em>Fish and Fisheries</em> 8: 1–13.</li>
+<li>Bauer, R.T. (2011) "Amphidromy and migrations of freshwater shrimps. I. Costs, benefits, evolutionary origins..." ResearchGate</li>
+<li>Shih, H.-T. et al. (2007, 2011) <em>Geothelphusa</em> phylogeny and phylogeography in Taiwan and Ryukyus, ScienceDirect / Systematics and Biodiversity</li>
+<li>諸喜田 茂充 (1970s–1980s) 琉球列島の淡水・汽水エビ類の生活史研究 (Fauna Ryukyuana ほか)</li>
+<li>鈴木 寿之ほか テナガエビ <em>Macrobrachium</em> の生活史・分類研究</li>
+<li>Iguchi, K. &amp; Mizuno, N. amphidromous goby and shrimp larval drift studies</li>
+<li>Iwata, A. Gobioidei 分類・生態研究</li>
+<li>Wong, J.T.Y. (1987) "Responses to salinity in larvae of a freshwater shrimp, <em>Macrobrachium nipponense</em> from Hong Kong." <em>Aquaculture Research</em></li>
+<li>Cumberlidge, N. et al. Gecarcinidae, Potamidae 生態・系統</li>
+<li>東北大 浦部研 (2024) ミジンコ休眠卵と長期共存戦略 <a href="https://www.tohoku.ac.jp/japanese/2024/04/press20240423-02-daphnia.html">https://www.tohoku.ac.jp/japanese/2024/04/press20240423-02-daphnia.html</a></li>
+<li>日本産淡水ヨコエビ類の分類と見分け方, タクサ No. 32 (2012) <a href="https://www.jstage.jst.go.jp/article/taxa/32/0/32_KJ00007944441/_pdf">https://www.jstage.jst.go.jp/article/taxa/32/0/32_KJ00007944441/_pdf</a></li>
+<li>日本甲殻類学会シンポジウム「地下水性甲殻類」報告, Cancer 25 <a href="https://www.jstage.jst.go.jp/article/cancer/25/0/25_109/_pdf">https://www.jstage.jst.go.jp/article/cancer/25/0/25_109/_pdf</a></li>
+<li>ベンケイガニ放仔行動映像資料 (葛西臨海水族園) <a href="https://www.tokyo-zoo.net/topic/topics_detail?kind=news&amp;inst=kasai&amp;link_num=12335">https://www.tokyo-zoo.net/topic/topics_detail?kind=news&amp;inst=kasai&amp;link_num=12335</a></li>
+<li>Frontiers in Microbiology (2020) "To the Land and Beyond: Crab Microbiomes as a Paradigm for the Evolution of Terrestrialization" <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.575372/full">https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.575372/full</a></li>
+<li>「Return to the Land: The Stages of Terrestrial Recruitment in Land Crabs" <a href="https://www.academia.edu/13085688/">https://www.academia.edu/13085688/</a></li>
+<li>モクズガニ生活史 山口県水産研究センター資料 <a href="https://www.pref.yamaguchi.lg.jp/uploaded/attachment/59682.pdf">https://www.pref.yamaguchi.lg.jp/uploaded/attachment/59682.pdf</a></li>
+<li>福家 日本の川えびチェックリスト <a href="https://yufuke.main.jp/macrobrachium.html">https://yufuke.main.jp/macrobrachium.html</a></li>
+</ul>
+<footer>
+generated from <code>04-ecology-life-history.md</code> / dataset: crustacea-freshwater-brackish
+</footer>
+</body>
+</html>

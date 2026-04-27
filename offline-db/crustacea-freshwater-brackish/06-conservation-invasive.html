@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>06. 日本の陸・淡水・汽水産甲殻類の保全と外来種問題</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="06">06. 日本の陸・淡水・汽水産甲殻類の保全と外来種問題</h1>
+<blockquote>
+<p>調査日: 2026-04-17
+対象: 環境省レッドリスト 2020 / 外来生物法（2023年改正含む）/ IUCN Red List / 地方版 RDB / 主要な脅威と保全事例
+独立研究者向けオフライン資料</p>
+</blockquote>
+<hr />
+<h2 id="1">1. 総論 — なぜ甲殻類の保全が難題なのか</h2>
+<p>淡水・汽水域の甲殻類（Decapoda、Amphipoda、Isopoda、Branchiopoda など）は、日本の水圏生物多様性を代表する分類群の一つでありながら、魚類に比べて保全上の注目度が低い。理由は複数ある。</p>
+<ul>
+<li><strong>分類学的整備の遅れ</strong>: 地下水性ヨコエビ、海浜のスナガニ類、沿岸汽水のケフサイソガニ近縁群など、未記載種・隠蔽種が多い。</li>
+<li><strong>両側回遊性のボトルネック</strong>: ヌマエビ科、テナガエビ科、モクズガニ属の多くは海と川を往復する両側回遊を行うため、河川・海岸いずれかが改変されると地域個体群が消失する。</li>
+<li><strong>狭域固有性</strong>: 琉球列島の <em>Geothelphusa</em>、小笠原の陸生カニ、地下水性甲殻類は島嶼・地下水盆ごとに分化しており、一つの工事・埋立で種そのものが失われる。</li>
+<li><strong>外来ザリガニ類の圧</strong>: アメリカザリガニ、ウチダザリガニの存在は在来甲殻類だけでなく水草・水生昆虫・両生類にまで波及する「生態系エンジニア」として働く。</li>
+</ul>
+<p>以下、レッドリスト・法規制・脅威・保全事例の順に整理する。</p>
+<hr />
+<h2 id="2-2020">2. 環境省レッドリスト 2020（陸・淡水産甲殻類）</h2>
+<p>第4次レッドリストを継承し 2020年3月27日に公表された「環境省レッドリスト 2020」では、分類群「その他無脊椎動物（陸・淡水産甲殻類含む）」の評価が継続されている。第5次では鳥類・両生類・爬虫類・植物・菌類が先行改訂されているが、<strong>陸・淡水産甲殻類については 2020年評価が最新</strong>である（2026年4月時点）。</p>
+<h3 id="21">2.1 主要カテゴリと代表種</h3>
+<table>
+<thead>
+<tr>
+<th>和名</th>
+<th>学名</th>
+<th>カテゴリ</th>
+<th>分布</th>
+<th>主要な脅威</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ニホンザリガニ</td>
+<td><em>Cambaroides japonicus</em></td>
+<td><strong>VU</strong></td>
+<td>北海道・青森・岩手北部・秋田北部</td>
+<td>外来ザリガニ競合、ザリガニペスト、開発</td>
+</tr>
+<tr>
+<td>ドウクツヌマエビ</td>
+<td><em>Caridina rubella</em></td>
+<td>CR+EN</td>
+<td>沖縄本島など地下水系</td>
+<td>地下水開発・汚濁</td>
+</tr>
+<tr>
+<td>オオサワガニ</td>
+<td><em>Geothelphusa dehaani</em> 近縁群の一部</td>
+<td>DD〜NT</td>
+<td>日本本土〜琉球</td>
+<td>分類未整理、渓流改修</td>
+</tr>
+<tr>
+<td>センカクサワガニ</td>
+<td><em>Geothelphusa shokitai</em></td>
+<td>CR</td>
+<td>尖閣諸島魚釣島</td>
+<td>島嶼生態系改変（ヤギ等）、アクセス不能のため現況不明</td>
+</tr>
+<tr>
+<td>ヤエヤマヤマガニ</td>
+<td><em>Candidiopotamon okinawense</em> など近縁</td>
+<td>EN</td>
+<td>八重山</td>
+<td>森林伐採・ダム</td>
+</tr>
+<tr>
+<td>サカモトサワガニ</td>
+<td><em>Geothelphusa sakamotoi</em></td>
+<td>NT（沖縄 RDB 絶滅危惧）</td>
+<td>沖縄本島・奄美・徳之島・喜界島</td>
+<td>渓流改修、土砂流入</td>
+</tr>
+<tr>
+<td>ミナミトゲオヨコエビ等 地下水性ヨコエビ各種</td>
+<td><em>Pseudocrangonyx</em> spp. ほか</td>
+<td>CR〜DD</td>
+<td>本州各地の地下水・井戸</td>
+<td>地下水位低下、井戸の消失、農薬浸透</td>
+</tr>
+<tr>
+<td>コバヤシミジンコ</td>
+<td><em>Daphniopsis pusilla</em></td>
+<td>CR+EN</td>
+<td>限定的な汽水域・内陸塩水湖</td>
+<td>塩性湿地喪失、水質変化</td>
+</tr>
+<tr>
+<td>チョウヒゲナガミズムシ</td>
+<td><em>Asellus hilgendorfii longantennatus</em></td>
+<td>EN</td>
+<td>本州限定の停水域</td>
+<td>水田・湿地の消失</td>
+</tr>
+<tr>
+<td>ヤシガニ</td>
+<td><em>Birgus latro</em></td>
+<td>絶滅危惧II類（VU）</td>
+<td>南西諸島・小笠原</td>
+<td>乱獲・ロードキル・海岸改変</td>
+</tr>
+<tr>
+<td>オガサワラオカガニ</td>
+<td><em>Discoplax rotunda</em>（オカガニ近縁）</td>
+<td>NT</td>
+<td>小笠原</td>
+<td>海岸改変、ネズミ等外来捕食者</td>
+</tr>
+<tr>
+<td>オガサワラベンケイガニ</td>
+<td><em>Chiromantes magnus</em></td>
+<td>VU</td>
+<td>小笠原固有</td>
+<td>マングローブ・湿地改変</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>カテゴリ略記: <strong>EX</strong>（絶滅）、<strong>EW</strong>（野生絶滅）、<strong>CR</strong>（絶滅危惧 IA 類）、<strong>EN</strong>（絶滅危惧 IB 類）、<strong>VU</strong>（絶滅危惧 II 類）、<strong>NT</strong>（準絶滅危惧）、<strong>DD</strong>（情報不足）、<strong>LP</strong>（絶滅のおそれのある地域個体群）。</p>
+</blockquote>
+<h3 id="22">2.2 ニホンザリガニ — 日本唯一の在来ザリガニ</h3>
+<p>1927年に記載、<strong>北海道・青森県に広く、岩手・秋田の北部に少数</strong>が分布する日本固有のザリガニで、日高山脈により東西集団に分断される。環境省レッドリストで <strong>VU</strong>、2023年1月11日からは <strong>「特定第二種国内希少野生動植物種」</strong> に指定され、販売・頒布目的の捕獲・譲渡等が禁じられた（飼育・研究等は条件付で可）。1934年に秋田県大館市の生息地が国指定天然記念物になっているが、2012年の調査ではすでに生息確認できず、<strong>法的指定と実態の乖離</strong>が鮮明な象徴的種である。</p>
+<p>弘前大学の近年の解析では、本州集団の遺伝的多様性が極めて低く、<strong>今世紀中に急速に縮小する可能性</strong>が指摘されている。</p>
+<h3 id="23-geothelphusa">2.3 琉球列島 <em>Geothelphusa</em> 属群</h3>
+<p>諸喜田茂充らの琉球産淡水十脚類研究（<em>Crustacean Research</em> ほか）以来、<strong>琉球列島の <em>Geothelphusa</em> は島ごと・水系ごとに種分化した単系統群</strong>であることが明らかにされ、近年も新種記載が続いている。<em>G. shokitai</em>（センカクサワガニ）、<em>G. sakamotoi</em>（サカモトサワガニ）、<em>G. miyakoensis</em>、<em>G. tenuimanus</em> など多数が沖縄県 RDB で「絶滅危惧」カテゴリに置かれている。</p>
+<p>琉球の河川は短く、上流域のわずかな改変でも固有種を失う脆弱性を抱える。沖縄県レッドデータブック（2017 改訂）は「<strong>河川生態系を構成する在来種の大半がレッドリスト掲載</strong>」という極端な状況を記録する。</p>
+<h3 id="24">2.4 地下水性甲殻類</h3>
+<p>日本の地下水には <em>Pseudocrangonyx</em>（ミズムシ目ではなくヨコエビ目）や <em>Stygobromus</em> 的な盲目・色素退化型ヨコエビが多数分化している。ほとんどが <strong>点状分布で調査例が限定的</strong>、そのため CR と DD の併記が目立つ。井戸枯れ、地下水汚染、農薬浸透、工業地盤沈下対策の揚水制限緩和が複合的に脅威となる。コバヤシミジンコは汽水・内陸塩水湖に局所的に分布し、ラムサール未登録湿地の改変で一斉に失われるリスクがある。</p>
+<hr />
+<h2 id="3-2023">3. 外来生物法（2023年改正）と甲殻類</h2>
+<h3 id="31">3.1 特定外来生物 — ザリガニ・カニ類</h3>
+<table>
+<thead>
+<tr>
+<th>和名</th>
+<th>学名</th>
+<th>指定年</th>
+<th>主要インパクト</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>アメリカザリガニ</td>
+<td><em>Procambarus clarkii</em></td>
+<td>2023年6月（<strong>条件付</strong>特定外来生物）</td>
+<td>水草切断、水生昆虫捕食、在来両生類卵・幼生捕食、ザリガニペスト保菌</td>
+</tr>
+<tr>
+<td>ウチダザリガニ（タンカイザリガニを含む）</td>
+<td><em>Pacifastacus leniusculus</em></td>
+<td>2006年</td>
+<td>ニホンザリガニとの競合、<strong>Aphanomyces astaci（ザリガニペスト）媒介</strong></td>
+</tr>
+<tr>
+<td><em>Cherax</em> 属全種（レッドクロウ等）</td>
+<td><em>Cherax quadricarinatus</em> ほか</td>
+<td>2006年</td>
+<td>大型化・攻撃的、熱帯〜温帯広域で定着可能</td>
+</tr>
+<tr>
+<td>チュウゴクモクズガニ（上海ガニ）</td>
+<td><em>Eriocheir sinensis</em></td>
+<td>2006年2月（施行）</td>
+<td>河床穿孔、堤防弱体化、在来モクズガニ <em>E. japonica</em> との競合・交雑懸念</td>
+</tr>
+<tr>
+<td>ミステリークレイフィッシュ（マーモクレブス）</td>
+<td><em>Procambarus virginalis</em></td>
+<td>2020年11月「特定外来生物」指定（要注意ザリガニ含む新規枠組）</td>
+<td><strong>単為生殖</strong>による爆発的増殖、沖縄で野外確認</td>
+</tr>
+</tbody>
+</table>
+<h3 id="32-2023">3.2 2023年改正のポイント — アメリカザリガニ・アカミミガメ</h3>
+<p>2023年6月1日施行の改正により、アメリカザリガニは <strong>「条件付特定外来生物」</strong> という新設枠に入った。ポイントは:</p>
+<ul>
+<li>一般家庭での <strong>ペット飼育は許可不要で継続可能</strong>（届出不要、殺処分不要）</li>
+<li><strong>野外放出・販売・頒布（有償無償）・購入・輸入</strong> は禁止（違反時に通常の特定外来生物と同等の罰則）</li>
+<li>自治体・駆除団体が行う <strong>殺処分・駆除は合法</strong></li>
+</ul>
+<p>従来、特定外来生物に指定すると飼育個体が一斉放出される「パニック放流」の懸念から、アメリカザリガニは長らく指定が見送られてきた。条件付指定は流通禁止だけを切り出した <strong>現実的妥協</strong> である。</p>
+<h3 id="33-marmorkrebs">3.3 ミステリークレイフィッシュ（Marmorkrebs）</h3>
+<p><em>Procambarus virginalis</em> は、<em>P. fallax</em> から分化したとされる全個体メスの <strong>三倍体クローン</strong>。Vogt ら（2015）、Gutekunst ら（2018, <em>Nature Ecology &amp; Evolution</em>）で独立種として確立。日本では 2020年11月にザリガニ科全種の飼育規制（ニホンザリガニ・アメリカザリガニ除く）が発効し、<strong>沖縄県では野外個体も報告</strong>（環境省沖縄奄美自然環境事務所）されている。単為生殖のため <strong>1個体の逸出で個体群が成立</strong>しうる点が最大の脅威。</p>
+<h3 id="34-nies-db">3.4 国立環境研究所（NIES）侵入生物 DB</h3>
+<p>NIES の <a href="https://www.nies.go.jp/biodiversity/invasive/">侵入生物DB</a> は、上記ザリガニ類・カニ類に加えて、<strong>カワリヌマエビ属（Neocaridina）</strong> の国内外来・遺伝子撹乱問題を整理した重要データソース。観賞用・釣り餌用として中国・台湾・朝鮮半島系統が大量輸入され、在来 <em>Neocaridina denticulata</em>（ミナミヌマエビ）との交雑が各地で進行している。<strong>「純粋な在来ミナミヌマエビ」はもはや希少</strong>との指摘もある（Wikipedia を含む複数解説が一致）。</p>
+<hr />
+<h2 id="4-iucn-red-list">4. IUCN Red List での位置付け</h2>
+<p>IUCN は 2015年に淡水ザリガニ 590種を一斉評価し、<strong>約32%が絶滅危惧、21%が DD</strong> という結果を報告（Richman et al., 2015, <em>Phil. Trans. R. Soc. B</em>）。家族別では <strong>Parastacidae（南半球）と Astacidae（欧州・北米太平洋岸）</strong> が Cambaridae より高率で脅威を受ける。</p>
+<p>2025年1月に発表された IUCN の包括的淡水動物評価では、<strong>カニ・ザリガニ・エビを合わせたグループで約30%が絶滅危惧</strong>と報告された（IUCN プレスリリース, 2025-01）。これは淡水魚類・軟体動物・トンボ類を含む全体平均（約25%）より高く、<strong>Decapoda は淡水動物の中で最も脅威にさらされるグループ</strong>の一つである。</p>
+<p>日本産種のうち IUCN Red List で個別評価されているのは、<em>Cambaroides japonicus</em>（DD→近年 VU へ見直し議論中）、<em>Geothelphusa dehaani</em>（LC）、<em>Birgus latro</em>（DD）、一部の地下水性ヨコエビ（DD） などに限られ、<strong>日本国内 RDB との整合はまだ道半ば</strong>である。</p>
+<hr />
+<h2 id="5-rdb">5. 地方版 RDB</h2>
+<h3 id="51-2017">5.1 北海道（2017 改訂「北海道レッドデータブック」）</h3>
+<ul>
+<li>ニホンザリガニ: <strong>Nt（地域絶滅危惧）</strong></li>
+<li>札幌市近郊の低地湧水個体群は既に局所絶滅多数</li>
+<li>外来ザリガニ（ウチダ・アメリカ）による置換が札幌市公式にも警告</li>
+</ul>
+<h3 id="52-2017">5.2 沖縄県（2017 改訂）</h3>
+<ul>
+<li><em>Geothelphusa</em> のうち少なくとも10種以上が絶滅危惧に掲載</li>
+<li>ヤシガニ、オカガニ、ムラサキオカヤドカリなどの <strong>汽水・沿岸グループ</strong>も多数ランク上昇</li>
+<li>尖閣諸島産 <em>G. shokitai</em> は現地調査不能で「CR（調査不能）」扱い</li>
+</ul>
+<h3 id="53-2016">5.3 鹿児島県（2016 改訂）</h3>
+<ul>
+<li>奄美大島・徳之島の <em>Geothelphusa</em> 近縁種</li>
+<li>トカラ列島固有の陸生十脚類</li>
+<li>モクズガニ・テナガエビはダム・堰堤下流で個体群縮小</li>
+<li>鈴木廣志（鹿児島大学）らの長期調査が両側回遊性甲殻類の衰退を定量化</li>
+</ul>
+<h3 id="54-2014">5.4 小笠原諸島（東京都レッドデータブック島嶼編、2014）</h3>
+<ul>
+<li>オガサワラオカガニ、オガサワラベンケイガニ、ムラサキオカヤドカリ、オガサワラモクズガニ <em>Eriocheir ogasawaraensis</em> 等</li>
+<li>海岸道路でのロードキル、ネコ・ネズミ・グリーンアノールによる捕食、海岸護岸化が主因</li>
+</ul>
+<hr />
+<h2 id="6">6. 脅威の類型化</h2>
+<h3 id="61">6.1 ダム・堰堤による両側回遊の遮断</h3>
+<p>ヌマエビ、ヒラテテナガエビ、モクズガニなどは海で孵化したメガロパ・ゾエアが河川を遡上する <strong>両側回遊型</strong>。堰堤の垂直面を乗り越えられず、上流から地域個体群が消える「シュリンプ砂漠化」が九州・四国・南西諸島で進行。国交省の「<strong>魚がのぼりやすい川づくり</strong>」では、魚道底面に人工芝を貼り甲殻類も登攀できる構造（人工芝魚道、粗石式魚道）を採用する事例が増えている。</p>
+<h3 id="62">6.2 干潟埋立・護岸</h3>
+<p>コメツキガニ、チゴガニ、ハクセンシオマネキ、ヤマトオサガニ、シオマネキ属など干潟カニ類は <strong>護岸直立化と干潟面積の減少</strong>が直撃。有明海・東京湾・大阪湾でカテゴリ上昇が顕著。</p>
+<h3 id="63">6.3 農薬・水質汚濁</h3>
+<p>ネオニコチノイド系農薬は水生無脊椎に高毒性で、ホウネンエビ・カブトエビ・カイエビなど <strong>水田依存の一時性水域甲殻類</strong>の個体群縮小と因果関係が指摘される（国内外の論文で一致）。有機リン・除草剤は地下水経由で地下水性甲殻類にも到達。</p>
+<h3 id="64">6.4 遺伝子撹乱</h3>
+<ul>
+<li><strong>ミナミヌマエビ × 外来 <em>Neocaridina</em></strong>（釣り餌・観賞用由来）: 兵庫県夢前川水系を契機に全国の在来集団を置換中。</li>
+<li><strong>モクズガニ × チュウゴクモクズガニ</strong>: 交雑懸念は理論的で、日本では確認例はまだ限定的（NIES）。</li>
+</ul>
+<h3 id="65">6.5 気候変動 × 耕作放棄</h3>
+<p>一時性水域甲殻類（ホウネンエビ、カブトエビ、カイエビ）は <strong>耕作放棄された水田・湛水期短縮</strong>の両面で打撃を受ける。休眠卵が長期保持される一方、孵化スイッチの水温・湛水タイミングが崩れる懸念が増えている。</p>
+<h3 id="66-aphanomyces-astaci">6.6 病原体 — ザリガニペスト <em>Aphanomyces astaci</em></h3>
+<p>北米原産のザリガニは本症に耐性があるが、ニホンザリガニ・ヨーロッパのノバリア等は非耐性。<strong>ウチダザリガニが国内での最大の媒介者</strong>と考えられており、ニホンザリガニ個体群に致死的な脅威を及ぼす。阿寒湖・摩周湖などウチダが定着した湖沼でニホンザリガニが完全に消失した事例は、疾病媒介の間接的影響と解釈される。</p>
+<hr />
+<h2 id="7">7. 保全事例</h2>
+<h3 id="71">7.1 北海道のニホンザリガニ生息地保全</h3>
+<ul>
+<li>札幌市「生物多様性さっぽろビジョン」下での湧水地保全</li>
+<li>大学・市民団体（北海道ザリガニ研究会等）による <strong>外来ザリガニのワナ捕獲</strong>と在来個体群のモニタリング</li>
+<li>「特定第二種国内希少野生動植物種」指定（2023-01）を受けた流通監視</li>
+</ul>
+<h3 id="72">7.2 魚道整備による甲殻類遡上支援</h3>
+<p>高知県・四万十川、鹿児島県・肝属川など両側回遊性エビ・カニが健在な河川で、<strong>魚道底面粗面化</strong>を組み合わせた設計が広がる。水田魚道は本来は淡水魚向けだが、ミゾレヌマエビ等が遡上する例が報告されている。</p>
+<h3 id="73">7.3 アメリカザリガニ駆除の市民科学</h3>
+<ul>
+<li>環境省「アメリカザリガニ対策の手引き」公開（2023-）</li>
+<li><strong>シナイモツゴ郷の会</strong>（宮城県）など長期的なため池駆除プロジェクト</li>
+<li>井の頭公園（東京都）、<strong>ザリガニバスターズ</strong>（神奈川県）のイベント型駆除</li>
+<li>兵庫県立人と自然の博物館での駆除手法比較研究</li>
+</ul>
+<p>連続捕獲装置（かご罠＋誘引餌）とメスのみ継続捕獲による個体数抑制が徐々に実装段階に。<strong>市民科学データは駆除効果検証の主要素</strong>となっている。</p>
+<h3 id="74">7.4 琉球・小笠原の陸生カニ保全</h3>
+<ul>
+<li>世界自然遺産登録（奄美・沖縄 2021、小笠原 2011）に伴う国立公園区域拡大</li>
+<li>ロードキル対策フェンス・アンダーパス（母島のオカガニ道）</li>
+<li>沖縄県による <em>Geothelphusa</em> 分布モニタリング調査</li>
+</ul>
+<hr />
+<h2 id="8">8. 甲殻類 保全概況・総合表</h2>
+<table>
+<thead>
+<tr>
+<th>和名</th>
+<th>学名</th>
+<th>環境省 RL 2020</th>
+<th>主な分布</th>
+<th>主要脅威</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ニホンザリガニ</td>
+<td><em>Cambaroides japonicus</em></td>
+<td>VU（+国内希少野生動植物種 特定第二種）</td>
+<td>北海道・北東北</td>
+<td>外来ザリガニ競合、ザリガニペスト、開発</td>
+</tr>
+<tr>
+<td>ヤシガニ</td>
+<td><em>Birgus latro</em></td>
+<td>VU</td>
+<td>南西諸島・小笠原</td>
+<td>乱獲、ロードキル、海岸改変</td>
+</tr>
+<tr>
+<td>オガサワラオカガニ</td>
+<td><em>Discoplax rotunda</em></td>
+<td>NT</td>
+<td>小笠原</td>
+<td>海岸改変、外来捕食者</td>
+</tr>
+<tr>
+<td>オガサワラベンケイガニ</td>
+<td><em>Chiromantes magnus</em></td>
+<td>VU</td>
+<td>小笠原固有</td>
+<td>マングローブ改変</td>
+</tr>
+<tr>
+<td>オガサワラモクズガニ</td>
+<td><em>Eriocheir ogasawaraensis</em></td>
+<td>EN</td>
+<td>小笠原固有</td>
+<td>渓流改変、外来魚</td>
+</tr>
+<tr>
+<td>センカクサワガニ</td>
+<td><em>Geothelphusa shokitai</em></td>
+<td>CR</td>
+<td>尖閣諸島</td>
+<td>島嶼生態系崩壊、調査不能</td>
+</tr>
+<tr>
+<td>サカモトサワガニ</td>
+<td><em>Geothelphusa sakamotoi</em></td>
+<td>NT</td>
+<td>奄美・沖縄</td>
+<td>渓流改修</td>
+</tr>
+<tr>
+<td>ミヤコサワガニ</td>
+<td><em>Geothelphusa miyakoensis</em></td>
+<td>EN</td>
+<td>宮古島</td>
+<td>地下水低下</td>
+</tr>
+<tr>
+<td>ヤエヤマヤマガニ類</td>
+<td><em>Candidiopotamon</em> 等</td>
+<td>EN</td>
+<td>八重山</td>
+<td>森林伐採</td>
+</tr>
+<tr>
+<td>ドウクツヌマエビ</td>
+<td><em>Caridina rubella</em></td>
+<td>CR+EN</td>
+<td>琉球地下水系</td>
+<td>地下水開発</td>
+</tr>
+<tr>
+<td>ミナミヌマエビ（在来集団）</td>
+<td><em>Neocaridina denticulata</em></td>
+<td>ランク外だが遺伝子撹乱</td>
+<td>本州中西部</td>
+<td>外来 Neocaridina との交雑</td>
+</tr>
+<tr>
+<td>テナガエビ</td>
+<td><em>Macrobrachium nipponense</em></td>
+<td>ランク外</td>
+<td>本州以南</td>
+<td>河川分断</td>
+</tr>
+<tr>
+<td>ヒラテテナガエビ</td>
+<td><em>Macrobrachium japonicum</em></td>
+<td>地域により NT</td>
+<td>本州以南</td>
+<td>ダム・堰堤</td>
+</tr>
+<tr>
+<td>モクズガニ</td>
+<td><em>Eriocheir japonica</em></td>
+<td>ランク外だが地域縮小</td>
+<td>全国</td>
+<td>河川分断、交雑懸念</td>
+</tr>
+<tr>
+<td>ハクセンシオマネキ</td>
+<td><em>Austruca lactea</em></td>
+<td>VU</td>
+<td>本州以南干潟</td>
+<td>干潟埋立</td>
+</tr>
+<tr>
+<td>シオマネキ</td>
+<td><em>Tubuca arcuata</em></td>
+<td>NT</td>
+<td>九州・四国</td>
+<td>干潟埋立</td>
+</tr>
+<tr>
+<td>チゴガニ・コメツキガニ類</td>
+<td><em>Ilyoplax</em> / <em>Scopimera</em> spp.</td>
+<td>地域により NT</td>
+<td>全国干潟</td>
+<td>護岸化</td>
+</tr>
+<tr>
+<td>地下水性ヨコエビ各種</td>
+<td><em>Pseudocrangonyx</em> spp. 等</td>
+<td>CR〜DD</td>
+<td>各地地下水盆</td>
+<td>井戸枯れ、汚染</td>
+</tr>
+<tr>
+<td>コバヤシミジンコ</td>
+<td><em>Daphniopsis pusilla</em></td>
+<td>CR+EN</td>
+<td>限定</td>
+<td>塩性湿地改変</td>
+</tr>
+<tr>
+<td>チョウヒゲナガミズムシ</td>
+<td><em>Asellus hilgendorfii longantennatus</em></td>
+<td>EN</td>
+<td>本州</td>
+<td>湿地消失</td>
+</tr>
+<tr>
+<td>ホウネンエビ</td>
+<td><em>Branchinella kugenumaensis</em></td>
+<td>地方により NT</td>
+<td>本州〜九州水田</td>
+<td>水田管理変化、農薬</td>
+</tr>
+<tr>
+<td>カブトエビ類</td>
+<td><em>Triops</em> spp.</td>
+<td>地方により NT</td>
+<td>本州〜九州水田</td>
+<td>水田管理変化</td>
+</tr>
+<tr>
+<td><strong>外来</strong>アメリカザリガニ</td>
+<td><em>Procambarus clarkii</em></td>
+<td>—</td>
+<td>全国</td>
+<td>条件付特定外来生物</td>
+</tr>
+<tr>
+<td><strong>外来</strong>ウチダザリガニ</td>
+<td><em>Pacifastacus leniusculus</em></td>
+<td>—</td>
+<td>北海道ほか</td>
+<td>特定外来生物</td>
+</tr>
+<tr>
+<td><strong>外来</strong>レッドクロウ</td>
+<td><em>Cherax quadricarinatus</em></td>
+<td>—</td>
+<td>南西諸島で野外確認</td>
+<td>特定外来生物</td>
+</tr>
+<tr>
+<td><strong>外来</strong>チュウゴクモクズガニ</td>
+<td><em>Eriocheir sinensis</em></td>
+<td>—</td>
+<td>東京湾ほか</td>
+<td>特定外来生物</td>
+</tr>
+<tr>
+<td><strong>外来</strong>ミステリークレイフィッシュ</td>
+<td><em>Procambarus virginalis</em></td>
+<td>—</td>
+<td>沖縄で野外確認</td>
+<td>特定外来生物、単為生殖</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="9">9. まとめと今後の論点</h2>
+<ol>
+<li><strong>日本の陸・淡水甲殻類はレッドリスト評価の空白が大きい</strong>。昆虫類・軟体動物と比較しても、未記載種・DD 種が多く、地下水性・琉球列島・小笠原など「分類学 × 保全学」連動が鍵。</li>
+<li><strong>2023年の法改正</strong>はアメリカザリガニ問題に一つの現実解をもたらしたが、<strong>流通規制の執行実態</strong>（ネット販売・海外通販）と、<strong>家庭飼育個体の長期的帰結</strong>（世代交代での放流誘惑）を継続的に監視する必要がある。</li>
+<li><strong>両側回遊性種の保全は河川横断構造物のリノベーション</strong>に直結する。魚道は「魚」だけでなく甲殻類・貝類・両生類の通行も想定した多種対応設計へ移行しつつあり、これは全国的に同時並行で展開すべき政策課題。</li>
+<li><strong>遺伝子撹乱</strong>（ミナミヌマエビ、モクズガニ）は可視性が低く、法制度の対象外。在来個体群の遺伝的モニタリング（ミトコンドリア COI、16S、SNPs）を独立研究者でも実施可能なシーケンス手法で継続することの意義は大きい。</li>
+<li><strong>市民科学の役割</strong>は駆除・モニタリングで定着しつつあり、<strong>在野研究者が独自データを貢献できる領域</strong>の代表格。</li>
+</ol>
+<hr />
+<h2 id="_1">主要参考文献・データソース</h2>
+<h3 id="_2">一次資料</h3>
+<ul>
+<li>環境省, 2020. 環境省レッドリスト 2020. <a href="https://www.env.go.jp/press/107905.html">https://www.env.go.jp/press/107905.html</a></li>
+<li>環境省, 2023. 条件付特定外来生物 アカミミガメ・アメリカザリガニの規制について. <a href="https://www.env.go.jp/nature/intro/2outline/regulation/jokentsuki.html">https://www.env.go.jp/nature/intro/2outline/regulation/jokentsuki.html</a></li>
+<li>環境省, 外来生物法 特定外来生物等一覧. <a href="https://www.env.go.jp/nature/intro/2outline/list.html">https://www.env.go.jp/nature/intro/2outline/list.html</a></li>
+<li>環境省, 国内希少野生動植物種一覧. <a href="https://www.env.go.jp/nature/kisho/domestic/list.html">https://www.env.go.jp/nature/kisho/domestic/list.html</a></li>
+<li>生物多様性センター, 日本のレッドデータ検索システム. <a href="https://jpnrdb.com/">https://jpnrdb.com/</a></li>
+<li>国立環境研究所（NIES）, 侵入生物データベース. <a href="https://www.nies.go.jp/biodiversity/invasive/">https://www.nies.go.jp/biodiversity/invasive/</a></li>
+<li>IUCN, 2025. One quarter of freshwater animals at risk of extinction. <a href="https://iucn.org/press-release/202501/">https://iucn.org/press-release/202501/</a></li>
+<li>Richman, N. I. et al., 2015. Multiple drivers of decline in the global status of freshwater crayfish. <em>Phil. Trans. R. Soc. B</em>.</li>
+</ul>
+<h3 id="rdb">地方版 RDB</h3>
+<ul>
+<li>沖縄県, 2017. 改訂・沖縄県の絶滅のおそれのある野生生物 第3版（動物編）. <a href="https://www.okinawa-ikimono.com/reddata/">https://www.okinawa-ikimono.com/reddata/</a></li>
+<li>北海道, 2017. 北海道レッドデータブック.</li>
+<li>鹿児島県, 2016. 鹿児島県レッドデータブック.</li>
+<li>東京都, 2014. 東京都レッドデータブック（島嶼編）.</li>
+</ul>
+<h3 id="_3">研究者・論文</h3>
+<ul>
+<li>諸喜田茂充. 琉球産淡水十脚類の分類・系統研究, <em>Crustacean Research</em>.</li>
+<li>鈴木廣志（鹿児島大学）. 南九州〜南西諸島の両側回遊性エビ類・モクズガニの遡上研究.</li>
+<li>弘前大学プレスリリース, ニホンザリガニ本州集団の遺伝的多様性と分布縮小予測. <a href="https://www.hirosaki-u.ac.jp/topics/85957/">https://www.hirosaki-u.ac.jp/topics/85957/</a></li>
+<li>Vogt, G. et al., 2015. <em>Marmorkrebs (Procambarus virginalis)</em>, description as new species.</li>
+<li>Gutekunst, J. et al., 2018. Clonal genome evolution in marbled crayfish. <em>Nature Ecology &amp; Evolution</em>.</li>
+</ul>
+<h3 id="_4">保全・駆除事例</h3>
+<ul>
+<li>環境省, アメリカザリガニ駆除の手引き. <a href="https://www.env.go.jp/nature/amezari_kakuchi.html">https://www.env.go.jp/nature/amezari_kakuchi.html</a></li>
+<li>シナイモツゴ郷の会, アメリカザリガニの駆除と効果.</li>
+<li>兵庫県立人と自然の博物館, 水辺ビオトープ管理におけるザリガニ駆除方法の検討. <a href="https://www.hitohaku.jp/publication/HN19-5-1.pdf">https://www.hitohaku.jp/publication/HN19-5-1.pdf</a></li>
+<li>環境省九州地方環境事務所, 沖縄県内におけるミステリークレイフィッシュの野外初確認. <a href="https://kyushu.env.go.jp/okinawa/press_00106.html">https://kyushu.env.go.jp/okinawa/press_00106.html</a></li>
+</ul>
+<hr />
+<p><em>本ファイルは独立研究者向けオフラインデータセットの一部として作成。画像は含まず、テキスト・表・引用のみで構成。更新時は環境省第5次レッドリスト（その他無脊椎動物）の公表タイミングと地方 RDB 改訂を再確認のこと。</em></p>
+<footer>
+generated from <code>06-conservation-invasive.md</code> / dataset: crustacea-freshwater-brackish
+</footer>
+</body>
+</html>

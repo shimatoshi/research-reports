@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本産淡水・汽水エビ類 種別カタログ</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">日本産淡水・汽水エビ類 種別カタログ</h1>
+<p>作成: 2026-04-17 / 対象: 本州〜琉球・北海道の淡水〜汽水域に生息するエビ類 + 在来/外来ザリガニ類
+目的: 在野研究者のオフライン参照用種別ファクトシート。学名/和名/分布/生息環境/サイズ/両側回遊性/形態的特徴/保全状況を主要カラムとして整備。</p>
+<hr />
+<h2 id="0">0. 日本産淡水・汽水エビ相の全体像</h2>
+<p>日本の内水面に出現するエビ類(十脚目コエビ下目・イセエビ下目の一部)は、諸喜田(1979)以来の古典的整理を経て、現在は豊田ほか(2019)『日本産淡水性・汽水性エビ・カニ図鑑』(緑書房)や福家(日本の川えびチェックリスト)によって総計166種規模の甲殻類相としてまとめられている。主要分類群は以下のとおり。</p>
+<ul>
+<li><strong>ヌマエビ科 Atyidae</strong>: ヌマエビ属 <em>Paratya</em>、カワリヌマエビ属 <em>Neocaridina</em>、ヒメヌマエビ属 <em>Caridina</em>、オニヌマエビ属 <em>Atyopsis</em> など。第1・2胸脚先端の"はさみ"がブラシ状で、付着藻類や有機物デトリタス摂取に特化。</li>
+<li><strong>テナガエビ科 Palaemonidae</strong>: テナガエビ属 <em>Macrobrachium</em>、スジエビ属 <em>Palaemon</em>、シラタエビ属 <em>Exopalaemon</em>。第2胸脚が顕著に発達する捕食者/雑食者。</li>
+<li><strong>エビジャコ科 Crangonidae</strong>: 汽水・海産中心で河口に侵入するグループ。</li>
+<li><strong>ザリガニ下目 Astacidea</strong>: 在来 Cambaroides と外来 Procambarus・Pacifastacus。</li>
+</ul>
+<p>生活史面では、<strong>両側回遊(amphidromy)</strong> — すなわち淡水で孵化したゾエア幼生が河川を流下して海(または汽水)で浮遊期を過ごし、稚エビで遡上定着する生活型 — が、南西諸島を含む黒潮系河川の甲殻類相を規定する最大の要因である。ヤマトヌマエビ・トゲナシヌマエビ・ヒメヌマエビ等のヌマエビ科、コンジンテナガエビ等のテナガエビ科は、この両側回遊を核にボウズハゼ属・ヨシノボリ属(Rhinogobius 汽水型)と同一の河川生態系モジュールを構成する。陸封型への転換は陸水湖沼や用水路定着個体群で何度か独立に生じている(例: スジエビ Aタイプ、淡水湖沼テナガエビ)。</p>
+<hr />
+<h2 id="1-atyidae">1. ヌマエビ科 Atyidae</h2>
+<h3 id="11-paratya-compressa-de-haan-1844">1.1 ヌマエビ <em>Paratya compressa</em> (De Haan, 1844)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ヌマエビ(小卵型)</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Paratya compressa</em> (De Haan, 1844)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>本州(新潟県・千葉県以南の西日本)、四国、九州、南西諸島、朝鮮半島南部</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下〜中流域、感潮域上限付近。流れのある砂礫底・植生帯</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>雄 20 mm / 雌 25–30 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>。ゾエアは海で発達、稚エビ期に遡上</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>額角に上縁歯20前後、下縁歯2–4。体は半透明で細かな斑紋。第1・2胸脚に典型的な"筆"状房毛</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>環境省レッドリスト非掲載だが、都府県RDBでは準絶滅危惧扱いの地域あり(京都府等)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>分類史の要点</strong>: Ikeda et al. (1999) 以前は <em>P. compressa compressa</em> の「北部・中部群(大卵型)」「南部群(小卵型)」と <em>P. c. improvisa</em>(ヌカエビ、大卵型)の2亜種3群に整理されていた。Ikeda (1999) は大卵型北部・中部群とヌカエビを統合して <em>Paratya improvisa</em> (ヌカエビ)、小卵型南部群を <em>P. compressa</em> (ヌマエビ狭義) とし、現在もこの2種体制が標準。小卵多産・両側回遊は <em>P. compressa</em> のみ、<em>P. improvisa</em> は大卵少産・純淡水完結型という生活史分化は、秋山(2016以降)の塩分応答実験でも裏付けられている。岩手県沿岸河川での近年の採集記録(Aquatic Animals, 2025)は北限更新に関わる重要な報告。</p>
+<h3 id="12-paratya-improvisa-kemp-1917">1.2 ヌカエビ <em>Paratya improvisa</em> Kemp, 1917</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ヌカエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Paratya improvisa</em> Kemp, 1917</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>東日本(本州中部以北、関東平野・東北・北陸)、一部西日本</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>用水路・溜池・下流緩流域。純淡水</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>25 mm 前後</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>なし</strong>(陸封・大卵少産)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td><em>P. compressa</em> と外観酷似、額角歯数・卵サイズ・塩分耐性で区別</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>地域的減少、農薬感受性試験のモデル種(霞ヶ浦水系の研究例)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="13-neocaridina-denticulata-de-haan-1844">1.3 ミナミヌマエビ <em>Neocaridina denticulata</em> (De Haan, 1844)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ミナミヌマエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Neocaridina denticulata</em> (De Haan, 1844)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>在来: 静岡県焼津以西の本州、四国、九州、琉球列島、朝鮮半島、台湾、中国</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>用水路、水田周辺、河川下流域の止水〜緩流。純淡水</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>20–30 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>なし</strong>(純淡水完結)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>額角は短〜中。体色多型(半透明〜緑褐〜黒褐)。第1胸脚に明瞭な房毛</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>在来集団は釣餌・観賞用カワリヌマエビ属の逸出・交雑で全国的に攪乱</td>
+</tr>
+</tbody>
+</table>
+<p><strong>混同注意</strong>: かつて <em>Paratya davidi</em> と混同された経緯があり、また流通上の「シナヌマエビ <em>N. davidi</em>(Paratya davidi ではない。属別の同名 species)」との交雑・置換が各地で確認されている。豊田ほか(2019)は兵庫県夢前川での中国産寄生虫付着個体発見(2003)を、釣餌・観賞エビ逸出経路の象徴的事例として記載。mtDNA 解析では在来亜種との交雑推定地域が西日本・関東平野で広がっており、純粋な在来個体群の保全は喫緊課題。</p>
+<h3 id="14-caridina-multidentata-stimpson-1860">1.4 ヤマトヌマエビ <em>Caridina multidentata</em> Stimpson, 1860</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ヤマトヌマエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Caridina multidentata</em> Stimpson, 1860</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>本州(房総半島・福井県以南)、四国、九州、南西諸島、台湾〜フィジー・マダガスカル</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川中〜上流域の岩盤・瀬。きれいな流水に強く依存</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>雄 35 mm / 雌 45–50 mm(日本産 Caridina では最大級)</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>(典型両側回遊種)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>額角は比較的短く上縁歯多数。体側に点列状斑。雌の卵は微小(径 0.5 mm)で1,000–4,000個</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>観賞用「アマノシュリンプ」として大量採集が続くが、広域分布で環境省RL非掲載</td>
+</tr>
+</tbody>
+</table>
+<p><strong>生活史</strong>: 雌は抱卵2〜4週で孵化、ゾエアは海に下って9回の脱皮を経て約1か月で体長4 mmの稚エビに変態、夜間に底歩行で河口から遡上する(Hamano 1980s 系列の観察)。コケ取り能力からアクアリウム流通量が極めて多く、その供給圧は本州太平洋岸・九州の個体群に対して無視できない。</p>
+<h3 id="15-caridina-leucosticta-stimpson-1860">1.5 ミゾレヌマエビ <em>Caridina leucosticta</em> Stimpson, 1860</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ミゾレヌマエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Caridina leucosticta</em> Stimpson, 1860</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>本州中部以南、四国、九州、南西諸島、東アジア</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下流域の緩流、感潮上限付近</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>雄 25 mm / 雌 35 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>。ゾエアは海で約1か月</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>額角が長く直線的に前伸、上縁歯13–28(うち先端1–2歯が離れる)、下縁歯3–16。腹部中央で上方に屈曲する"腰折れ"体型。若個体・雄はほぼ完全透明でガラス細工様、雌成体に白点(みぞれ模様)</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>広域分布、都府県RDBで注目種指定の例(福岡県等)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="16-caridina-serratirostris-de-man-1892">1.6 ヒメヌマエビ <em>Caridina serratirostris</em> De Man, 1892</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ヒメヌマエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Caridina serratirostris</em> De Man, 1892</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>本州西部以南、四国、九州、南西諸島、インド洋〜西太平洋(北オーストラリア・マダガスカル)</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下流〜中流の緩流、落葉堆積域</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>雄 15 mm / 雌 25 mm(小型)</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong></td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>額角は水平前伸、上下縁とも鋸歯状。上縁歯は眼より後方(頭胸甲上)に5歯以上続き、これが <em>Neocaridina</em> との識別点。体は赤眼+白黒コントラスト明瞭(縦線型・横縞型の2パターン)</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>琉球で個体数多、本州では地域限定</td>
+</tr>
+</tbody>
+</table>
+<h3 id="17-caridina-typus-h-milne-edwards-1837">1.7 トゲナシヌマエビ <em>Caridina typus</em> H. Milne Edwards, 1837</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>トゲナシヌマエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Caridina typus</em> H. Milne Edwards, 1837</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>西太平洋熱帯〜亜熱帯沿岸。日本では房総半島以南、南西諸島</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下〜中流の瀬、岩・落葉上。沿岸の極小流出河川にも侵入</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>雄 25 mm / 雌 35 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>。遡上能力が強く、滝や堰も登攀</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>額角に歯がほぼない(属内で例外的)。体は半透明に茶斑</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>広域分布、非掲載</td>
+</tr>
+</tbody>
+</table>
+<p><strong>生態的地位</strong>: 本種は流速のある瀬で付着藻類・バイオフィルム・デトリタスを削り取る一次消費者で、<strong>ボウズハゼ属 <em>Sicyopterus</em> と同一ニッチ</strong>を共有する。両者ともに両側回遊、同じ時期に河口から遡上し、同じ岩盤の付着藻類を摂食する構造は、琉球〜南日本の流水生態系における「両側回遊コンプレックス」の中核モデル(横須賀市博物館 Hagihara 2012 ほか)。</p>
+<h3 id="18-caridina-gracilirostris-de-man-1892">1.8 ツノナガヌマエビ <em>Caridina gracilirostris</em> De Man, 1892</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ツノナガヌマエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Caridina gracilirostris</em> De Man, 1892</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>琉球列島(久米島等が国内既知)、日本〜フィジー〜インドネシア〜マダガスカル</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>マングローブ域、河口汽水の滞水、湿地</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>25–30 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>(汽水依存度が高い)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>極端に長い額角(体長の1/3超)、先端がピノキオ状に上反。肛門前棘の有無が近縁種同定のキー</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>沖縄県RDB準絶滅危惧。1995年以降の国内新規確認が乏しく「幻の種」扱い。De Grave &amp; Page (2007) による <em>C. gracilirostris</em> species group の revision(Journal of Natural History 41: 1611–1658)で分類整理</td>
+</tr>
+</tbody>
+</table>
+<h3 id="19-caridina-prashadi-tiwari-pillai-1971">1.9 リュウキュウヌマエビ/サキシマヌマエビ <em>Caridina prashadi</em> Tiwari &amp; Pillai, 1971</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>サキシマヌマエビ(広く「リュウキュウヌマエビ」の総称で呼ばれる琉球系 Caridina の一種)</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Caridina prashadi</em> Tiwari &amp; Pillai, 1971(原記載 Crustaceana 21: 79–91)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>トカラ列島中之島以南、琉球列島、台湾、アンダマン諸島</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>山地渓流、小河川の上流域(琉球では軟水の山地河川)、アンダマンでは汽水河口も</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>体長 30 mm 程度</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>(地域変異あり、山地陸封傾向も報告)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>明瞭な縞模様(台湾ゼブラシュリンプとして観賞流通)。額角は <em>leucosticta</em> より短</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>沖縄RDB 絶滅危惧II類、宮古島市希少種、鹿児島県天然記念物。Tokunoshima(徳之島)からは写真記録が2024年に公式化(ResearchGate 2024 登録)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>分類メモ</strong>: Fujino &amp; Shokita (1975) が <em>Caridina sakishimensis</em> として琉球産を新種記載したが、現在は <em>C. prashadi</em> のシノニムとして扱われる傾向。琉球列島の "リュウキュウヌマエビ" 和名は <em>C. rubella</em> 等別種にも用いられることがあり、和名と学名の一対一対応に注意を要する。</p>
+<h3 id="110-atyopsis-spinipes-newport-1847">1.10 オニヌマエビ <em>Atyopsis spinipes</em> (Newport, 1847)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>オニヌマエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Atyopsis spinipes</em> (Newport, 1847)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>琉球列島(沖縄島・八重山で個体数多)、西太平洋熱帯。伊豆半島谷津川での偶発採集記録あり(2013)</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川中〜上流の流速ある浅い瀬</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>70–100 mm(ヌマエビ科では大型)</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong></td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>第1・2胸脚の"はさみ"が羽毛状のパラボラアンテナに特殊化し、流水中の懸濁粒子を捕捉する<strong>ろ過食者</strong>。がっしりした丸太状体型、粗い顆粒質表面</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>広域分布、商業流通(ロックシュリンプ名)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>特殊な食性</strong>: ヌマエビ科内では例外的に、第1・2胸脚を扇状に広げて水流中の浮遊デトリタスをろ過摂食する。流れの強い瀬にしか定着できず、ダム・堰・河川直線化に極めて脆弱。</p>
+<hr />
+<h2 id="2-palaemonidae">2. テナガエビ科 Palaemonidae(陸水性)</h2>
+<h3 id="21-macrobrachium-nipponense-de-haan-1849">2.1 テナガエビ <em>Macrobrachium nipponense</em> (De Haan, 1849)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>テナガエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Macrobrachium nipponense</em> (De Haan, 1849)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>北海道南部〜九州、琉球、東アジア広域</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下流・汽水湖・淡水湖沼(3生態型分化)</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>雄 80–100 mm(はさみ脚込 &gt;150 mm)/雌 60–80 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>原則あり</strong>、ただし淡水湖沼型は陸封(大卵少産)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>第2胸脚が顕著に伸長、成熟雄で体長を超える。頭胸甲の斑紋明瞭、額角は歯数多</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>食用漁獲対象、広域普通種</td>
+</tr>
+</tbody>
+</table>
+<p><strong>3型分化</strong>: 本種には遺伝的に分化した(1)河川型(小卵多産・両側回遊、下流〜河口)、(2)淡水湖沼型(大卵少産・陸封、琵琶湖・霞ヶ浦等)、(3)汽水湖沼型(中卵中産、浜名湖等)の3エコタイプが知られ、卵サイズと塩分依存性の分化が発達している。繁殖期は5–9月、抱卵数 1,000–2,000、卵径 1 mm未満。</p>
+<h3 id="22-macrobrachium-formosense-bate-1868">2.2 ミナミテナガエビ <em>Macrobrachium formosense</em> Bate, 1868</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ミナミテナガエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Macrobrachium formosense</em> Bate, 1868</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>太平洋側は千葉県以南、日本海側は福井県以南、南西諸島、小笠原、韓国、台湾、中国(東アジア固有)</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下流〜中流の緩流〜止水</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>80–100 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>(小卵多産)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>第2胸脚は <em>M. nipponense</em> より短く、はさみ部が太短。頭胸甲に縦縞</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>地域減少あり、四万十川では漁獲対象(エビ筒漁、水産学会報告 2019)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="23-macrobrachium-japonicum-de-haan-1849">2.3 ヒラテテナガエビ <em>Macrobrachium japonicum</em> (De Haan, 1849)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ヒラテテナガエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Macrobrachium japonicum</em> (De Haan, 1849)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>太平洋側は千葉県以南、日本海側は福井県以南、南西諸島、小笠原、韓国、台湾(東アジア固有)</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>温帯3種中<strong>最も上流寄り</strong>、流速の速い中〜上流域の転石下</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>80–120 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong></td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>第2胸脚のはさみが側方に扁平(和名の由来)。全体に頑丈な体型</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>兵庫県 Aランク等、西日本各県RDBで要注目</td>
+</tr>
+</tbody>
+</table>
+<p><strong>温帯3種すみわけ</strong>: <em>M. nipponense</em>(下流緩流)・<em>M. formosense</em>(下流〜中流)・<em>M. japonicum</em>(中〜上流流速帯)という流程分化が福家(日本の川えびチェックリスト)および各県RDBで繰り返し確認されている。</p>
+<h3 id="24-macrobrachium-lar-fabricius-1798">2.4 コンジンテナガエビ <em>Macrobrachium lar</em> (Fabricius, 1798)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>コンジンテナガエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Macrobrachium lar</em> (Fabricius, 1798)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>琉球列島以南、インド洋〜西太平洋(アフリカ東岸〜ポリネシア)</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下流〜上流の広い範囲、特に淵・流れ込み</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td><strong>150 mm超</strong>(琉球産テナガエビ科で最大)</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong>(小卵多産)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>第2胸脚が著しく長大、はさみ先端に棘列。暗褐色〜紫褐の地色に青みがかる</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>石垣・西表では食用、環境省RLは非掲載。諸喜田(1979)以降の琉球河川調査で優占種</td>
+</tr>
+</tbody>
+</table>
+<p><strong>諸喜田茂充の貢献</strong>: 琉球大学・諸喜田茂充は1970年代以降、琉球列島陸水エビ類の分布・種分化を体系化し、コンジンテナガエビを含むテナガエビ科琉球産種群の基礎を築いた。西表島固有の<strong>ショキタテナガエビ</strong> <em>Macrobrachium shokitai</em>(大卵少産・陸封型、絶滅危惧I類)は諸喜田への献名(Fujino &amp; Baba, 1973)。諸喜田ら(2003)は石垣島採集個体からカスリテナガエビを新標準和名として提唱、川原・諸喜田・成瀬(2019)はマングローブヌマエビの初期生活史を報告するなど、活動は現役で継続。佐伯ら(2019, CANCER 31)は琉球列島産ネッタイテナガエビ種群3種の分類・形態を再整理、成瀬貫らの Zootaxa / Crustaceana 系列の近年の論文も Macrobrachium 再整理の中核。</p>
+<h3 id="25-macrobrachium-australe-guerin-meneville-1838">2.5 ザラテテナガエビ <em>Macrobrachium australe</em> (Guérin-Méneville, 1838)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ザラテテナガエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Macrobrachium australe</em> (Guérin-Méneville, 1838)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>種子島以南、長崎県〜関東沿岸まで飛地的、琉球、西太平洋〜インド洋</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河川下〜中流の止水的環境</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>80 mm 程度(中型)</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td><strong>あり</strong></td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>第2胸脚はさみの遠位半に<strong>細かな棘が密生しザラつく</strong>(和名由来)。姉妹種 <em>M. ustulatum</em> との識別ポイント</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>成瀬ら(CANCER 33: 41- ナンヨウテナガエビ追加記録論文)で新規識別形質が2024年に整理</td>
+</tr>
+</tbody>
+</table>
+<h3 id="26">2.6 その他のテナガエビ属</h3>
+<p>琉球列島には上記のほか、<strong>ショキタテナガエビ</strong> <em>M. shokitai</em>(西表島固有・環境省絶滅危惧IA類)、<strong>ナンヨウテナガエビ</strong> <em>M. ustulatum</em>(沖縄島・伊豆半島に少数記録)、<strong>カスリテナガエビ</strong>(諸喜田ら 2003)、<strong>オニテナガエビ</strong> <em>M. rosenbergii</em>(養殖逸出懸念・東南アジア原産)など、福家のチェックリストで18種が整理されている。特にショキタテナガエビは大卵少産の<strong>完全陸封型</strong>で、両側回遊型の多い Macrobrachium 属内で例外的生活史の象徴。</p>
+<hr />
+<h2 id="3">3. 汽水〜海域境界のテナガエビ科・エビジャコ科</h2>
+<h3 id="31-exopalaemon-orientis-holthuis-1950">3.1 シラタエビ <em>Exopalaemon orientis</em> (Holthuis, 1950)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>シラタエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Exopalaemon orientis</em> (Holthuis, 1950)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>函館以南〜九州、韓国、台湾、中国</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>河口・内湾の汽水域、港湾、干潟水路</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>60–70 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td>海産に近い汽水性で、典型的両側回遊は示さない</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>額角が上方に反り返り先端に櫛状歯を持つ(属の共通徴)。生時透明、死後に白化。加熱しても赤くならない稀有な特徴</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>有明海等で食用(掻揚げ)、地域的な水質悪化で減少報告あり</td>
+</tr>
+</tbody>
+</table>
+<h3 id="32-palaemon-paucidens-de-haan-1844">3.2 スジエビ <em>Palaemon paucidens</em> De Haan, 1844</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>スジエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Palaemon paucidens</em> De Haan, 1844</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>北海道〜九州の淡水〜汽水</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>湖沼・下流域・用水路</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>40–60 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td>A型は淡水完結/両側回遊の両生活史。B型は<strong>純両側回遊</strong></td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>透明地に明瞭な黒縞。第2胸脚が細長。雌は抱卵期に腹肢下に緑褐卵塊</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>Aタイプは広域普通種、B型は地域限定</td>
+</tr>
+</tbody>
+</table>
+<p><strong>隠蔽種問題</strong>: 18S rDNA・mtDNA 解析により遺伝的に明確な<strong>3タイプ(A/B/C)</strong>が存在し、種レベルの分化とみなすべきことが示されている(水産技術 2018、伊豆大島研究 2019等)。A型は北海道〜九州の湖沼・河川、B型は北海道〜屋久島の河川のみで全個体両側回遊、C型は地域限定。幼生塩分耐性(B型が顕著に高い)と18S rDNA マーカーで判別可能。さらに外来の<strong>コウライスジエビ</strong> <em>Palaemon sinensis</em>(シナヌマエビと同様に在来スジエビ類と混同される)の侵入が横浜市環境科学研究所(2017)ほかで確認され、在来集団モニタリング上の重要課題。</p>
+<h3 id="33-palaemon-pacificus-stimpson-1860">3.3 イソスジエビ <em>Palaemon pacificus</em> (Stimpson, 1860)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>イソスジエビ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Palaemon pacificus</em> (Stimpson, 1860)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>北海道〜琉球、東南アジア、インド洋〜紅海、ハワイ</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>外洋に面した岩礁タイドプール、港湾、桟橋。純海産〜低塩分汽水</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>雄 40 mm / 雌 50–70 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td>該当せず(海産)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>透明地に黒色細縞、間隙に白点散布。額角は幼体で短く成体で長い</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>普通種</td>
+</tr>
+</tbody>
+</table>
+<h3 id="34-crangon-affinis-de-haan-1849">3.4 エビジャコ <em>Crangon affinis</em> De Haan, 1849</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>エビジャコ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Crangon affinis</em> De Haan, 1849</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>北海道〜九州の浅海〜内湾、河口汽水</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>内湾砂泥底。河口汽水域まで侵入し、場所によっては低塩分域にも出現</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>40–50 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td>該当せず</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>体色を環境に応じて変化(カモフラージュ)。第1胸脚は大きな亜鋏(subchela)状で、テナガエビ型のはさみとは構造が異なる</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td>佃煮用に漁獲、普通種</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="4">4. 両側回遊エビ–ボウズハゼ ニッチ群(生活史フォーカス)</h2>
+<p>琉球〜南日本の清流では、<strong>両側回遊の一次消費者・デトリタス食者ギルド</strong>が生態系の礎を成す:</p>
+<ul>
+<li><strong>付着藻類削り取り</strong>: トゲナシヌマエビ、ヒメヌマエビ、ボウズハゼ <em>Sicyopterus japonicus</em>、ナンヨウボウズハゼ <em>Stiphodon</em> spp.</li>
+<li><strong>落葉デトリタス破砕</strong>: ミゾレヌマエビ、ヤマトヌマエビ、サキシマヌマエビ</li>
+<li><strong>浮遊粒子ろ過</strong>: オニヌマエビ(唯一の特殊化)</li>
+<li><strong>大型捕食</strong>: コンジンテナガエビ、ヒラテテナガエビ</li>
+</ul>
+<p>これらは全て、(1)産卵→孵化ゾエアが流下→海(汽水)で1か月前後プランクトン生活→稚エビ変態→河口から遡上、という共通生活史スケルトンを持つ。結果として、河川–海洋の縦断連続性(longitudinal connectivity)が失われる — 堰堤・ダム・河口閉鎖・埋立 — と、これら全ての種が同時に消える。沖縄本島北部・奄美・西表の保全単位としての価値はここに由来する。Hamano・諸喜田・成瀬・福家らの研究系列は、この生活史共通性を"魚類と甲殻類を一括するべき両側回遊保全単位"として提示している(成瀬 2010年代以降の Crustaceana / Zootaxa 記載シリーズ、水産学会誌)。</p>
+<hr />
+<h2 id="5-astacidea">5. ザリガニ類 Astacidea</h2>
+<h3 id="51-cambaroides-japonicus-de-haan-1841">5.1 ニホンザリガニ <em>Cambaroides japonicus</em> (De Haan, 1841)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ニホンザリガニ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Cambaroides japonicus</em> (De Haan, 1841)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>北海道全域、青森県、岩手県・秋田県北部(日本固有・東北北部〜北海道に限定)</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>冷涼な湧水渓流、湿原水路、倒木・落葉下。水温 20℃ 以下を要求</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>50–70 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td>該当せず(大卵直達発生、抱卵から稚エビ放出まで雌が保護)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>体色は暗褐〜オリーブ。ザリガニ科に比して額角が短く、はさみ脚は細め</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td><strong>環境省レッドリスト絶滅危惧II類(VU)</strong>。種の保存法「特定第二種国内希少野生動植物」指定(販売・頒布目的の譲渡等禁止)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>減少要因</strong>: 20世紀前半以降の河川改修・水質悪化・過剰採集。さらに<strong>ウチダザリガニ侵入によりザリガニペスト(Aphanomyces astaci)媒介で局地絶滅</strong>が道東を中心に進行中(北海道環境生活部報告)。</p>
+<h3 id="52-procambarus-clarkii-girard-1852">5.2 アメリカザリガニ <em>Procambarus clarkii</em> (Girard, 1852)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>アメリカザリガニ</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Procambarus clarkii</em> (Girard, 1852)</td>
+</tr>
+<tr>
+<td>分布</td>
+<td>原産: 北米ミシシッピ川流域。日本: 1927年鎌倉移入、現在全都道府県</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>止水域(水田、溜池、用水路)、低酸素・高水温にも強い</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>100–120 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td>該当せず(大卵直達)</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>成体は鮮紅色、はさみ脚に多数の瘤状突起</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td><strong>条件付特定外来生物</strong>(2023年6月1日指定)。販売・頒布・輸入・野外放出を禁止、一般家庭での飼育は可</td>
+</tr>
+</tbody>
+</table>
+<p><strong>条件付指定の意義</strong>: 飼育者数が極めて多いため一律禁止すると逸出増加が見込まれるという判断。カエル類卵・幼生捕食やザリガニペスト・ホワイトスポット病媒介、水生植物消失を通じた局所絶滅誘発が岡山大の駆除研究(2023–2024)等で具体化されている。</p>
+<h3 id="53-pacifastacus-leniusculus-dana-1852">5.3 ウチダザリガニ/タンカイザリガニ <em>Pacifastacus leniusculus</em> (Dana, 1852)</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>和名</td>
+<td>ウチダザリガニ(P. l. trowbridgii)/ タンカイザリガニ(P. l. leniusculus)</td>
+</tr>
+<tr>
+<td>学名</td>
+<td><em>Pacifastacus leniusculus</em> (Dana, 1852) — 亜種 <em>trowbridgii</em> と <em>leniusculus</em></td>
+</tr>
+<tr>
+<td>分布</td>
+<td>原産: 北米コロンビア川流域。日本: 1926–1930年導入。北海道(摩周湖・阿寒湖・支笏湖等)、滋賀県淡海湖、長野県、福島県、福井県等</td>
+</tr>
+<tr>
+<td>生息環境</td>
+<td>冷水湖、清冽な河川・用水路</td>
+</tr>
+<tr>
+<td>サイズ</td>
+<td>120–150 mm</td>
+</tr>
+<tr>
+<td>両側回遊</td>
+<td>該当せず</td>
+</tr>
+<tr>
+<td>主要形態</td>
+<td>はさみ関節部に<strong>白斑</strong>(signal)。額角が <em>Cambaroides</em> より長く鋭い</td>
+</tr>
+<tr>
+<td>保全状況</td>
+<td><strong>特定外来生物</strong>(外来生物法)。飼育・運搬・輸入・放出全て許可制。日本生態学会「日本の侵略的外来種ワースト100」</td>
+</tr>
+</tbody>
+</table>
+<p><strong>タンカイザリガニ問題</strong>: 1960年代に滋賀県淡海湖(タンカイ湖)に食用目的で導入された個体群は、形態・分布の独立性から長く<strong>タンカイザリガニ</strong> <em>P. leniusculus</em> として北海道産(ウチダザリガニ <em>P. trowbridgii</em> 扱い)と別種扱いされていた。現在は同一種の2亜種(<em>P. l. leniusculus</em> 淡海湖型 / <em>P. l. trowbridgii</em> 北海道型)として統合されるのが大勢。両者とも特定外来生物で規制は同等。陸水学雑誌(Rikusui 68(3): 471–)の防除現状論文が分布拡大と駆除実態を整理。</p>
+<hr />
+<h2 id="6">6. 参考文献・情報源(主要)</h2>
+<h3 id="_2">国内の主要書誌・論文</h3>
+<ul>
+<li>豊田幸詞 文・関慎太郎 写真・駒井智幸 監修 (2019) 『日本産淡水性・汽水性エビ・カニ図鑑』緑書房, 340 pp. ISBN 9784895313919</li>
+<li>諸喜田茂充 (1979) 琉球列島の陸水エビ類の分布と種分化. 琉球大学理工学部紀要 系列</li>
+<li>Fujino, T. &amp; Shokita, S. (1975) Report on atyid shrimps from the Ryukyu Islands. Bull. Sci. Engin. Div. Univ. Ryukyus 18: 93–113</li>
+<li>Fujino, T. &amp; Baba, K. (1973) <em>Macrobrachium shokitai</em> (献名種記載)</li>
+<li>Ikeda, H. et al. (1999) <em>Paratya</em> 属の分類学的再検討</li>
+<li>諸喜田ら (2003) 石垣島産カスリテナガエビ新標準和名提唱</li>
+<li>川原剛・諸喜田茂充・成瀬貫 (2019) 西表島マングローブヌマエビ初期生活史</li>
+<li>佐伯ら (2019) 琉球列島産ネッタイテナガエビ種群3種の分類と形態. CANCER 31: 5–</li>
+<li>成瀬・川原ら (2024) ナンヨウテナガエビの琉球列島追加記録と新規識別形質. CANCER 33: 41–</li>
+<li>日本水産学会誌 (2018) スジエビ2タイプ判別DNAマーカー論文</li>
+<li>Aquatic Animals (2025) 岩手県沿岸河川で採捕されたヌマエビ</li>
+<li>Rikusui (2008) 特定外来生物シグナルザリガニの分布状況と防除</li>
+</ul>
+<h3 id="_3">国際誌</h3>
+<ul>
+<li>De Grave, S. &amp; Page, T.J. (2007) A revision of the <em>Caridina gracilirostris</em> species group. Journal of Natural History 41(25–28): 1611–1658</li>
+<li>Kemp, S. (1917) Notes on Crustacea Decapoda, <em>Paratya improvisa</em> 原記載</li>
+<li>Tiwari, K.K. &amp; Pillai, R.S. (1971) Atyid shrimps of the genus <em>Caridina</em> from the Andaman Islands. Crustaceana 21: 79–91</li>
+</ul>
+<h3 id="_4">オンラインデータベース</h3>
+<ul>
+<li>福家悠介「日本の川えびチェックリスト」 https://yufuke.main.jp/macrobrachium.html</li>
+<li>国立環境研究所 侵入生物DB https://www.nies.go.jp/biodiversity/invasive/DB/</li>
+<li>環境省 日本のレッドデータ検索システム https://jpnrdb.com/</li>
+<li>沖縄美ら海水族館 魚類図鑑 https://oki-churaumi.jp/fishbook/</li>
+<li>GoDAC BISMaL https://www.godac.jamstec.go.jp/bismal/j/</li>
+<li>各都道府県レッドデータブック(京都府2015、福岡県、兵庫県、愛媛県2014等)</li>
+</ul>
+<hr />
+<h2 id="7">7. 今後の整理課題(在野研究者メモ)</h2>
+<ol>
+<li><strong>ヌマエビ属2種問題</strong>: <em>P. compressa</em> × <em>P. improvisa</em> の雑種帯・接触帯の把握。秋山らの塩分応答実験を現地サンプルで追試したい</li>
+<li><strong>カワリヌマエビ属の侵入</strong>: <em>N. davidi</em> 系統の在来 <em>N. denticulata</em> への侵入・交雑実態は県レベルでほぼ未整理</li>
+<li><strong>スジエビ B/C型</strong>: 18S rDNA マーカーでの既存河川サンプル再検査の必要性</li>
+<li><strong>琉球 Caridina</strong>: <em>C. prashadi</em> / <em>C. rubella</em> / <em>C. brevirostris</em> の種境界は近年の DNA 解析で再整理中、最新 Zootaxa を継続フォロー</li>
+<li><strong>両側回遊保全単位</strong>: 魚類(ボウズハゼ・ヨシノボリ汽水型)との統合保全計画への接続 — 隣接する研究報告 <code>fish/</code> 以下との相互参照を想定</li>
+</ol>
+<hr />
+<p><em>末尾注: 本カタログは在野研究者用の一次スクリーニング資料であり、種同定時は豊田ほか(2019)の検索表および福家チェックリストの最新版を併用すること。琉球列島種は諸喜田・成瀬の原記載系列論文への一次遡及が必須。</em></p>
+<footer>
+generated from <code>02-shrimp-catalog.md</code> / dataset: crustacea-freshwater-brackish
+</footer>
+</body>
+</html>

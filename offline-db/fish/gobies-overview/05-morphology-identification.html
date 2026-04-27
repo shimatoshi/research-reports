@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ハゼ類の形態と同定形質</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">ハゼ類の形態と同定形質</h1>
+<blockquote>
+<p>ハゼ亜目 (Gobioidei) の外部・内部形態および、野外・標本で実際に利用される同定形質のまとめ。Rhinogobius を中心に、マハゼ型・ドンコ型・トビハゼ型まで広くカバーする実用ガイド。</p>
+</blockquote>
+<hr />
+<h2 id="0">0. 本稿の位置づけ</h2>
+<p>本稿は在野研究者 (機関無所属) が自前のオフラインデータセットで Rhinogobius をはじめとするハゼ類の同定・比較形態を扱うための実用ガイドである。Akihito et al. (1984; 2002 Nakabo 所収)、Miller (1984, 1988)、Pezold (1993)、Suzuki &amp; Shibukawa et al. (2015 以降の Rhinogobius 再記載群)、Iwata et al. (Rhinogobius biwaensis ほか) の同定鍵で標準的に用いられる形質を、日本語で定義し直し、野外でも使えるように簡潔に整理する。</p>
+<p>Rhinogobius 属の種判別では外部形態だけで決めきれない場面が多いが、「まずどの形質を見れば分類群を絞り込めるか」を把握しておくと、形態 × 分子の両輪で解像度が上がる。</p>
+<hr />
+<h2 id="1-gobiiformes">1. ハゼ類の基本体制と Gobiiformes 共有形質</h2>
+<h3 id="11-fused-pelvic-disc">1.1 癒合腹鰭 (fused pelvic disc)</h3>
+<p>ハゼ亜目 (Gobioidei) の最も有名な共有派生形質は <strong>左右の腹鰭が中央で癒合して吸盤状のディスクを形成する</strong> こと。構造要素は以下の 3 部。</p>
+<ul>
+<li><strong>腹鰭棘 (pelvic spine)</strong> : I 本、左右一対</li>
+<li><strong>腹鰭軟条 (pelvic rays)</strong> : 通常 5 本、最内側軟条どうしが膜で繋がる (= 癒合腹鰭の底板)</li>
+<li><strong>フレナム (frenum)</strong> : 左右の腹鰭棘先端を横断的に連結する膜状構造。<strong>フレナムの有無・発達程度は科・亜科・属レベルで重要な分類形質</strong></li>
+</ul>
+<blockquote>
+<p>一般化しすぎて忘れがちだが、ハゼ類の腹鰭が「吸盤」になるのは、左右の内側軟条間に膜 (inter-ray membrane) があり、かつ前縁にフレナムがある場合に限る。フレナムが欠落する Gobiinae 系統では左右の腹鰭が外見上分離して見えることがあり、科レベルで Eleotridae (カワアナゴ科) との区別点としても使われる。Eleotridae は原則として腹鰭癒合を欠く。</p>
+</blockquote>
+<p>Odontobutidae (ドンコ科) は内部構造的には腹鰭が分離しており、外観上も明瞭に 2 枚に分かれる。これは日本産淡水ハゼで Odontobutis (ドンコ) を一瞥で分離できる決定的特徴。</p>
+<h3 id="12">1.2 鋤骨歯・口蓋骨歯</h3>
+<ul>
+<li><strong>鋤骨歯 (vomerine teeth)</strong> : Gobiidae 主流群では原則欠く</li>
+<li><strong>口蓋骨歯 (palatine teeth)</strong> : 同上、欠くのが一般的</li>
+</ul>
+<p>ただし Taenioides (ワラスボ属) や一部の基部的系統では present のケースがあり、<strong>「有る/無い」は属以上のレベルで診断形質として生きる</strong>。Herre (1943) は鋤骨歯の有無でハゼ属群の鍵を組んでいる。Rhinogobius 種内比較では普通は取り上げない形質。</p>
+<h3 id="13-cephalic-canals">1.3 頭部感覚管 (cephalic canals) の有無</h3>
+<p>ハゼ類の頭部には側線管系が発達しており、属レベル識別に決定的:</p>
+<ul>
+<li><strong>前眼肩甲管 (anterior oculoscapular canal, AOC)</strong> : 眼前 - 眼上 - 眼後を走る</li>
+<li><strong>後眼肩甲管 (posterior oculoscapular canal, POC)</strong> : 眼後から肩甲部</li>
+<li><strong>前鰓蓋管 (preopercular canal, POP)</strong> : 前鰓蓋骨に沿う</li>
+</ul>
+<p><strong>管の有無</strong> は Sicydiinae と Gobionellinae の分離 (Pezold 1993)、Schismatogobius (管を欠く) 対 Rhinogobius (管を保持) の区別などに直結する。Rhinogobius は AOC + POP を保持する。</p>
+<hr />
+<h2 id="2-cephalic-lateral-line-pore-system">2. 頭部感覚孔系 (cephalic lateral-line pore system)</h2>
+<h3 id="21-akihito-a-b-c-d-e-f-g-h">2.1 Akihito 命名法 (A, B, C, D, E, F, G, H, …)</h3>
+<p>Akihito (1984; Akihito et al. 1984, 2002) が確立したアルファベット命名法はハゼ類同定の標準。主な孔の位置は以下。</p>
+<table>
+<thead>
+<tr>
+<th>孔符号</th>
+<th>位置</th>
+<th>所属管</th>
+<th>対称性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A (A')</td>
+<td>前鼻孔のすぐ背方、吻端寄り</td>
+<td>AOC</td>
+<td>通常 paired</td>
+</tr>
+<tr>
+<td>B</td>
+<td>両眼間前部</td>
+<td>AOC</td>
+<td>paired または single</td>
+</tr>
+<tr>
+<td>C</td>
+<td>両眼間後部 (単一孔として現れることが多い)</td>
+<td>AOC</td>
+<td><strong>多くの群で single (左右癒合)</strong></td>
+</tr>
+<tr>
+<td>D</td>
+<td>後頭中央、項部近傍</td>
+<td>AOC</td>
+<td><strong>single が基本</strong></td>
+</tr>
+<tr>
+<td>E</td>
+<td>眼後上方</td>
+<td>AOC</td>
+<td>paired</td>
+</tr>
+<tr>
+<td>F (F')</td>
+<td>眼後下方 (肩甲部への移行点)</td>
+<td>AOC</td>
+<td>paired</td>
+</tr>
+<tr>
+<td>G</td>
+<td>肩甲部</td>
+<td>POC</td>
+<td>paired</td>
+</tr>
+<tr>
+<td>H (H')</td>
+<td>POC 後端、鰓蓋直上</td>
+<td>POC</td>
+<td>paired</td>
+</tr>
+<tr>
+<td>K, L</td>
+<td>POC 途中 (系統によって存在)</td>
+<td>POC</td>
+<td>paired</td>
+</tr>
+<tr>
+<td>M</td>
+<td>POP 背端</td>
+<td>POP</td>
+<td>paired</td>
+</tr>
+<tr>
+<td>N (N')</td>
+<td>POP 中央</td>
+<td>POP</td>
+<td>paired</td>
+</tr>
+<tr>
+<td>O (O')</td>
+<td>POP 腹端 (角部付近)</td>
+<td>POP</td>
+<td>paired</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>慣例として「paired = 左右で別々にカウントする」「single = 正中で左右が融合し 1 孔」と区別し、属レベル・種レベルの診断で違いが出る。たとえば C 孔が single か paired か、D 孔の位置、H 孔の存在/欠失は系統判別の核心。</p>
+</blockquote>
+<h3 id="22">2.2 系統ごとの典型パターン</h3>
+<ul>
+<li><strong>Akihito 属</strong> : A, B, C, D, F, H, N, O 保有。K, L および POC は欠く。D のみ single、他は paired (Watson et al. 2007)。</li>
+<li><strong>Rhinogobius</strong> : AOC は A', B, C (single), D (single), E, F, G, H' まで揃う群と、POC 末端部を欠く群がある (種群レベルの差)。</li>
+<li><strong>Gymnogobius 属</strong> : G. breunigii × G. castaneus 交雑帯研究 (Kokita et al. 2021) で、<strong>頭部孔数が遺伝的制御下にある量的形質</strong> であることが示されている。種内・種間変異の理解に重要。</li>
+<li><strong>Schismatogobius</strong> : 頭部管・孔ともに欠く (= 皮下化)。Rhinogobius からの分離点。</li>
+</ul>
+<h3 id="23-sensory-papillae">2.3 感覚丘 (sensory papillae) パターン</h3>
+<p>管・孔に加え、<strong>皮膚表面の感覚丘の配列</strong> (rows of neuromasts, 'free neuromasts') も必須形質。Sanzo 法 (1911) を起点に、横列 (transverse rows, TRB / TRA) と縦列 (longitudinal rows) で記述する。</p>
+<ul>
+<li><strong>TRB</strong> = 第 2 背鰭基点下から臀鰭基点までの横列鱗数 (transverse row, backward-count)</li>
+<li><strong>TRA</strong> = 臀鰭基点より前方で数える横列</li>
+<li>Rhinogobius では <strong>頬部 (cheek) に 2 列の縦走感覚丘列があり、その間を複数の短い横列が繋ぐ</strong> (Suzuki &amp; Shibukawa 2015)。横列の数・配置が mizunoi, biwaensis, ogasawaraensis など最近記載された日本産 "ヨシノボリ複合体" の種分離に使われている。</li>
+</ul>
+<hr />
+<h2 id="3-meristic-counts">3. 鰭条・鱗の計数 (meristic counts)</h2>
+<p>Rhinogobius を含む大半の Gobiidae で標準的に記録される数値:</p>
+<table>
+<thead>
+<tr>
+<th>略号</th>
+<th>日本語</th>
+<th>内容</th>
+<th>Rhinogobius 類の典型範囲</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>D1</td>
+<td>第一背鰭</td>
+<td>棘条数 (roman)</td>
+<td>VI (固定的、I 本多ければ異常)</td>
+</tr>
+<tr>
+<td>D2</td>
+<td>第二背鰭</td>
+<td>I + 軟条数</td>
+<td>I, 7–10</td>
+</tr>
+<tr>
+<td>A</td>
+<td>臀鰭</td>
+<td>I + 軟条数</td>
+<td>I, 7–9</td>
+</tr>
+<tr>
+<td>P1 / P</td>
+<td>胸鰭</td>
+<td>軟条数</td>
+<td>14–22 (種群で強い差)</td>
+</tr>
+<tr>
+<td>V / P2</td>
+<td>腹鰭</td>
+<td>I + 軟条数</td>
+<td>I, 5 (癒合ディスク)</td>
+</tr>
+<tr>
+<td>C</td>
+<td>尾鰭</td>
+<td>分岐軟条・副軟条</td>
+<td>主軟条 13–15 + procurrent</td>
+</tr>
+<tr>
+<td>LR (LL)</td>
+<td>縦列鱗数 (longitudinal scale rows)</td>
+<td>鰓蓋後端 → 尾柄中央</td>
+<td>28–34 (R. immaculatus 29–31, R. sudoccidentalis 22–24 など)</td>
+</tr>
+<tr>
+<td>TR</td>
+<td>横列鱗数 (transverse rows)</td>
+<td>第 2 背鰭基点 → 臀鰭基点</td>
+<td>7–9</td>
+</tr>
+<tr>
+<td>PreD</td>
+<td>前背中線鱗 (predorsal scales)</td>
+<td>上後頭骨 → 第 1 背鰭起点</td>
+<td>0–15 (0 = 無鱗の R. sudoccidentalis、多いと 7–9 が標準)</td>
+</tr>
+<tr>
+<td>SDP</td>
+<td>第 1 背鰭起点 → 胸鰭上縁の斜列鱗数</td>
+<td>種群間差</td>
+<td>参照項目</td>
+</tr>
+<tr>
+<td>VC</td>
+<td>椎骨数 (precaudal + caudal)</td>
+<td>骨格形質</td>
+<td>10+16 または 11+16 が標準</td>
+</tr>
+</tbody>
+</table>
+<p>計数規則の出所は Hubbs &amp; Lagler 系、Nakabo (2002; 2013 3rd ed.) と Kottelat 系 (東南アジア魚類の基準、Roberts・Kottelat)。Rhinogobius 原記載群の多くは Akihito et al. (2002, Fishes of Japan 3rd ed. 所収の Gobioidei 部分) の計数法に準拠。</p>
+<blockquote>
+<p><strong>野外識別メモ</strong>: D1 は VI で固定的なので種判別ではほぼ使えない。差が出るのは <strong>P1 軟条数</strong> と <strong>LR (縦列鱗数)</strong> と <strong>PreD (前背中線鱗)</strong>。麻酔固定後、側面写真 + 腹面写真 + 拡大での頬部写真の 3 点セットを撮っておくと、後から計数可能。</p>
+</blockquote>
+<hr />
+<h2 id="4">4. 鱗のタイプと被鱗範囲</h2>
+<ul>
+<li><strong>円鱗 (cycloid scale)</strong> : 後縁が滑らか。鰓蓋・頬部・腹面・項部前半などに分布。</li>
+<li><strong>櫛鱗 (ctenoid scale)</strong> : 後縁に小棘列 (ctenii)。胴体側面・尾柄で主流。</li>
+</ul>
+<p>被鱗範囲は属・種レベル形質:</p>
+<ul>
+<li><strong>項部・頬部・鰓蓋の被鱗 vs 裸出</strong> : Acentrogobius、Favonigobius、Mugilogobius などで重要。</li>
+<li><strong>前背中線 (predorsal midline) の被鱗</strong> : 円鱗で覆われるか、裸出 (naked) か、櫛鱗まで達するかが属 / 種群区別の決定打になる。</li>
+<li>Rhinogobius では頭部 (頬・鰓蓋・項部前端) は無鱗が基本で、項部後半から櫛鱗が開始。腹面胸鰭直下は円鱗が多い。</li>
+</ul>
+<p>SEM による鱗微細構造 (radii、ctenii 配列、focus 位置) は比較形態学的に有効だが (Fuentes et al. 2021 ほか)、同定鍵レベルでは光学顕微鏡の粒度で充分。</p>
+<hr />
+<h2 id="5-genital-papilla">5. 生殖突起 (genital papilla) の性差・属間差</h2>
+<p>肛門と臀鰭起点の間に位置する尿生殖突起。Gobioidei 全般で <strong>肉眼レベルで雌雄判別が可能な最も安定した外部形質</strong>。</p>
+<ul>
+<li><strong>雄 (male)</strong> : 細長く先端尖鋭、円錐 - 槍型。長さ/幅比が大きい。R. kurodai や R. flumineus では伸長顕著。</li>
+<li><strong>雌 (female)</strong> : 短太、先端二裂 (bifid) または鈍く膨らむ。産卵期には更に膨張。</li>
+</ul>
+<p>Miller (1984) は Mediterranean gobies の genital papilla 形態を系統的に記載し、以降のハゼ類雌雄判別・機能分類の基礎。Lythrypnus 属など性転換種では papilla の形態と機能性別が必ずしも一致しない例もある (Rodgers et al. 2007 ほか)。</p>
+<p>属レベルでは Rhinogobius, Gymnogobius, Tridentiger などで papilla 基部の paired flap の有無が違う。Pezold (1993) の Gobiinae 単系統性議論にも生殖突起形態が引かれる。</p>
+<hr />
+<h2 id="6-rhinogobius">6. 頬部・鰓蓋斑紋 — Rhinogobius 種判別の要</h2>
+<p>Rhinogobius は外部色彩・斑紋パターンが種判別に不可欠で、<strong>生時の頬部斑紋は属内最重要形質</strong>。</p>
+<ul>
+<li><strong>dark spot 型</strong> : R. chiengmaiensis (頬部 + 鰓蓋に 55–80 個の円形暗斑)、R. rubromaculatus (赤色点列) など</li>
+<li><strong>oblique stripe 型</strong> : R. duospilus 複合体 (changtinensis, duospilus, genanematus, henryi, lungowensis, ponkouensis, sulcatus, wangei 等。<strong>成熟雄の頬部に斜走暗色条</strong>)</li>
+<li><strong>vermiculate 型</strong> : R. flumineus (カワヨシノボリ) 頬部に虫食い状暗色模様</li>
+<li><strong>plain (斑紋乏) 型</strong> : 幼魚または R. similis 雌に多い</li>
+</ul>
+<p>雄繁殖色 (nuptial coloration) は <strong>頬部・branchiostegal 膜・第 1 背鰭前縁・腹鰭</strong> に集中し、固定標本では急速に退色するため <strong>生時の写真記録が必須</strong>。Suzuki, Shibukawa, Iwata らの一連の Rhinogobius 再記載論文 (2015-2020) は、生時写真と固定後状態を必ず併載する形式を採る。</p>
+<blockquote>
+<p><strong>実務 Tips</strong>: 固定前にトレイ上で麻酔 (MS-222 or eugenol) → 左側面・右側面・頬部クローズアップ・腹面・頭部背面・第 1 背鰭展開 の計 6 点を撮る。標本ラベルと同じ ID で画像を管理すると、後から斑紋 × 分子データの突合が可能。</p>
+</blockquote>
+<hr />
+<h2 id="7">7. 体形別分類</h2>
+<p>ハゼ類の体形は生活様式と強く結びつき、科・属識別の入口:</p>
+<table>
+<thead>
+<tr>
+<th>体形</th>
+<th>定義</th>
+<th>代表属</th>
+<th>生態</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>円筒型 (マハゼ型, cylindrical)</strong></td>
+<td>横断面がほぼ円、体がやや側扁</td>
+<td>Acanthogobius (マハゼ), Rhinogobius, Gymnogobius</td>
+<td>底生〜泥底、砂泥〜礫底</td>
+</tr>
+<tr>
+<td><strong>縦扁型 (ドンコ型, depressed)</strong></td>
+<td>頭部が背腹に押し潰れ、吻が扁平</td>
+<td>Odontobutis (ドンコ), Bathygobius の一部</td>
+<td>待ち伏せ捕食、礫間・岩陰</td>
+</tr>
+<tr>
+<td><strong>横扁型 (トビハゼ型, compressed / laterally compressed)</strong></td>
+<td>体側方向に側扁、眼が背面突出</td>
+<td>Periophthalmus, Boleophthalmus, Scartelaos</td>
+<td>干潟・半水棲、ジャンプ移動</td>
+</tr>
+</tbody>
+</table>
+<p>Periophthalmus と Boleophthalmus はどちらも Oxudercinae (トビハゼ亜科) だが、Boleophthalmus はより「ハゼらしい」円筒型寄りで第 1 背鰭が地味、Periophthalmus は頭部が塊状で第 1 背鰭が派手 — これは干潟上でのテリトリー / 配偶ディスプレイ戦略の差に対応する。</p>
+<p>体形は「ざっくり」分類だが、<strong>ピンセット 1 匹目の方向性を決める</strong> ので形態マップの一次選別軸として有効。</p>
+<hr />
+<h2 id="8-internal-characters">8. 骨格形質 (internal characters)</h2>
+<p>清明化 + アリザリンレッド染色で観察する形質群。種記載では標準項目。</p>
+<h3 id="81-vertebral-count-vc">8.1 椎骨数 (vertebral count, VC)</h3>
+<ul>
+<li>標準的に <strong>11 precaudal + 17 caudal = 28</strong> が Gobiidae の典型。変異として 10+16=26, 11+16=27 などの減少、逆に細長体形種での増加 (ワラスボ型) もあり。</li>
+<li>Rhinogobius は 10–11 + 16 = 26–27 の範囲に収まる種が多い。</li>
+</ul>
+<h3 id="82-caudal-skeleton">8.2 尾部骨格 (caudal skeleton)</h3>
+<ul>
+<li><strong>hypurals 1+2 癒合 → 第 1 下尾板</strong>、<strong>hypurals 3+4 癒合 → 第 2 下尾板</strong> が基本。</li>
+<li><strong>parhypural</strong> : 細長く伸長。</li>
+<li><strong>epural</strong> : 1 本。</li>
+<li><strong>preural centra</strong> : PU2, PU3 に神経棘・血管棘が付随。</li>
+<li><strong>主軟条 (principal caudal rays)</strong> = 9 (dorsal) + 8 (ventral) が Gobiidae 原則。</li>
+<li><strong>副軟条 (procurrent rays)</strong> の数は系統信号を持つ (Birdsong et al. 1988; Springer 1983)。</li>
+</ul>
+<h3 id="83-pterygiophore-formula">8.3 Pterygiophore formula</h3>
+<p>第 1 背鰭 pterygiophore (鰭支持骨) が、どの椎骨間 (interneural space) に入るかを数列で記述。</p>
+<ul>
+<li>Gobiosomatini で典型的な <strong>3-221110</strong> (= 第 3 interneural space から順に 2, 2, 1, 1, 1, 0 本の pterygiophore)</li>
+<li>Rhinogobius を含む Gobionellinae 主流群は <strong>3-12210</strong> 型が多い (Birdsong et al. 1988)</li>
+</ul>
+<p>この式は属・族レベルの診断に有効で、Pezold (1993) の Gobiinae 単系統性論拠の一つでもある。</p>
+<hr />
+<h2 id="9-vs">9. 色彩パターン — 生時 vs 固定後</h2>
+<p>色彩形質は<strong>生時 (fresh coloration) と固定後 (preserved coloration) を別ものとして扱う</strong> のが原則。</p>
+<ul>
+<li><strong>生時</strong>: 構造色・脂質由来色素 (カロテノイド、プテリジン) が発色。赤・黄・青は固定でほぼ消失。</li>
+<li><strong>固定後 (ホルマリン → 70% エタノール)</strong>: メラニン系斑紋のみが残る。<strong>黒色斑・帯・ライン</strong> の位置関係が保存される。</li>
+</ul>
+<p>Nakabo 鍵・Akihito 鍵では固定後形質を主に採るが、Rhinogobius の種群レベルでは生時写真が決定打。よって <strong>記載論文は生時写真 + 固定標本図版の両方を掲載する</strong> のが現代的標準。</p>
+<p>Rhinogobius 雄の繁殖色チャートは種レベルの一次診断として使われ、第 1 背鰭縁色 (白 / 黒 / 赤)、body side 中央列斑点の有無、尾鰭基底の三角斑、頬部斑紋 (§6) の組み合わせで半ば鍵化できる。</p>
+<hr />
+<h2 id="10">10. 日本語/英語対応用語表</h2>
+<table>
+<thead>
+<tr>
+<th>日本語</th>
+<th>英語</th>
+<th>略号</th>
+<th>備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第一背鰭</td>
+<td>first dorsal fin</td>
+<td>D1</td>
+<td>ハゼ類は棘条のみ (通常 VI)</td>
+</tr>
+<tr>
+<td>第二背鰭</td>
+<td>second dorsal fin</td>
+<td>D2</td>
+<td>前端 I 棘 + 軟条</td>
+</tr>
+<tr>
+<td>臀鰭</td>
+<td>anal fin</td>
+<td>A</td>
+<td>D2 とほぼ相同配置</td>
+</tr>
+<tr>
+<td>胸鰭</td>
+<td>pectoral fin</td>
+<td>P1 / P</td>
+<td>軟条数が種レベル形質</td>
+</tr>
+<tr>
+<td>腹鰭</td>
+<td>pelvic fin</td>
+<td>V / P2</td>
+<td>Gobiidae では癒合してディスク化</td>
+</tr>
+<tr>
+<td>尾鰭</td>
+<td>caudal fin</td>
+<td>C</td>
+<td>主軟条 + 副軟条</td>
+</tr>
+<tr>
+<td>癒合腹鰭 (吸盤)</td>
+<td>fused pelvic disc, pelvic sucker</td>
+<td>—</td>
+<td>Gobioidei 共有派生形質</td>
+</tr>
+<tr>
+<td>フレナム</td>
+<td>frenum</td>
+<td>—</td>
+<td>腹鰭棘を繋ぐ膜</td>
+</tr>
+<tr>
+<td>縦列鱗数</td>
+<td>longitudinal scale rows</td>
+<td>LR / LL</td>
+<td>鰓蓋後端-尾柄中央</td>
+</tr>
+<tr>
+<td>横列鱗数</td>
+<td>transverse scale rows</td>
+<td>TR (TRB / TRA)</td>
+<td>D2 基点または臀鰭基点基準</td>
+</tr>
+<tr>
+<td>前背中線鱗</td>
+<td>predorsal scales</td>
+<td>PreD</td>
+<td>後頭-D1 起点間</td>
+</tr>
+<tr>
+<td>円鱗</td>
+<td>cycloid scale</td>
+<td>—</td>
+<td>頬・項・腹面に分布</td>
+</tr>
+<tr>
+<td>櫛鱗</td>
+<td>ctenoid scale</td>
+<td>—</td>
+<td>体側の主流</td>
+</tr>
+<tr>
+<td>頭部感覚管</td>
+<td>cephalic sensory canals</td>
+<td>—</td>
+<td>AOC, POC, POP</td>
+</tr>
+<tr>
+<td>前眼肩甲管</td>
+<td>anterior oculoscapular canal</td>
+<td>AOC</td>
+<td>孔 A-F を含む</td>
+</tr>
+<tr>
+<td>後眼肩甲管</td>
+<td>posterior oculoscapular canal</td>
+<td>POC</td>
+<td>孔 G, H, K, L</td>
+</tr>
+<tr>
+<td>前鰓蓋管</td>
+<td>preopercular canal</td>
+<td>POP</td>
+<td>孔 M, N, O</td>
+</tr>
+<tr>
+<td>感覚孔</td>
+<td>sensory pore</td>
+<td>—</td>
+<td>A-O で命名 (Akihito 1984)</td>
+</tr>
+<tr>
+<td>感覚丘列</td>
+<td>sensory papillae rows</td>
+<td>—</td>
+<td>皮膚表面、Sanzo 系記号</td>
+</tr>
+<tr>
+<td>鋤骨歯</td>
+<td>vomerine teeth</td>
+<td>—</td>
+<td>Gobiidae 原則欠</td>
+</tr>
+<tr>
+<td>口蓋骨歯</td>
+<td>palatine teeth</td>
+<td>—</td>
+<td>Gobiidae 原則欠</td>
+</tr>
+<tr>
+<td>生殖突起</td>
+<td>genital papilla</td>
+<td>—</td>
+<td>雌雄判別の基本</td>
+</tr>
+<tr>
+<td>椎骨数</td>
+<td>vertebral count</td>
+<td>VC</td>
+<td>precaudal + caudal</td>
+</tr>
+<tr>
+<td>下尾板</td>
+<td>hypural plate</td>
+<td>HY1, HY2</td>
+<td>hypurals 1+2, 3+4 癒合</td>
+</tr>
+<tr>
+<td>尾骨板</td>
+<td>parhypural</td>
+<td>PH</td>
+<td>細長伸長</td>
+</tr>
+<tr>
+<td>鰭支持骨</td>
+<td>pterygiophore</td>
+<td>—</td>
+<td>式で記述 (Birdsong formula)</td>
+</tr>
+<tr>
+<td>主軟条</td>
+<td>principal caudal rays</td>
+<td>—</td>
+<td>9+8 が基本</td>
+</tr>
+<tr>
+<td>副軟条</td>
+<td>procurrent caudal rays</td>
+<td>—</td>
+<td>PC 前後の短軟条</td>
+</tr>
+<tr>
+<td>側線</td>
+<td>lateral line</td>
+<td>—</td>
+<td>ハゼ類では管状側線を欠く群が主</td>
+</tr>
+<tr>
+<td>頬部</td>
+<td>cheek</td>
+<td>—</td>
+<td>前鰓蓋前部 + 眼下部</td>
+</tr>
+<tr>
+<td>鰓蓋</td>
+<td>operculum</td>
+<td>—</td>
+<td>斑紋が種診断に有用</td>
+</tr>
+<tr>
+<td>項部</td>
+<td>nape</td>
+<td>—</td>
+<td>後頭 - D1 起点</td>
+</tr>
+<tr>
+<td>尾柄</td>
+<td>caudal peduncle</td>
+<td>CP</td>
+<td>最後方体軸</td>
+</tr>
+<tr>
+<td>体長</td>
+<td>standard length</td>
+<td>SL</td>
+<td>吻端 - 尾鰭基底中央</td>
+</tr>
+<tr>
+<td>全長</td>
+<td>total length</td>
+<td>TL</td>
+<td>吻端 - 尾鰭後端</td>
+</tr>
+<tr>
+<td>繁殖色</td>
+<td>nuptial coloration</td>
+<td>—</td>
+<td>生時 only、雄で顕著</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="11">11. 参考文献 (主要同定鍵)</h2>
+<ul>
+<li><strong>Akihito, Hayashi M, Yoshino T</strong> (1984) Suborder Gobioidei. In: Masuda H et al. (eds.) The Fishes of the Japanese Archipelago, Tokai Univ. Press: 236–289. — <strong>Akihito 命名法の原典</strong></li>
+<li><strong>Akihito, Sakamoto K, Ikeda Y, Sugiyama K</strong> (2002, 2013 3rd ed.) Gobioidei. In: Nakabo T (ed.) Fishes of Japan with Pictorial Keys to the Species, Tokai Univ. Press. — 日本産ハゼ最上位の同定書</li>
+<li><strong>Miller PJ</strong> (1984, 1988) Gobiidae. In: Whitehead PJP et al. (eds.) Fishes of the North-eastern Atlantic and the Mediterranean. UNESCO. — 地中海産ハゼ + 生殖突起形態学</li>
+<li><strong>Pezold F</strong> (1993) Evidence for a monophyletic Gobiinae. Copeia 1993(3): 634–643.</li>
+<li><strong>Birdsong RS, Murdy EO, Pezold F</strong> (1988) A study of the vertebral column and median fin osteology in gobioid fishes with comments on gobioid relationships. Bull. Marine Sci. 42: 174–214. — pterygiophore formula / VC 原典</li>
+<li><strong>Suzuki T, Shibukawa K et al.</strong> (2015–) Rhinogobius similis redescription, R. mizunoi, R. biwaensis, R. ogasawaraensis 系列。Kanagawa Pref. Mus. Bull.; Ichthyol. Res.</li>
+<li><strong>Watson RE, Keith P, Marquet G</strong> (2007) Akihito vanuatu, a new genus and new species of freshwater goby. Cybium 31(3): 341–349. — Akihito 属孔系パターン</li>
+<li><strong>Kokita T et al.</strong> (2021) Genetic basis for variation in the number of cephalic pores in Gymnogobius hybrid zone. Biol. J. Linn. Soc. 133: 143. — 孔数の遺伝的制御</li>
+</ul>
+<hr />
+<h2 id="12_1">12. 実務チェックリスト (野外→標本化→同定)</h2>
+<ol>
+<li><strong>麻酔前</strong>: 生時側面・頭部斜め・腹面 (癒合ディスク確認) の写真</li>
+<li><strong>麻酔後 (MS-222 or eugenol)</strong>: 第 1 背鰭を展開して写真、頬部クローズアップ、生殖突起形態の確認</li>
+<li><strong>固定 (10% ホルマリン)</strong>: 右側を上にしてトレイ、24h 以降 70% エタノールに移行</li>
+<li><strong>計数</strong>: D1/D2/A/P1/V の軟条、LR, TR, PreD、椎骨 (後日 X 線 or clear-and-stain)</li>
+<li><strong>頭部感覚孔</strong> : A–H, N, O の paired/single を実体顕微鏡で確認</li>
+<li><strong>生殖突起</strong>: 形態スケッチ、長さ/幅比計測</li>
+<li><strong>標本番号 × 写真 ID × 組織サンプル (fin clip in 99% EtOH)</strong> を 1:1:1 で紐付け</li>
+</ol>
+<p>以上を揃えれば、後日分子系統との突合 (COI/cytb、ddRAD 等) で同定根拠が再検証可能になる。Rhinogobius の未記載系統がまだ多いことを考えると、<strong>形態情報を取りこぼさず、生時写真と組織を必ずセットで残す</strong> のが在野研究者の取りうる最善の戦略。</p>
+<hr />
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://www.researchgate.net/publication/281354171_Akihito_futuna_a_new_species_of_freshwater_goby_from_the_South_Pacific_Gobioidei_Sicydiinae">Akihito futuna, new species of Sicydiinae (ResearchGate)</a></li>
+<li><a href="https://academic.oup.com/biolinnean/article/133/1/143/6187434">Genetic basis for variation in cephalic pores in Gymnogobius (Biol. J. Linn. Soc.)</a></li>
+<li><a href="http://novataxa.blogspot.com/2014/12/2007-akihito.html">Akihito vanuatu species description (novataxa)</a></li>
+<li><a href="https://nh.kanagawa-museum.jp/files/data/bull46_79_95_suzuki.pdf">Rhinogobius mizunoi description (Kanagawa Prefectural Museum Bulletin)</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10228-015-0494-3">Redescription of Rhinogobius similis with neotype designation</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10228-017-0577-4">Rhinogobius biwaensis description</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6085763/">Rhinogobius immaculatus description (PMC)</a></li>
+<li><a href="https://www.researchgate.net/publication/229088273_Pezold_F_Evidence_for_a_monophyletic_Gobiinae_Copeia_1993">Pezold 1993: Evidence for a monophyletic Gobiinae (ResearchGate)</a></li>
+<li><a href="https://www.researchgate.net/publication/233589234_A_Study_of_the_Vertebral_Column_and_Median_Fin_Osteology_in_Gobioid_Fishes_with_Comments_on_Gobioid_Relationships">A Study of the Vertebral Column and Median Fin Osteology in Gobioid Fishes (Birdsong et al.)</a></li>
+<li><a href="https://bioone.org/journals/ichthyology-and-herpetology/volume-108/issue-4/CG-19-341/Organization-and-Ontogeny-of-a-Complex-Lateral-Line-System-in/10.1643/CG-19-341.full">Organization of Lateral Line System in Elacatinus (BioOne)</a></li>
+<li><a href="https://bioone.org/journals/copeia/volume-2002/issue-1/0045-8511_2002_002_0104_OHNSAN_2.0.CO_2/Odontobutis-hikimius-n-sp--A-New-Freshwater-Goby-from/10.1643/0045-8511(2002)002%5B0104:OHNSAN%5D2.0.CO;2.short">Odontobutis hikimius new species with key (Copeia)</a></li>
+<li><a href="https://bioone.org/journals/zoological-science/volume-25/issue-9/zsj.25.946/A-New-Species-of-Mudskipper-Periophthalmus-takita-Teleostei--Gobiidae/10.2108/zsj.25.946.short">Periophthalmus takita with key to the genus</a></li>
+<li><a href="https://www.researchgate.net/publication/322869877_Comparative_morphology_of_caudal_skeleton_in_four_gobies_from_Iranian_intertidal_coast_of_the_Persian_Gulf_and_Makran_Sea_Teleostei_Gobiidae">Comparative morphology of caudal skeleton in four gobies</a></li>
+<li><a href="https://www.mapress.com/zootaxa/2012/f/zt03586p016.pdf">Standardized measurements, landmarks, and meristic counts (Zootaxa)</a></li>
+<li><a href="https://www.nagaofoundation.or.jp/publication/documents/Indochinese%20Mekong/09_Methods%20for%20counts%20and%20measurements.pdf">Methods for counts and measurements (Nagao Foundation)</a></li>
+<li><a href="https://australian.museum/learn/animals/fishes/cycloid-and-ctenoid-scales/">Cycloid and Ctenoid Scales (Australian Museum)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33372712/">Comparative ultrastructure of scales in gobiid species (PubMed)</a></li>
+<li><a href="https://www.practicalfishkeeping.co.uk/features/how-to-keep-rhinogobius-gobies/">How to keep Rhinogobius gobies - Practical Fishkeeping</a></li>
+<li><a href="https://www.seriouslyfish.com/species/rhinogobius-chiengmaiensis/">Rhinogobius chiengmaiensis (Seriously Fish)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35767861/">Sucker Shapes, Skeletons, and Bioinspiration: waterfall-climbing gobies (PubMed)</a></li>
+</ul>
+<footer>
+generated from <code>05-morphology-identification.md</code> / dataset: gobies-overview
+</footer>
+</body>
+</html>

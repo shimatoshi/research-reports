@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ハゼ類の生態・生活史・行動</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">ハゼ類の生態・生活史・行動</h1>
+<p>ハゼ類 (Gobioidei) は現生魚類のなかでも最大級の多様性を示すグループで、現在 212 属 1,875 種以上が記載されており、海産・汽水・淡水を広くカバーする (<a href="https://en.wikipedia.org/wiki/Gobiidae">Gobiidae – Wikipedia</a>)。本稿では (1) 両側回遊という diadromy の特殊型、(2) 繁殖生態・親による卵保護、(3) 浮遊仔魚期の海洋分散と再遡上、(4) 食性の多様化、(5) なわばり・配偶行動と音響コミュニケーション、(6) 共生関係、(7) 洞窟性・干潟性・深海性への適応放散、(8) 生活史戦略の概要を整理する。本文中では日本国内の代表的研究者 (岩田勝哉, 玉田一晃 (Tamada), 後藤晃 (Goto), 鈴木寿之 ほか) の寄与についても言及する。</p>
+<hr />
+<h2 id="1-amphidromy">1. 両側回遊 (amphidromy) の定義と改訂史</h2>
+<p>「両側回遊」という生活史は、ハゼ類を語るうえで最初に押さえるべき概念である。用語「diadromy (通し回遊)」は Myers (1949) が提唱し、淡水と海を行き来する真の回遊魚を指す言葉として導入された。これに対して「amphidromy」は McDowall (2007) によって diadromy の distinct な一形態として整理しなおされ、以下のような特徴をもつ生活史と定義される (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-2979.2007.00232.x">McDowall 2007, Fish and Fisheries</a>; <a href="https://www.micronesica.org/sites/default/files/1_-_mcdowellocr.pdf">McDowall 1997 Micronesica PDF</a>)。</p>
+<ul>
+<li>淡水 (あるいは河川) で産卵する</li>
+<li>孵化直後の仔魚は海まで流下する</li>
+<li>数ヶ月間の海洋浮遊・成長期を経て、よく発達した稚魚 (well-grown juveniles) として河川に再遡上する</li>
+<li>河川でさらに成長して性成熟し、淡水で繁殖する</li>
+</ul>
+<p>重要なのは、鮭鱒類のような anadromy (溯河回遊) と異なり、amphidromy では「海で成熟するのではなく仔魚期にだけ海を利用する」点である。McDowall はこの性質を満たす種が世界の熱帯・亜熱帯の島嶼を中心に 75 種以上存在すると記し、とくに Sicydiinae (ボウズハゼ亜科) のハゼ類が代表例であること、北は日本、南はニュージーランドまで拡がっていることを指摘した (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-2979.2007.00232.x">McDowall 2007</a>)。Myers の当初定義が曖昧さを含んでいたため、McDowall (1997, 2007) による「回遊は生理的変化を伴い、予測可能な時期に、往復的に起こる」という厳密化は、現代の回遊生態学の基礎となっている (<a href="https://www.micronesica.org/sites/default/files/1_-_mcdowellocr.pdf">McDowall 1997 PDF</a>)。結果として、ハゼ類は両側回遊の古典的モデル生物 (classic amphidromous fish) として位置づけられる。</p>
+<p>日本では Goto ほかの研究者が、ボウズハゼ <em>Sicyopterus japonicus</em> やヨシノボリ属 <em>Rhinogobius</em> を対象に、耳石微量元素解析や比重測定などの手法で両側回遊の実態を定量化してきた。Iguchi (1999) は amphidromous fish の初期餓死 (early starvation) が再加入の律速要因であることを示し (<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1095-8649.1999.tb02027.x">Iguchi 1999, J Fish Biol</a>)、沖縄島のハゼ類では仔魚の比重と遊泳行動が流下・再遡上成功を規定することが報告されている (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098116301666">Iida et al. 2017, J Exp Mar Biol Ecol</a>)。</p>
+<hr />
+<h2 id="2">2. 産卵生態: 雄による卵保護</h2>
+<p>ハゼ類の繁殖様式には、(i) 底面産卵 (demersal spawning)、(ii) 岩下や巣穴へのメスの招き入れ、(iii) 雄単独の卵保護、という共通骨格がある (<a href="https://link.springer.com/article/10.1007/BF02675437">Breeding ecology of Rhinogobius, Ichthyol Res</a>)。</p>
+<h3 id="_2">卵の形態</h3>
+<p>ハゼ類の卵は卵形・楕円形・長楕円形・洋梨形 (pear-shaped) と多様であり、硬い基質へ付着するための繊維 (付着糸=pedicel) をもつのが特徴である。多くの種で卵は一端に付着糸の束 (いわゆる卵柄) を具え、岩の下面やアサリ殻内面など天井側に垂らされた状態で付着・発生する (<a href="https://www.mdpi.com/2410-3888/8/7/364">Goby spawning, literature reviewed via search</a>)。</p>
+<h3 id="_3">雄の単独保護</h3>
+<p>多くの海産・淡水性ハゼでは、雄が巣 (石の下・貝殻・砂中トンネル) を確保して産卵場として機能させ、メスを誘引して卵を産ませた後、単独で卵塊を保護する。Gobiosoma、Elacatinus (例: <em>E. evelynae</em>, <em>E. figaro</em>)、Istigobius ornatus などで雄単独の保護が報告されている (<a href="https://www.researchgate.net/publication/222416208_Breeding_rearing_and_feeding_studies_in_the_cleaner_goby_Gobiosoma_evelynae">Breeding cleaner goby Gobiosoma evelynae</a>; <a href="https://www.mdpi.com/2410-3888/8/7/364">Amblygobius phalaena, MDPI</a>)。保護中の雄は胸鰭や尾鰭で卵塊に水を送り (fanning)、溶存酸素の供給と汚損防止を行う (<a href="https://www.researchgate.net/publication/280131680_Spawning_and_nest_guarding_of_the_river_goby_Glossogobius_callidus_from_the_Eastern_Cape_province_of_South_Africa">Spawning and nest guarding of Glossogobius callidus</a>)。</p>
+<h3 id="_4">ヨシノボリ属の繁殖生態</h3>
+<p>日本の淡水ハゼ研究では、岩田勝哉 (Iwata) と Tamada (玉田) のグループがヨシノボリ属 <em>Rhinogobius</em> の繁殖生態を体系的に記載してきた。Iwata &amp; Tamada は、<em>Rhinogobius</em> sp. CB (クロヨシノボリ型) の卵サイズ・クラッチサイズの母体サイズ依存性を明らかにし、母体サイズの増加にともない仔魚の生存率が上がることを示した (<a href="https://link.springer.com/article/10.1007/s10641-005-2230-8">Iwata &amp; Tamada 2005, Env Biol Fishes</a>)。Tamada (2008, 2011) はさらに、四国・和歌山の相津川 (Aizu River) での長期調査から、河床構造 (river bed features) がヨシノボリ類の分布と産卵場選好を左右することを示し (<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0633.2010.00450.x">Tamada 2011, Ecol Freshw Fish</a>)、河川内の位置によって卵サイズとクラッチサイズが変動することを定量化した (<a href="https://link.springer.com/article/10.1007/s10228-008-0069-7">Tamada 2008, Ichthyol Res</a>)。また、雄の一夫多妻・一夫一妻混合型の配偶パターンは巣内卵密度から推定できることを示した (<a href="https://link.springer.com/article/10.1007/s10228-007-0015-0">Estimate of mating pattern, Ichthyol Res</a>)。</p>
+<hr />
+<h2 id="3">3. 浮遊仔魚期: 流下・海洋分散・再遡上</h2>
+<p>両側回遊ハゼ類の仔魚は、孵化直後に下流へ流下し海へ向かう。Sicyopterus japonicus の研究では、流下は夜間に集中することが明らかにされ、「夜行性流下」は捕食回避と昼行性捕食魚からの隔離に有利と考えられている (<a href="https://www.sciencedirect.com/science/article/abs/pii/S002209810900481X">Iida et al. 2010, J Exp Mar Biol Ecol</a>)。</p>
+<h3 id="pld">海洋分散と PLD</h3>
+<p>浮遊仔魚期間 (Pelagic Larval Duration, PLD) は種と水温で大きく変動する。レユニオン島の <em>Sicyopterus lagocephalus</em> では PLD が 96–293 日、再加入時の体長は 26.5–37 mm で、高水温では成長が速く PLD は短く、小型での再加入が起こる (<a href="https://onlinelibrary.wiley.com/doi/10.1111/eff.12205">Teichert et al. 2016, Ecol Freshw Fish</a>)。日本の <em>Sicyopterus japonicus</em> では PLD は約 8 ヶ月におよび、海洋依存度が著しく高い (<a href="https://link.springer.com/article/10.1007/s10641-012-0055-9">Riverine life history of Sicyopterus japonicus, Env Biol Fishes</a>)。</p>
+<h3 id="_5">塩分耐性スイッチ</h3>
+<p>Amphidromous 仔魚に特有なのは、発生段階で塩分耐性が切り替わる点である。<em>Sicyopterus lagocephalus</em> の前仔魚 (freshwater prolarvae) が海産仔魚 (marine larvae) へ形態・生理的変態する最低塩分閾値は 1.5 psu、0.2 psu では一部のみ変態する (<a href="https://link.springer.com/article/10.1007/s10452-019-09734-z">Aquatic Ecology 2019</a>)。成魚と卵は淡水~汽水に、仔魚は汽水~海水に適応しており、生活史と生理が見事に対応している (<a href="https://link.springer.com/article/10.1007/s10641-012-0055-9">Riverine life history, Env Biol Fishes</a>)。汽水域は中間塩分で仔魚生残率が高く、estuary が両側回遊の機能的ハブとなる (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098116301666">goby dispersal review, via search results</a>)。</p>
+<hr />
+<h2 id="4">4. 食性の多様化</h2>
+<p>ハゼ類は摂餌ギルドとしても多様である。</p>
+<ul>
+<li><strong>底生無脊椎動物食</strong>: ヨシノボリ属 <em>Rhinogobius</em> は水生昆虫・小型甲殻類を中心に、落下した陸生昆虫も重要資源とするジェネラリストである (<a href="https://link.springer.com/article/10.1023/A:1007377116976">Feeding of a benthic goby, Env Biol Fishes</a>)。<em>Rhinogobius giurinus</em> は水生昆虫・小魚・動物プランクトン・植物プランクトン・デトリタスを幅広く摂る (<a href="https://en.wikipedia.org/wiki/Rhinogobius_giurinus">Rhinogobius giurinus – Wikipedia</a>)。</li>
+<li><strong>藻類食 (herbivory)</strong>: ボウズハゼ亜科 (Sicydiinae) は口吻部が吸盤状に特化し、岩に張り付きながら付着藻類・バイオフィルムをそぎ取る。ハワイ固有の <em>Sicyopterus stimpsoni</em> の消化管内容物は、緑藻・藍藻・黄色藻 (Chlorophyta, Cyanophyta, Chrysophyta) が乾重量の 94.62% を占める (<a href="https://link.springer.com/article/10.1007/BF00005234">Julius et al. 1996, Env Biol Fishes</a>)。</li>
+<li><strong>デトリタス食・微粒有機物食</strong>: ムツゴロウ <em>Boleophthalmus</em> 属や一部の汽水性ハゼは底泥中のデトリタスと珪藻を吸い込み濾しとる。</li>
+<li><strong>間隙性メイオベントス食</strong>: ミミズハゼ属 <em>Luciogobius</em> は礫間に特化し、世界で初めて「間隙性メイオベントスにのみ依存する魚類」として記載された (<a href="https://www.jstage.jst.go.jp/article/pbr/17/2/17_B170212/_article">Tomiyama &amp; Kayaba 2018, bioRxiv / Plankton Benthos Res</a>)。</li>
+</ul>
+<hr />
+<h2 id="5">5. なわばり・雄間競争・配偶者選好・音響コミュニケーション</h2>
+<h3 id="_6">なわばり行動と雄間競争</h3>
+<p>ハゼ類の多くは雄が巣を確保し、そこに雌を誘引する。雄は巣周辺になわばりを張り、侵入雄と agonistic encounter を繰り返す (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098101002490">Parental investment of two-spotted goby, J Exp Mar Biol Ecol</a>)。コモンゴビー <em>Pomatoschistus microps</em> では、繁殖機会が限定されているため雄は大型・高コンディションほど侵入・乗っ取りに成功し、体サイズへの正の選択圧が観察される (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12314">Wacker 2014, J Evol Biol</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6007595/">Female mating competition 2018, Current Zoology</a>)。</p>
+<h3 id="_7">配偶者選好</h3>
+<p>雌は大型・高コンディションの雄、求愛頻度の高い雄を選好する傾向が広く認められ、これは雄の脂質蓄積 (卵の世話能力) の honest signal と解釈されている (<a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12032">Painted goby courtship, Funct Ecol 2013</a>)。日本産 <em>Rhinogobius brunneus</em> (ヨシノボリ) では、速い流れのなかでの求愛ディスプレイが雄の世話能力を正直に伝達する signal として機能する (<a href="https://link.springer.com/article/10.1007/s00265-003-0693-1">Takahashi &amp; Yanagisawa 2003, Behav Ecol Sociobiol</a>)。河川ヨシノボリの野外集団では、雌の配偶者選好と巣内共食いの発生との関係も議論されている (<a href="https://link.springer.com/article/10.1007/BF02674313">Ichthyological Research, Rhinogobius mate choice</a>)。</p>
+<h3 id="_8">音響コミュニケーション</h3>
+<p>ハゼ類の雄は求愛・なわばり防衛時に低周波音を発する。主要な発声タイプは drum (ドラム音, 長いパルス列、平均 700 ms, 約 27 パルス) と thump (短い非パルス音, 約 80 ms, ピーク周波数 100 Hz 以下) で、前者は巣外でのクイヴァリング、後者は巣内ディスプレイで多い (<a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12032">Amorim et al. 2013, Funct Ecol</a>; <a href="https://journals.biologists.com/jeb/article/220/23/4374/33708/Sound-production-mechanism-in-Pomatoschistus">Pomatoschistus sound mechanism, J Exp Biol 2017</a>)。大きく長く発声する雄ほど脂質蓄積が多く、繁殖成功も高い。音と視覚刺激を組み合わせた選好実験では、雌は求愛音を伴う雄により長くとどまる (<a href="https://journals.biologists.com/jeb/article/216/21/3996/11675/Mate-preference-in-the-painted-goby-the-influence">Mate preference painted goby, J Exp Biol 2013</a>)。ラウンドゴビー <em>Neogobius melanostomus</em> では雌は grunt (うなり音) に対して drum より強く反応し、種特異性も音声に含まれる (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064620">PLOS ONE, Pomatoschistus sympatric</a>)。</p>
+<hr />
+<h2 id="6">6. 共生関係</h2>
+<h3 id="shrimpgoby">テッポウエビとハゼ (shrimpgoby)</h3>
+<p><em>Cryptocentrus</em> 属をはじめとする 100 種以上のハゼが、アルフェウス科 (テッポウエビ類) のエビと相利共生する (<a href="https://link.springer.com/article/10.1007/BF00353637">Karplus &amp; Thompson 2011 review, and general reviews via search</a>)。視覚に劣るエビが巣穴を掘削・維持し、視覚に優れるハゼが歩哨として捕食者を警戒する。採餌中のエビはハゼの尾に触角を接触させ続け、ハゼの尾の振り方 (tail flick) を退避シグナルとして受け取る (<a href="https://link.springer.com/article/10.1007/BF00353637">Karplus 1987, Mar Biol</a>; <a href="https://link.springer.com/article/10.1007/s13199-009-0045-7">Karplus comparative study 2010, Symbiosis</a>)。分業と情報伝達を伴う点で、非血縁個体間の典型的な相利共生として古典的事例となっている。</p>
+<h3 id="_9">巣穴共有型のクロイトハゼ属</h3>
+<p>クロイトハゼ属 <em>Valenciennea</em> は雌雄ペアが協力して複数の巣穴を掘り、一夫一妻の繁殖を行う (<a href="https://link.springer.com/article/10.1007/BF02675430">Reis &amp; Macdonald 2000 review via Ichthyol Res</a>)。<em>Valenciennea longipinnis</em> は雌雄が死サンゴ片・小石・貝殻・藻などを積み上げて mound を形成し、卵塊は産卵室の天井に産み付けられる。孵化までの 3–5 日間、雄は巣内で卵を護り、雌は外で mound を維持し、水流を喚起する役割を分担する (<a href="https://pubmed.ncbi.nlm.nih.gov/11033362/">Takegaki &amp; Nakazono 2000, J Exp Mar Biol Ecol</a>; <a href="https://link.springer.com/article/10.1007/BF02675429">Valenciennea longipinnis reproductive behavior, Ichthyol Res</a>)。ペア忠実性はある程度あるが、半数以上のペアは 1 産卵で解消され、長期的な「絆」ではなく資源と繁殖成功で説明可能な dynamic pair-bond である (<a href="https://link.springer.com/article/10.1023/A:1007320708862">Valenciennea strigata natural history, Env Biol Fishes</a>)。</p>
+<hr />
+<h2 id="7">7. 洞窟性・地下水性・干潟性・深海性への適応放散</h2>
+<h3 id="_10">洞窟性・地下水性ハゼ</h3>
+<p>洞窟性 gobioids は世界で数十種以上が記載され、退化した眼・色素欠如・感覚系の肥大 (troglomorphy) を共通に示す (<a href="https://en.wikipedia.org/wiki/Hypogean_fish">Hypogean fish – Wikipedia</a>)。マダガスカル南西部の石灰岩帯水層に固有の <em>Typhleotris</em> 属 (Milyeringidae, ブラインドケイブゴビー類) は 3 種が知られ、うち <em>T. mararybe</em> は IUCN 絶滅危惧 (<a href="https://en.wikipedia.org/wiki/Typhleotris_mararybe">Typhleotris mararybe – Wikipedia</a>; <a href="https://www.mapress.com/zt/article/view/zootaxa.4378.3.5">Zootaxa, Typhleotris assessment</a>)。Milyeringidae は Gobioidei 内で Oxudercidae+Gobiidae+Butidae+Eleotridae の姉妹群に位置づけられる (<a href="https://link.springer.com/article/10.1007/s10228-018-0659-y">Caecogobius description, Ichthyol Res</a>)。フィリピン・ミンダナオ島の洞窟系からは盲ハゼ <em>Caecogobius</em> の新種も報告されている (同上)。日本においてミミズハゼ属 <em>Luciogobius</em> は、礫浜の間隙空間 (anchialine ~ 海浜間隙) に adaptive radiation しており、体の著しい長形化と椎骨数の増加 (vertebral excess) が特徴である (<a href="https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-9-145">Yamada et al. 2009, BMC Evol Biol</a>)。鈴木寿之 (Suzuki) らは <em>Luciogobius ryukyuensis</em> や礫性ミミズハゼ <em>L. punctilineatus</em> 等の記載を進め (<a href="https://link.springer.com/article/10.1007/s10641-012-9994-4">Chen, Suzuki &amp; Senou, L. ryukyuensis</a>; <a href="https://www.biotaxa.org/Zootaxa/article/view/zootaxa.5138.2.2">L. punctilineatus, Zootaxa 2022</a>)、Rhinogobius 属の新種記載でも継続的に貢献している (<a href="https://www.jstage.jst.go.jp/article/bkpmnh/2017/46/2017_79/_article/-char/ja">Rhinogobius mizunoi, 2017 Bull Kanagawa Pref Mus</a>; <a href="https://www.jstage.jst.go.jp/article/bkpmnh/2022/51/2022_2/_article">Rhinogobius, Yaeyama 2022</a>)。</p>
+<h3 id="mudskippers">干潟性ハゼ (mudskippers)</h3>
+<p>Oxudercinae の <em>Periophthalmus</em>, <em>Boleophthalmus</em>, <em>Periophthalmodon</em>, <em>Scartelaos</em> などは「日周の一部を完全に陸上で過ごす」 fully terrestrial な行動をもつ (<a href="https://en.wikipedia.org/wiki/Mudskipper">Mudskipper – Wikipedia</a>)。皮膚呼吸と口腔咽頭粘膜呼吸が発達しており、<em>Periophthalmus modestus</em> は酸素摂取の 76% を皮膚呼吸で賄う (<a href="https://en.wikipedia.org/wiki/Mudskipper">mudskipper respiration overview</a>)。鰓腔を拡大させた内部に空気を保持し、陸上でも鰓を湿潤に保つ閉鎖弁を備える。ムツゴロウ <em>Boleophthalmus pectinirostris</em> は巣穴に空気を貯留し、成魚自身の呼吸と巣穴内胚発生の両方に利用する (<a href="https://journals.biologists.com/jeb/article/210/22/3946/17150/Mudskippers-brood-their-eggs-in-air-but-submerge">Ishimatsu et al. 2007, J Exp Biol</a>)。マレー半島のオオトビハゼ <em>Periophthalmodon schlosseri</em> では、内視鏡観察により巣穴内の air chamber 天井に単層で産卵される様子が直接確認されており、親が空気を口で運んで胚に酸素を供給する (<a href="https://www.researchgate.net/publication/41116316_Direct_evidence_for_aerial_egg_deposition_in_the_burrows_of_the_Malaysian_mudskipper_Periophthalmodon_schlosseri">Ishimatsu et al., aerial egg deposition</a>)。孵化時には卵を再水中化させるという巧妙な発生戦略ももつ。<em>Periophthalmus</em> は腹帯と胸鰭で体を持ち上げて飛び跳ねる terrestrial locomotion を行い、より湿潤依存の <em>Boleophthalmus</em> は腹部を泥水につけたまま行動する (<a href="https://en.wikipedia.org/wiki/Mudskipper">Mudskipper – Wikipedia</a>)。</p>
+<h3 id="_11">深場性ハゼ</h3>
+<p>ハゼ類全体では浅海域 (潮間帯・サンゴ礁・藻場) を主分布とするが、シベリアの亜北極河川から標高 2,000 m の島嶼山地渓流、さらに水深 800 m 帯までの分布幅をもつ (<a href="https://en.wikipedia.org/wiki/Gobiidae">Gobiidae – Wikipedia</a>)。<em>Bathygobius</em> 属自体は潮だまり・泥干潟・マングローブの浅場が主で、例えば <em>B. fuscus</em> は深度 0–6 m に典型的に分布する (<a href="https://waterworlds.info/marine-species/dusky-frillgoby-bathygobius-fuscus/">Bathygobius fuscus profile, waterworlds.info</a>)。一方、海底性の深場種は別属にまたがって存在し、近年カリフォルニア科学アカデミーのチームが深海ハゼの新種記載を進めている (<a href="https://www.calacademy.org/explore-science/new-discoveries-gobies-and-deep-sea-fish">CalAcademy, deep-sea gobies</a>)。深場種では眼の肥大や発光器・感覚孔系の発達など、浅海系と異なる形態進化が目立つ。</p>
+<hr />
+<h2 id="8">8. 汽水・純淡水・純海水種の比率</h2>
+<p>Gobiidae は本質的に浅海性魚類のグループで、大多数の種は海産である。しかしながら、タイドプール・サンゴ礁・海草藻場に加え、汽水域・河口・マングローブ・塩湿地で極めて高い多様性をもち、完全淡水適応種も 200 種以上と推定される (正確な数は未確定) (<a href="https://en.wikipedia.org/wiki/Gobiidae">Gobiidae – Wikipedia</a>)。淡水ハゼの多くは両側回遊を生活史に組み込んでおり、そのため「成魚は淡水・仔魚は海」という個体発生スケールでの汽水依存が特徴的である (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-2979.2007.00232.x">McDowall 2007, Fish and Fisheries</a>)。</p>
+<hr />
+<h2 id="9">9. 寿命・成熟年齢・繁殖戦略</h2>
+<p>ハゼ類の寿命は種間差が大きく、1–10 年の幅をもつ。熱帯域の小型種は概ね 1 年以内で成熟・繁殖・死亡し、寒冷域では 2–10 年生きる種も珍しくない (<a href="https://en.wikipedia.org/wiki/Gobiidae">Gobiidae – Wikipedia</a>; <a href="https://animaldiversity.org/accounts/Gobiidae/">Animal Diversity Web, Gobiidae</a>)。たとえばラウンドゴビー <em>Neogobius melanostomus</em> は最大 4 年、南アフリカの <em>Glossogobius callidus</em> は雌 7 年・雄 6 年以上の記録がある (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70349">Klarl et al. 2024, Ecol Evol</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8913340/">Glossogobius giuris fecundity, PMC</a>)。</p>
+<p>ハゼ類の繁殖戦略は広義の r 選択的傾向 (体サイズ小・早期成熟・多産・高仔魚死亡) を示すが、同時に雄の卵保護による K 戦略的要素も重ねもつ mixed strategy である。具体的には、</p>
+<ul>
+<li><strong>一繁殖期に複数回産卵する batch spawning</strong>: ラウンドゴビーでは繁殖期内に 2–4 回産卵し、孵化時期をずらすことで捕食リスクを分散し好条件での孵化を増やす (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70349">Klarl et al. 2024, Ecol Evol</a>)。</li>
+<li><strong>卵数の広い変動</strong>: <em>Neogobius melanostomus</em> の平均卵数は約 198 個にとどまるが、<em>Glossogobius giuris</em> では 5,118–100,003 個と種間差が極端に大きい (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8913340/">Glossogobius giuris fecundity, PMC</a>)。</li>
+<li><strong>雄親による卵保護に支えられた高い胚生存率</strong>: ラウンドゴビーでは雄保護下の胚生存率が 90% にも達する (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70349">Klarl et al. 2024</a>)。</li>
+<li><strong>両側回遊種における卵サイズ–仔魚生残の母体サイズ依存</strong>: Iwata &amp; Tamada (2005) は、ヨシノボリ属の大型雌ほど卵サイズが大きく、仔魚の初期餓死耐性が高まることを示した (<a href="https://link.springer.com/article/10.1007/s10641-005-2230-8">Iwata &amp; Tamada 2005, Env Biol Fishes</a>)。陸封系統では、仔魚の餓死リスクに応じた卵サイズ進化が集団間で検出されている (<a href="https://link.springer.com/article/10.1023/A:1025870628640">Interpopulational egg-size variation, Env Biol Fishes</a>)。</li>
+</ul>
+<hr />
+<h2 id="10">10. 日本人研究者の寄与 (まとめ)</h2>
+<ul>
+<li><strong>岩田勝哉 (Iwata)</strong>: ヨシノボリ属の母体サイズ依存的卵サイズ変異、集団間の卵サイズ進化、両側回遊仔魚の生残条件に関する定量研究 (<a href="https://link.springer.com/article/10.1007/s10641-005-2230-8">Iwata &amp; Tamada 2005</a>)。</li>
+<li><strong>玉田一晃 (Tamada)</strong>: 和歌山県相津川をフィールドに、ヨシノボリ 4 種の産卵場分布、河床構造と分布の対応、雄の配偶パターンの定量化 (<a href="https://link.springer.com/article/10.1007/s10228-008-0069-7">Tamada 2008</a>; <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0633.2010.00450.x">Tamada 2011</a>; <a href="https://link.springer.com/article/10.1007/s10228-007-0015-0">mating pattern by egg density</a>)。</li>
+<li><strong>後藤晃 (Goto) ほか</strong>: 両側回遊種 <em>Sicyopterus japonicus</em> の河川内分布・再加入・耳石解析による海洋仔魚期推定 (<a href="https://link.springer.com/article/10.1007/s10641-012-0055-9">Riverine life history of S. japonicus</a>; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098116301666">Iida et al. 2017</a>)。</li>
+<li><strong>鈴木寿之 (Suzuki)</strong>: <em>Rhinogobius mizunoi</em>, 八重山群島産 Rhinogobius, ミミズハゼ類 (<em>Luciogobius ryukyuensis</em>, <em>L. punctilineatus</em> 等) の記載をはじめとする分類学的寄与 (<a href="https://www.jstage.jst.go.jp/article/bkpmnh/2017/46/2017_79/_article/-char/ja">Suzuki 2017</a>; <a href="https://link.springer.com/article/10.1007/s10641-012-9994-4">Chen, Suzuki &amp; Senou 2012</a>; <a href="https://www.biotaxa.org/Zootaxa/article/view/zootaxa.5138.2.2">Okiyama &amp; Yamada, L. punctilineatus 2022</a>)。</li>
+<li><strong>石松惇 (Ishimatsu) ら</strong>: <em>Boleophthalmus pectinirostris</em>, <em>Periophthalmodon schlosseri</em> の巣穴内空気呼吸・空気中産卵の生態生理 (<a href="https://journals.biologists.com/jeb/article/210/22/3946/17150/Mudskippers-brood-their-eggs-in-air-but-submerge">Ishimatsu et al. 2007, J Exp Biol</a>)。</li>
+<li><strong>武上健太郎 (Takegaki) ら</strong>: クロイトハゼ属 <em>Valenciennea longipinnis</em> の一夫一妻・分業・mound による水流制御 (<a href="https://pubmed.ncbi.nlm.nih.gov/11033362/">Takegaki &amp; Nakazono 2000</a>)。</li>
+</ul>
+<hr />
+<h2 id="11">11. まとめ</h2>
+<p>ハゼ類の生態・生活史・行動は、(1) 雄の卵保護という親投資の定型と、(2) 両側回遊に代表される仔魚期の海洋分散を組み合わせた mixed reproductive strategy を骨格に、干潟・洞窟・地下水・礫浜間隙・深場・エビ共生など多様なニッチに適応放散した結果として理解される。音響・視覚の求愛シグナル進化、テッポウエビとの相利共生、ペア型繁殖 (Valenciennea) などは、硬骨魚類の行動生態学におけるモデル系となっている。日本では岩田・玉田・後藤・鈴木・石松らが、両側回遊種のフィールド集団生態、分類、発生生理など幅広く成果を積み上げており、現代のハゼ類研究の中核の一角を担っている。在野研究者が両側回遊・陸封分化・仔魚分散などのテーマで貢献を目指すうえでも、これらの文献群は出発点となる。</p>
+<hr />
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://www.micronesica.org/sites/default/files/1_-_mcdowellocr.pdf">McDowall 1997 – Is There Such a Thing as Amphidromy? Micronesica</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-2979.2007.00232.x">McDowall 2007 – On amphidromy, Fish and Fisheries</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098116301666">Iida et al. 2017, J Exp Mar Biol Ecol – specific gravity and migratory patterns, Okinawa</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S002209810900481X">Iida et al. 2010, J Exp Mar Biol Ecol – downstream migration of S. japonicus larvae</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1095-8649.1999.tb02027.x">Iguchi 1999 – early starvation in amphidromous fishes, J Fish Biol</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/10.1111/eff.12205">Teichert et al. 2016 – pelagic larval traits S. lagocephalus</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10452-019-09734-z">Aquatic Ecology 2019 – salinity transformation S. lagocephalus</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10641-012-0055-9">Riverine life history of Sicyopterus japonicus – Env Biol Fishes</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10641-005-2230-8">Iwata &amp; Tamada 2005 – egg size, maternal size, Rhinogobius</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10228-008-0069-7">Tamada 2008 – clutch and egg size along river course</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0633.2010.00450.x">Tamada 2011 – river bed features and Rhinogobius distribution</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10228-007-0015-0">Estimate of mating pattern Rhinogobius – Ichthyol Res</a></li>
+<li><a href="https://link.springer.com/article/10.1007/BF02675437">Breeding ecology of Rhinogobius – Ichthyol Res</a></li>
+<li><a href="https://link.springer.com/article/10.1007/BF02674313">Mate choice and cannibalism Rhinogobius – Ichthyol Res</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s00265-003-0693-1">Takahashi &amp; Yanagisawa 2003 – courtship in Rhinogobius brunneus</a></li>
+<li><a href="https://link.springer.com/article/10.1023/A:1025870628640">Interpopulational egg-size variation, Rhinogobius</a></li>
+<li><a href="https://link.springer.com/article/10.1007/BF00005234">Julius et al. 1996 – diet of Sicyopterus stimpsoni</a></li>
+<li><a href="https://link.springer.com/article/10.1023/A:1007377116976">Feeding of a benthic goby – Env Biol Fishes</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rhinogobius_giurinus">Rhinogobius giurinus – Wikipedia</a></li>
+<li><a href="https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-9-145">Luciogobius interstitial radiation – BMC Evol Biol 2009</a></li>
+<li><a href="https://www.jstage.jst.go.jp/article/pbr/17/2/17_B170212/_article">Luciogobius interstitial meiobenthos – Plankton Benthos Res</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10641-012-9994-4">Chen, Suzuki &amp; Senou 2012 – L. ryukyuensis spawning</a></li>
+<li><a href="https://www.jstage.jst.go.jp/article/bkpmnh/2017/46/2017_79/_article/-char/ja">Suzuki 2017 – Rhinogobius mizunoi new species</a></li>
+<li><a href="https://www.jstage.jst.go.jp/article/bkpmnh/2022/51/2022_2/_article">Rhinogobius new species, Yaeyama 2022</a></li>
+<li><a href="https://www.biotaxa.org/Zootaxa/article/view/zootaxa.5138.2.2">Luciogobius punctilineatus new species – Zootaxa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gobiidae">Gobiidae – Wikipedia</a></li>
+<li><a href="https://animaldiversity.org/accounts/Gobiidae/">Gobiidae – Animal Diversity Web</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hypogean_fish">Hypogean fish – Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Typhleotris_mararybe">Typhleotris mararybe – Wikipedia</a></li>
+<li><a href="https://www.mapress.com/zt/article/view/zootaxa.4378.3.5">Typhleotris assessment – Zootaxa</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10228-018-0659-y">Caecogobius new species – Ichthyol Res 2018</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mudskipper">Mudskipper – Wikipedia</a></li>
+<li><a href="https://journals.biologists.com/jeb/article/210/22/3946/17150/Mudskippers-brood-their-eggs-in-air-but-submerge">Ishimatsu et al. 2007 – mudskippers brood eggs in air, J Exp Biol</a></li>
+<li><a href="https://www.researchgate.net/publication/41116316_Direct_evidence_for_aerial_egg_deposition_in_the_burrows_of_the_Malaysian_mudskipper_Periophthalmodon_schlosseri">Ishimatsu et al. – aerial egg deposition Periophthalmodon schlosseri</a></li>
+<li><a href="https://waterworlds.info/marine-species/dusky-frillgoby-bathygobius-fuscus/">Bathygobius fuscus profile</a></li>
+<li><a href="https://www.calacademy.org/explore-science/new-discoveries-gobies-and-deep-sea-fish">CalAcademy – deep-sea gobies discoveries</a></li>
+<li><a href="https://link.springer.com/article/10.1007/BF00353637">Karplus 1987 – Cryptocentrus &amp; Alpheus associative behavior, Mar Biol</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s13199-009-0045-7">Karplus 2010 – comparative study of goby-shrimp associations, Symbiosis</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11033362/">Takegaki &amp; Nakazono 2000 – Valenciennea longipinnis mounds</a></li>
+<li><a href="https://link.springer.com/article/10.1007/BF02675429">Valenciennea longipinnis reproductive behavior – Ichthyol Res</a></li>
+<li><a href="https://link.springer.com/article/10.1007/BF02675430">Valenciennea longipinnis division of labor – Ichthyol Res</a></li>
+<li><a href="https://link.springer.com/article/10.1023/A:1007320708862">Valenciennea strigata natural history, Env Biol Fishes</a></li>
+<li><a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12032">Amorim et al. 2013 – painted goby acoustic signaling, Funct Ecol</a></li>
+<li><a href="https://journals.biologists.com/jeb/article/220/23/4374/33708/Sound-production-mechanism-in-Pomatoschistus">Painted goby sound production mechanism – J Exp Biol 2017</a></li>
+<li><a href="https://journals.biologists.com/jeb/article/216/21/3996/11675/Mate-preference-in-the-painted-goby-the-influence">Mate preference in painted goby – J Exp Biol 2013</a></li>
+<li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064620">Courtship sounds advertise species identity, PLOS ONE</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6007595/">Female mating competition in common gobies, Current Zoology</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12314">Wacker 2014 – mate and resource competition, J Evol Biol</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098101002490">Parental investment Gobiusculus flavescens, J Exp Mar Biol Ecol</a></li>
+<li><a href="https://www.researchgate.net/publication/280131680_Spawning_and_nest_guarding_of_the_river_goby_Glossogobius_callidus_from_the_Eastern_Cape_province_of_South_Africa">Glossogobius callidus nest guarding</a></li>
+<li><a href="https://www.mdpi.com/2410-3888/8/7/364">Amblygobius phalaena – MDPI 2023</a></li>
+<li><a href="https://www.researchgate.net/publication/222416208_Breeding_rearing_and_feeding_studies_in_the_cleaner_goby_Gobiosoma_evelynae">Breeding Gobiosoma evelynae – ResearchGate</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70349">Klarl et al. 2024 – round goby reproductive strategy, Ecol Evol</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8913340/">Glossogobius giuris fecundity – PMC</a></li>
+</ul>
+<footer>
+generated from <code>04-ecology-life-history.md</code> / dataset: gobies-overview
+</footer>
+</body>
+</html>

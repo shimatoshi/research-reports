@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>印旛オオクワガタ伝聞の出典トレース</title>
+<style>
+:root{--bg:#0f1923;--card:#1a2733;--card2:#223344;--accent:#4fc3f7;--accent2:#81d4fa;--green:#66bb6a;--orange:#ffa726;--red:#ef5350;--purple:#ce93d8;--yellow:#fff176;--text:#e0e0e0;--text2:#90a4ae;--border:#2a3a4a}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,'Helvetica Neue','Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.75;font-size:15px}
+.header{background:linear-gradient(135deg,#1b3a2a,#2e4d3a,#3a5e48);padding:24px 16px;text-align:center;position:sticky;top:0;z-index:100;box-shadow:0 4px 20px rgba(0,0,0,.5)}
+.header h1{font-size:20px;color:#fff;margin-bottom:6px}
+.header .sub{font-size:12px;color:#a5d6a7}
+.header .meta{font-size:11px;color:#c8e6c9;margin-top:6px}
+nav{background:var(--card);padding:8px;display:flex;flex-wrap:wrap;gap:5px;justify-content:center;border-bottom:1px solid var(--border);position:sticky;top:80px;z-index:99}
+nav a{color:#81c784;text-decoration:none;font-size:11px;padding:4px 9px;border-radius:14px;background:var(--card2);white-space:nowrap}
+nav a:active{background:#1b5e20;color:#fff}
+.container{max-width:960px;margin:0 auto;padding:14px}
+h2{font-size:19px;color:#81c784;border-left:4px solid #66bb6a;padding:8px 12px;margin:24px 0 14px;background:var(--card);border-radius:0 8px 8px 0}
+h3{font-size:16px;color:var(--orange);margin:18px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--border)}
+h4{font-size:14px;color:var(--accent);margin:12px 0 6px}
+.summary-card{background:linear-gradient(135deg,#1a3a2a,#2a4a3a);border:1px solid #4a6a5a;border-radius:10px;padding:14px;margin:14px 0}
+.summary-card h3{color:#a5d6a7;border-bottom:none;margin-top:0}
+.summary-card ul{margin-left:18px}
+.summary-card li{margin:8px 0;font-size:14px}
+.summary-card strong{color:#fff}
+table{width:100%;border-collapse:collapse;margin:10px 0;font-size:12.5px}
+th{background:var(--card2);color:var(--accent);padding:8px 6px;text-align:left;font-weight:600;position:sticky;top:0}
+td{padding:7px 6px;border-bottom:1px solid var(--border);vertical-align:top}
+td.year{white-space:nowrap;color:var(--yellow);font-family:monospace}
+td.author{color:var(--accent2)}
+td a{color:#80cbc4;text-decoration:none;word-break:break-all}
+td a:hover{text-decoration:underline}
+.tag{display:inline-block;font-size:10px;padding:2px 7px;border-radius:9px;margin:1px 2px;white-space:nowrap}
+.tag-primary{background:#1b5e20;color:#a5d6a7}
+.tag-secondary{background:#4a148c;color:#ce93d8}
+.tag-rumor{background:#3e2723;color:#ffab91}
+.tag-trade{background:#e65100;color:#ffcc80}
+.tag-academic{background:#0d47a1;color:#90caf9}
+.warn{background:#3e2723;border-left:4px solid var(--red);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.warn strong{color:var(--red)}
+.tip{background:#1a3a1a;border-left:4px solid var(--green);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.tip strong{color:var(--green)}
+.info{background:#0d2137;border-left:4px solid var(--accent);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.info strong{color:var(--accent)}
+.note{background:#2a2533;border-left:4px solid var(--purple);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.note strong{color:var(--purple)}
+details{margin:10px 0}
+summary{cursor:pointer;color:var(--accent);font-weight:bold;padding:8px 12px;background:var(--card);border-radius:8px;border:1px solid var(--border)}
+summary:hover{background:var(--card2)}
+details[open] summary{border-radius:8px 8px 0 0}
+details .inner{background:var(--card);padding:14px;border:1px solid var(--border);border-top:none;border-radius:0 0 8px 8px}
+ul,ol{margin:8px 0 8px 22px;font-size:14px;color:var(--text2)}
+li{margin:5px 0}
+li strong{color:var(--text)}
+em{color:var(--accent2);font-style:italic}
+.unresolved{background:var(--card);padding:14px;border-radius:8px;border:1px solid var(--border);margin:10px 0}
+.unresolved li{color:var(--text2)}
+.unresolved li::marker{color:var(--orange)}
+.refs{background:var(--card);padding:14px;border-radius:8px;border:1px solid var(--border);margin:10px 0;font-size:12.5px}
+.refs ol{margin-left:24px}
+.refs li{margin:6px 0;line-height:1.6}
+.refs a{color:#80cbc4;word-break:break-all}
+.footer{text-align:center;padding:24px;color:var(--text2);font-size:12px;border-top:1px solid var(--border);margin-top:40px}
+.scroll-x{overflow-x:auto;-webkit-overflow-scrolling:touch}
+@media(max-width:600px){th,td{font-size:11.5px;padding:5px 4px}.header h1{font-size:17px}nav{top:74px}}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>印旛オオクワガタ伝聞の出典トレース</h1>
+<div class="sub">Origin Tracing of "Inba is a productive locality" rumor — <em>Dorcus hopei binodulosus</em></div>
+<div class="meta">調査日: 2026-04-27 / 在野研究者向け一次資料整理</div>
+</div>
+<nav>
+<a href="#summary">サマリー</a>
+<a href="#timeline">タイムライン</a>
+<a href="#academic">学術一次</a>
+<a href="#sns">SNS/ブログ</a>
+<a href="#trade">流通</a>
+<a href="#conclusion">結論</a>
+<a href="#unresolved">未解決</a>
+<a href="#tech">調査ログ</a>
+<a href="#refs">出典</a>
+</nav>
+<div class="container">
+
+<div class="note">
+<strong>方針:</strong> 採集ピンポイント (林道名・神社名・GPS等) は記載しない。市町村名までに丸める (chiba.mdと共通)。
+</div>
+
+<h2 id="summary">調査結果サマリー</h2>
+<div class="summary-card">
+<ul>
+<li><strong>最古の言及 (商業/Web):</strong> あいあん (iron)「オオクワガタの有名産地」(<em>くわばか2000秋号</em>, 2000年頃, asahi-net) — ただし「東関東」(千葉・茨城) としか書かれず、<strong>印旛・印西・横芝の固有地名は登場しない</strong></li>
+<li><strong>最古の固有地名併記 (商業/Web):</strong> 天羽ドルクス「千葉県産オオクワガタの産地別飼育」(2008-05-31) で <strong>印旛・印西・白井・横芝光・松尾・勝浦・市原</strong>を地図表示</li>
+<li><strong>最古の流通ラベル:</strong> ＭＧＭ (d-mgm.net) で<strong>「千葉県印西市印旛産」材割成虫 ♂66/♀42</strong>ペア販売 (Wayback 最古スナップショット 2021-05-14、流通開始は不明だがそれ以前)</li>
+<li><strong>最古の学術一次記録:</strong> 鈴木智史・城田義友 (2009)「成田市でオオクワガタを採集」<em>房総の昆虫</em> No.43:32 — 2008-11-30 ♂、2008-12-14 ♀+幼虫 (材割、コナラ)</li>
+<li><strong>一次情報源の有無:</strong> <strong>部分的にあり</strong>。<strong>成田市</strong> (印旛地域北端) からは2008年正式記録あり。一方、印旛村・印西市・白井市の野外個体は、鈴木 勝の長期調査 (1977-1985 + 続報) で<strong>クワガタ3種 (ノコ・コクワ・ヒラタ) は確認、オオクワは0個体</strong></li>
+</ul>
+</div>
+
+<h3>推定される伝聞の伝播経路</h3>
+<div class="info">
+<ol style="margin-left:20px">
+<li>1990年代後半〜2000年前後の「クワガタブーム / 黒いダイヤ」流行</li>
+<li><strong>BE-KUWA No.8『日本のオオクワガタ大特集!!』(2003-09, むし社)</strong> が全国250採集ポイント掲載 — Dorcus Navi 関東解説 (出典: 同号) で「<strong>千葉では印旛郡・山武郡・市原市・夷隅郡・勝浦市</strong>」とブランド化</li>
+<li>千葉の昆虫店 (例: 習志野市の習クワ) が「白井産」「千葉県産」ラベルで流通</li>
+<li>ＭＧＭ等が「千葉県印西市印旛産」ラベルで材割成虫を販売</li>
+<li>2008-05-31 <strong>天羽ドルクス</strong>が「千葉県産オオクワガタ産地別飼育」ページ公開 (印旛・印西・白井・横芝・松尾・勝浦) — 県外ファン向け一番分かりやすい産地マップに</li>
+<li>Yahoo知恵袋 (2011-2012)・個人ブログを通じて「印旛沼=オオクワ生息地」が定着するが、<strong>同好会誌レベルでの印旛村・印西市・白井市の野外個体記録は未発見</strong></li>
+</ol>
+</div>
+
+<h2 id="timeline">確認された言及 (古い順)</h2>
+<div class="scroll-x">
+<table>
+<thead><tr><th>年</th><th>媒体</th><th>著者/AC</th><th>記述要旨</th><th>一次性</th></tr></thead>
+<tbody>
+<tr><td class="year">2000頃</td><td>個人サイト/同人誌<br><a href="http://www.asahi-net.or.jp/~id8k-sgn/kuwabaka2000c/iron/point.htm">くわばか2000秋号</a></td><td class="author">あいあん (iron)</td><td>「東関東」として千葉・茨城を一括紹介。「太い台場くぬぎはほとんどないが…」 — 印旛/横芝の地名は不出現</td><td><span class="tag tag-secondary">自己採集経験</span></td></tr>
+<tr><td class="year">2003-09</td><td>商業誌<br><strong>BE-KUWA No.8</strong>『日本のオオクワガタ大特集!!』むし社</td><td class="author">編集部 / 寄稿者</td><td>全国250採集ポイント掲載。Dorcus Navi 関東解説 (出典:本号) で「<strong>千葉では印旛郡・山武郡・市原市・夷隅郡・勝浦市</strong>」と明記</td><td><span class="tag tag-secondary">編集部集約</span></td></tr>
+<tr><td class="year">2008-05-31</td><td>クラブサイト<br><a href="https://amahadorcus.bosolife.net/gallery-chiba.htm">天羽ドルクス</a></td><td class="author">天羽ドルクス (Junら4名、平成19年5月設立)</td><td>千葉県産オオクワガタ産地別飼育の地図に <strong>印旛・印西・白井・横芝光・松尾・勝浦・市原</strong>を表示</td><td><span class="tag tag-secondary">二次的</span></td></tr>
+<tr><td class="year">2009-12-15</td><td>同好会誌<br>『房総の昆虫』No.43:1-4</td><td class="author">鈴木 勝</td><td>1977-1985年継続採集で<strong>佐倉市・印旛村・印西市・本埜村</strong>からクワガタムシ科<strong>3種 (ノコ・コクワ・ヒラタ)</strong>。ヒラタは1個体 (佐倉市八幡台 1985年8月)。<strong>オオクワガタは記録なし</strong></td><td><span class="tag tag-academic">一次 (8年系統調査)</span></td></tr>
+<tr><td class="year">2009-12-15</td><td>同好会誌<br>『房総の昆虫』No.43:32</td><td class="author">鈴木智史・城田義友</td><td>1♂+1幼虫 (成田市北部, 2008-11-30, 鈴木採集) / 1♀+1幼虫 (成田市北部, 2008-12-14, 城田採集)。コナラ朽木の材割。マイマイカブリ採集中の偶然</td><td><span class="tag tag-academic">一次 (印旛地域最古の同好会誌掲載)</span></td></tr>
+<tr><td class="year">2011-07-18</td><td>Q&A<br><a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1166834761">Yahoo知恵袋</a></td><td class="author">(質問者・回答者)</td><td>「印旛村」「成田周辺」「横芝光町」を千葉県の採集地として挙げる。BAは千葉市緑区おゆみ野/大膳野町境</td><td><span class="tag tag-rumor">伝聞</span></td></tr>
+<tr><td class="year">2012-07-19</td><td>Q&A<br><a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1190922856">Yahoo知恵袋</a></td><td class="author">(回答者)</td><td>「千葉県印西近辺でよく取れる」「クヌギの木があれば、コクワガタは確実」「オオクワすら採れてるみたい」</td><td><span class="tag tag-rumor">伝聞</span></td></tr>
+<tr><td class="year">2012-12-06</td><td>ブログ<br><a href="https://lossblood.exblog.jp/19622435/">チョイチョイ欲しくなる</a></td><td class="author">clossblock</td><td>「印西市にオオクワがいるなんて噂を聞いた」 → 実際にはコクワガタのみ</td><td><span class="tag tag-rumor">伝聞 (噂)</span></td></tr>
+<tr><td class="year">2012-12-25</td><td>同好会誌<br>『房総の昆虫』No.50:34</td><td class="author">中山悠一郎</td><td>「千葉市緑区土気町でオオクワガタ♀を拾う」 (参考)</td><td><span class="tag tag-academic">一次 (拾得)</span></td></tr>
+<tr><td class="year">2013-06-09</td><td>ブログ<br><a href="https://ameblo.jp/kuwa-kuwata/entry-11548952668.html">くわ太</a></td><td class="author">くわ太</td><td>「6/9 千葉市＆北総オオクワポイント開拓」北総複数箇所探索しコクワのみ。<strong>ふじたいら氏のクワ友清水先生</strong>から伝聞</td><td><span class="tag tag-rumor">伝聞ベース探索記</span></td></tr>
+<tr><td class="year">2013-12-15</td><td>同好会誌<br>『房総の昆虫』No.52:5</td><td class="author">鈴木 勝</td><td>2012年西印旛沼周辺甲虫続報。本調査でPDF確認、項目目録のみ取得 — オオクワガタ言及なし</td><td><span class="tag tag-academic">一次</span></td></tr>
+<tr><td class="year">2016-12-20</td><td>同好会誌<br>『房総の昆虫』No.58:27-40</td><td class="author">鈴木 勝</td><td>西印旛沼甲虫調査(I)。Dorcus属はコクワガタのみ掲載、<strong>オオクワガタの記載なし</strong></td><td><span class="tag tag-academic">一次</span></td></tr>
+<tr><td class="year">2017-06-20</td><td>同好会誌<br>『房総の昆虫』No.59:26</td><td class="author">鈴木 勝</td><td>西印旛沼甲虫調査(II) [本文未取得・目次のみ]</td><td><span class="tag tag-academic">一次</span></td></tr>
+<tr><td class="year">2017-12-20</td><td>同好会誌<br>『房総の昆虫』No.60:8</td><td class="author">鈴木 勝</td><td>西印旛沼甲虫調査(III) [本文未取得]</td><td><span class="tag tag-academic">一次</span></td></tr>
+<tr><td class="year">2018-06-20</td><td>同好会誌<br>『房総の昆虫』No.62:46</td><td class="author">鈴木 勝</td><td>西印旛沼甲虫調査(補遺) [本文未取得]</td><td><span class="tag tag-academic">一次</span></td></tr>
+<tr><td class="year">2019-08-07</td><td>ブログ<br><a href="https://chibakuwa624.blog.jp/archives/1401134.html">ふじたいらの道草日記</a></td><td class="author">aizufuji0624</td><td>「実績あるクヌギで今夏2頭目のオオクワガタを採集」千葉県北総・印旛 (画像キャプション)。「貴重な千葉県産なので採集記は限定にする予定」</td><td><span class="tag tag-primary">一次 (採集者本人)</span></td></tr>
+<tr><td class="year">~2021</td><td>流通<br><a href="https://web.archive.org/web/20210514092604/http://d-mgm.net/binodulosus.html">ＭＧＭ (Wayback)</a></td><td class="author">店</td><td><strong>「千葉県印西市印旛産」材割成虫採集 ♂66/♀42 ペア ¥64,800</strong> (流通開始時期不明、Wayback最古2021-05-14)</td><td><span class="tag tag-trade">商業ラベル</span></td></tr>
+<tr><td class="year">随時</td><td>商業<br><a href="https://www.narakuwa.jp/">習クワ</a> (習志野市本大久保, 京成大久保駅近)</td><td class="author">石井克巳店主</td><td>二次サイト複数で「白井産F2世代」流通の記述 (kotobano.gift, hercules-honpo.jp等)。<strong>同店公式上で「白井」直接言及は本調査では確認できず</strong></td><td><span class="tag tag-trade">二次的言及</span></td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 id="academic">一次資料 (博物館・学術) の照合結果</h2>
+
+<h3>千葉県昆虫談話会『房総の昆虫』(1989〜現在 No.73)</h3>
+<p>千葉県の昆虫相を体系的に記録する事実上の最重要同好会誌。NDLサーチでも「千葉県の昆虫相を研究する上で欠かすことの出来ない文献」と評価。</p>
+<div class="tip">
+<strong>印旛地域で確認できるオオクワガタ唯一の同好会誌掲載記録:</strong>
+<ul>
+<li><strong>鈴木智史・城田義友 (2009)</strong>「成田市でオオクワガタを採集」<em>房総の昆虫</em> No.43:32</li>
+<li>1♂+1幼虫, 成田市北部, 2008-11-30, 鈴木智史採集 (1♂は鈴木保管、幼虫は織戸昌則氏が飼育)</li>
+<li>1♀+1幼虫, 成田市北部, 2008-12-14, 城田義友採集・保管</li>
+<li>採集方法: コナラ朽木の材割。マイマイカブリ採集中の偶然</li>
+</ul>
+</div>
+<div class="warn">
+<strong>印旛村・印西市・白井市・本埜村の野外オオクワガタ記録</strong>は本調査時点 (2026-04-27) で『房総の昆虫』No.43〜No.73 の目次・取得済PDF (No.43, No.52, No.58) からは確認できず。鈴木 勝氏の長期系統調査では西印旛沼周辺地域 (印旛村・印西市・本埜村・佐倉市) からのクワガタムシ科は<strong>ノコギリ・コクワ・ヒラタの3種に留まる</strong>。
+</div>
+<p class="info" style="font-size:13px"><strong>注:</strong> No.43~73すべてを精査したわけではなく、目次からの探索のみ。見落としの可能性あり。</p>
+
+<h3>千葉県動物誌 (1999, 文一総合出版) — 未確認</h3>
+<ul>
+<li>直海俊一郎・武田卓明 (1999)「千葉県のハネカクシ科」<em>千葉県動物誌</em>:551 として参照されているが、本書全体目録の千葉県産オオクワガタ記録の有無は本調査では未確認。要図書館アクセス</li>
+<li>鈴木 勝・斉藤明子による「千葉県動物誌・千葉県産動物総目録に掲載されていない甲虫」シリーズが『房総の昆虫』に連載 (No.50, 58, 60, 73等)。補遺対象になっているか要確認</li>
+</ul>
+
+<h3>千葉県レッドリスト (動物編 2019年改訂版)</h3>
+<ul>
+<li>オオクワガタは <strong>A (最重要保護生物)</strong>、減少要因「生息地の減少」(327頁)</li>
+<li>具体的な印旛地域記録の出典は本文に明示されない</li>
+</ul>
+
+<h3>千葉県立中央博物館 (KPM)</h3>
+<ul>
+<li>標本データベースへの直接アクセスは未実施。Web検索では印旛産オオクワガタ標本の同館収蔵情報を確認できず</li>
+</ul>
+
+<h2 id="sns">SNS / ブログでの広がり</h2>
+
+<h3>Twitter / X (Nitter経由)</h3>
+<div class="warn">
+nitter.poast.org / xcancel.com / nitter.tiekoetter.com / nitter.privacydev.net / nitter.net を試行。いずれもCloudflare/Anubis等のbot対策により検索結果取得不可。<strong>結論:</strong> Twitter上の言及はあると思われるが、本調査では古い投稿を遡れず。
+</div>
+
+<h3>ブログ</h3>
+<ul>
+<li><strong>2012年が転換点:</strong> 知恵袋 (2011-2012)・ブログ「チョイチョイ欲しくなる」(2012-12-06) で「印西市にオオクワがいるなんて噂を聞いた」が表面化</li>
+<li>2013年に複数ブロガー (くわ太、ふじたいら関連) が北総オオクワ開拓を試行</li>
+<li>2019年以降、aizufuji0624 (ふじたいら) が<strong>実際の採集個体写真を伴うブログ記事</strong>を北総エリアで公開 — 詳細は伏せ、地域は「県北A/B/C」と匿名化</li>
+</ul>
+
+<h3>集合知ページ</h3>
+<ul>
+<li><strong>Dorcus Navi</strong> (dorcusnavi.com): 出典BE-KUWA No.8。「<strong>千葉では印旛郡・山武郡・市原市・夷隅郡・勝浦市</strong>」と明記。Web上の主な拡散源</li>
+<li><strong>オオクワ求めて三千里</strong> (ookuwamotomete.com): 千葉県産は「ワイルド♂45mm 樹液採集 採集者:あ〜氏」のみ、地名伏せ</li>
+</ul>
+
+<h2 id="trade">昆虫店流通 (「習クワ」白井産等)</h2>
+
+<h3>習クワ (千葉県習志野市本大久保1-5-10、京成大久保駅徒歩3分)</h3>
+<table>
+<tr><th>項目</th><th>内容</th></tr>
+<tr><td>店主</td><td>石井克巳</td></tr>
+<tr><td>電話</td><td>047-474-5177</td></tr>
+<tr><td>営業日</td><td>平日14:00-20:00 / 土曜12:00-20:00 / 日曜・祝日12:00-18:00</td></tr>
+<tr><td>定休日</td><td>火曜・木曜</td></tr>
+<tr><td>公式サイト</td><td><a href="https://www.narakuwa.jp/">narakuwa.jp</a></td></tr>
+<tr><td>ブログ</td><td><a href="https://ameblo.jp/nara-kuwa/">ameblo.jp/nara-kuwa</a></td></tr>
+<tr><td>取扱</td><td>国産オオクワガタ・外国産カブクワ全般、菌糸ビン替え無料サービス</td></tr>
+</table>
+<div class="info">
+<strong>「白井産」流通の根拠:</strong> 検索結果中で「京成大久保駅近くの専門店では白井産のオオクワガタを扱っており、千葉県白井市産の幼虫も販売されています」「習クワでは白井産F2世代の国産オオクワガタを取り扱う」との記述が複数の二次サイト (kotobano.gift, hercules-honpo.jp等) で確認されるが、<strong>習クワ公式サイト・公式ブログでの「白井」「白井産」直接言及は本調査では確認できず</strong>。流通開始時期は不明 (店舗は2026-04時点 営業中)。
+</div>
+
+<h3>クワガタ・カブト専門店 ＭＧＭ (d-mgm.net)</h3>
+<ul>
+<li><strong>「千葉県印西市印旛産」</strong>: 材割成虫採集 ♂66mm / ♀42mm ペア ¥64,800 (Wayback 2021-05-14スナップショット)</li>
+<li>他CB F4 70-72mmペア ¥7,560、65-69mmペア ¥5,400 等</li>
+<li>流通開始: 2021年以前 (Wayback最古スナップショットがそれ)。販売者・採集者の明記なし</li>
+</ul>
+
+<h3>クワガタ横丁 (三重県松阪市, 9845.jp)</h3>
+<ul>
+<li>千葉県産オオクワガタ (平成29年=2017年採集) を66-74mmペアで複数掲載 (現在は完売)</li>
+<li>採集地の市町村レベル記載は無し</li>
+</ul>
+
+<h2 id="conclusion">結論と未解決の問い</h2>
+
+<h3>結論 (要約)</h3>
+<div class="summary-card">
+<h4 style="color:#a5d6a7;border:none;margin-top:0">1. 「印旛=オオクワガタ採集できる」という伝聞の構造</h4>
+<ul>
+<li>1990年代後半〜2000年前後の<strong>クワガタブーム / 黒いダイヤ</strong>時代に「千葉でも採れる」が一般化</li>
+<li><strong>2003-09 BE-KUWA No.8 が250採集ポイント情報を集約・公開</strong>し「印旛郡・山武郡・市原・夷隅・勝浦」がブランド化</li>
+<li>2008年の天羽ドルクス産地別マップで地域名 (印旛・印西・白井・横芝・松尾) が固定化</li>
+<li>2010年代に Yahoo知恵袋・個人ブログ・昆虫店ラベル (ＭＧＭ「印西市印旛産」、習クワ「白井産」等) で伝聞ロンダリング進行</li>
+</ul>
+
+<h4 style="color:#a5d6a7;border:none">2. 学術一次記録の現状</h4>
+<ul>
+<li><strong>印旛地域で唯一公的に同定・公表された個体</strong>: 鈴木智史・城田義友 (2009)『房総の昆虫』No.43:32 の<strong>成田市</strong>2♂2♀ (2008年、コナラ材割)</li>
+<li>西印旛沼周辺 (印旛村・印西市・本埜村・佐倉市) の8年間系統調査 (鈴木 勝 2009; 続報2013-2018) では<strong>オオクワガタは1個体も記録されていない</strong></li>
+<li>白井市・印西市・印旛村の野外個体記録は同好会誌・図鑑では未確認</li>
+</ul>
+
+<h4 style="color:#a5d6a7;border:none">3. 「伝聞=採集できる」と「学術記録=採れない」のギャップ</h4>
+<ul>
+<li>印旛沼周辺の二次林環境ではオオクワガタは<strong>極めて稀</strong>で、「居なくはないが採れない」が現実に近い</li>
+<li>流通している「印西市印旛産」は出元の信頼性が確認できない (採集者・採集年・標本番号いずれも不明)</li>
+</ul>
+</div>
+
+<h3 id="unresolved">未解決の問い</h3>
+<div class="unresolved">
+<ul>
+<li>千葉県動物誌 (1999, 文一総合出版) の千葉県産オオクワガタ記載の有無 — 実物確認要</li>
+<li>千葉県立中央博物館 KPM 標本データベースに印旛地域産オオクワガタが存在するか</li>
+<li>国立科学博物館 NSMT の千葉県産 <em>D. hopei binodulosus</em> 標本記録</li>
+<li>BE-KUWA No.8 (2003-09) の関東地方ページ実物確認 — 「印旛郡」記載の文脈・採集者・採集年</li>
+<li>千葉県産動物総目録 (千葉県環境財団) の記載</li>
+<li>月刊むしバックナンバー全文での「千葉県産 <em>Dorcus hopei</em>」記事 (1980-1990年代特に)</li>
+<li>房総の昆虫 No.44-51, 53-57, 61, 63, 65-72 本文 (印旛地域オオクワガタ記事の見落としチェック)</li>
+<li>習クワが「白井産」を扱った具体的時期 (本人または来店者へのインタビュー要)</li>
+</ul>
+</div>
+
+<h2 id="tech">調査ログ (技術的)</h2>
+
+<details>
+<summary>第一段階: 通常Web調査 (WebSearch + WebFetch)</summary>
+<div class="inner">
+<h4>取得成功</h4>
+<ul>
+<li>主要日本語Web検索 (印旛 オオクワ採集、印旛沼+雑木林、白井市+昆虫店、習クワ等)</li>
+<li>ふじたいらブログ、Yahoo知恵袋q1166834761/q1190922856、東葛育児録、kotobano.gift、stag-beetle-japan、kuwa-kuwata 全て読み取り成功</li>
+</ul>
+<h4>ブロックされたサイトと回避手段</h4>
+<ul>
+<li><strong>d-mgm.net</strong>: Cloudflare Forbidden → <strong>Wayback Machine 2021-05-14スナップショット</strong>を curl 経由取得で回避</li>
+<li><strong>amahadorcus.bosolife.net</strong>: Shift_JIS文字化け → curl + iconv (SHIFT-JIS→UTF-8)、画像ベースなのでWayback 2016-07-26スナップショットで設立年・初代メンバー情報取得</li>
+<li><strong>asahi-net.or.jp/~id8k-sgn/kuwabaka2000c/iron/</strong>: Shift_JIS → curl + iconv で全文取得成功</li>
+<li><strong>chibakon.comyu.org</strong>: WebFetch ECONNREFUSED → curl で直接取得成功 (HTML 約260KB、目次全件)</li>
+<li>Bing検索もCloudflare的JSチャレンジで取得困難 → Web検索ツールに切替</li>
+</ul>
+</div>
+</details>
+
+<details>
+<summary>第二段階: PDF一次資料の取得</summary>
+<div class="inner">
+<ul>
+<li><strong>千葉県RDB2019</strong> (bdcchiba.jp/.../redlist2019.pdf): pdftotext で全文取得 — オオクワガタはランクA・「生息地の減少」のみ</li>
+<li><strong>千葉県RDB2011 付録</strong>: pdftotext — オオクワガタ目次のみで具体記述なし</li>
+<li><strong>房総の昆虫 No.43</strong>: Google Drive UUID <code>15w1w2LTbW6nwUZhYBTxv43enGbgjDmHT</code> から <code>curl -L "drive.google.com/uc?export=download&id=..."</code> で取得 → pdftotext で<strong>鈴木 勝 1977-1985 西印旛沼クワガタ3種</strong> & <strong>鈴木智史・城田義友 成田市オオクワガタ採集記録</strong>を抽出</li>
+<li><strong>房総の昆虫 No.58</strong>: 同手順 → 西印旛沼甲虫調査(I) で<strong>オオクワガタ非掲載・コクワガタのみ掲載</strong></li>
+<li><strong>房総の昆虫 No.52</strong>: 取得済 (鈴木 勝 2012年印旛沼続報)</li>
+</ul>
+</div>
+</details>
+
+<details>
+<summary>第三段階: SNS — Nitter経由のTwitter検索 (失敗)</summary>
+<div class="inner">
+<p>試行した5インスタンス (2026-04-27時点):</p>
+<ul>
+<li><code>nitter.poast.org</code>: Anubis bot challenge ページ (browser verification, JS) → 取得不可</li>
+<li><code>nitter.privacydev.net</code>: 接続そのものが失敗 (応答0バイト)</li>
+<li><code>nitter.net</code>: 応答0バイト (オフライン)</li>
+<li><code>nitter.tiekoetter.com</code>: within.website Anubis challenge → 取得不可</li>
+<li><code>xcancel.com</code>: 普通のNitterフォーマットだが index ページのみ、search query は JS 必須</li>
+</ul>
+<p><strong>結論:</strong> Nitter経由のX検索は2026-04時点で実質不可能。chromium ヘッドレスでの突破は本調査では未実施。要追加調査。</p>
+</div>
+</details>
+
+<details>
+<summary>第四段階: ヤフオク/BE-KUWA等の流通記録</summary>
+<div class="inner">
+<ul>
+<li>aucfan等のサーチでは「印旛産」「印西産」の生体落札履歴は具体例ヒットせず</li>
+<li>BE-KUWA No.8 の存在と内容概要は Dorcus Navi の二次解説で確認 (関東地方ページに「印旛郡・山武郡・市原・夷隅・勝浦」の記載あり)。本号の実物確認は未実施</li>
+</ul>
+</div>
+</details>
+
+<h2 id="refs">出典一覧</h2>
+
+<div class="refs">
+<h3 style="border:none;margin-top:0">一次資料 (同好会誌・行政資料)</h3>
+<ol>
+<li>鈴木智史・城田義友 (2009)「成田市でオオクワガタを採集」<em>房総の昆虫</em> No.43:32. 千葉県昆虫談話会</li>
+<li>鈴木 勝 (2009)「1977年〜1985年に西印旛沼周辺地域で採集したクワガタムシとコガネムシ」<em>房総の昆虫</em> No.43:1-4</li>
+<li>鈴木 勝 (2013)「2012年に西印旛沼周辺で採集した甲虫(続報)」<em>房総の昆虫</em> No.52:5</li>
+<li>鈴木 勝 (2016)「西印旛沼周辺地域での甲虫調査報告(I)」<em>房総の昆虫</em> No.58:27-40</li>
+<li>鈴木 勝 (2017a)「西印旛沼周辺地域での甲虫調査報告(II)」<em>房総の昆虫</em> No.59:26 [本文未取得]</li>
+<li>鈴木 勝 (2017b)「西印旛沼周辺地域での甲虫類調査報告(III)」<em>房総の昆虫</em> No.60:8 [本文未取得]</li>
+<li>鈴木 勝 (2018)「西印旛沼周辺地域での甲虫調査報告(補遺)」<em>房総の昆虫</em> No.62:46 [本文未取得]</li>
+<li>鈴木 勝 (以降)「西印旛沼周辺地域の甲虫調査報告(追加・その1〜4)」<em>房総の昆虫</em> No.66, 70, 72, 73 [本文未取得]</li>
+<li>中山悠一郎 (2012)「千葉市緑区土気町でオオクワガタ♀を拾う」<em>房総の昆虫</em> No.50:34</li>
+<li>千葉県生物多様性センター (2019)『千葉県レッドリスト動物編 (2019年改訂版)』 オオクワガタは A (最重要保護生物). <a href="https://www.bdcchiba.jp/wp-content/uploads/2022/03/redlist2019.pdf">PDF</a></li>
+<li>千葉県昆虫談話会 (1989-現在)『房総の昆虫』バックナンバー目次 — <a href="http://chibakon.comyu.org/">chibakon.comyu.org</a></li>
+</ol>
+
+<h3>商業誌 (一次〜半一次)</h3>
+<ol start="12">
+<li>むし社 (2003)<em>BE-KUWA</em> No.8「日本のオオクワガタ大特集!!」 [本誌実物未確認、内容は二次解説に依拠]</li>
+<li>あいあん (iron) (c.2000)「オオクワガタの有名産地」<em>くわばか2000秋号</em> <a href="http://www.asahi-net.or.jp/~id8k-sgn/kuwabaka2000c/iron/point.htm">asahi-net</a></li>
+</ol>
+
+<h3>商業流通</h3>
+<ol start="14">
+<li>クワガタ・カブト専門店 ＭＧＭ「国産オオクワガタ」 <a href="http://d-mgm.net/binodulosus.html">d-mgm.net</a> (Wayback 2021-05-14: <a href="https://web.archive.org/web/20210514092604/http://d-mgm.net/binodulosus.html">archived</a>)</li>
+<li>習クワ (千葉県習志野市本大久保) <a href="https://www.narakuwa.jp/about">narakuwa.jp</a> / <a href="https://ameblo.jp/nara-kuwa/">ameblo.jp/nara-kuwa</a></li>
+<li>クワガタ横丁 (千葉県カテゴリ) <a href="https://www.9845.jp/archive/category/item/itemgenre/ds/ookuwagata/chiba/">9845.jp</a></li>
+</ol>
+
+<h3>Web二次資料 (伝聞ロンダリング経路)</h3>
+<ol start="17">
+<li>天羽ドルクス「千葉県産オオクワガタの産地別飼育」(2008-05-31) <a href="https://amahadorcus.bosolife.net/gallery-chiba.htm">amahadorcus</a></li>
+<li>Dorcus Navi「産地 関東地方」(出典: BE-KUWA No.8) <a href="https://dorcusnavi.com/habits/growing-area/kanto/">dorcusnavi.com</a></li>
+<li>オオクワ求めて三千里「全国のオオクワガタ(関東)」 <a href="http://ookuwamotomete.com/ookuwa-kanto.htm">ookuwamotomete.com</a></li>
+<li>東葛育児録「千葉県北西部で採集できるクワガタの種類」 <a href="https://play.trans-m.work/kuwa-sp">play.trans-m.work</a></li>
+<li>Yahoo知恵袋 q1166834761 (2011-07-18) <a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1166834761">chiebukuro</a></li>
+<li>Yahoo知恵袋 q1190922856 (2012-07-19) <a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1190922856">chiebukuro</a></li>
+<li>lossblood「印旛沼周辺にクワガタ探し」(2012-12-06) <a href="https://lossblood.exblog.jp/19622435/">lossblood.exblog.jp</a></li>
+<li>くわ太「6/9 千葉市＆北総オオクワポイント開拓」(2013-06-09) <a href="https://ameblo.jp/kuwa-kuwata/entry-11548952668.html">ameblo</a></li>
+<li>ふじたいらの道草日記「千葉県産オオクワガタ」(2019-08-07) <a href="https://chibakuwa624.blog.jp/archives/1401134.html">chibakuwa624</a></li>
+<li>オオクワガタを飼おう！「今年の初クワガタ。」(2016-05-01, 白井市) <a href="https://ookuwagata-fan.com/160501-shiroi/">ookuwagata-fan</a></li>
+<li>kotobano.gift「オオクワガタ採集！千葉の穴場スポットはどこ？」(2019-06-27) <a href="https://kotobano.gift/ookuwagata-chiba/">kotobano.gift</a></li>
+</ol>
+</div>
+
+<div class="footer">
+調査日: 2026-04-27 — 在野昆虫研究者向けオフライン参照用<br>
+原稿: <code>biology/insects-kanto/okuwagata/data/inba-origin-trace.md</code>
+</div>
+
+</div>
+</body>
+</html>

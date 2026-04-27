@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ヨシノボリ属 *Rhinogobius* Gill, 1859 深堀りレポート</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<hr />
+<p>title: "ヨシノボリ属 (Rhinogobius) 深堀りレポート"
+date: 2026-04-17
+tags: [taxonomy, phylogeny, ecology, rhinogobius, deep-dive]
+status: draft</p>
+<hr />
+<h1 id="rhinogobius-gill-1859">ヨシノボリ属 <em>Rhinogobius</em> Gill, 1859 深堀りレポート</h1>
+<p>東アジアの淡水ハゼ類で最も種多様性の高い属。本稿は分類史・系統・日本産種の網羅・生態・保全までを最新文献ベースで整理する。</p>
+<hr />
+<h2 id="1">1. 属の定義と分類史</h2>
+<h3 id="11-gill-1859">1.1 原記載 Gill (1859)</h3>
+<p><em>Rhinogobius</em> は米国の魚類学者 T. N. Gill が 1859年に Proceedings of the Academy of Natural Sciences of Philadelphia (vol. 11, pp. 144–150) 掲載の "Notes on a collection of Japanese fishes, made by Dr. J. Morrow" において創設した属である (Gill, 1859)。タイプ種は <em>Rhinogobius similis</em> Gill, 1859 で、モノタイプ指定。原記載に用いられた標本は長らく行方不明で、タイプ種の実体は曖昧なまま 150年以上経過していた (Suzuki, Shibukawa, Senou &amp; Chen, 2015, <em>Ichthyological Research</em> 63: 227–238, DOI: 10.1007/s10228-015-0494-3)。</p>
+<h3 id="12-neotype">1.2 タイプ種の再記載と neotype 指定</h3>
+<p>Suzuki, Shibukawa, Senou &amp; Chen (2015) は沖縄本島 (琉球列島) 産の標本から <em>R. similis</em> の neotype を指定し、属全体の同定基準を現代的なスタンダードに再構築した (DOI: 10.1007/s10228-015-0494-3)。これにより、従来「ゴクラクハゼ」もしくは「旧 <em>R. giurinus</em>」として扱われていた両側回遊型のヨシノボリが <em>R. similis</em> に相当することが明確化した。</p>
+<h3 id="13">1.3 中国・台湾側のレビュー</h3>
+<p>Chen &amp; Kottelat (2005) および Chen, Kottelat &amp; Wu (1999–2005) の一連の仕事により、中国南部・台湾・ベトナム産のラインが整理された。現在、属内には <em>Tukugobius</em> Herre, 1927 と <em>Pseudorhinogobius</em> Zhong &amp; Wu, 1998 が同属シノニムとして吸収されている (Fricke, Eschmeyer &amp; Van der Laan, 2025, Eschmeyer's Catalog of Fishes)。</p>
+<h3 id="14">1.4 日本における二大タクソノミスト</h3>
+<p>日本産ヨシノボリ属の現代的分類整備を牽引してきたのが <strong>鈴木寿之</strong> (姫路市立水族館) と <strong>渋川浩一</strong> (東海大学・神奈川県立生命の星・地球博物館) である。両者は共著で多数の新種記載・再記載を発表しており、特に Suzuki &amp; Chen (2011, <em>Bull. Osaka Mus. Nat. Hist.</em> 65: 9–24) による Tanaka (1908) 記載三種 (<em>R. kurodai</em>, <em>R. nagoyae</em>, <em>R. giurinus</em>) の再記載が現代分類の基盤となっている。</p>
+<hr />
+<h2 id="2">2. 世界の種数と地理的分布</h2>
+<p><em>Rhinogobius</em> は Wikipedia (英語版, 2026年閲覧) で 110種以上、Eschmeyer's Catalog (2025) で約 83 valid species が登録されており、近年も年に 1–3種ペースで新種記載が続いている。</p>
+<table>
+<thead>
+<tr>
+<th>地域</th>
+<th>主要種</th>
+<th>備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ロシア極東〜朝鮮半島</td>
+<td><em>R. brunneus</em> s.s., <em>R. nagoyae</em></td>
+<td>氷期に陸橋形成で日本と連続</td>
+</tr>
+<tr>
+<td>中国大陸</td>
+<td><em>R. giurinus</em>, <em>R. cliffordpopei</em>, <em>R. candidianus</em> 他多数</td>
+<td>銭塘江・珠江等の大河川水系で地域分化 (Yang et al., 2018, <em>ZooKeys</em> 759: 91–106)</td>
+</tr>
+<tr>
+<td>台湾</td>
+<td><em>R. formosanus</em>, <em>R. candidianus</em>, <em>R. rubromaculatus</em> 等、2024年に <em>R. baborinisanensis</em> と <em>R. macromaculatus</em> 追加 (Huang et al., 2024, <em>Zootaxa</em> 5189.1.6)</td>
+<td>陸封型が急速に種分化</td>
+</tr>
+<tr>
+<td>ベトナム・フィリピン</td>
+<td><em>R. mekongianus</em>, Palawan 固有種 2種 (Lin et al., 2021, <em>Zootaxa</em> 5068.1.3)</td>
+<td>熱帯系統</td>
+</tr>
+<tr>
+<td>日本</td>
+<td>20+種 (未記載含む)</td>
+<td>後述</td>
+</tr>
+<tr>
+<td>小笠原</td>
+<td><em>R. ogasawaraensis</em> (Suzuki et al., 2011)</td>
+<td>固有</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="3">3. 日本産ヨシノボリ属 全種リスト</h2>
+<p>下表は 2026年4月時点での最新分類に基づくまとめ。和名・学名・分布・生活史型・主要診断形質を示す。未記載種は仮称コード (sp. BB / BF 等) で併記した。典拠は rhinogobius.jp (よくわかる！日本のヨシノボリ, 2026閲覧) および国土交通省国土技術政策総合研究所『河川水辺の国勢調査 日本産ヨシノボリ属魚類の検索表 (第2版)』を基盤とし、個別の新種記載論文を参照した。</p>
+<h3 id="31">3.1 本州広域分布種 (既記載)</h3>
+<table>
+<thead>
+<tr>
+<th>和名</th>
+<th>学名</th>
+<th>命名者・年</th>
+<th>分布</th>
+<th>生活史</th>
+<th>主要診断形質</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>カワヨシノボリ</td>
+<td><em>R. flumineus</em></td>
+<td>Mizuno, 1960</td>
+<td>本州 (近畿以西中心)・四国・九州</td>
+<td>完全陸封 (large egg)</td>
+<td>胸鰭分枝軟条 15–17本で全属中最少、卵径大</td>
+</tr>
+<tr>
+<td>シマヨシノボリ</td>
+<td><em>R. nagoyae</em></td>
+<td>(Tanaka, 1908)</td>
+<td>北海道南部〜九州、朝鮮半島南部</td>
+<td>両側回遊</td>
+<td>頬にミミズ状赤色縞、雄の第一背鰭低い</td>
+</tr>
+<tr>
+<td>オオヨシノボリ</td>
+<td><em>R. fluviatilis</em></td>
+<td>Tanaka, 1925</td>
+<td>本州〜九州、上流域</td>
+<td>両側回遊</td>
+<td>胸鰭基底に明瞭な黒色斑、体サイズ大 (〜10cm SL)</td>
+</tr>
+<tr>
+<td>ルリヨシノボリ</td>
+<td><em>R. mizunoi</em></td>
+<td>Suzuki, Shibukawa &amp; Aizawa, 2017</td>
+<td>本州〜九州</td>
+<td>両側回遊</td>
+<td>頬に瑠璃色 (青色) 小斑点列、背鰭外縁黒</td>
+</tr>
+<tr>
+<td>クロヨシノボリ</td>
+<td><em>R. brunneus</em> (s.s.)</td>
+<td>(Temminck &amp; Schlegel, 1845)</td>
+<td>黒潮沿岸 (伊豆・紀伊・四国太平洋側・九州南部・南西諸島)</td>
+<td>両側回遊</td>
+<td>胸鰭基底に三日月状暗色斑、尾鰭基底の縦斑は弱い</td>
+</tr>
+<tr>
+<td>クロダハゼ</td>
+<td><em>R. kurodai</em></td>
+<td>(Tanaka, 1908)</td>
+<td>関東平野 (利根川・霞ヶ浦・手賀沼水系等)</td>
+<td>陸封 (止水)</td>
+<td>背鰭・頭部が丸く、尾鰭基底暗色斑弱 (Suzuki &amp; Chen 2011, <em>Bull. Osaka Mus. Nat. Hist.</em> 65: 9–24)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="32">3.2 琵琶湖・東海・局所分布種</h3>
+<table>
+<thead>
+<tr>
+<th>和名</th>
+<th>学名 (仮称含む)</th>
+<th>命名者・年</th>
+<th>分布</th>
+<th>生活史</th>
+<th>主要診断形質</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ビワヨシノボリ</td>
+<td><em>R. biwaensis</em></td>
+<td>Takahashi &amp; Okazaki, 2017</td>
+<td>琵琶湖固有</td>
+<td>完全陸封 (lentic)</td>
+<td>椎骨 26 (稀 27)、胸鰭条 18–22、第一背鰭低く糸状伸長なし (DOI: 10.1007/s10228-017-0577-4)</td>
+</tr>
+<tr>
+<td>オウミヨシノボリ</td>
+<td><em>R.</em> sp. OM</td>
+<td>未記載</td>
+<td>琵琶湖水系 (本来) / 放流で本州各地</td>
+<td>両側回遊→湖沼回遊</td>
+<td>雄の体側・尾鰭に青色小斑</td>
+</tr>
+<tr>
+<td>トウカイヨシノボリ</td>
+<td><em>R.</em> sp. TM (TO と表記される場合あり)</td>
+<td>未記載</td>
+<td>東海地方 (濃尾平野〜伊勢湾流入河川)</td>
+<td>陸封</td>
+<td>クロダハゼ類に近縁、頬に斑紋発達</td>
+</tr>
+<tr>
+<td>カズサヨシノボリ</td>
+<td><em>R.</em> sp. KZ</td>
+<td>未記載</td>
+<td>千葉県房総半島南部</td>
+<td>両側回遊 (stream)</td>
+<td>上顎突出、雄第一背鰭が帽子状に高く伸長 (rhinogobius.jp)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="33-r-kurodai-complex-sp-or-complex">3.3 トウヨシノボリ類 (<em>R. kurodai</em> complex / sp. OR complex)</h3>
+<p>「トウヨシノボリ」は橙色型・縞鰭型・偽橙色型・宍道湖型など複数のクリプティック系統を含む複合体で、Suzuki et al. (2017, <em>Bull. Osaka Mus. Nat. Hist.</em> 64: 1) によって縞鰭型に新標準和名「シマヒレヨシノボリ」が提唱された (omnh.jp/publication/bulletin/bulletin/64/64-001.pdf)。</p>
+<table>
+<thead>
+<tr>
+<th>仮称和名</th>
+<th>仮学名</th>
+<th>主分布</th>
+<th>生活史</th>
+<th>備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>シマヒレヨシノボリ</td>
+<td><em>R.</em> sp. TY</td>
+<td>西日本 (瀬戸内・山陰)</td>
+<td>陸封</td>
+<td>尾鰭下縁が赤、Suzuki et al. 2017 で新和名提唱</td>
+</tr>
+<tr>
+<td>トウヨシノボリ橙色型</td>
+<td><em>R.</em> sp. OR orange-morph</td>
+<td>全国 (放流で混乱)</td>
+<td>両側回遊/陸封</td>
+<td>雄腹部オレンジ</td>
+</tr>
+<tr>
+<td>トウヨシノボリ偽橙色型 (房総型)</td>
+<td><em>R.</em> sp. OR pseudo-orange</td>
+<td>房総・関東</td>
+<td>陸封</td>
+<td>クロダハゼに近縁の疑いあり</td>
+</tr>
+<tr>
+<td>宍道湖型</td>
+<td><em>R.</em> sp. OR Shinji</td>
+<td>島根・宍道湖</td>
+<td>湖沼回遊</td>
+<td>汽水/淡水境界</td>
+</tr>
+</tbody>
+</table>
+<h3 id="34-torrential-goby">3.4 南西諸島・小笠原の torrential goby 群</h3>
+<table>
+<thead>
+<tr>
+<th>和名</th>
+<th>学名</th>
+<th>命名者・年</th>
+<th>分布</th>
+<th>生活史</th>
+<th>主要診断形質</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>オガサワラヨシノボリ</td>
+<td><em>R. ogasawaraensis</em></td>
+<td>Suzuki, Chen &amp; Senou, 2011</td>
+<td>小笠原諸島</td>
+<td>両側回遊</td>
+<td>母島・父島列島固有、Red Book EN。mtDNA で琉球系統と深く分岐 (Mukai et al., 2005, DOI: 10.1007/s10228-005-0295-1)</td>
+</tr>
+<tr>
+<td>オガサワラカワヨシノボリ</td>
+<td><em>R. telma</em></td>
+<td>Suzuki, Kimura &amp; Shibukawa, 2019</td>
+<td>小笠原諸島 (陸封集団)</td>
+<td>完全陸封</td>
+<td>小型卵から陸封化、学名 <em>telma</em> = 湿地</td>
+</tr>
+<tr>
+<td>アヤヨシノボリ</td>
+<td><em>R.</em> sp. MO (= sp. BF に近い)</td>
+<td>未記載</td>
+<td>奄美・沖縄</td>
+<td>両側回遊</td>
+<td>体側の縦斑が発達</td>
+</tr>
+<tr>
+<td>ケンムンヒラヨシノボリ</td>
+<td><em>R. yonezawai</em></td>
+<td>Suzuki, Oseko, Kimura &amp; Shibukawa, 2020</td>
+<td>種子島・屋久島・奄美大島・沖縄本島</td>
+<td>両側回遊 (torrential)</td>
+<td>頭部扁平、40–43 longitudinal scales、胸鰭基底橙色斑 (<em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 49: 7–28)</td>
+</tr>
+<tr>
+<td>ヤイマヒラヨシノボリ</td>
+<td><em>R. yaima</em></td>
+<td>Suzuki, Oseko, Kimura &amp; Shibukawa, 2020</td>
+<td>石垣島・西表島</td>
+<td>両側回遊</td>
+<td>側頭部に橙色縞2本、10+16=26椎骨 (ibid.)</td>
+</tr>
+<tr>
+<td>パイヌキバラヨシノボリ (八重山型)</td>
+<td><em>R. aonumai aonumai</em></td>
+<td>Suzuki et al., 2022</td>
+<td>西表島固有</td>
+<td>両側回遊</td>
+<td>9–15 predorsal scales、椎骨 11+15–17、尾鰭の縦斑列 (<em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 51: 2, 2022)</td>
+</tr>
+<tr>
+<td>石垣型 パイヌキバラヨシノボリ</td>
+<td><em>R. aonumai ishigakiensis</em></td>
+<td>Suzuki et al., 2022</td>
+<td>石垣島固有</td>
+<td>両側回遊</td>
+<td>aonumai から斑紋・鱗数でわずかに分化</td>
+</tr>
+<tr>
+<td>アオバラヨシノボリ</td>
+<td><em>R.</em> sp. BB</td>
+<td>未記載</td>
+<td>沖縄本島</td>
+<td>両側回遊 (torrential)</td>
+<td>雄の腹部が婚姻色で鮮青、CR指定</td>
+</tr>
+<tr>
+<td>キバラヨシノボリ</td>
+<td><em>R.</em> sp. YB</td>
+<td>未記載</td>
+<td>奄美・沖縄</td>
+<td>両側回遊</td>
+<td>雄腹部黄色、Red Book EN</td>
+</tr>
+<tr>
+<td>アマミヨシノボリ (アヤヨシノボリの奄美集団)</td>
+<td><em>R.</em> sp. BF</td>
+<td>未記載</td>
+<td>奄美諸島中心</td>
+<td>両側回遊</td>
+<td>Suzuki &amp; Chen (2011) で <em>R. kurodai</em> から分離</td>
+</tr>
+<tr>
+<td>ナンセイシマヨシノボリ</td>
+<td><em>R.</em> sp. BI</td>
+<td>未記載 (絶滅危惧)</td>
+<td>本州南部〜奄美の一部、localityが分断</td>
+<td>両側回遊/陸封型混在</td>
+<td>Iwata et al. (2005, DOI: 10.1007/s10228-005-0331-1) が初期発生を記載</td>
+</tr>
+<tr>
+<td>ヒラヨシノボリ (広義)</td>
+<td><em>R.</em> sp. DL</td>
+<td>(yonezawai/yaima/aonumai に分割済み残存集団)</td>
+<td>旧称。現在は再定義</td>
+<td>—</td>
+<td>分割後の残差定義は流動的</td>
+</tr>
+<tr>
+<td>ギンブナヨシノボリ型等 sp. DA</td>
+<td><em>R.</em> sp. DA (旧クロヨシノボリ南西諸島系統)</td>
+<td>未記載</td>
+<td>南西諸島</td>
+<td>両側回遊</td>
+<td>Masuda 1986 以来の地方型</td>
+</tr>
+<tr>
+<td>トカラヨシノボリ型</td>
+<td><em>R.</em> sp. CB / sp. CO</td>
+<td>未記載</td>
+<td>トカラ・屋久島</td>
+<td>両側回遊</td>
+<td>初期仮称体系に遡る</td>
+</tr>
+</tbody>
+</table>
+<p>上記リストは流動的で、2020年代に入り仮称 (sp. YZ, sp. YM, sp. BZ 等) から正式学名への移行が進んでいる。rhinogobius.jp は地方型の和名整理を継続的に更新している (2026年閲覧)。</p>
+<hr />
+<h2 id="4-20152026">4. 最新の種分類 (2015–2026)</h2>
+<table>
+<thead>
+<tr>
+<th>年</th>
+<th>出来事</th>
+<th>典拠</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2011</td>
+<td><em>R. ogasawaraensis</em> 記載</td>
+<td>Suzuki, Chen &amp; Senou, 2011, <em>J. Mar. Sci. Technol.</em> 19(6)</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>Tanaka 1908 記載3種 (<em>kurodai</em>, <em>nagoyae</em>, <em>giurinus</em>) 再記載</td>
+<td>Suzuki &amp; Chen, 2011, <em>Bull. Osaka Mus. Nat. Hist.</em> 65</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>タイプ種 <em>R. similis</em> の neotype 指定</td>
+<td>Suzuki et al., 2015, DOI: 10.1007/s10228-015-0494-3</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>核9遺伝子系統と mtDNA の大規模不一致解明</td>
+<td>Yamasaki et al., 2015, <em>Mol. Phylogenet. Evol.</em> 90: 20–33, DOI: 10.1016/j.ympev.2015.04.012</td>
+</tr>
+<tr>
+<td>2017</td>
+<td><em>R. biwaensis</em> (琵琶湖固有) 記載</td>
+<td>Takahashi &amp; Okazaki, 2017, DOI: 10.1007/s10228-017-0577-4</td>
+</tr>
+<tr>
+<td>2017</td>
+<td><em>R. mizunoi</em> (ルリヨシノボリ) 記載</td>
+<td>Suzuki, Shibukawa &amp; Aizawa, 2017, <em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 46</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>トウヨシノボリ縞鰭型 → シマヒレヨシノボリ (<em>R.</em> sp. TY) 新和名提唱</td>
+<td>鈴木・向井・吉郷・大迫・鄭, 2017, <em>Bull. Osaka Mus. Nat. Hist.</em> 64</td>
+</tr>
+<tr>
+<td>2019</td>
+<td><em>R. telma</em> (小笠原陸封型) 記載</td>
+<td>Suzuki, Kimura &amp; Shibukawa, 2019</td>
+</tr>
+<tr>
+<td>2020</td>
+<td><em>R. yaima</em>, <em>R. yonezawai</em> 記載</td>
+<td>Suzuki, Oseko, Kimura &amp; Shibukawa, 2020, <em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 49: 7–28</td>
+</tr>
+<tr>
+<td>2022</td>
+<td><em>R. aonumai</em> + 2亜種 記載</td>
+<td>Suzuki et al., 2022, <em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 51</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>台湾から <em>R. baborinisanensis</em>, <em>R. macromaculatus</em> 記載</td>
+<td>Huang et al., 2024, <em>Zootaxa</em> 5189(1): 6</td>
+</tr>
+</tbody>
+</table>
+<p>Tanaka (1908) 以来100年以上の「未整理期」を経て、2010年代以降の新種記載・シノニム整理ラッシュによって日本産の実態が急速に可視化されつつある。</p>
+<hr />
+<h2 id="5">5. 分子系統と雑種形成</h2>
+<h3 id="51-vs-mtdna">5.1 核 vs mtDNA の不一致</h3>
+<p>Yamasaki, Nishida, Suzuki &amp; Mukai (2015, <em>Mol. Phylogenet. Evol.</em> 90: 20–33) は日本産18種から核6遺伝子・mtDNA 3遺伝子を比較し、<strong>核遺伝子系統と mtDNA 系統が大きく不一致</strong>することを示した。核系統では 3大クレード (amphidromous+fluvial+lentic) に明瞭に分岐するのに対し、mtDNA では種境界を越えた広範なイントログレッションが見られる。</p>
+<p>分岐時期の分子時計較正 (琉球海峡形成ほか地質学的較正点) から、<strong>更新世前期〜中期 (約 1.5–0.5 Ma)</strong> に広域雑種形成が起きたと推定されている (Yamasaki et al., 2015, DOI: 10.1016/j.ympev.2015.04.012)。これは氷期の海水準低下で本州〜朝鮮半島〜中国東岸が陸橋状に接続し、かつ両側回遊性集団の分布が大幅にシャッフルされたことと整合的である。</p>
+<h3 id="52-coi">5.2 COI バーコーディングの限界</h3>
+<p>mtDNA COI / cyt-b によるバーコーディングは、ミトコンドリアの広域浸透のため日本産では<strong>信頼性が限定的</strong>。複数核マーカー (RAG1, Rho, S7 イントロン等) の併用が現代の標準 (Yamasaki et al., 2015; Takahashi &amp; Okazaki, 2017)。</p>
+<h3 id="53">5.3 陸封化の独立多起源</h3>
+<p>Yamasaki et al. (2015) はまた、祖先形質復元により <strong>「両側回遊 → 陸封」の進化転換が少なくとも3系統で独立発生</strong>し、卵サイズの増大を伴うことを示した。これは Nishida (1984, <em>Biochem. Syst. Ecol.</em>) の初期研究から 30年以上かけて遺伝学的に裏付けられた古典的ヨシノボリ仮説である。</p>
+<hr />
+<h2 id="6-amphidromy-vs">6. 両側回遊 (amphidromy) vs 陸封化</h2>
+<h3 id="61">6.1 典型的な両側回遊サイクル</h3>
+<p>典型的な両側回遊種 (<em>R. nagoyae</em>, <em>R. fluviatilis</em>, <em>R. brunneus</em>, <em>R. yonezawai</em> 等) では、春〜夏に雄が石の下に巣を作り産卵 → 孵化仔魚 (2–3 mm) は受動的に海へ降下 → 沿岸で浮遊期を過ごし → 秋に稚魚 (20 mm 前後) が河口に到達し遡上 → 1年で成熟、というサイクルを取る (Mizuno &amp; Goto, 1998, 『日本のハゼ』; Iwata et al., 2005, DOI: 10.1007/s10228-005-0331-1)。</p>
+<h3 id="62">6.2 陸封化の多様性</h3>
+<p>陸封化には複数のパターンがある：</p>
+<ol>
+<li><strong>湖沼陸封 (lentic landlocked)</strong>: <em>R. biwaensis</em> (琵琶湖)、<em>R. kurodai</em> (関東平野の止水)。湖内で浮遊仔魚期を完遂。</li>
+<li><strong>河川陸封 (fluvial landlocked)</strong>: <em>R. flumineus</em> (カワヨシノボリ)。上流域で大型卵→直接発生型 (仔魚は浮遊期なし)。卵径は両側回遊種 (0.7–0.8mm) の倍以上 (1.5–2.0mm)。</li>
+<li><strong>島嶼陸封 (island landlocked)</strong>: <em>R. telma</em> (小笠原)、屋久島・沖縄本島の高落差滝上個体群。Kuroda et al. (2014, <em>Ichthyological Research</em>, DOI: 10.1007/s10228-014-0400-4) は屋久島大川の滝 (88m) 上の <em>R. brunneus</em> が耳石 Sr:Ca 比で陸封であることを示した。</li>
+</ol>
+<h3 id="63">6.3 通性両側回遊</h3>
+<p>台湾の <em>R. formosanus</em> では、浮遊期長が 30–130日と個体ごとに大きく可塑性を示し、<strong>facultative amphidromy</strong> の存在が示された (Maeda et al., 2020, <em>ZooKeys</em>, DOI: 10.3897/zookeys.950.50429)。日本産でも <em>R. similis</em> や <em>R. nagoyae</em> で同様の可塑性が推測される。</p>
+<hr />
+<h2 id="7">7. 生態</h2>
+<h3 id="71">7.1 繁殖と雄の卵保護</h3>
+<p>ヨシノボリ属全般で <strong>雄が単独で巣を守る paternal care</strong> を示す。雄は石の下に穴を掘り、求愛ディスプレイで複数雌を誘引し、天井に卵を産み付けさせる。<em>R. flumineus</em> では雄の親行動が詳細に研究されており、<strong>部分的子食い (partial filial cannibalism)</strong> が頻繁に観察される (Okuda et al., 2004; Matsumoto et al., 2011, <em>Behav. Ecol. Sociobiol.</em>, DOI: 10.1007/s00265-012-1462-9)。</p>
+<p>Mehara &amp; Takegaki (2011, <em>J. Ethol.</em>, DOI: 10.1007/s10164-010-0238-9) は雌が雄の交尾機会 (他雌の存在) に応じて産卵選択を変えることを示し、「雌による子食いリスク回避戦略」として解釈した。求愛行動中に雄が見せる fin display と頭部突き上げは、<em>R. brunneus</em> で Takahashi &amp; Yanagisawa (2007, <em>Behav. Ecol. Sociobiol.</em>, DOI: 10.1007/s00265-007-0519-7) がマルチモーダル信号として詳しく記載した。</p>
+<h3 id="72">7.2 食性</h3>
+<p>多くの種は底生無脊椎動物食 (ユスリカ幼虫、カゲロウ・トビケラ幼虫、ミズムシ等) で、体サイズと流速に応じて食性が分化する。<em>R. fluviatilis</em> (オオヨシノボリ) は他種より魚食傾向が強く、小型ヨシノボリを捕食する。カワヨシノボリは特に藻食性が高い (Mizuno &amp; Goto, 1998)。</p>
+<h3 id="73">7.3 なわばり</h3>
+<p>雄は 0.1–1 m² 規模のなわばりを持ち、繁殖期には巣石を中心に同性個体を排除する。非繁殖期は群れ形成する種もある (<em>R. kurodai</em>, <em>R. biwaensis</em>)。</p>
+<hr />
+<h2 id="8">8. 形態診断形質</h2>
+<p>ヨシノボリ属の種同定は以下の形質の組合せで行う (国土交通省『河川水辺の国勢調査 日本産ヨシノボリ属魚類の検索表 第2版』; Suzuki et al., 2017, 2020, 2022)：</p>
+<table>
+<thead>
+<tr>
+<th>形質</th>
+<th>識別例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>頬部斑紋パターン</strong></td>
+<td>ミミズ状 (シマヨシノボリ)、瑠璃色小斑点 (ルリヨシノボリ)、橙色縦縞 (ヤイマヒラ)、無斑 (オオヨシノボリ・クロダハゼ)</td>
+</tr>
+<tr>
+<td><strong>胸鰭基底の斑紋</strong></td>
+<td>明瞭な黒斑 (オオヨシノボリ)、三日月斑 (クロヨシノボリ)、橙色斑 (ケンムンヒラ・ヤイマヒラ)、斑なし</td>
+</tr>
+<tr>
+<td><strong>胸鰭分枝軟条数</strong></td>
+<td>15–17 (カワヨシノボリのみ)、18–22 (他種)</td>
+</tr>
+<tr>
+<td><strong>縦列鱗数</strong></td>
+<td>30–34 (クロダハゼ類)、32–37 (aonumai)、40–43 (yaima・yonezawai)</td>
+</tr>
+<tr>
+<td><strong>椎骨数</strong></td>
+<td>10+16=26 (yaima), 11+15–17=26–28 (aonumai), 26–27 (biwaensis)</td>
+</tr>
+<tr>
+<td><strong>第一背鰭棘条数</strong></td>
+<td>全種 VI (6本) が標準、例外稀</td>
+</tr>
+<tr>
+<td><strong>第一背鰭形態</strong></td>
+<td>糸状伸長あり/なし、高い/低い、男女差 (雄で発達)</td>
+</tr>
+<tr>
+<td><strong>predorsal scales 数</strong></td>
+<td>aonumai 9–15、biwaensis 0〜少数</td>
+</tr>
+<tr>
+<td><strong>鋤骨歯 (vomerine teeth)</strong></td>
+<td>属内では基本的に無歯、ただしユウスイハゼ属との区別に重要</td>
+</tr>
+<tr>
+<td><strong>頭部感覚孔系 (cephalic sensory canal)</strong></td>
+<td>眼下管の完全/不完全、前鰓蓋孔の数は近縁種区別に使われる (Chen &amp; Kottelat, 2005)</td>
+</tr>
+<tr>
+<td><strong>卵径</strong></td>
+<td>両側回遊 0.6–0.9 mm / 陸封 1.2–2.0 mm (生活史マーカー)</td>
+</tr>
+</tbody>
+</table>
+<p>婚姻色 (特に雄の第一背鰭の縞模様、腹部の橙・青・黄色) は、活きた個体では強力な識別形質だが、ホルマリン固定で失われるため写真記録が必須。</p>
+<hr />
+<h2 id="9">9. 外来種問題：国内外来種としてのヨシノボリ</h2>
+<h3 id="91">9.1 琵琶湖産アユ種苗への混入</h3>
+<p>国立環境研究所 侵入生物DB (nies.go.jp/biodiversity/invasive/DB/detail/50930.html) によれば、<strong>琵琶湖産アユ種苗</strong> (鮎の放流用種苗) に <strong>オウミヨシノボリ (<em>R.</em> sp. OM)</strong> が混入する形で全国の河川・湖沼に移入されている。本来は琵琶湖水系固有であるにもかかわらず、関東・中部・中国地方の多数の水系で定着が確認されており、在来のクロダハゼ類・トウヨシノボリ類との<strong>二次的な交雑 (遺伝子撹乱)</strong> が懸念されている。</p>
+<h3 id="92">9.2 トウヨシノボリ類の分類混乱と放流</h3>
+<p>「トウヨシノボリ」自体が複数の隠蔽種からなるため、ある地域集団を別地域に移入することが<strong>国内外来種問題</strong>を引き起こす。Yamasaki et al. (2015) が示した広域 mtDNA イントログレッションの少なくとも一部は近代の人為移入が原因である可能性がある (鈴木ほか, 2017, <em>Bull. Osaka Mus. Nat. Hist.</em> 64)。</p>
+<h3 id="93">9.3 オオヨシノボリの地域個体群</h3>
+<p>オオヨシノボリ (<em>R. fluviatilis</em>) は広域分布種だが、九州・四国・関東で遺伝的に大きく分化した地域個体群を持ち、これらの人為混合も遺伝的多様性減少を招く。</p>
+<h3 id="94-rhinogobius">9.4 特定外来生物としてのRhinogobius</h3>
+<p>外来生物法の特定外来生物には現在未指定だが、国内外来種問題として自治体レベル (滋賀県等) で放流規制ガイドラインが整備されつつある (環境省, 2020)。</p>
+<hr />
+<h2 id="10">10. 保全</h2>
+<h3 id="101-2020">10.1 環境省レッドリスト (2020) 掲載種</h3>
+<p>環境省レッドリスト 汽水・淡水魚類 (env.go.jp/content/900527441.pdf) における <em>Rhinogobius</em> 関連種：</p>
+<table>
+<thead>
+<tr>
+<th>種</th>
+<th>カテゴリ</th>
+<th>備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>アオバラヨシノボリ <em>R.</em> sp. BB</td>
+<td>CR (絶滅危惧IA類)</td>
+<td>沖縄本島固有、生息地が僅少</td>
+</tr>
+<tr>
+<td>オガサワラヨシノボリ <em>R. ogasawaraensis</em></td>
+<td>EN (絶滅危惧IB類)</td>
+<td>小笠原諸島固有</td>
+</tr>
+<tr>
+<td><em>R. telma</em> (オガサワラカワヨシノボリ)</td>
+<td>EN</td>
+<td>陸封集団、小笠原</td>
+</tr>
+<tr>
+<td>キバラヨシノボリ <em>R.</em> sp. YB</td>
+<td>EN</td>
+<td>奄美・沖縄</td>
+</tr>
+<tr>
+<td><em>R. aonumai</em> (パイヌキバラ)</td>
+<td>EN</td>
+<td>八重山、八重山群島近年記載</td>
+</tr>
+<tr>
+<td>ケンムンヒラヨシノボリ <em>R. yonezawai</em></td>
+<td>VU (絶滅危惧II類)</td>
+<td>種子島〜沖縄</td>
+</tr>
+<tr>
+<td>ヤイマヒラヨシノボリ <em>R. yaima</em></td>
+<td>VU</td>
+<td>石垣・西表</td>
+</tr>
+<tr>
+<td>ビワヨシノボリ <em>R. biwaensis</em></td>
+<td>DD (情報不足)</td>
+<td>琵琶湖固有、近年急減の疑い</td>
+</tr>
+<tr>
+<td>トウカイヨシノボリ <em>R.</em> sp. TM</td>
+<td>NT〜VU (県別)</td>
+<td>東海地方</td>
+</tr>
+</tbody>
+</table>
+<h3 id="102-iucn-red-list">10.2 IUCN Red List</h3>
+<p>IUCN 評価は日本固有種で進んでいないものが多く、<em>R. brunneus</em> s.l. は LC だが、分割後の狭域固有種は未評価が大半。IUCN への日本産データ提供 (鈴木・渋川グループ) が進行中。</p>
+<h3 id="103">10.3 主要脅威</h3>
+<ol>
+<li>河川改修・砂防ダムによる連続性分断 (特に両側回遊種の遡上・降下を遮断)</li>
+<li>湖岸改変 (ビワヨシノボリ・クロダハゼ)</li>
+<li>水質悪化と農薬</li>
+<li>放流による遺伝子撹乱 (前節)</li>
+<li>小笠原・南西諸島では外来魚 (カダヤシ, ティラピア, 外来ハゼ) と競合</li>
+</ol>
+<hr />
+<h2 id="11">11. 在野研究者にとっての着眼点</h2>
+<p>鈴木寿之・渋川浩一らの記載ラッシュから見てとれるように、<em>Rhinogobius</em> は <strong>「未記載種の宝庫」</strong> であり、在野研究者でも標本写真・鰭条/鱗列の定量・mtDNA/核1–2遺伝子の系統配置を積み重ねれば十分に学術貢献可能な分類群である。とくに本州関東 (クロダハゼ complex)、東海 (sp. TM/TO)、房総 (sp. KZ) は既存種の再定義が必要で、Takahashi (琵琶湖) や Takahashi &amp; Okazaki (2017) の先例が示すように、<strong>地域個体群の徹底した採集+形態+mtDNA+核マーカーの統合解析</strong>が次のブレークスルーの鍵となる。</p>
+<hr />
+<h2 id="_1">主要参考文献</h2>
+<ul>
+<li>Gill, T. N. (1859) Notes on a collection of Japanese fishes, made by Dr. J. Morrow. <em>Proc. Acad. Nat. Sci. Philadelphia</em> 11: 144–150.</li>
+<li>Huang, S.-P., Chen, I.-S., et al. (2024) Two new freshwater Rhinogobius species from Taiwan. <em>Zootaxa</em> 5189(1): 6. DOI: 10.11646/zootaxa.5189.1.6</li>
+<li>Iwata, A., Sakai, H., et al. (2005) Early development of the endangered freshwater goby, <em>Rhinogobius</em> sp. BI. <em>Ichthyol. Res.</em> 52: 378–384. DOI: 10.1007/s10228-005-0331-1</li>
+<li>Kuroda, T. et al. (2014) Effect of waterfalls on fluvial fish distribution and landlocked <em>Rhinogobius brunneus</em> populations on Yakushima Island, Japan. <em>Ichthyol. Res.</em> 61: 305–316. DOI: 10.1007/s10228-014-0400-4</li>
+<li>Maeda, K. et al. (2020) Facultative amphidromy and pelagic larval duration plasticity of <em>Rhinogobius formosanus</em>. <em>ZooKeys</em> 950: 125–142. DOI: 10.3897/zookeys.950.50429</li>
+<li>Matsumoto, Y. et al. (2011) Mate availability accelerates male filial cannibalism. <em>Behav. Ecol. Sociobiol.</em> 66. DOI: 10.1007/s00265-012-1462-9</li>
+<li>Mehara &amp; Takegaki (2011) Mate availability affects female choice in <em>R. flumineus</em>. <em>J. Ethol.</em> DOI: 10.1007/s10164-010-0238-9</li>
+<li>Mukai, Y. et al. (2005) Mitochondrial DNA divergence in yoshinobori gobies between Bonin and Japan-Ryukyu. <em>Ichthyol. Res.</em> DOI: 10.1007/s10228-005-0295-1</li>
+<li>Suzuki, T. &amp; Chen, I.-S. (2011) Redescriptions of three species of genus <em>Rhinogobius</em> described by Dr. Shigeho Tanaka. <em>Bull. Osaka Mus. Nat. Hist.</em> 65: 9–24.</li>
+<li>Suzuki, T., Shibukawa, K., Senou, H. &amp; Chen, I.-S. (2015) Redescription of <em>R. similis</em> Gill 1859 with designation of the neotype. <em>Ichthyol. Res.</em> 63: 227–238. DOI: 10.1007/s10228-015-0494-3</li>
+<li>Suzuki, T., Shibukawa, K. &amp; Aizawa, M. (2017) <em>Rhinogobius mizunoi</em>, a new species. <em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 46: 79–95.</li>
+<li>鈴木寿之・向井貴彦・吉郷英範・大迫尚晴・鄭達壽 (2017) トウヨシノボリ縞鰭型の再定義と新標準和名の提唱. <em>Bull. Osaka Mus. Nat. Hist.</em> 64: 1–13.</li>
+<li>Suzuki, T., Oseko, N., Kimura, S. &amp; Shibukawa, K. (2020) Two new species of torrential gobies of <em>Rhinogobius</em> from the Ryukyu Islands. <em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 49: 7–28.</li>
+<li>Suzuki, T. et al. (2022) A new species with two new subspecies of <em>Rhinogobius</em> from Yaeyama Group. <em>Bull. Kanagawa Pref. Mus. (Nat. Sci.)</em> 51: 2.</li>
+<li>Takahashi, S. &amp; Okazaki, T. (2017) <em>Rhinogobius biwaensis</em>, a new endemic of Lake Biwa. <em>Ichthyol. Res.</em> 64: 444–457. DOI: 10.1007/s10228-017-0577-4</li>
+<li>Takahashi &amp; Yanagisawa (2007) Dynamic female preference for multiple signals in <em>R. brunneus</em>. <em>Behav. Ecol. Sociobiol.</em> DOI: 10.1007/s00265-007-0519-7</li>
+<li>Yamasaki, Y. Y., Nishida, M., Suzuki, T., Mukai, T. &amp; Watanabe, K. (2015) Phylogeny, hybridization, and life history evolution of <em>Rhinogobius</em> gobies in Japan, inferred from multiple nuclear gene sequences. <em>Mol. Phylogenet. Evol.</em> 90: 20–33. DOI: 10.1016/j.ympev.2015.04.012</li>
+<li>国土交通省国土技術政策総合研究所 (編) 河川水辺の国勢調査 日本産ヨシノボリ属魚類の検索表 (第2版). nilim.go.jp</li>
+<li>環境省 (2020) レッドリスト 汽水・淡水魚類. env.go.jp/content/900527441.pdf</li>
+<li>国立環境研究所 侵入生物DB (2026閲覧) nies.go.jp/biodiversity/invasive/DB/detail/50930.html</li>
+<li>よくわかる！日本のヨシノボリ (rhinogobius.jp, 2026閲覧)</li>
+<li>Eschmeyer's Catalog of Fishes: Genera, Species, References (Fricke, Eschmeyer &amp; Van der Laan, 2025)</li>
+</ul>
+<hr />
+<p><em>本レポートは在野研究者のオフライン参照用。鈴木寿之・渋川浩一両氏の原著論文を入手次第、各種の診断形質の精度を上げる必要がある。とくに sp. BB/BF/BI/DA/DL/CB/CO/OM/TO 等の仮称系統は、今後5年以内に学名化される可能性が高いため、継続的なフォローアップが求められる。</em></p>
+<footer>
+generated from <code>03-rhinogobius-deep-dive.md</code> / dataset: gobies-overview
+</footer>
+</body>
+</html>

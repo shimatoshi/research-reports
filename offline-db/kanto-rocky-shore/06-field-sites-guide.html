@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>関東 磯・岩礁海岸 採集/観察サイトガイド</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">関東 磯・岩礁海岸 採集/観察サイトガイド</h1>
+<p><em>在野研究者向け現地ポケット資料 (2026-04 編纂)</em></p>
+<p>本書は相模湾〜東京湾〜外房という関東の主要磯相をカバーする現地行動マニュアルである。前章 (<code>01-geography.md</code>〜<code>05-reference-links.md</code>) で整理した生物相・微生息地区分の知見を<strong>実際に現地で展開する</strong>ために、(a) 潮汐の読み方、(b) 各サイトのアクセス/規模/危険/漁業権情報、(c) 観察記録テンプレを一つにまとめた。個人研究目的の採集・観察を前提としており、商業採捕・密漁は本書の範囲外である。</p>
+<hr />
+<h2 id="0">0. 潮汐とタイミング — まずこれを押さえる</h2>
+<p>磯観察の成否は「大潮の干潮に現地にいるか否か」で9割決まる。採集機会は1サイトあたり年間で<strong>大潮干潮が昼間に来る日</strong>＝実質30-40日程度しかない。</p>
+<h3 id="01">0.1 気象庁潮位表の使い方</h3>
+<ul>
+<li>入口 → <a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/index.php">気象庁 潮位表トップ</a>。関東は <a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/s_kanto.php">関東・伊豆諸島ページ</a> から地点選択。</li>
+<li>基準観測点の目安:</li>
+<li>相模湾〜三浦西岸: <strong>油壺 (AB)</strong> または <strong>横須賀 (YK)</strong></li>
+<li>東京湾内 (走水/観音崎): <strong>横浜 (QS)</strong></li>
+<li>外房 (勝浦・鴨川): <strong>勝浦 (KZ)</strong></li>
+<li>内房 (富津・鋸南): <strong>千葉 (CH)</strong> または <strong>木更津</strong></li>
+<li>読み方: 予測は大潮の平均干潮面を 0 cm とする「天文潮位」。台風・低気圧時は実測が±30 cm ずれることがあるため、出発前日に <a href="https://www.data.jma.go.jp/kaiyou/db/tide/genbo/index.php">リアルタイム観測データ</a> と照合する。</li>
+<li><strong>「最低潮位」記号</strong>が月に1-2回付く日が勝負日。潮位が<strong>-10 cm を切る</strong>日を狙えば普段水没している低潮帯下限が露出する。</li>
+</ul>
+<h3 id="02-tide736net">0.2 tide736.net (民間の代替)</h3>
+<p><a href="https://tide736.net/">tide736.net</a> は全国736港をカバーし、UI がスマホで扱いやすい。気象庁と同じ調和定数ベースだが、
+- グラフ表示で視覚的に干満差が分かる
+- 日の出/日の入り重ね表示があり「昼大潮かどうか」が一目で判断可
+- 主要磯観察地 (城ヶ島、油壺、三ツ石、鵜原、布良 (館山) 等) の単独ページがある</p>
+<p>オフライン派は tide736 の月次ページをブラウザで保存 (single-file HTML) しておくと通信圏外でも参照可能。</p>
+<h3 id="03">0.3 ベストウィンドウ</h3>
+<ul>
+<li><strong>干潮時刻の前後 90 分</strong> (合計約3時間) が観察可能時間</li>
+<li><strong>干潮の30分前到着</strong>で、徐々に露出していく磯を順に観察するのが定石</li>
+<li>満潮に変わった瞬間が最も危険 — 潮が戻る速度は早く、沖ノ根で孤立する事故が多い</li>
+</ul>
+<hr />
+<h2 id="1">1. 装備</h2>
+<h3 id="11">1.1 必須</h3>
+<ul>
+<li><strong>マリンシューズ (フェルトピン底)</strong>: サーフ系ではなく磯釣り用。ビーサン/クロックスは論外。濡れた海藻で滑落骨折の常連</li>
+<li><strong>グローブ</strong>: 軍手は不可 (ケガに弱く濡れると脱げる)。滑り止めゴム付き磯釣り用グローブ推奨</li>
+<li><strong>採集バケツ</strong>: オモリ付きロープ付きの磯バケツ。海中で水を汲みやすく、海水循環に使える</li>
+<li><strong>観察ケース</strong>: 透明プラケース (100均) 2個 — 被写体を入れて腹側撮影用</li>
+<li><strong>スポイト / 細ピンセット</strong>: タイドプール底の堆積物からヨコエビ類・カニダマシ幼体を拾う</li>
+<li><strong>ライフジャケット</strong>: 単独行では必ず着用。特に鵜原理想郷、城ヶ崎のような外洋露出度の高いサイト</li>
+<li><strong>防水スマホケース + 予備バッテリー</strong>: 撮影と位置記録</li>
+</ul>
+<h3 id="12">1.2 あると便利</h3>
+<ul>
+<li><strong>水中メガネ/シュノーケル</strong>: 水深のあるタイドプール底の観察用</li>
+<li><strong>偏光サングラス</strong>: 水面反射を切り、魚類行動観察の必需品</li>
+<li><strong>小型 LED</strong>: 岩陰照射用。ギンポ類・ハゼ類の見つけ率が跳ね上がる</li>
+<li><strong>ノギス/定規</strong>: 計測記録用 (種同定時の前鰓蓋棘配置等に必要)</li>
+<li><strong>屈折計 (小型)</strong>: 塩分計測用。河口近接サイトでは有意</li>
+<li><strong>1/100,000 地形図または YAMAP オフライン地図</strong>: GPS 圏外対策</li>
+</ul>
+<h3 id="13">1.3 服装</h3>
+<p>長袖・長ズボン必須 (岩角と有毒生物から保護)。ラッシュガード + クイックドライロングパンツが標準。夏でも磯は日陰/風で冷えるので薄手フリース予備。</p>
+<hr />
+<h2 id="2">2. サイト総覧 (地点テーブル)</h2>
+<p>凡例: <strong>規模</strong> は観察可能な磯の広がり。S=小 (50m圏)、M=中 (50-300m)、L=大 (300m以上)、XL=1km以上</p>
+<table>
+<thead>
+<tr>
+<th>地点</th>
+<th>県</th>
+<th>アクセス</th>
+<th>規模</th>
+<th>代表種/特徴</th>
+<th>主要参考URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>城ヶ島 長津呂/馬の背</td>
+<td>神奈川</td>
+<td>三崎口駅+バス35分</td>
+<td>XL</td>
+<td>相模湾代表磯、ウミウシ類豊富</td>
+<td><a href="https://miurahantou.jp/beach-jogashima/">miurahantou.jp</a></td>
+</tr>
+<tr>
+<td>荒崎海岸</td>
+<td>神奈川</td>
+<td>三崎口駅+バス20分</td>
+<td>L</td>
+<td>平坦岩礁、ウメボシイソギン・クモヒトデ</td>
+<td><a href="https://www.shizengate.com/locationguide/content/arasaki01.html">shizengate.com</a></td>
+</tr>
+<tr>
+<td>立石公園/秋谷</td>
+<td>神奈川</td>
+<td>JR逗子+バス、無料P</td>
+<td>S-M</td>
+<td>手軽、イソギンチャク類</td>
+<td><a href="https://shonan-miura.jp/tateishi-park/">shonan-miura.jp</a></td>
+</tr>
+<tr>
+<td>油壺</td>
+<td>神奈川</td>
+<td>三崎口駅+バス15分</td>
+<td>M</td>
+<td>東大三崎隣接、500種の記録</td>
+<td><a href="https://www.mmbs.s.u-tokyo.ac.jp/">mmbs.s.u-tokyo.ac.jp</a></td>
+</tr>
+<tr>
+<td>剱崎</td>
+<td>神奈川</td>
+<td>三浦海岸駅+徒歩30分</td>
+<td>L</td>
+<td>外洋性強、磯釣り客多</td>
+<td><a href="https://www.shizengate.com/locationguide/content/turugizaki.html">shizengate.com</a></td>
+</tr>
+<tr>
+<td>観音崎</td>
+<td>神奈川</td>
+<td>馬堀海岸駅+バス</td>
+<td>M</td>
+<td>東京湾内、内湾性相</td>
+<td><a href="https://www.cocoyoko.net/spot/kannonzaki-park.html">cocoyoko.net</a></td>
+</tr>
+<tr>
+<td>走水</td>
+<td>神奈川</td>
+<td>馬堀海岸駅+徒歩15分</td>
+<td>S</td>
+<td>潮干狩り地、軟泥〜礫底</td>
+<td><a href="https://www.m-beach.com/beach/hasirimizu-kaigan/">m-beach.com</a></td>
+</tr>
+<tr>
+<td>久里浜/野比</td>
+<td>神奈川</td>
+<td>YRP野比駅〜京急久里浜</td>
+<td>S</td>
+<td>露岩少、地質観察寄り</td>
+<td><a href="https://yokosuka-kanko.com/walking/walking-538/">yokosuka-kanko.com</a></td>
+</tr>
+<tr>
+<td>葉山 あぐい島(芝崎)</td>
+<td>神奈川</td>
+<td>JR逗子+バス、しおさい博物館横</td>
+<td>M</td>
+<td>しおさい博物館連携、保全地</td>
+<td><a href="https://www.hayama-kankou.jp/course/tidepool/">hayama-kankou.jp</a></td>
+</tr>
+<tr>
+<td>森戸海岸</td>
+<td>神奈川</td>
+<td>JR逗子+バス</td>
+<td>S</td>
+<td>砂浜+点在礁、小児向き</td>
+<td><a href="https://miurahantou.jp/morito-kaigan/">miurahantou.jp</a></td>
+</tr>
+<tr>
+<td>稲村ヶ崎</td>
+<td>神奈川</td>
+<td>江ノ電稲村ヶ崎駅徒歩3分</td>
+<td>S</td>
+<td>和賀江嶋とのセット</td>
+<td><a href="https://www.kamakura-park.com/tekuteku/pdf/beach.pdf">kamakura-park.com</a></td>
+</tr>
+<tr>
+<td>三ツ石海岸</td>
+<td>神奈川</td>
+<td>JR真鶴+バス</td>
+<td>L</td>
+<td>陸繋島、西側タイドプール濃い</td>
+<td><a href="https://www.town.manazuru.kanagawa.jp/soshiki/sangyoukankou/kanko/2408.html">town.manazuru.kanagawa.jp</a></td>
+</tr>
+<tr>
+<td>琴ヶ浜</td>
+<td>神奈川</td>
+<td>JR真鶴+バス</td>
+<td>M</td>
+<td>真鶴西岸、階段整備あり</td>
+<td><a href="https://www.manazuru.net/facility/kotogahama/">manazuru.net</a></td>
+</tr>
+<tr>
+<td>番場浦</td>
+<td>神奈川</td>
+<td>JR真鶴+バス</td>
+<td>M</td>
+<td>ブダイ釣りで有名、大型ウニ</td>
+<td><a href="https://tsuri-ba.net/?p=19361">tsuri-ba.net</a></td>
+</tr>
+<tr>
+<td>江ノ島 南磯 (湘南港)</td>
+<td>神奈川</td>
+<td>片瀬江ノ島駅徒歩15分</td>
+<td>S</td>
+<td>人工タイドプール、安全</td>
+<td><a href="https://asobii.net/72605">asobii.net</a></td>
+</tr>
+<tr>
+<td>茅ヶ崎 烏帽子岩</td>
+<td>神奈川</td>
+<td>茅ヶ崎港+渡船</td>
+<td>S</td>
+<td>沖磯、渡船必要</td>
+<td><a href="https://uosoku.com/home/kanto/kanagawa/syounan/eboshi/">uosoku.com</a></td>
+</tr>
+<tr>
+<td>湯河原 福浦</td>
+<td>神奈川</td>
+<td>JR湯河原+バス</td>
+<td>S</td>
+<td>漁港隣接、釣り寄り</td>
+<td><a href="https://fishing-walker.com/kanto/kanagawa-hukuuragyokou/">fishing-walker.com</a></td>
+</tr>
+<tr>
+<td>網代</td>
+<td>静岡</td>
+<td>JR網代駅</td>
+<td>S</td>
+<td>熱海圏、主に釣り</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%B6%B2%E4%BB%A3_(%E7%86%B1%E6%B5%B7%E5%B8%82)">wikipedia 網代</a></td>
+</tr>
+<tr>
+<td>伊東 城ヶ崎</td>
+<td>静岡</td>
+<td>伊豆急城ヶ崎海岸駅</td>
+<td>L</td>
+<td>柱状節理、外洋性タイドプール</td>
+<td><a href="https://beach-izu.com/isoasobi.html">beach-izu.com</a></td>
+</tr>
+<tr>
+<td>鵜原理想郷</td>
+<td>千葉</td>
+<td>JR鵜原駅徒歩10分</td>
+<td>L</td>
+<td>リアス海岸、南房総国定公園</td>
+<td><a href="https://www.katsuura-kankou.net/ubarautopia/">katsuura-kankou.net</a></td>
+</tr>
+<tr>
+<td>鴨川 小湊/内浦</td>
+<td>千葉</td>
+<td>JR安房小湊</td>
+<td>M</td>
+<td>内浦湾、静穏、教育利用多</td>
+<td><a href="https://www.echiba-sports.org/kamo/activity/%E7%A3%AF%E3%81%AE%E7%94%9F%E7%89%A9%E8%A6%B3%E5%AF%9F/">echiba-sports.org</a></td>
+</tr>
+<tr>
+<td>太海/守谷</td>
+<td>千葉</td>
+<td>JR太海/JR上総興津</td>
+<td>M</td>
+<td>外房、水質良好</td>
+<td><a href="https://bosotown.com/archives/62085">bosotown.com</a></td>
+</tr>
+<tr>
+<td>富津岬</td>
+<td>千葉</td>
+<td>JR青堀+バス</td>
+<td>S</td>
+<td>東京湾内、干潟性寄り</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%B4%A5%E5%B2%AC">wikipedia 富津岬</a></td>
+</tr>
+<tr>
+<td>鋸南/保田</td>
+<td>千葉</td>
+<td>JR保田</td>
+<td>S</td>
+<td>内房、漁協監視あり</td>
+<td><a href="https://www.town.kyonan.chiba.jp/soshiki/6/0007813.html">town.kyonan.chiba.jp</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="3">3. 三浦エリア (最重要)</h2>
+<h3 id="31">3.1 城ヶ島</h3>
+<ul>
+<li><strong>アクセス</strong>: 京急三崎口駅 → 京急バス「城ヶ島」行き35分 → 終点下車。または東側「白秋碑前」。西側 (白秋碑前寄り) 公共 P が磯への距離最短。</li>
+<li><strong>磯の範囲</strong>: 島全周だが観察実戦区は<strong>長津呂の磯</strong> (灯台奥、ひな壇状岩棚) と<strong>馬の背洞門〜赤羽根崎</strong>。東西併せて約2km、大潮時の有効露出は累計500m超。</li>
+<li><strong>大潮時露出</strong>: 潮位-20 cm で長津呂外縁の赤褐色藻類帯まで露出、-5 cm でも十分楽しめる。</li>
+<li><strong>代表観察対象</strong>: ウミウシ類 (アオ・シロ・ヒロ系多数)、クモヒトデ類、イソスジエビ、ギンポ類、メジナ幼魚、巨大ヒザラガイ。</li>
+<li><strong>危険</strong>: 馬の背洞門の北側は波あたり強 — 大潮満潮時の戻りで孤立事故多発。島南岸は風が上がると即中止。</li>
+<li><strong>採集可否</strong>: 三崎漁協の共同漁業権エリア。イセエビ/サザエ/アワビ/タコ/ナマコ/海藻は全面不可。小型甲殻類・ハゼ類の研究目的観察は可。県条例 <a href="https://www.pref.kanagawa.jp/docs/kb2/docs/yugyo/isoasobi.html">磯遊びのルール</a> 参照。</li>
+<li><strong>紹介</strong>: <a href="https://miurahantou.jp/beach-jogashima/">miurahantou.jp 城ヶ島</a> / <a href="https://www.shizengate.com/locationguide/content/jogashima01.html">shizengate 城ヶ島</a> / 個人ブログ <a href="https://innocentclovers.com/2020/01/jogashima/">Innocent Clovers</a></li>
+<li><strong>適期</strong>: 4-6月 (海藻着生ピーク)、9-10月 (稚魚加入)。真夏は観察者過多。</li>
+</ul>
+<h3 id="32">3.2 荒崎海岸</h3>
+<ul>
+<li><strong>アクセス</strong>: 三崎口駅から京急バス「荒崎」行き約20分。荒崎公園 P あり。</li>
+<li><strong>磯の範囲</strong>: 公園南側「どんどんびき」〜「潮見穴」一帯、約400m。平坦な凝灰質泥岩の棚が続く。</li>
+<li><strong>大潮時露出</strong>: 潮位 0 cm で棚全体、-10 cm でオーバーハング下のウニ溝まで到達可。</li>
+<li><strong>代表観察対象</strong>: ウメボシイソギンチャク、ニホンクモヒトデ、ケヤリムシ類、多種ハゼ、磯の貝類多彩。</li>
+<li><strong>危険</strong>: 台風残波でうねりが棚越しに上がる。風速5 m以上で中止推奨。</li>
+<li><strong>採集可否</strong>: 三浦市漁協管轄。共同漁業権対象全種禁止。</li>
+<li><strong>紹介</strong>: <a href="https://www.shizengate.com/locationguide/content/arasaki01.html">shizengate 荒崎</a> / <a href="https://asobii.net/110371">asobii.net 荒崎</a> / <a href="https://tokyo-snorkeling.com/arasaki/">tokyo-snorkeling.com 荒崎</a></li>
+<li><strong>適期</strong>: 5-7月、10月。</li>
+</ul>
+<h3 id="33">3.3 立石公園・秋谷</h3>
+<ul>
+<li><strong>アクセス</strong>: JR逗子駅 → 京急バス「立石」下車すぐ。無料 P (62台) 24時間。</li>
+<li><strong>磯の範囲</strong>: 立石 (高さ12 m巨岩) 北〜南側、約150 m。狭いが駐車から30秒。</li>
+<li><strong>大潮時露出</strong>: 潮位+10 cm でも十分観察可。エントリー最容易。</li>
+<li><strong>代表観察対象</strong>: ウメボシイソギンチャク群落、フジツボ帯、イソガニ、各種巻貝。初心者・子連れ入門に最適。</li>
+<li><strong>危険</strong>: 少。ただし北側の岩盤はノリが乗ると滑る。</li>
+<li><strong>採集可否</strong>: 横須賀市漁協。<a href="https://www.city.yokosuka.kanagawa.jp/4440/suisan/mitsuryo.html">横須賀市の注意</a> に明記の通りアワビ/サザエ等禁止。</li>
+<li><strong>紹介</strong>: <a href="https://shonan-miura.jp/tateishi-park/">shonan-miura tateishi</a> / <a href="https://miurahantou.jp/tateishi-kouen/">miurahantou 立石</a></li>
+<li><strong>適期</strong>: 通年だが夏場は人出過多。</li>
+</ul>
+<h3 id="34">3.4 油壺</h3>
+<ul>
+<li><strong>アクセス</strong>: 三崎口駅 → バス15分 → 油壺バス停 → 徒歩10分。東京大学臨海実験所下の磯 (諸磯湾口) が観察実戦区。</li>
+<li><strong>磯の範囲</strong>: 湾内静穏磯〜湾口外洋性磯まで多様。約300m。</li>
+<li><strong>大潮時露出</strong>: -5 cm で実験所前の岩棚全域露出。</li>
+<li><strong>代表観察対象</strong>: <strong>500種以上の採集記録</strong>を持つ歴史的観察地。マナマコ、トコブシ、多様な棘皮動物、ミドリイシ系サンゴ北限域。</li>
+<li><strong>危険</strong>: 少 (湾内静穏)。ただし磯釣り客と輻輳しがち。</li>
+<li><strong>採集可否</strong>: 三崎漁協水域かつ実験所保全区域。<strong>学術利用は事前に臨海実験所に相談が望ましい</strong>。一般採集は共同漁業権対象全種禁止。</li>
+<li><strong>紹介</strong>: <a href="https://www.mmbs.s.u-tokyo.ac.jp/">東京大学三崎臨海実験所公式</a> / <a href="https://note.com/robotakun/n/n3d42d79ae98e">note 門田和雄 三崎臨海</a> / <a href="https://tsuribaannai.com/aburatsuborinkaijikkenjyousita/">釣り場案内人サトシ 油壺</a></li>
+<li><strong>適期</strong>: 5-10月。</li>
+</ul>
+<h3 id="35">3.5 剱崎</h3>
+<ul>
+<li><strong>アクセス</strong>: 京急三浦海岸駅 → 徒歩30分、または松輪バス停。</li>
+<li><strong>磯の範囲</strong>: 剱崎灯台下〜江奈湾手前、<strong>関東ふれあいの道「三浦・岩礁のみち」</strong> の起点。1 km超。</li>
+<li><strong>代表観察対象</strong>: 外洋性相。ヨメガカサ、オオクボクガイ、タイドプール底にはギンポ類・オヤビッチャ迷入個体。</li>
+<li><strong>危険</strong>: 高。うねり直撃エリアで過去に死亡事故複数。単独行非推奨。</li>
+<li><strong>採集可否</strong>: 松輪漁協エリア。</li>
+<li><strong>紹介</strong>: <a href="https://www.city.miura.kanagawa.jp/soshiki/kankoshokoka/kankoshokoka_kanko/hikingdrive/92.html">miura-city 岩礁のみち</a> / <a href="https://www.kojitusanso.jp/tozan-report/detail/?fm=30138">kojitusanso 岩礁のみち</a></li>
+<li><strong>適期</strong>: 晴天無風の5-6月、10-11月。</li>
+</ul>
+<h3 id="36">3.6 観音崎・走水</h3>
+<p>観音崎は <a href="https://miurahantou.jp/kannonzaki-kouen/">県立観音崎公園</a> 直下の磯で<strong>東京湾内の内湾相</strong>が観察できる希少サイト。<a href="https://kannonzaki-nature-museum.jimdofree.com/">観音崎自然博物館</a> との連携観察会あり。走水は <a href="https://www.cocoyoko.net/spot/hashirimizu-beach.html">走水海岸</a> — アサリ主体で磯相は弱いが、運河性の細い岩礁がある。両地点とも潮位差が三浦外洋より小さく、干潮でも露出は控えめ。</p>
+<h3 id="37">3.7 久里浜・野比</h3>
+<p><a href="https://www.museum.yokosuka.kanagawa.jp/archives/news/23120">野比海岸</a> は磯というより<strong>活断層露頭と新第三紀地層の観察地</strong>。生物観察優先度は低いが、地質コンテキスト学習には有用。</p>
+<hr />
+<h2 id="4">4. 葉山〜鎌倉</h2>
+<h3 id="41">4.1 葉山 芝崎 (あぐい島周辺)</h3>
+<ul>
+<li><strong>アクセス</strong>: JR逗子駅 → バス「海岸回り」→「海岸通り」下車。<strong><a href="https://www.town.hayama.lg.jp/soshiki/shougaigakushuu/2/1701.html">葉山しおさい博物館</a></strong> 併設。</li>
+<li><strong>磯の範囲</strong>: 芝崎岬の潮間帯約200m。葉山町観光協会が <a href="https://www.hayama-kankou.jp/course/tidepool/">潮だまり観察コース</a> を公式に整備。</li>
+<li><strong>代表観察対象</strong>: 昭和天皇採集の歴史的生物相。ウミウシ類が特に濃い (<a href="https://note.com/halocynthia/n/ndf1c8d6fdc22">note 海遊びのほや 芝崎編</a>)。</li>
+<li><strong>採集可否</strong>: 「天皇海岸」として知られ<strong>保全意識高い</strong>。採集は控え観察主体で。共同漁業権対象種不可。</li>
+<li><strong>紹介</strong>: <a href="https://miurahantou.jp/hayama-shiosai-museum/">しおさい博物館</a>、<a href="https://note.com/halocynthia/n/ndf1c8d6fdc22">note 芝崎編</a></li>
+<li><strong>適期</strong>: 4-6月 (ウミウシ繁殖期)。</li>
+</ul>
+<h3 id="42">4.2 森戸・稲村ヶ崎</h3>
+<p>森戸は <a href="https://miurahantou.jp/morito-kaigan/">砂浜中心</a> で磯は岬周辺のみ。稲村ヶ崎は狭いが江ノ電駅徒歩3分で<strong>鎌倉材木座の和賀江嶋</strong> (日本最古の築港跡、<a href="https://www.kamakura-park.com/tekuteku/pdf/beach.pdf">鎌倉海浜公園資料</a>) とのセット行程が可能。</p>
+<hr />
+<h2 id="5">5. 真鶴半島 (箱根ジオパーク)</h2>
+<h3 id="51">5.1 三ツ石海岸</h3>
+<ul>
+<li><strong>アクセス</strong>: JR真鶴駅 → バス「ケープ真鶴」下車 → 遊歩道下り10分。</li>
+<li><strong>磯の範囲</strong>: 半島先端3岩礁基部〜西側磯、約400m。西側タイドプールが濃い。</li>
+<li><strong>大潮時露出</strong>: 春〜秋の大潮で陸繋島化し三ツ石本体まで歩いて渡れる。</li>
+<li><strong>代表観察対象</strong>: ウメボシイソギンチャク、ナマコ類、ハゼ類、ブダイ幼魚、ウニ類多種。</li>
+<li><strong>危険</strong>: 陸繋化後の満ち戻りで<strong>孤立事故多発</strong>。時計で厳密管理。</li>
+<li><strong>採集可否</strong>: <strong>真鶴町の「お林」由来の保全文化</strong>が強く、生物採集は強く自粛推奨。国際基準「生物多様性の観点から重要度の高い海域」指定。</li>
+<li><strong>紹介</strong>: <a href="https://www.town.manazuru.kanagawa.jp/soshiki/sangyoukankou/kanko/2408.html">町公式</a> / <a href="https://www.endo-shellmuseum.jp/">遠藤貝類博物館</a> / <a href="https://note.com/hakone_geopark/n/nacc66518caf7">箱根ジオパーク note</a> / <a href="https://note.com/halocynthia/n/n09e7e7f7227a">海遊びのほや #1</a> / <a href="https://magazine.tabist.co.jp/area/kanto/7335/">Tabist Magazine</a></li>
+<li><strong>適期</strong>: 4-10月、特に大潮陸繋化の日。</li>
+</ul>
+<h3 id="52">5.2 琴ヶ浜・番場浦</h3>
+<p>西岸の2点。<a href="https://www.manazuru.net/facility/kotogahama/">琴ヶ浜</a> は階段/トイレ整備され初心者向け、<a href="https://tsuri-ba.net/?p=19361">番場浦</a> はブダイ釣りの聖地で大型タイドプールにサザエ大型個体 (ただし漁業権対象)。</p>
+<hr />
+<h2 id="6">6. 湘南〜伊豆北東</h2>
+<h3 id="61">6.1 江ノ島 南磯 (湘南港タイドプール)</h3>
+<p>人工構造物だが外海と壁で仕切られ<strong>初心者・子連れに最も安全</strong>。無料・8-18時・<a href="https://asobii.net/72605">asobii.net 解説</a>。<strong>神奈川県立博物館報告</strong> (<a href="https://nh.kanagawa-museum.jp/www/pdf/nhr13_029_038ueda.pdf">上田ら 江の島タイドプール魚類</a>) が種組成を公表しており、在野研究のベースラインとして使いやすい。</p>
+<h3 id="62">6.2 茅ヶ崎 烏帽子岩</h3>
+<p><a href="https://uosoku.com/home/kanto/kanagawa/syounan/eboshi/">沖磯、渡船必要</a>。<a href="https://chigasakitatsumi.com/">たつみ釣具店</a> 等から渡船。磯釣り中心で一般磯観察には非実用的だが、<strong>姥島群礁の孤立岩礁生物相</strong>はユニーク。</p>
+<h3 id="63">6.3 湯河原 福浦・網代</h3>
+<p><a href="https://fishing-walker.com/kanto/kanagawa-hukuuragyokou/">福浦漁港</a> は漁港内の岩壁観察向き。網代は熱海市内の <a href="https://ja.wikipedia.org/wiki/%E7%B6%B2%E4%BB%A3_(%E7%86%B1%E6%B5%B7%E5%B8%82)">漁港町</a>、磯観察は主要目的にはならない。</p>
+<h3 id="64">6.4 伊東 城ヶ崎海岸</h3>
+<p><strong>伊豆北東の主力磯</strong>。柱状節理の海食地形でタイドプールの水深が深く、魚類相が関東本土側よりも南方性を帯びる (<a href="https://beach-izu.com/isoasobi.html">beach-izu.com</a>)。汐吹公園・橋立吊橋下が観察実戦区。</p>
+<hr />
+<h2 id="7">7. 房総</h2>
+<h3 id="71">7.1 勝浦 鵜原理想郷</h3>
+<ul>
+<li><strong>アクセス</strong>: JR鵜原駅徒歩10分 (トンネル抜け坂下る)。</li>
+<li><strong>磯の範囲</strong>: リアス海岸の入り江間で複数の小磯が連続、約1km。</li>
+<li><strong>代表観察対象</strong>: 外房外洋性相。毛戸浦の干潮磯が濃い (<a href="https://yamap.com/activities/30341023/article">房州仙人 YAMAP 活動日記</a>)。</li>
+<li><strong>危険</strong>: 外洋うねり直撃。単独非推奨。</li>
+<li><strong>採集可否</strong>: <strong>南房総国定公園内</strong>。景勝地指定かつ勝浦漁協。共同漁業権対象禁止。</li>
+<li><strong>紹介</strong>: <a href="https://www.katsuura-kankou.net/ubarautopia/">勝浦市観光</a> / <a href="https://o-ism.com/bs/%E9%B5%9C%E5%8E%9F%E7%90%86%E6%83%B3%E9%83%B7">房総ism</a> / <a href="https://clasis.jp/ubara-1/">clasis.jp</a></li>
+<li><strong>適期</strong>: 4-6月、10-11月。</li>
+</ul>
+<h3 id="72">7.2 鴨川・小湊/内浦</h3>
+<p><a href="https://www.echiba-sports.org/kamo/activity/%E7%A3%AF%E3%81%AE%E7%94%9F%E7%89%A9%E8%A6%B3%E5%AF%9F/">千葉県立鴨川青少年自然の家</a> が教育プログラム運営。<a href="https://www.kamonavi.jp/member/%E5%86%85%E6%B5%A6%E6%B5%B7%E5%B2%B8/">内浦海岸</a> は静穏で子供連れ・家族研究向き。<a href="https://www.zukan-bouz.com/zkan/tabi/tiba/kamogawa/iso01.html">市場魚貝類図鑑 外房磯遊び</a> に代表種記載。</p>
+<h3 id="73">7.3 太海・守谷</h3>
+<p><a href="https://bosotown.com/archives/62085">守谷海岸</a> は「日本の海水浴場88選」「水質 AA」。JR上総興津駅徒歩7分で車なし研究者にも好適。</p>
+<h3 id="74">7.4 富津岬</h3>
+<p>内湾干潟寄り。露岩は少なく、<a href="https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%B4%A5%E5%B2%AC">富津岬 Wikipedia</a> によれば南側は外洋防波堤、北側は 174 ha の干潟。<strong>磯より干潟性観察優先</strong>。</p>
+<h3 id="75">7.5 鋸南・保田</h3>
+<p><a href="https://www.town.kyonan.chiba.jp/soshiki/6/0007813.html">鋸南町公式</a> によれば<strong>勝山・保田両漁協の監視区域</strong>。貝類・海藻採取禁止、潜水器具・スピアガン禁止が明示。観察主体で利用。</p>
+<hr />
+<h2 id="8">8. 漁業権・法令セクション</h2>
+<h3 id="81">8.1 基本ルール</h3>
+<p><a href="https://www.jfa.maff.go.jp/j/enoki/mitsuryotaisaku.html">水産庁 密漁対策</a>・<a href="https://www.gov-online.go.jp/article/202107/entry-10345.html">政府広報オンライン</a>・<a href="https://www.pref.kanagawa.jp/docs/kb2/docs/yugyo/isoasobi.html">神奈川県磯遊びルール</a> の三点を必ず事前参照。</p>
+<h3 id="82">8.2 「第一種共同漁業権」対象の主要種</h3>
+<p>在野研究者の採集でも<strong>全面禁止</strong>。研究目的でも許可なく採ると100万円以下の罰金。</p>
+<ul>
+<li><strong>イセエビ</strong> (全国で共同漁業権対象)</li>
+<li><strong>アワビ</strong> (2020改正漁業法で「特定水産動植物」指定、違反は3年以下拘禁刑/3,000万円以下)</li>
+<li><strong>サザエ</strong></li>
+<li><strong>タコ</strong> (定着性)</li>
+<li><strong>ナマコ</strong> (アワビと同じく特定水産動植物)</li>
+<li><strong>シラスウナギ</strong> (同上)</li>
+<li><strong>ワカメ・コンブ・テングサ等の海藻類</strong></li>
+</ul>
+<h3 id="83">8.3 使用禁止漁具 (神奈川県)</h3>
+<ul>
+<li>カニ網</li>
+<li>忍者くまで (網/カゴ付)</li>
+<li>スピアガン/水中銃</li>
+<li>潜水器具を使った採捕 (素潜り可、スクーバは不可)</li>
+</ul>
+<p>竿釣り・手釣り・タモ網のみが遊漁者 (非漁業者) の合法漁具。</p>
+<h3 id="84">8.4 国立/国定公園規制</h3>
+<ul>
+<li><strong>南房総国定公園</strong> (鵜原〜館山): 景観改変不可、許可なき動植物採取制限。</li>
+<li><strong>真鶴半島</strong> (町条例「お林」保護区): 採集自粛文化。</li>
+<li><strong>箱根ジオパーク</strong> (真鶴含): 地質学的対象物持ち出し禁止。</li>
+</ul>
+<hr />
+<h2 id="9">9. 危険生物対処</h2>
+<table>
+<thead>
+<tr>
+<th>生物</th>
+<th>毒性</th>
+<th>遭遇頻度</th>
+<th>対処</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ガンガゼ</strong></td>
+<td>棘刺毒、返し棘で抜けず</td>
+<td>高 (関東全域磯)</td>
+<td>刺さった棘は抜かず温水 (45℃) 浸漬、折れた棘は医療で摘出</td>
+</tr>
+<tr>
+<td><strong>ハオコゼ</strong></td>
+<td>背鰭棘毒、小魚なので網で混入</td>
+<td>中</td>
+<td>温水浸漬。直接素手で触らない</td>
+</tr>
+<tr>
+<td><strong>ヒョウモンダコ</strong></td>
+<td>唾液にテトロドトキシン、致死性</td>
+<td>低〜中 (関東でも南岸で拡大中)</td>
+<td>絶対素手で触らず。青色斑紋が出ていれば刺激済 → 離れる</td>
+</tr>
+<tr>
+<td><strong>ウンバチイソギンチャク</strong></td>
+<td>体表刺胞の最強毒類。通常<strong>沖縄以南</strong>だが温暖化で南房総で確認事例あり</td>
+<td>極低</td>
+<td>酢は禁忌 (逆効果)、海水で洗浄のみ。即病院</td>
+</tr>
+<tr>
+<td><strong>アカクラゲ/カツオノエボシ</strong></td>
+<td>触手毒</td>
+<td>低 (漂着)</td>
+<td>海水洗浄、酢は種による</td>
+</tr>
+<tr>
+<td><strong>ヒトデ (オニヒトデ等)</strong></td>
+<td>棘毒</td>
+<td>低</td>
+<td>温水浸漬</td>
+</tr>
+<tr>
+<td><strong>イモガイ類</strong></td>
+<td>毒銛</td>
+<td>低</td>
+<td>殻を素手で握らない</td>
+</tr>
+</tbody>
+</table>
+<p>一般的事項は <a href="https://www.pref.kanagawa.jp/docs/ch3/ikusei/r4outdoor/safety/dangerous.html">神奈川県 野外危険生物</a> / <a href="https://www.jamstec.go.jp/godac/j/godac/file/sea_activity/activity_kikenseibutsu.pdf">JAMSTEC 海の危険生物</a> / <a href="https://fish-exp.pref.shizuoka.jp/izu/creature/4-1-3_dang.html">静岡県水産研 伊豆分場</a> を参照。</p>
+<hr />
+<h2 id="10">10. 観察記録テンプレート</h2>
+<p>フィールドノート書式の推奨テンプレ。オフラインでも記録でき、後日 SQLite 等に流し込みやすい構造。</p>
+<pre><code>=== 観察記録 ===
+日時: 2026-04-17 (大潮) 干潮 13:24 潮位 -12cm (気象庁油壺基準)
+気温/水温: 17.2°C / 15.4°C (ハンディ温度計)
+天候/風: 晴、北東2m、うねり弱
+観察地点: 神奈川県三浦市 城ヶ島 長津呂の磯 北端ポイント
+GPS: 35.1387, 139.6115 (スマホ記録)
+
+環境:
+- 区分: 低潮帯下限、岩盤平棚+深さ60cm岩プール
+- 底質: 凝灰質岩盤、表面に石灰藻、アラメ被度30%
+- 塩分: 34.1‰ (屈折計)
+
+観察記録 (個体ごと):
+No.1 13:45
+  種: ドロメ (Chaenogobius gulosus) 推定
+  サイズ: 全長 42mm
+  個体数: 1
+  行動: プール底、ガラス越しに撮影、逃避距離30cm
+  採集: なし (観察のみ撮影)
+  写真: IMG_20260417_134512.jpg
+  同定根拠: 第1背鰭の黒斑・頬部の斑列
+
+No.2 13:52
+  種: イソスジエビ
+  サイズ: 35mm
+  個体数: 7 (群れ)
+  行動: アラメ基部
+  採集: なし
+  写真: IMG_20260417_135220.jpg
+
+備考:
+- プール内のウメボシイソギンチャク開花被度 80%
+- 前年同時期より水温+0.7°C
+
+次回アクション:
+- 同一プールで 6月大潮 (-15cm 予測日) に再訪し幼魚加入確認
+- ドロメ同定のため鰭条数を次回確認
+</code></pre>
+<p>CSV 化する際のキー推奨: <code>date, site_id, point_id, lat, lon, tide_cm, zone, species, size_mm, count, behavior_code, collected, photo_id, identifier, note</code></p>
+<hr />
+<h2 id="11_1">11. 付録: 参考機関・主要情報源</h2>
+<h3 id="111">11.1 博物館・研究機関</h3>
+<ul>
+<li><a href="https://nh.kanagawa-museum.jp/">神奈川県立 生命の星・地球博物館</a> (小田原) — <a href="https://nh.kanagawa-museum.jp/event/">磯の生きものウォッチング</a> 等観察会多数</li>
+<li><a href="https://www.mmbs.s.u-tokyo.ac.jp/">東京大学大学院理学系研究科附属臨海実験所</a> (三崎・油壺) — <a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%90%86%E5%AD%A6%E7%B3%BB%E7%A0%94%E7%A9%B6%E7%A7%91%E9%99%84%E5%B1%9E%E8%87%A8%E6%B5%B7%E5%AE%9F%E9%A8%93%E6%89%80">Wikipedia 三崎臨海実験所</a></li>
+<li><a href="https://www.town.hayama.lg.jp/soshiki/shougaigakushuu/2/1701.html">葉山しおさい博物館</a> — 昭和天皇標本、相模湾生物相のアーカイブ</li>
+<li><a href="https://kannonzaki-nature-museum.jimdofree.com/">観音崎自然博物館</a> — 東京湾側生物相専門</li>
+<li><a href="https://www.endo-shellmuseum.jp/">真鶴町立遠藤貝類博物館</a> — 貝類同定支援</li>
+<li><a href="https://www.museum.yokosuka.kanagawa.jp/">横須賀市自然・人文博物館</a> — 地質・野比露頭解説</li>
+<li><a href="https://note.com/hakone_geopark">箱根ジオパーク</a> — 真鶴半島地質コンテキスト</li>
+<li><a href="https://www.chiba-muse.or.jp/UMIHAKU/">千葉県立中央博物館分館 海の博物館</a> — <a href="https://www.chiba-muse.or.jp/UMIHAKU/shizen/iso/isozukan.htm">磯の生きもの図鑑</a></li>
+</ul>
+<h3 id="112-note">11.2 磯観察ブログ・note 系</h3>
+<ul>
+<li><a href="https://note.com/halocynthia">note 海遊びのほや (halocynthia)</a> — 芝崎・三ツ石をウミウシ視点で継続ドキュメント</li>
+<li><a href="https://www.shizengate.com/">子どもと100倍楽しむ自然の遊び場 (shizengate)</a> — 関東磯サイトを網羅的に解説、大浦海岸等マイナー地もカバー</li>
+<li><a href="https://miurahantou.jp/">miurahantou.jp</a> — 三浦半島ビーチ・磯ポータル</li>
+<li><a href="https://beach-izu.com/isoasobi.html">beach-izu.com 伊豆の磯遊びスポット</a> — 伊豆圏全網羅</li>
+<li><a href="https://bosotown.com/">bosotown.com</a> — 房総専門ポータル</li>
+<li><a href="https://o-ism.com/">房総ism</a> — 房総秘境系</li>
+<li><a href="https://clasis.jp/">clasis.jp</a> — 勝浦・外房の穴場ブログ</li>
+<li><a href="https://asobii.net/">asobii.net</a> — パパレポ系、アクセス/駐車/装備情報が具体的</li>
+<li><a href="https://cocoyuco.jp/chiba-samurai-play/">cocoyuco! 磯遊びまとめ</a> — 千葉磯穴場7選</li>
+<li><a href="https://kanagawa-eventplus.com/column/kanagawa-children-rockyshore-play">kanagawa-eventplus 神奈川磯遊び7選</a></li>
+</ul>
+<h3 id="113">11.3 潮汐・気象</h3>
+<ul>
+<li><a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/index.php">気象庁潮位表</a></li>
+<li><a href="https://tide736.net/">tide736.net</a></li>
+<li><a href="https://tide.chowari.jp/">tide.chowari.jp</a></li>
+<li><a href="https://www.surf-life.blue/weather/tide_level/">Surf Life タイドグラフ</a></li>
+</ul>
+<h3 id="114">11.4 法令・ルール</h3>
+<ul>
+<li><a href="https://www.jfa.maff.go.jp/j/enoki/mitsuryotaisaku.html">水産庁 密漁対策</a></li>
+<li><a href="https://www.gov-online.go.jp/article/202107/entry-10345.html">政府広報オンライン 遊漁のルール</a></li>
+<li><a href="https://www.pref.kanagawa.jp/docs/kb2/docs/yugyo/isoasobi.html">神奈川県 磯遊びのルール</a></li>
+<li><a href="https://www.pref.chiba.lg.jp/suisan/makiesa.html">千葉県 海面遊漁ルール</a></li>
+<li><a href="https://www.city.yokosuka.kanagawa.jp/4440/suisan/mitsuryo.html">横須賀市 密漁注意</a></li>
+<li><a href="https://www.kaiho.mlit.go.jp/03kanku/keijika/rejamituryou.htm">海上保安庁 第三管区 密漁注意</a></li>
+</ul>
+<h3 id="115">11.5 参考資料</h3>
+<ul>
+<li><a href="https://www.env.go.jp/water/heisa/heisa_net/setouchiNet/seto/g1/g1chapter4/g1chapter4-2/iso.html">環境省せとうちネット 磯の観察</a></li>
+<li><a href="https://umino-npo.com/kansatsukai-2/">NPOパパラギ 海岸生物観察会</a></li>
+<li><a href="https://home-aquarium.com/?p=1715">海水魚ラボ 磯採集マニュアル</a></li>
+<li><a href="https://www.keikyu.co.jp/visit/magazine/pdf/miulike_vol07.pdf">京急 miulike vol.07 磯遊び特集</a></li>
+<li><a href="https://taiken.izu-shimoda.info/pdf2/01.pdf">伊豆下田 楽しい磯のいきもの観察入門PDF</a></li>
+</ul>
+<hr />
+<h2 id="12_1">12. 在野研究の実務アドバイス (編者注)</h2>
+<ol>
+<li><strong>「大潮カレンダー」を作る</strong>: 年初に tide736 で各基準港の昼間大潮日を全て拾い、週末と合致する日を年10〜15日確保。この日は予定を入れない。</li>
+<li><strong>写真は腹背2面+斜位1面を標準化</strong>: 将来の同定で腹側情報が欠けて後悔するパターン回避。</li>
+<li><strong>生物は採集せず撮影優先</strong>: 漁業権グレー地帯でのトラブル回避、および個体群撹乱回避。真に必要な分類標本のみ、各県水産事務所に<strong>遊漁者から研究者登録の相談</strong>をしておくと説得力が上がる。</li>
+<li><strong>同一サイト季節反復</strong>: 単発遠征より、城ヶ島・三ツ石・鵜原など3サイトに絞り年4回ずつ訪問するほうが論文化可能な時系列データになる。</li>
+<li><strong>地元漁協/博物館と関係構築</strong>: 葉山しおさい博物館・東大三崎・真鶴遠藤貝類博物館とは早めに連絡を取り、標本同定依頼ルートを確保。</li>
+<li><strong>しおさい博物館観察会/生命の星地球博物館イベントに参加</strong>: 学芸員の現地指導を受け、地元研究者ネットワークに入る最短ルート。</li>
+</ol>
+<hr />
+<p><strong>編纂日</strong>: 2026-04-17
+<strong>次回改訂予定</strong>: 2027-04 (大潮カレンダー・URL 生存確認)
+<strong>姉妹文書</strong>: <code>01-geography.md</code> (地形論)、<code>02-microhabitat-zonation.md</code> (帯状分布)、<code>03-fauna-catalog.md</code> (動物相)、<code>04-algae-flora.md</code> (海藻相)</p>
+<footer>
+generated from <code>06-field-sites-guide.md</code> / dataset: kanto-rocky-shore
+</footer>
+</body>
+</html>

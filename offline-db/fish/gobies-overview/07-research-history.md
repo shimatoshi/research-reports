@@ -1,0 +1,157 @@
+# ハゼ類研究史と主要研究者
+
+*作成日: 2026-04-17 / シリーズ: gobies-overview 07*
+
+本稿はハゼ類 (Gobiiformes, 特に Gobiidae) に関する分類学・系統学・生態学研究の歴史、日本および世界の主要研究者、モノグラフ・一次文献、オンラインリソースを在野研究者が概観するための整理である。Rhinogobius を中心にした個別系統の詳細は姉妹稿 (01〜06) に譲り、ここでは「誰が」「どこで」「何を」積み上げてきたかを人物軸で俯瞰する。
+
+---
+
+## 1. 日本のハゼ研究史
+
+### 1.1 戦前 — 田中茂穂 (Tanaka Shigeho, 1878–1974)
+
+日本産魚類分類学の草創期を担った東京帝国大学動物学教授。Jordan, D. S. および Snyder, J. O. との共著 *A catalogue of the fishes of Japan* (1913, *J. Coll. Sci. Imp. Univ. Tokyo*) は当時の日本産魚類リストの到達点であり、その後の松原喜代松・岡田弥一郎らによる独自の国内ハゼ分類の出発点となった ([Wikipedia: Shigeho Tanaka](https://en.wikipedia.org/wiki/Shigeho_Tanaka))。
+
+田中は 1911–1930 年にかけて *Figures and Descriptions of the Fishes of Japan* (全48冊) を刊行し、新種を多数記載した。ハゼ類では *Luciogobius* や *Chasmichthys* 周辺の原記載に関与し、松原喜代松 (Matsubara Kiyomatsu) ・内田恵太郎 (Uchida Keitaro) と並び「戦前三羽烏」として現代日本魚類学の土台を築いた ([Ichthyology 50 years in Japan, Ichthyol. Res. 2018](https://link.springer.com/article/10.1007/s10228-018-0658-z))。
+
+### 1.2 戦後 — 明仁上皇 (Akihito, b. 1933) とハゼ亜目分類の体系化
+
+上皇明仁は皇太子時代から日本魚類学会会員としてハゼ亜目分類に学術的貢献を続け、同学会誌 (*Japanese Journal of Ichthyology*) と *Ichthyological Research*、さらに *Gene* に論文を発表している。代表作として:
+
+- Akihito (1986) "Some morphological characters considered to be important in gobiid phylogeny". In *Indo-Pacific Fish Biology*, Ichthyological Society of Japan — 鰓弓 (gill arch) ・肩帯形態を重視した phylogenetic character の整理で、後の Murdy (1989) や Pezold による Gobionellinae 研究の礎となった。
+- Akihito, M. Hayashi, T. Yoshino, K. Shimada, H. Senou, T. Yamamoto (1984, 2002) "Gobioidei". In *Fishes of the Japanese Archipelago* (Masuda et al. 編, 1st ed. 1984) / *Fishes of Japan with Pictorial Keys to the Species* (Nakabo 編, 2002) — ハゼ亜目約 350 pp を担当し、日本産 518 種の pictorial key を整備 ([Tokai Univ. Press](https://www.press.tokai.ac.jp/issu/fish/fishes_of_Japan.html))。
+- Akihito et al. (2000) "Evolutionary aspects of gobioid fishes based upon a phylogenetic analysis of mitochondrial cytochrome b genes". *Gene* 259: 5–15 — 日本におけるハゼ mtDNA phylogeny の先駆的論文。
+- 2021 年には宮内庁発表で新たに 2 新種を記載 ([宮内庁「上皇陛下のご研究について」](https://www.kunaicho.go.jp/okotoba/01/ronbun/joko-kenkyu.html))。
+
+献名種は *Exyrias akihito* Allen & Randall, 2005 および属 *Akihito* Watson, Keith & Marquet, 2007 (Sicydiinae) など。Linnean Society of London 名誉会員、Australian Museum research associate。
+
+### 1.3 現代の分類学コア — 鈴木寿之・渋川浩一・瀬能宏
+
+**鈴木寿之 (Suzuki Toshiyuki / Hisayuki)** — 在野研究者の代表格で、神奈川県博および共同研究者網を通じて *Rhinogobius*, *Luciogobius*, *Schismatogobius* 等の新種記載を精力的に続けている。近年の主要業績には Suzuki, Shibukawa & Aizawa (2017) *Rhinogobius mizunoi* (Japan)、Kanagawa Bull. 2020 *R. yaima*, *R. yonezawai* (琉球) ([jstage](https://www.jstage.jst.go.jp/article/bkpmnh/2020/49/2020_2/_article))、2022 *R.* new sp. + 2 新亜種 (八重山)、Chen, Suzuki & Senou (2008) *Luciogobius* Ryukyus 記載、Zootaxa 5361 (2023) *Luciogobius* 亜熱帯新種など。**ユーザーが在野研究者の先例として意識する人物**。
+
+**渋川浩一 (Shibukawa Koichi)** — 東南アジア・日本ハゼ、特に共生ハゼ (shrimp-goby)、*Eviota*, *Pseudogobius*, *Trypauchenopsis*, *Schismatogobius* などの広範な新種記載・再記載を行う。Larson, Hoese との Pseudogobius revision (Zootaxa 4961, 2021) で 7 新種を記載 ([Zootaxa](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4961.1.1))。OIST と連携し琉球・フィリピン Sicydiinae *Lentipes* 新種研究にも関与 ([OIST 2021](https://www.oist.jp/news-center/news/2021/10/5/three-new-species-freshwater-goby-fish-found-japan-and-philippines))。
+
+**瀬能宏 (Senou Hiroshi)** — 神奈川県立生命の星・地球博物館。日本のハゼ分類の扇の要であると同時に、**[魚類写真資料データベース (KPM-NR/FishPix)](https://fishpix.kahaku.go.jp/fishimage/)** の主宰者として、5.7 万点超 (2009 時点) の水中・標本写真を公開プラットフォーム化した。researchmap [ID 80202141](https://nrid.nii.ac.jp/en/nrid/1000080202141/)。多数の新種記載共著者でもあり、Akihito 編集チームの実働メンバー。
+
+### 1.4 集団遺伝・保全遺伝 — 向井・渡辺・北村
+
+**向井貴彦 (Mukai Takahiko)** — 岐阜大学地域科学部。博士論文で *Tridentiger* 汽水ハゼの多地域交雑・生殖隔離機構を扱い、その後 *Rhinogobius* の核遺伝子系統・両側回遊種の集団構造 (Yamasaki, Nishida, Suzuki, Mukai, Watanabe 2015 *Mol. Phylogenet. Evol.* 90: 20–33 [PubMed](https://pubmed.ncbi.nlm.nih.gov/25929788/)) などに貢献。近年はウシモツゴ等他分類群にも拡張。[researchmap](https://researchmap.jp/7000014233/)。
+
+**渡辺勝敏 (Watanabe Katsutoshi)** — 京都大学理学研究科動物生態学講座。日本産淡水魚の phylogeography を牽引し、コイ科・ハゼ科を横断する biogeographical review ([ResearchGate](https://www.researchgate.net/publication/287527428)) を提示。Rhinogobius 系統と形質進化、Tanakia (タナゴ類) 系統地理、沖縄陸水性魚類相の文献目録整備に関与。
+
+**北村淳一 (Kitamura Jun'ichi)** — 動物生態学者でタナゴ亜科中心だが、絶滅危惧 *Rhinogobius* sp. BI の初期発生 (Kitamura 2005 *Ichthyol. Res.* 52: [10.1007/s10228-005-0331-1](https://link.springer.com/article/10.1007/s10228-005-0331-1))、琉球列島陸水魚相注釈チェックリストなどハゼ保全にも寄与。
+
+### 1.5 生態・生活史 — 岩田・後藤
+
+**岩田明久 (Iwata Akihisa)** — 京大東南アジア地域研究研究科。両側回遊性ハゼ *Sicyopterus japonicus* の河川内生活史 ([Env. Biol. Fish. 2013](https://link.springer.com/article/10.1007/s10641-012-0055-9))、*Odontobutis* 属 (カワアナゴ科) の日韓中 revision、*Rhinogobius* 両側回遊種の母性効果 (egg size / larval survival) などを扱い、ハゼ両側回遊研究のリファレンス的存在。
+
+**後藤晃 (Goto Akira)** — 北海道大学水産科学研究院。カジカ科・トゲウオ科を含む淡水魚の生活史進化・両側回遊多様性・種分化研究で知られ、ハゼ類ではウキゴリ属 *Gymnogobius* 複合種群の生態・回遊多型研究に寄与。降河・両側回遊・河川残留多型の比較生態学的枠組みは Rhinogobius 研究にも継承された ([researchmap](https://researchmap.jp/read0113553?lang=en))。
+
+---
+
+## 2. 世界のハゼ研究者
+
+### 2.1 欧州系分類の巨匠 — Peter J. Miller
+
+Bristol 大学の Peter J. Miller (1934–2013) は Mediterranean・北東大西洋の *Gobius*, *Pomatoschistus*, *Chromogobius* などを軸に一連の "New species of Gobius" 的モノグラフ/revision を発表し、欧州ハゼ分類の標準を作った。代表的には Miller (1973) *Pomatoschistus adriaticus*、*Chromogobius* revision、*Gobius liechtensteini* の属ステータス再記載など ([Wikispecies](https://species.wikimedia.org/wiki/Peter_J._Miller))。I-Shiung Chen と共著で Hainan *Rhinogobius* 新種も記載しており、東西のハゼ分類を橋渡しした。
+
+### 2.2 米・豪の体系化 — Murdy, Hoese, Larson, Gill
+
+**Edward Murdy** — Murdy, E. O. (1989) "A taxonomic revision and cladistic analysis of the oxudercine gobies (Gobiidae: Oxudercinae)". *Records of the Australian Museum*, Supplement 11: 1–93 — トビハゼ科 (ムツゴロウ含む) の最初の形態分岐分析で、陸上適応が単一起源であることを明らかにした古典モノグラフ。今日の mudskipper 系統研究 (Polgar et al. 等) の基準。
+
+**Douglass F. Hoese** — Australian Museum を拠点に 40 年以上 Gobioidei 全体の体系化を進め、世界の全属・全種データベースと文献目録を維持。*Fishes of Australia's Southern Coast* (Gomon, Bray & Kuiter, 2008) の Gobiidae 担当 ([Wikipedia](https://en.wikipedia.org/wiki/Douglass_F._Hoese))。
+
+**Helen K. Larson** — Museum and Art Gallery of Northern Territory (Darwin) 魚類部門 curator (1981–2009)。洞窟・陸封淡水・河口・サンゴ礁・外洋までハゼ類 gudgeon 類の分類を広く扱う Gobioidei 分類の世界的権威 ([ASFB](https://www.asfb.org.au/helen-larson))。*Priolepis akihitoi* Hoese & Larson, 2010 の命名者。
+
+**Anthony C. Gill** — Sydney 大学 Macleay Museum。R. D. Mooi との共同で核 DNA 系統 (Gill & Mooi 2013 *Syst. Biodivers.*) および Thalasseleotrididae 新科提案 (Gill & Mooi 2012 *Zootaxa* 3266: 41–52 [doi](https://doi.org/10.11646/zootaxa.3266.1.3)) を通じ Gobiidae の高次分類を再定義。
+
+### 2.3 分子系統の再編 — Christine E. Thacker
+
+Natural History Museum of Los Angeles County の Thacker は 2000 年代以降、Gobioidei の大規模分子系統解析で Eleotridae の側系統性、Xenisthmidae の Eleotridae 内包、Sicydiinae・Oxudercinae・Amblyopinae などの小科が大科の中に内包されることを明らかにした一連の論文 (Thacker 2003 *Mol. Phylogenet. Evol.*; Thacker 2009 *Copeia* CI-08-004 [bioone](https://bioone.org/journals/ichthyology-and-herpetology/volume-2009/issue-1/CI-08-004); Thacker 2011 *Syst. Biodivers.*; Thacker 2015 *J. Biogeogr.*; Thacker et al. 2020 *Mol. Phylogenet. Evol.* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32473335/)) で、現代のハゼ高次分類の枠組みを提示した。
+
+### 2.4 新世界・cryptobenthic — Luke Tornabene
+
+University of Washington, Burke Museum 魚類 curator。*Eviota* 属 (dwarfgoby) の系統と微環境対応進化 (Tornabene et al. 2013 *Mol. Phylogenet. Evol.*)、Coral Triangle "center of origin" 検証 (2015)、Gobiosoma 等 Atlantic/Caribbean cryptobenthic 新種記載、深海 Pascua 属記載などで新世界・インド太平洋双方をカバー ([Tornabene Lab](https://www.fishsystematics.com/publications))。
+
+### 2.5 東南アジア淡水魚 — Maurice Kottelat
+
+スイス出身、Raffles Museum Honorary Research Associate。440 超の新種記載と、Kottelat (2013) **"The fishes of the inland waters of Southeast Asia: a catalogue and core bibliography of the fishes known to occur in freshwaters, mangroves and estuaries"** *Raffles Bulletin of Zoology* Suppl. 27: 1–663 — 東南アジア淡水魚の**標準チェックリスト**でハゼ科・Rhinogobius/Stiphodon/Sicyopterus を含む ([Wikipedia](https://en.wikipedia.org/wiki/Maurice_Kottelat))。ICZN 委員。
+
+### 2.6 台湾・中国 — I-Shiung Chen (陳義雄)
+
+National Taiwan Ocean University (基隆) 海洋生物研究所。Chen & Shao (1996) 台湾 *Rhinogobius* 3 新種 revision を皮切りに、Fujian, Zhejiang, Hainan, Yunnan, Vietnam, Laos 産の *Rhinogobius* を数十種記載。Miller, Kottelat, Suzuki, Senou らとの共著も多く、東アジア *Rhinogobius* 放散の一次データを牽引。最近例: *R. lingtongyanensis* (Zootaxa 5189, 2022)、*R. immaculatus* (ZooKeys 2018 [PMC6085763](https://pmc.ncbi.nlm.nih.gov/articles/PMC6085763/))。
+
+---
+
+## 3. 主要な一次文献・モノグラフ
+
+### 3.1 日本産魚類図鑑
+
+- **Masuda, H., K. Amaoka, C. Araga, T. Uyeno & T. Yoshino (eds.) (1984)** *The Fishes of the Japanese Archipelago*. Tokai University Press — 戦後初の日本産魚類総合図鑑。Akihito がハゼ亜目担当。
+- **Nakabo, T. (ed.) (2002)** *Fishes of Japan with Pictorial Keys to the Species* (2 vols, English edition 2002)、**第3版 (2013)** 全3巻 2,530 pp、ISBN 978-4-486-01804-9 ([Tokai Univ. Press](https://www.press.tokai.ac.jp/issu/fish/fishes_of_Japan.html))。日本産 3,863 種・353 科を網羅し、ハゼ亜目 (Sakamoto, Akihito, Ikeda, Sugiyama 担当) で 518 種の pictorial key。国内同定のデファクト・スタンダード。
+
+### 3.2 ハゼ類モノグラフ
+
+- **Akihito (1986)** "Some morphological characters considered to be important in gobiid phylogeny". In Uyeno, T., R. Arai, T. Taniuchi & K. Matsuura (eds.) *Indo-Pacific Fish Biology*, Ichthyological Society of Japan, Tokyo, pp. 629–639.
+- **Miller, P. J. (1973, 1984, etc.)** "New species of *Gobius* / *Pomatoschistus* / *Chromogobius*" 系列 (J. Zool., J. Fish Biol., Sencken. biol.) — Mediterranean の体系化。
+- **Murdy, E. O. (1989)** *Records of the Australian Museum* Suppl. 11: 1–93 — Oxudercinae の分岐論的 revision。
+- **Hoese, D. F. & H. K. Larson (多数)** — Nesogobius, Pseudogobius, Priolepis, Trypauchenopsis 等の revision (Zootaxa, Copeia)。
+- **Thacker, C. E. (2009)** "Phylogeny of Gobioidei and Placement within Acanthomorpha, with a New Classification and Investigation of Diversification and Character Evolution". *Copeia* 2009(1): 93–104 [doi:10.1643/CI-08-004](https://doi.org/10.1643/CI-08-004)。
+
+### 3.3 世界魚類分類の骨格
+
+- **Nelson, J. S., T. C. Grande & M. V. H. Wilson (2016)** *Fishes of the World*, 5th ed. John Wiley & Sons, Hoboken, NJ, ISBN 978-1-118-34233-6 [doi:10.1002/9781119174844](https://doi.org/10.1002/9781119174844) — 世界魚類系統の標準書。Gobiiformes 目を立てて Apogonoidei, Trichonotoidei, Gobioidei 3 亜目構成、Gobiidae (+ 内包する Sicydiinae, Oxudercinae, Amblyopinae 等)、Eleotridae, Rhyacichthyidae, Odontobutidae, Milyeringidae, Xenisthmidae, Thalasseleotrididae を認識 ([Wikipedia: Gobiiformes](https://en.wikipedia.org/wiki/Gobiiformes))。
+- **Kottelat, M. (2013)** *Raffles Bull. Zool.* Suppl. 27: 1–663 — 東南アジア淡水魚カタログ。
+
+---
+
+## 4. 重要なオンラインリソース
+
+| リソース | URL | 用途 |
+|---|---|---|
+| **[Eschmeyer's Catalog of Fishes](https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp)** (Fricke, Eschmeyer & Fong, maintained at CAS) | researcharchive.calacademy.org | 学名のオーソリティ、原記載書誌、現状の valid/synonym 判定。Gobiidae は 167 属 1,432 種超 (Fricke et al. 2025 時点)。**分類上の一次確認はまずここ**。 |
+| **[FishBase](https://www.fishbase.org/)** (Froese & Pauly, 1996–) | fishbase.org / .se / .de | 33,000 種超の生物学・分布・形態・生活史・画像データ。Gobiidae は 212 属 1,875 種で海産最大科 ([Family page](https://www.fishbase.se/summary/FamilySummary.php?ID=405))。 |
+| **[WoRMS](https://www.marinespecies.org/)** (World Register of Marine Species) | marinespecies.org | 海産のみ。247,000 valid species (2025)。Gobioidei [AphiaID 151743](http://www.marinespecies.org/aphia.php?id=151743)。 |
+| **[魚類写真資料データベース (KPM / FishPix)](https://fishpix.kahaku.go.jp/fishimage/)** (瀬能宏チーム、神奈川県博) | fishpix.kahaku.go.jp | 日本産を中心とした生体・標本写真 6 万点超。同定照合・生態写真入手。 |
+| **[researchmap](https://researchmap.jp/)** | researchmap.jp | 日本の研究者プロフィール・業績検索 (瀬能、向井、渡辺、岩田、鈴木など)。 |
+| **[Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)** | biodiversitylibrary.org | 戦前期原記載 (Tanaka, Jordan, Snyder 等) のスキャン PDF。 |
+| **[Zootaxa / Magnolia Press](https://www.mapress.com/zt/)** | mapress.com | 現代のハゼ新種記載・属 revision の主要投稿先。ISSN 1175-5326 (print) / 1175-5334 (online)。 |
+| **[Ichthyological Research (ISJ/Springer)](https://link.springer.com/journal/10228)** | link.springer.com/journal/10228 | 日本魚類学会英文誌、1996〜。ハゼ新種・生態論文多数。 |
+| **[魚類学雑誌 (Japanese Journal of Ichthyology, J-STAGE)](https://www.jstage.jst.go.jp/browse/jji)** | jstage.jst.go.jp | 日本語・英語混在。1946 創刊の「魚の会」→ 1968 設立の日本魚類学会和文誌。和文の分布記録・同定報告は依然ここ。 |
+
+---
+
+## 5. 学会と日本ハゼ研究のインフラ
+
+- **日本魚類学会 (Ichthyological Society of Japan, ISJ)** — 1946 年創設の「魚の会」を前身とし、1966 年東京開催の第11回太平洋学術会議を契機に 1968年4月3日に正式発足。2018年に 50 周年 ([Ichthyol. Res. 2018, 10.1007/s10228-018-0658-z](https://link.springer.com/article/10.1007/s10228-018-0658-z))。旧 *JJI* (Vol. 1–14, 1950–) → 新 *JJI* (Vol. 15–41) → 1996 年に英文 *Ichthyological Research* (四半期刊) と和文 *魚類学雑誌* (半年刊) に分離。2001 年以降 *IR* は Springer から刊行。
+- **神奈川県立生命の星・地球博物館** — 瀬能チーム拠点、KPM コレクション番号 (KPM-NI, KPM-NR) で多数の新種 holotype 保管。
+- **国立科学博物館 (筑波コレクション棟)** — NSMT 登録番号でタイプ標本を保管、Akihito コレクションの一部寄託。
+- **京都大学総合博物館** — Nakabo コレクション・FAKU 番号。
+- **沖縄科学技術大学院大学 (OIST)** — 近年琉球・フィリピン Sicydiinae のゲノム系統研究の実働ハブ (Maeda, Yamasaki, Kondo らとの協働)。
+
+---
+
+## 6. 在野研究者の視点での読み方
+
+- **原記載の追跡** は Eschmeyer's Catalog of Fishes → 原著 PDF (BHL / Zenodo / Springer / Zootaxa) → neotype/holotype 収蔵館の順で当たるのが効率的。Rhinogobius では I-Shiung Chen, Suzuki, Shibukawa, Miller の組合せ著者を抑えれば新種記載の 8 割を捕捉できる。
+- **写真同定資料** は FishPix (神奈川県博) + FishBase 画像 + WoRMS の type image で相互検証。特に Rhinogobius は未記載 sp. BF, BI, BB, YB 等の便宜名が多く、論文と写真データベースの間で「便宜名」と「正式記載名」のマッピング更新が頻繁。
+- **日本における在野ハゼ研究の系譜** — 鈴木寿之、渋川浩一 (元 NPO 日本自然保護協会所属)、青木淳一系列など、大学常勤でない研究者が新種記載の中核を担ってきた歴史があり、Akihito を筆頭に機関非依存のハゼ分類伝統は比較的開かれている。論文投稿先は Zootaxa, *Bulletin of the Kanagawa Prefectural Museum*, *Ichthyological Research* が実用的。
+
+---
+
+## 参考・引用ハブ
+
+- Akihito et al. (1984, 2002) "Gobioidei" in *Fishes of the Japanese Archipelago* / *Fishes of Japan with Pictorial Keys*.
+- Akihito et al. (2000) *Gene* 259: 5–15.
+- Murdy, E. O. (1989) *Rec. Aust. Mus.* Suppl. 11: 1–93.
+- Nakabo, T. (ed.) (2013) *日本産魚類検索 第3版*, 東海大学出版会, ISBN 978-4-486-01804-9.
+- Nelson, Grande & Wilson (2016) *Fishes of the World*, 5th ed., Wiley, [doi:10.1002/9781119174844](https://doi.org/10.1002/9781119174844).
+- Thacker, C. E. (2009) *Copeia* 2009(1): 93–104, [doi:10.1643/CI-08-004](https://doi.org/10.1643/CI-08-004).
+- Thacker, C. E. et al. (2020) *Mol. Phylogenet. Evol.* 150: 106884, [PubMed 32473335](https://pubmed.ncbi.nlm.nih.gov/32473335/).
+- Kottelat, M. (2013) *Raffles Bull. Zool.* Suppl. 27: 1–663.
+- Miller, P. J. 系 Mediterranean goby 論文群 (1966–2004).
+- Fricke, R., W. N. Eschmeyer & J. D. Fong (updated) *Eschmeyer's Catalog of Fishes*. CAS. [link](https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp)
+- Froese, R. & D. Pauly (eds.) *FishBase*. [link](https://www.fishbase.org/)
+- Senou, H. (team) *魚類写真資料データベース*. [link](https://fishpix.kahaku.go.jp/fishimage/)
+- Yamasaki, Y. Y., M. Nishida, T. Suzuki, T. Mukai & K. Watanabe (2015) *Mol. Phylogenet. Evol.* 90: 20–33, [PubMed 25929788](https://pubmed.ncbi.nlm.nih.gov/25929788/).
+- Ichthyology 50 years in Japan (2018) *Ichthyol. Res.* 66(1), [doi:10.1007/s10228-018-0658-z](https://doi.org/10.1007/s10228-018-0658-z).

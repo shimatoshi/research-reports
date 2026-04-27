@@ -1,5 +1,6 @@
-"""ローカルHTMLファイルからZIMファイルを生成するスクリプト"""
+"""offline-db/ 配下のHTML+画像をZIM化するスクリプト"""
 import os
+import re
 import sys
 import sqlite3
 import tempfile
@@ -8,30 +9,61 @@ import shutil
 sys.path.insert(0, '/home/zimmaker')
 from packer import ZimPacker
 
-# 対象HTMLファイル
-HTML_FILES = [
-    ('biology/fish/luciogobius/mimizuhaze_guide.html', 'ミミズハゼ採集ガイド'),
-    ('biology/fish/bathygobius/kumohaze_guide.html', 'クモハゼ生態ガイド'),
-    ('biology/fish/nijimasu_fishing_guide.html', 'ニジマス釣りガイド'),
-    ('biology/fishery/free_seafood_wild_food_guide.html', '漁業権フリー水産物＋野草ガイド'),
-    ('biology/intertidal/shellfish_guide.html', '貝の採取・法規制ガイド'),
-    ('biology/intertidal/edible_seaweed_guide.html', '食用海藻ガイド'),
-    # 既存レポートも含める
-    ('biology/intertidal/kanto_rocky_intertidal_guide.html', '関東の磯 生き物総合図鑑'),
-    ('biology/intertidal/odawara_hayakawa_guide.html', '小田原～早川 磯採集ガイド'),
-    ('biology/fishery/kanto_fishery_guide.html', '関東 水産物・漁業規則 総合ガイド'),
-    ('biology/fish/hayakawa_river_guide.html', '早川水系 淡水生物採集ガイド'),
-    ('reports/2026-04-26_fishing-technique-guide.html', '釣りテクニック完全ガイド'),
-]
-
-FAKE_DOMAIN = 'research-reports.local'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OFFLINE_DIR = os.path.join(BASE_DIR, 'offline-db')
 OUTPUT_ZIM = os.path.join(BASE_DIR, 'archives', 'research-reports.zim')
+FAKE_DOMAIN = 'research-reports.local'
+TOP_INDEX = 'index.html'  # offline-db/index.html がトップ目次
+
+# ZIMに含める拡張子 → MIME
+MIME_MAP = {
+    '.html': 'text/html',
+    '.webp': 'image/webp',
+    '.png': 'image/png',
+    '.jpg': 'image/jpeg',
+    '.jpeg': 'image/jpeg',
+    '.gif': 'image/gif',
+    '.svg': 'image/svg+xml',
+    '.css': 'text/css',
+}
+
+TITLE_RE = re.compile(r'<title>(.*?)</title>', re.DOTALL | re.IGNORECASE)
+
+
+def collect_files():
+    """offline-db/配下を再帰スキャン。(rel_path, abs_path, mime) のリストを返す"""
+    items = []
+    for root, _dirs, files in os.walk(OFFLINE_DIR):
+        for fn in files:
+            ext = os.path.splitext(fn)[1].lower()
+            if ext not in MIME_MAP:
+                continue
+            abs_path = os.path.join(root, fn)
+            rel_path = os.path.relpath(abs_path, OFFLINE_DIR).replace(os.sep, '/')
+            items.append((rel_path, abs_path, MIME_MAP[ext]))
+    items.sort(key=lambda x: x[0])
+    return items
+
+
+def extract_title(html_path, fallback):
+    try:
+        with open(html_path, encoding='utf-8') as f:
+            head = f.read(4096)
+        m = TITLE_RE.search(head)
+        if m:
+            return m.group(1).strip()
+    except Exception:
+        pass
+    return fallback
+
 
 def main():
+    if not os.path.isdir(OFFLINE_DIR):
+        print(f'❌ offline-db/ が見つかりません: {OFFLINE_DIR}')
+        sys.exit(1)
+
     os.makedirs(os.path.join(BASE_DIR, 'archives'), exist_ok=True)
 
-    # 一時DBを作成
     tmp_db = tempfile.mktemp(suffix='.db')
     conn = sqlite3.connect(tmp_db)
     c = conn.cursor()
@@ -45,87 +77,51 @@ def main():
         parent_url TEXT,
         charset TEXT
     )''')
-    c.execute('''CREATE TABLE meta (
-        key TEXT PRIMARY KEY,
-        value TEXT
-    )''')
+    c.execute('CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT)')
 
-    # インデックスページを生成
-    index_html = _build_index_page()
-    index_path = os.path.join(BASE_DIR, 'archives', '_index.html')
-    with open(index_path, 'w', encoding='utf-8') as f:
-        f.write(index_html)
+    items = collect_files()
+    top_url = f'https://{FAKE_DOMAIN}/'
+    top_path = os.path.join(OFFLINE_DIR, TOP_INDEX)
 
-    # インデックスをDBに登録
-    index_url = f'https://{FAKE_DOMAIN}/'
+    if not os.path.exists(top_path):
+        print(f'❌ トップ index.html が見つかりません: {top_path}')
+        sys.exit(1)
+
+    # トップページ (ZIMルート / にマッピング)
+    top_title = extract_title(top_path, 'Research Reports Offline DB')
     c.execute('INSERT INTO pages VALUES (?,?,?,?,?,?,?,?)',
-              (index_url, 0, 1, index_path, 'text/html',
-               '調査レポート集', None, 'utf-8'))
+              (top_url, 0, 1, top_path, 'text/html', top_title, None, 'utf-8'))
 
-    # 各HTMLファイルをDBに登録
-    for rel_path, title in HTML_FILES:
-        abs_path = os.path.join(BASE_DIR, rel_path)
-        if not os.path.exists(abs_path):
-            print(f'  ⚠️ スキップ（ファイルなし）: {rel_path}')
-            continue
-        fake_url = f'https://{FAKE_DOMAIN}/{rel_path}'
+    # 各ファイル
+    for rel_path, abs_path, mime in items:
+        url = f'https://{FAKE_DOMAIN}/{rel_path}'
+        is_html = mime == 'text/html'
+        title = extract_title(abs_path, rel_path) if is_html else os.path.basename(rel_path)
+        charset = 'utf-8' if mime.startswith('text/') else None
         c.execute('INSERT INTO pages VALUES (?,?,?,?,?,?,?,?)',
-                  (fake_url, 1, 1, abs_path, 'text/html',
-                   title, index_url, 'utf-8'))
-        print(f'  ✅ {rel_path} ({title})')
+                  (url, 1, 1, abs_path, mime, title, top_url, charset))
 
     conn.commit()
+    print(f'  📦 {len(items)} ファイル登録 + ルート目次')
     conn.close()
 
-    # ZIMにパック
     packer = ZimPacker(tmp_db, OUTPUT_ZIM, keep_external=True)
     packer.pack()
 
-    # 一時DB削除
     os.unlink(tmp_db)
-    os.unlink(index_path)
 
-    # Downloadにコピー
-    dl_path = os.path.expanduser('~/storage/downloads/research-reports.zim')
     if os.path.exists(OUTPUT_ZIM):
-        shutil.copy2(OUTPUT_ZIM, dl_path)
         size_mb = os.path.getsize(OUTPUT_ZIM) / 1024 / 1024
-        print(f'\n📱 コピー完了: {dl_path} ({size_mb:.1f} MB)')
+        print(f'\n✅ ZIM生成完了: {OUTPUT_ZIM} ({size_mb:.1f} MB)')
 
-
-def _build_index_page():
-    """目次ページのHTMLを生成"""
-    items = ''
-    for rel_path, title in HTML_FILES:
-        items += f'<a href="{rel_path}" class="card"><span class="name">{title}</span><span class="path">{rel_path}</span></a>\n'
-
-    return f'''<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>調査レポート集</title>
-<style>
-:root{{--bg:#0f1923;--card:#1a2733;--accent:#4fc3f7;--text:#e0e0e0;--text2:#90a4ae;--border:#2a3a4a}}
-*{{margin:0;padding:0;box-sizing:border-box}}
-body{{font-family:-apple-system,'Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;font-size:15px;padding:16px}}
-h1{{text-align:center;color:#fff;margin:20px 0;font-size:22px}}
-.sub{{text-align:center;color:var(--text2);font-size:13px;margin-bottom:24px}}
-.grid{{max-width:800px;margin:0 auto;display:flex;flex-direction:column;gap:10px}}
-.card{{display:block;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px;text-decoration:none;transition:.2s}}
-.card:hover{{border-color:var(--accent)}}
-.card .name{{display:block;color:var(--accent);font-size:16px;font-weight:bold}}
-.card .path{{display:block;color:var(--text2);font-size:12px;margin-top:4px}}
-</style>
-</head>
-<body>
-<h1>調査レポート集</h1>
-<div class="sub">Research Reports Archive — Offline ZIM Edition</div>
-<div class="grid">
-{items}
-</div>
-</body>
-</html>'''
+        # Termux等のDownloadフォルダにあればコピー
+        dl_path = os.path.expanduser('~/storage/downloads/research-reports.zim')
+        if os.path.isdir(os.path.dirname(dl_path)):
+            try:
+                shutil.copy2(OUTPUT_ZIM, dl_path)
+                print(f'📱 コピー: {dl_path}')
+            except OSError:
+                pass
 
 
 if __name__ == '__main__':

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>淡水〜汽水甲殻類の分類と系統</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #222;
+    --muted: #666;
+    --border: #ddd;
+    --accent: #2b6cb0;
+    --code-bg: #f3f2ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a1a; --fg: #e8e8e8; --muted: #999;
+      --border: #333; --accent: #63b3ed; --code-bg: #2a2a2a;
+    }
+  }
+  body {
+    max-width: 960px; margin: 0 auto; padding: 2em 1.2em;
+    font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP",
+                 "Yu Gothic", sans-serif;
+    font-size: 16px; line-height: 1.75;
+    background: var(--bg); color: var(--fg);
+  }
+  h1, h2, h3, h4 { line-height: 1.3; margin-top: 1.8em; }
+  h1 { border-bottom: 2px solid var(--accent); padding-bottom: 0.3em; }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+  a { color: var(--accent); }
+  code { background: var(--code-bg); padding: 0.1em 0.35em;
+         border-radius: 3px; font-size: 0.9em; }
+  pre { background: var(--code-bg); padding: 1em; overflow-x: auto;
+         border-radius: 5px; }
+  pre code { background: transparent; padding: 0; }
+  blockquote { border-left: 3px solid var(--accent);
+                padding-left: 1em; color: var(--muted); margin-left: 0; }
+  table { border-collapse: collapse; margin: 1em 0;
+           width: 100%; font-size: 0.93em; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.7em;
+            text-align: left; vertical-align: top; }
+  th { background: var(--code-bg); }
+  td img { max-width: 220px; height: auto; display: block; }
+  img { max-width: 100%; height: auto; border-radius: 4px; }
+  figure { margin: 1em 0; }
+  figcaption { font-size: 0.9em; color: var(--muted);
+                text-align: center; margin-top: 0.3em; }
+  nav.breadcrumb { font-size: 0.9em; color: var(--muted);
+                    margin-bottom: 2em; }
+  footer { margin-top: 4em; padding-top: 1em;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav class="breadcrumb"><a href="./index.html">← index</a></nav>
+<h1 id="_1">淡水〜汽水甲殻類の分類と系統</h1>
+<p><strong>対象</strong>: 日本および東アジアを中心とした淡水・汽水甲殻類 (Crustacea) の高次分類枠組みと分子系統的位置付け
+<strong>編纂日</strong>: 2026-04-17
+<strong>レベル</strong>: Subphylum → Class → Order → Family、系統樹と文献根拠付き</p>
+<hr />
+<h2 id="0-crustacea">0. 総論: 「Crustacea」は側系統群</h2>
+<p>かつて「甲殻綱 (Crustacea)」として一括りに扱われていた分類群は、現在では側系統的 (paraphyletic) であることが分子系統から強く支持されている。Regier et al. (2010, Nature 463:1079) の 62 核タンパク質コード遺伝子・75 種による解析以降、<strong>Hexapoda (六脚類=昆虫を含む) が Crustacea 内部に入り込む</strong> Pancrustacea 仮説が主流となった <a href="https://doi.org/10.1038/nature08742">doi:10.1038/nature08742</a>。このため本レポートでは "Crustacea" を便宜的な伝統的呼称として扱い、Pancrustacea の枠内で淡水・汽水系統を整理する。</p>
+<p>Regier et al. (2010) の結論では、Pancrustacea 内に以下の主系統が認識された:</p>
+<ul>
+<li><strong>Oligostraca</strong>: Ostracoda (介形類) + Mystacocarida + Branchiura + Pentastomida</li>
+<li><strong>Vericrustacea ( = Multicrustacea + Branchiopoda)</strong>: Malacostraca + Copepoda + Thecostraca + Branchiopoda</li>
+<li><strong>Xenocarida</strong>: Cephalocarida + Remipedia (Hexapoda の姉妹群とされた)</li>
+</ul>
+<p>Schwentner et al. (2017, Current Biology 27:1818) は UCE 由来大規模データで <strong>Remipedia + Hexapoda</strong> 姉妹群 (Labiocarida) を強く支持し、Branchiopoda は一段外側に出た <a href="https://doi.org/10.1016/j.cub.2017.05.040">doi:10.1016/j.cub.2017.05.040</a>。一方 Schwentner et al. (2018, Proc. R. Soc. B 285:20181524) ではタクソン特異的マトリクスで Malacostraca/Branchiopoda の内部構造を精査し、分類群サンプリングの重要性を示した <a href="https://doi.org/10.1098/rspb.2018.1524">doi:10.1098/rspb.2018.1524</a>。近年は Bernot et al. (2023, MBE 40:msad175) がタクソンサンプリング感度を指摘しており、Pancrustacea 基部はなお揺れがある <a href="https://doi.org/10.1093/molbev/msad175">doi:10.1093/molbev/msad175</a>。</p>
+<h3 id="pancrustacea">概略クラドグラム (Pancrustacea)</h3>
+<pre><code>Pancrustacea
+├── Oligostraca
+│   ├── Ostracoda (介形類)
+│   └── Ichthyostraca (Branchiura + Pentastomida) + Mystacocarida
+└── Altocrustacea
+    ├── Multicrustacea
+    │   ├── Malacostraca  ← Decapoda, Peracarida 等
+    │   ├── Copepoda
+    │   └── Thecostraca (フジツボ類)
+    └── Allotriocarida
+        ├── Branchiopoda (ミジンコ・ホウネンエビ・カブトエビ)
+        └── Labiocarida
+            ├── Cephalocarida
+            └── Labiata
+                ├── Remipedia
+                └── Hexapoda (昆虫類 ← ここ!)
+</code></pre>
+<p>(Schwentner 2017, Oakley et al. 2013 <a href="https://doi.org/10.1093/molbev/mss216">doi:10.1093/molbev/mss216</a> に基づく。Hexapoda の正確な姉妹群は Remipedia / Branchiopoda / Xenocarida で揺れる。)</p>
+<p>以下、淡水・汽水に関係の深い綱から掘り下げる。</p>
+<hr />
+<h2 id="1-class-malacostraca">1. Class Malacostraca (軟甲綱): 淡水・汽水の中核</h2>
+<p>Malacostraca は甲殻類最大の綱で、Decapoda (十脚目) と Peracarida (フクロエビ上目) を含み、淡水・汽水生物相の大半を占める。Schwentner et al. (2018) のタクソン特異的解析で単系統性は強く支持される <a href="https://doi.org/10.1098/rspb.2018.1524">doi:10.1098/rspb.2018.1524</a>。</p>
+<h3 id="11-order-decapoda">1.1 Order Decapoda (十脚目)</h3>
+<p>Decapoda は 2 亜目に分かれる:</p>
+<ul>
+<li><strong>Suborder Dendrobranchiata</strong> (根鰓亜目): クルマエビ科 Penaeidae、サクラエビ科 Sergestidae 等。幼生は nauplius から始まる原始的発生。淡水種はほぼなく、日本では河口汽水域 (クルマエビ類) まで。</li>
+<li><strong>Suborder Pleocyemata</strong> (抱卵亜目): 胚を腹肢に抱える。Caridea、Anomura、Brachyura、Astacidea など淡水系のほぼ全てを含む。</li>
+</ul>
+<p>Wolfe et al. (2019, Proc. R. Soc. B 286:20190079) は anchored hybrid enrichment で 410 座位を用い、<strong>Decapoda の王冠群は後期オルドビス紀に分岐、主要系統はトリアス–ジュラ紀に多様化</strong>と算出、Pleocyemata 単系統性を支持した <a href="https://doi.org/10.1098/rspb.2019.0079">doi:10.1098/rspb.2019.0079</a>。Tan et al. (2019, Sci. Rep. 9:10756) のミトゲノム比較解析も Dendrobranchiata–Pleocyemata の二分を支持し、Caridea を Pleocyemata 基部に置く <a href="https://doi.org/10.1038/s41598-019-47145-0">doi:10.1038/s41598-019-47145-0</a>。</p>
+<pre><code>Decapoda
+├── Dendrobranchiata (クルマエビ下目)
+└── Pleocyemata
+    ├── Stenopodidea (オトヒメエビ下目)
+    ├── Caridea (コエビ下目) ← Atyidae, Palaemonidae
+    ├── Procarididea
+    ├── Reptantia (歩行型)
+    │   ├── Astacidea (ザリガニ下目)
+    │   ├── Achelata (イセエビ下目)
+    │   ├── Polychelida
+    │   ├── Glypheidea
+    │   ├── Axiidea / Gebiidea (アナジャコ類)
+    │   ├── Anomura (異尾下目) ← Coenobitidae, ヤドカリ
+    │   └── Brachyura (短尾下目, カニ) ← Potamidae, Sesarmidae, Varunidae
+</code></pre>
+<h4 id="111-caridea">1.1.1 Caridea (コエビ下目): 日本産淡水エビの中核</h4>
+<p>Caridea 内で淡水・汽水性は <strong>Atyidae (ヌマエビ科)</strong> と <strong>Palaemonidae (テナガエビ科)</strong> に集中する。De Grave et al. (2015, Invert. Syst.) や Li et al. (2011, MPE) による 18S/28S/H3/COI 解析では、Atyidae は Alpheidae/Palaemonidae と共に Caridea 内の一大クレードを形成するが、Atyidae と Palaemonidae は直接姉妹ではない <a href="https://doi.org/10.1016/j.ympev.2010.12.015">doi:10.1016/j.ympev.2010.12.015</a>。</p>
+<ul>
+<li><strong>Atyidae (ヌマエビ科)</strong>: 両側回遊型 (amphidromous) と陸封型を含む。日本産は <em>Caridina</em>、<em>Neocaridina</em>、<em>Paratya</em>、<em>Atyoida</em>、<em>Atyopsis</em> 等。<em>Neocaridina</em> は Kubo (1938) が日本産材料から創設した属で、East Asia に固有 (Kubo 1938, J. Imp. Fish. Inst. Tokyo)。Saito et al. (2024, Zool. Sci. 41:553) は九州・本州南部の <em>Neocaridina</em> 統合分類を行い、<em>N. denticulata</em> sensu stricto と <em>N. davidi</em> (外来) の識別を提示 <a href="https://doi.org/10.2108/zs240015">doi:10.2108/zs240015</a>。von Rintelen et al. (2012, MPE 63:82) は Atyidae 全体で <strong>洞穴侵入が多発</strong>、現行属分類が多系統的であることを示した <a href="https://doi.org/10.1016/j.ympev.2011.12.015">doi:10.1016/j.ympev.2011.12.015</a>。</li>
+<li><strong>Palaemonidae (テナガエビ科)</strong>: <em>Macrobrachium</em> (テナガエビ属) が淡水・汽水の主要群。De Grave &amp; Fransen (2011) 分類体系では Palaemoninae と多くの共生亜科 (Pontoniinae 等) を含む。<em>Macrobrachium</em> 日本産はテナガエビ <em>M. nipponense</em>、ミナミテナガエビ <em>M. formosense</em>、コンジンテナガエビ <em>M. lar</em> 等、琉球列島で diversity が最大。</li>
+<li><strong>諸喜田茂充</strong> は 1970-80 年代に琉球・九州のヌマエビ類 (Atyidae) およびオカヤドカリ類 (Coenobitidae) の分類・生態研究を精力的に行い、日本産 Caridina の両側回遊性 life history を確立した (Shokita 1979, Bull. Sci. Eng. Div. Univ. Ryukyus)。</li>
+</ul>
+<h4 id="112-astacidea">1.1.2 Astacidea (ザリガニ下目): 淡水遡上の古い系統</h4>
+<p>ザリガニ 3 科は大陸配置を反映する:</p>
+<ul>
+<li><strong>Astacidae</strong> (北半球旧世界): 欧州原産、北米西岸 <em>Pacifastacus</em> (ウチダザリガニの祖先)。</li>
+<li><strong>Cambaridae / Cambaroididae</strong> (北半球新世界 + 東アジア): 日本ザリガニ <em>Cambaroides japonicus</em> は Cambaroididae に再分類された (Crandall &amp; De Grave 2017, J. Crust. Biol. 37:615) <a href="https://doi.org/10.1093/jcbiol/rux070">doi:10.1093/jcbiol/rux070</a>。</li>
+<li><strong>Parastacidae</strong> (南半球ゴンドワナ): オーストラリア <em>Cherax</em> (ヤビー、マロン、レッドクロー)、南米 <em>Parastacus</em>、マダガスカル <em>Astacoides</em>。</li>
+</ul>
+<p>Breinholt et al. (2009, Crustacean Issues 18:57) および Crandall &amp; De Grave (2017) の総合解析では、ザリガニは 2 上科 <strong>Astacoidea (北)</strong> と <strong>Parastacoidea (南)</strong> に分かれ、海産 Nephropoidea から <strong>中期ペルム紀–中期三畳紀 (239–278 Ma)</strong> に淡水へ進出、Parastacidae (≈161 Ma) → Astacidae (≈153 Ma) → Cambaridae (≈90 Ma) の順に分岐した。Cambaridae と Astacidae は側系統で Parastacidae のみ単系統性が頑健。</p>
+<h4 id="113-anomura">1.1.3 Anomura (異尾下目): ヤドカリとオカヤドカリ</h4>
+<p>Paguroidea は海産が大半だが、<strong>Coenobitidae (オカヤドカリ科)</strong> が完全陸生化を達成。<em>Coenobita</em> (オカヤドカリ属) 16 種と <em>Birgus latro</em> (ヤシガニ) を含む。成体は陸生だが <strong>メスは産卵に海へ戻り</strong>、ゾエア幼生は完全に海産プランクトン。Hamasaki et al. (2017, Marine Ecology 38:e12369) は <em>C. purpureus</em> (ムラサキオカヤドカリ) の北西太平洋 phylogeography を報告 <a href="https://doi.org/10.1111/maec.12369">doi:10.1111/maec.12369</a>。日本産分類は <strong>駒井智幸</strong> (千葉県立中央博物館) が Paguridae を中心に多数の新種記載を継続しており、Pagurus、Catapagurus 等東アジア chcecklist を整備 (Komai 2015, Zootaxa 3918:151) <a href="https://doi.org/10.11646/zootaxa.3918.2.4">doi:10.11646/zootaxa.3918.2.4</a>。Bracken-Grissom et al. (2013) の分子解析では Paguroidea 単系統性は弱く、Coenobitidae は Diogenidae 近縁。</p>
+<h4 id="114-brachyura">1.1.4 Brachyura (短尾下目): 淡水カニの多重起源</h4>
+<p>Tsang et al. (2014, MBE 31:1173) の 6 核遺伝子 + 2 mt rRNA・140 種解析は Brachyura 最大規模の系統で、「Podotremata」の多系統性、<strong>淡水カニ (Potamidae + Gecarcinucidae + Potamonautidae + Pseudothelphusidae) の早期分岐 (≈125 Ma, 白亜紀初期)</strong> を示した <a href="https://doi.org/10.1093/molbev/msu068">doi:10.1093/molbev/msu068</a>。Tan et al. (2022, MPE 174:107536) は Thoracotremata で陸上化が複数回独立に生じたことを示した <a href="https://doi.org/10.1016/j.ympev.2022.107536">doi:10.1016/j.ympev.2022.107536</a>。</p>
+<ul>
+<li><strong>Potamidae (サワガニ科)</strong>: 一次淡水性 (primary freshwater)、直達発生。日本産 <em>Geothelphusa</em> 属は 54 種以上、サワガニ <em>G. dehaani</em> は 10 以上のクリプティック系統を含む (Shih et al. 2024, Crustaceana; Okamoto et al. 2025, Sci. Rep. 15:08085) <a href="https://doi.org/10.1038/s41598-025-08085-0">doi:10.1038/s41598-025-08085-0</a>。琉球列島には <em>G. amagui</em> 他多数の固有種。</li>
+<li><strong>Gecarcinucidae</strong>: 南アジア–東南アジア中心。日本本土には自然分布せず。Potamidae と姉妹または近縁 (Klaus et al. 2013)。</li>
+<li><strong>Sesarmidae (ベンケイガニ科)</strong>: 河口・マングローブ・陸上半終生型。アカテガニ <em>Chiromantes haematocheir</em>、クロベンケイガニ <em>Orisarma intermedium</em> 等。Tan et al. (2022) の Thoracotremata 系統では <strong>Sesarmidae は側系統</strong>、Varunidae が単系統として明示 <a href="https://doi.org/10.1016/j.ympev.2022.107536">doi:10.1016/j.ympev.2022.107536</a>。</li>
+<li><strong>Varunidae (モクズガニ科)</strong>: <em>Eriocheir</em> (モクズガニ属) は代表的 catadromous 種。Chu et al. (2003, MPE 29:738) の分子系統で <em>E. japonica</em>, <em>E. sinensis</em>, <em>E. hepuensis</em> は近縁三姉妹、近年は <strong>1 種 3 亜種 (E. j. japonica, E. j. sinensis, E. j. hepuensis)</strong> 案が提唱 <a href="https://doi.org/10.1016/S1055-7903(03)00112-X">doi:10.1016/S1055-7903(03)00112-X</a>。Komai (2000) は小笠原諸島固有 <em>E. ogasawaraensis</em> を記載。</li>
+<li><strong>Gecarcinidae (オカガニ科)</strong>: 半陸生。<em>Cardisoma</em>、<em>Gecarcoidea</em>、<em>Epigrapsus</em>。日本では南西諸島で分布。Tsang et al. (2014) および Tan et al. (2022) は Gecarcinidae と Grapsidae の多重陸上化を示す。</li>
+</ul>
+<p><strong>日本産 Brachyura 分類学</strong> は <strong>三宅貞祥 (Miyake Sadayoshi)</strong> が 20 世紀中期の基礎を築き (Miyake 1982, "Japanese Crustacean Decapods and Stomatopods in Color")、<strong>酒井恒 (Sakai Tsune)</strong> の『Crabs of Japan and the Adjacent Seas』(1976, Kodansha) が現在も標準。<strong>西村三郎</strong> は汽水・干潟甲殻類を含む『原色検索日本海岸動物図鑑』(保育社) で総覧、<strong>武田正倫</strong> (国立科学博物館) が岸上分類・新種記載を継続。</p>
+<h3 id="12-superorder-peracarida">1.2 Superorder Peracarida (フクロエビ上目): 育房をもつ系統群</h3>
+<p>雌が育房 (marsupium) で孵化まで卵を保持する点で他の軟甲綱と区別される。単系統性は核 SSU rDNA 解析 (Spears et al. 2005, Proc. Biol. Soc. Wash. 118:117) で支持されるが、Mysida の位置付けが揺れる <a href="https://doi.org/10.2988/0006-324X(2005)118[117:PMAIPI]2.0.CO;2">doi:10.2988/0006-324X(2005)118[117:PMAIPI]2.0.CO;2</a>。Jarman et al. (2000, Mar. Biol. 137:347) の 28S rDNA 解析では "Mysidacea" の多系統性 (Mysida と Lophogastrida が別起源) が示唆された <a href="https://doi.org/10.1007/s002270000330">doi:10.1007/s002270000330</a>。Copilaş-Ciocianu et al. (2020, MPE 143:106664) は Peracarida 目間分岐が石炭紀に遡り、ジュラ–白亜紀に多様化のパルスがあったと推定 <a href="https://doi.org/10.1016/j.ympev.2019.106664">doi:10.1016/j.ympev.2019.106664</a>。</p>
+<ul>
+<li><strong>Amphipoda (端脚目, ヨコエビ)</strong>: 体側扁平。日本淡水では <strong>Anisogammaridae</strong> 属 <em>Jesogammarus</em> が代表 (17 種)。Morino (1984-1993) が分類基盤を整備、Tomikawa et al. (2015, ZooKeys 548:1) は壱岐島産 <em>J. ikiensis</em> を記載 <a href="https://doi.org/10.3897/zookeys.548.6063">doi:10.3897/zookeys.548.6063</a>。Tomikawa et al. (2021, ZooKeys 1074:1) は青森の泉 endemic <em>J. acalceolus</em> を記載 <a href="https://doi.org/10.3897/zookeys.1074.71687">doi:10.3897/zookeys.1074.71687</a>。外来種 <em>Crangonyx floridanus</em> (カワリヌマエビもどき—本科名はエビ様ヨコエビ) が関東で急速拡大 (Tojo et al. 2010, Limnology 11:247)。</li>
+<li><strong>Isopoda (等脚目, ミズムシ・ワラジムシ類)</strong>: 背腹扁平。淡水性 Asellota (ミズムシ <em>Asellus hilgendorfii</em>)、<strong>Phreatoicidea</strong> (古い系統、南半球)、半陸生 Oniscidea (ワラジムシ・ダンゴムシ)。Lins et al. (2012) 等では Isopoda は単系統で、Oniscidea は陸上化単一起源。</li>
+<li><strong>Mysida (アミ目)</strong>: 河口に多く、<em>Neomysis</em>、<em>Acanthomysis</em> 等。日本汽水ではイサザアミ <em>Neomysis japonica</em> が代表。Meland &amp; Willassen (2007, MPE 44:1083) は "Mysidacea" の多系統を molecular で再確認 <a href="https://doi.org/10.1016/j.ympev.2007.02.009">doi:10.1016/j.ympev.2007.02.009</a>。</li>
+<li><strong>Cumacea, Tanaidacea, Spelaeogriphacea, Thermosbaenacea</strong> も Peracarida に含まれるが淡水種は限定的。Tanaidacea は一部地下水系。</li>
+</ul>
+<hr />
+<h2 id="2-class-branchiopoda">2. Class Branchiopoda (鰓脚綱): 一時水域の専門家</h2>
+<p>Branchiopoda は Anostraca、Notostraca、Diplostraca (Laevicaudata + Spinicaudata + Cyclestherida + Cladocera) に分かれる。Richter et al. (2007, Zoologica Scripta 36:1) の形態形質解析、Schwentner et al. (2018, Curr. Biol. 28:947) の UCE 解析でトポロジーはほぼ確立 <a href="https://doi.org/10.1111/j.1463-6409.2006.00272.x">doi:10.1111/j.1463-6409.2006.00272.x</a> / <a href="https://doi.org/10.1016/j.cub.2018.01.075">doi:10.1016/j.cub.2018.01.075</a>。</p>
+<pre><code>Branchiopoda
+├── Sarsostraca: Anostraca (ホウネンエビ)
+└── Phyllopoda
+    ├── Calmanostraca: Notostraca (カブトエビ)
+    └── Diplostraca
+        ├── Laevicaudata + Spinicaudata (カイエビ)
+        └── Cladoceromorpha
+            ├── Cyclestherida
+            └── Cladocera (ミジンコ)
+</code></pre>
+<ul>
+<li><strong>Anostraca (無甲目, ホウネンエビ)</strong>: 日本では <em>Branchinella kugenumaensis</em> (ホウネンエビ) が水田に出現。卵は乾燥耐性。</li>
+<li><strong>Notostraca (背甲目, カブトエビ)</strong>: <em>Triops</em>。日本産は <em>T. granarius</em> (アジアカブトエビ) ほか、農薬試験で話題の外来 <em>T. longicaudatus</em> (アメリカカブトエビ) など。</li>
+<li><strong>Spinicaudata / Laevicaudata (カイエビ)</strong>: 二枚貝様介殻をもつ。<em>Caenestheriella</em>、<em>Eulimnadia</em> 等。</li>
+<li><strong>Cladocera (枝角目, ミジンコ)</strong>: <em>Daphnia</em>、<em>Bosmina</em>、<em>Moina</em> 等。湖沼プランクトン基幹群。Bekker et al. (2018) らの phylogenomics で四亜目 (Anomopoda、Ctenopoda、Onychopoda、Haplopoda) の関係が refine。Cladocera は Spinicaudata 起源の進化的 heterochrony (Fritsch et al. 2013, Front. Zool. 10:35) <a href="https://doi.org/10.1186/1742-9994-10-35">doi:10.1186/1742-9994-10-35</a>。</li>
+</ul>
+<hr />
+<h2 id="3-class-copepoda">3. Class Copepoda (カイアシ綱): 微小だが優占</h2>
+<p>Copepoda は海洋動物プランクトン biomass 最大群だが、淡水系にも豊富。Khodami et al. (2017, Sci. Rep. 7:9164) は 10 目すべてを含む 28S/18S/H3/COI 解析で、Cyclopoida が Poecilostomatoida を内包する paraphyly、Harpacticoida 2 区分 (Polyarthra/Oligoarthra) が姉妹でないこと等を示した (<strong>本論文は後に撤回</strong>、慎重扱い) <a href="https://doi.org/10.1038/s41598-017-06656-4">doi:10.1038/s41598-017-06656-4</a>。Khodami et al. (2025, MPE) の phylogenomics は <strong>Canuelloida が Harpacticoida とは別目</strong> と支持 <a href="https://doi.org/10.1016/j.ympev.2025.108283">doi:10.1016/j.ympev.2025.108283</a>。</p>
+<p>淡水で主要なのは:</p>
+<ul>
+<li><strong>Cyclopoida (キクロプス目, ケンミジンコ)</strong>: <em>Mesocyclops</em>、<em>Thermocyclops</em>、<em>Eucyclops</em>、<em>Acanthocyclops</em>。水田・池沼のプランクトン主要分類群。</li>
+<li><strong>Harpacticoida (ソコミジンコ目)</strong>: 底生性、<em>Attheyella</em>、<em>Canthocamptus</em> 等が淡水性。間隙水にも多数。</li>
+<li><strong>Calanoida (カラヌス目)</strong>: 淡水では <em>Sinodiaptomus</em>、<em>Eodiaptomus</em>、<em>Heliodiaptomus</em> (Diaptomidae) が湖沼プランクトン。</li>
+</ul>
+<p>Walter (WoRMS-Copepoda) および日本では水野壽彦、田中隼人、大高明史 らが継続的に記載・総覧を行っている。</p>
+<hr />
+<h2 id="4-class-ostracoda">4. Class Ostracoda (介形綱): 二枚貝殻で覆われた小型甲殻類</h2>
+<p>Ostracoda は Podocopa (大半の淡水種を含む) と Myodocopa の 2 亜綱に分かれる (Horne et al. 2002, Crustacean Issues 12)。淡水種はほぼ Podocopa &gt; Podocopida に属し、<strong>Cypridoidea</strong> (Cyprididae, Candonidae, Ilyocyprididae, Notodromadidae) が全淡水種の約 75% を占める (Martens et al. 2008, Hydrobiologia 595:185) <a href="https://doi.org/10.1007/s10750-007-9245-4">doi:10.1007/s10750-007-9245-4</a>。</p>
+<p>Yamaguchi et al. (2016, Zool. Sci. 33:179) は 18S/28S rDNA で Cypridoidea の単系統性と Candonidae の側系統性 (Candoninae/Paracypridinae/Cyclocypridinae が独立クレード) を示した <a href="https://doi.org/10.2108/zs150103">doi:10.2108/zs150103</a>。日本産淡水 Ostracoda は Okubo、Smith、Kamiya が新種記載を継続、水田・地下水・伏流水で生物地理学的に興味深い (<em>Dolerocypris sinensis</em>、<em>Ilyocypris</em>、<em>Heterocypris</em> 等)。Martens は世界淡水介形類カタログ (2008) の主著者で、現在約 2000 種が記録。</p>
+<hr />
+<h2 id="5">5. 日本産分類の人的系譜 (メモ)</h2>
+<ul>
+<li><strong>三宅貞祥</strong> (九州大学): Brachyura 分類の戦後基盤、Decapoda 総覧 (1982-83)。</li>
+<li><strong>酒井恒</strong>: 『Crabs of Japan and the Adjacent Seas』(1976)。</li>
+<li><strong>西村三郎</strong>: 『原色検索日本海岸動物図鑑』(保育社、1992-1995)。岸上甲殻類含む。</li>
+<li><strong>武田正倫</strong> (科博): Brachyura 新種記載、Stomatopoda、深海種。</li>
+<li><strong>諸喜田茂充</strong> (琉球大): Atyidae、Coenobitidae、琉球列島両側回遊性甲殻類の生態分類。</li>
+<li><strong>駒井智幸</strong> (千葉県中央博): Paguridae、Caridea、深海性。</li>
+<li><strong>森野浩 (Morino)</strong> (茨城大): 淡水 Amphipoda (<em>Jesogammarus</em> 等)。</li>
+<li><strong>富川光 (Tomikawa)</strong>: 現代淡水 Amphipoda taxonomy。</li>
+<li><strong>Shih Hsi-Te, Naruse Tohru, Ng Peter K.L.</strong>: 東アジア淡水・汽水カニ (<em>Geothelphusa</em> 等) の統合分類で継続中。</li>
+<li><strong>豊田幸詞 (Toyota)</strong>、<strong>井村信弥</strong>、<strong>冨永修</strong>: Atyidae、Palaemonidae 現代分類。</li>
+</ul>
+<hr />
+<h2 id="6">6. 補足: 日本産淡水・汽水甲殻類の「生活史カテゴリ」</h2>
+<p>ここで生態パートへのブリッジとして、分類横断的な生活史区分を示す (詳述は別レポート予定):</p>
+<ul>
+<li><strong>両側回遊型 (amphidromous)</strong>: Atyidae (ミナミヌマエビ除く)、<em>Macrobrachium</em>、Varunidae (<em>Eriocheir</em>)、Sesarmidae 多数、Coenobitidae。琉球列島で diversity 最大。</li>
+<li><strong>降河回遊 (catadromous)</strong>: <em>Eriocheir</em> (モクズガニ) が典型。産卵のみ河口。</li>
+<li><strong>陸封型 (landlocked / primary freshwater)</strong>: Potamidae (<em>Geothelphusa</em>)、ザリガニ類、ホウネンエビ・カブトエビ・ミジンコ (孤立水域)。</li>
+<li><strong>汽水専性</strong>: Mysida (<em>Neomysis japonica</em>)、一部 Isopoda、Palaemonidae 汽水種 (<em>Palaemon paucidens</em> 一部個体群等)。</li>
+</ul>
+<p>このうち両側回遊型は Rhinogobius の回遊類型 (降河/両側回遊/陸封) と <strong>同じ海陸分断構造</strong> を示すため、後続レポートで比較生物地理を扱う予定。</p>
+<hr />
+<h2 id="7-doi">7. 参考文献 (DOI 付き主要引用)</h2>
+<ul>
+<li>Regier JC et al. 2010. Arthropod relationships revealed by phylogenomic analysis of nuclear protein-coding sequences. <em>Nature</em> 463:1079. <a href="https://doi.org/10.1038/nature08742">doi:10.1038/nature08742</a></li>
+<li>Oakley TH et al. 2013. Phylotranscriptomics to Bring the Understudied into the Fold. <em>MBE</em> 30:215. <a href="https://doi.org/10.1093/molbev/mss216">doi:10.1093/molbev/mss216</a></li>
+<li>Schwentner M et al. 2017. A Phylogenomic Solution to the Origin of Insects by Resolving Crustacean-Hexapod Relationships. <em>Curr. Biol.</em> 27:1818. <a href="https://doi.org/10.1016/j.cub.2017.05.040">doi:10.1016/j.cub.2017.05.040</a></li>
+<li>Schwentner M et al. 2018. Tetraconatan phylogeny with special focus on Malacostraca and Branchiopoda. <em>Proc. R. Soc. B</em> 285:20181524. <a href="https://doi.org/10.1098/rspb.2018.1524">doi:10.1098/rspb.2018.1524</a></li>
+<li>Bernot JP et al. 2023. Major Revisions in Pancrustacean Phylogeny and Evidence of Sensitivity to Taxon Sampling. <em>MBE</em> 40:msad175. <a href="https://doi.org/10.1093/molbev/msad175">doi:10.1093/molbev/msad175</a></li>
+<li>Wolfe JM et al. 2019. A phylogenomic framework, evolutionary timeline and genomic resources for comparative studies of decapod crustaceans. <em>Proc. R. Soc. B</em> 286:20190079. <a href="https://doi.org/10.1098/rspb.2019.0079">doi:10.1098/rspb.2019.0079</a></li>
+<li>Tan MH et al. 2019. Comparative mitogenomics of the Decapoda. <em>Sci. Rep.</em> 9:10756. <a href="https://doi.org/10.1038/s41598-019-47145-0">doi:10.1038/s41598-019-47145-0</a></li>
+<li>Tsang LM et al. 2014. Evolutionary History of True Crabs (Brachyura) and the Origin of Freshwater Crabs. <em>MBE</em> 31:1173. <a href="https://doi.org/10.1093/molbev/msu068">doi:10.1093/molbev/msu068</a></li>
+<li>Tan MH et al. 2022. Molecular phylogeny of Thoracotremata crabs. <em>MPE</em> 174:107536. <a href="https://doi.org/10.1016/j.ympev.2022.107536">doi:10.1016/j.ympev.2022.107536</a></li>
+<li>Chu KH et al. 2003. Molecular systematics of Asian mitten crabs <em>Eriocheir</em>. <em>MPE</em> 29:738. <a href="https://doi.org/10.1016/S1055-7903(03)00112-X">doi:10.1016/S1055-7903(03)00112-X</a></li>
+<li>von Rintelen K et al. 2012. Drawn to the dark side: molecular phylogeny of freshwater shrimps (Atyidae). <em>MPE</em> 63:82. <a href="https://doi.org/10.1016/j.ympev.2011.12.015">doi:10.1016/j.ympev.2011.12.015</a></li>
+<li>Crandall KA, De Grave S. 2017. An updated classification of the freshwater crayfishes. <em>J. Crust. Biol.</em> 37:615. <a href="https://doi.org/10.1093/jcbiol/rux070">doi:10.1093/jcbiol/rux070</a></li>
+<li>Hamasaki K et al. 2017. Phylogeography of <em>Coenobita purpureus</em>. <em>Mar. Ecol.</em> 38:e12369. <a href="https://doi.org/10.1111/maec.12369">doi:10.1111/maec.12369</a></li>
+<li>Komai T. 2015. New species of <em>Pagurus</em> with East Asian checklist. <em>Zootaxa</em> 3918:151. <a href="https://doi.org/10.11646/zootaxa.3918.2.4">doi:10.11646/zootaxa.3918.2.4</a></li>
+<li>Okamoto K et al. 2025. Genetic population structure of <em>Geothelphusa dehaani</em> species complex. <em>Sci. Rep.</em> 15:08085. <a href="https://doi.org/10.1038/s41598-025-08085-0">doi:10.1038/s41598-025-08085-0</a></li>
+<li>Spears T, Abele LG, Applegate MA. 2005. Peracarid monophyly from nuclear SSU rDNA. <em>Proc. Biol. Soc. Wash.</em> 118:117. <a href="https://doi.org/10.2988/0006-324X(2005)118[117:PMAIPI]2.0.CO;2">doi:10.2988/0006-324X(2005)118[117:PMAIPI]2.0.CO;2</a></li>
+<li>Jarman SN, Nicol S, Elliott NG, McMinn A. 2000. 28S rDNA Evolution in the Eumalacostraca / "Mysidacea" disunity. <em>Mar. Biol.</em> 137:347. <a href="https://doi.org/10.1007/s002270000330">doi:10.1007/s002270000330</a></li>
+<li>Copilaş-Ciocianu D et al. 2020. Origin of the Amphipoda and Peracarida diversification. <em>MPE</em> 143:106664. <a href="https://doi.org/10.1016/j.ympev.2019.106664">doi:10.1016/j.ympev.2019.106664</a></li>
+<li>Meland K, Willassen E. 2007. The disunity of "Mysidacea". <em>MPE</em> 44:1083. <a href="https://doi.org/10.1016/j.ympev.2007.02.009">doi:10.1016/j.ympev.2007.02.009</a></li>
+<li>Tomikawa K et al. 2015. <em>Jesogammarus ikiensis</em> sp. n. <em>ZooKeys</em> 548:1. <a href="https://doi.org/10.3897/zookeys.548.6063">doi:10.3897/zookeys.548.6063</a></li>
+<li>Tomikawa K, Tojo K. 2021. <em>Jesogammarus acalceolus</em> sp. nov. <em>ZooKeys</em> 1074:1. <a href="https://doi.org/10.3897/zookeys.1074.71687">doi:10.3897/zookeys.1074.71687</a></li>
+<li>Fritsch M et al. 2013. Unraveling the origin of Cladocera. <em>Front. Zool.</em> 10:35. <a href="https://doi.org/10.1186/1742-9994-10-35">doi:10.1186/1742-9994-10-35</a></li>
+<li>Khodami S et al. 2017 (retracted). Molecular Phylogeny and Revision of Copepod Orders. <em>Sci. Rep.</em> 7:9164. <a href="https://doi.org/10.1038/s41598-017-06656-4">doi:10.1038/s41598-017-06656-4</a></li>
+<li>Martens K et al. 2008. Global diversity of non-marine ostracods in freshwater. <em>Hydrobiologia</em> 595:185. <a href="https://doi.org/10.1007/s10750-007-9245-4">doi:10.1007/s10750-007-9245-4</a></li>
+<li>Yamaguchi S, Endo K. 2016. Molecular Phylogeny of Cypridoid Freshwater Ostracods. <em>Zool. Sci.</em> 33:179. <a href="https://doi.org/10.2108/zs150103">doi:10.2108/zs150103</a></li>
+<li>Saito M et al. 2024. Integrative Taxonomy of <em>Neocaridina</em> from Kyushu and Southern Honshu. <em>Zool. Sci.</em> (cf. PMC11629115).</li>
+</ul>
+<hr />
+<p><strong>次回予定</strong>: <code>02-japan-east-asia-biogeography.md</code> (両側回遊型甲殻類の海流・氷期遺存パターンと Rhinogobius との対比), <code>03-lifehistory-ecology.md</code> (塩分耐性と浸透圧調節、幼生発生様式)。</p>
+<footer>
+generated from <code>01-taxonomy-phylogeny.md</code> / dataset: crustacea-freshwater-brackish
+</footer>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Reports — Offline DB</title>
+<style>
+:root{--bg:#0f1923;--card:#1a2733;--card2:#223344;--accent:#4fc3f7;--accent2:#81d4fa;--green:#66bb6a;--orange:#ffa726;--purple:#ce93d8;--yellow:#fff176;--text:#e0e0e0;--text2:#90a4ae;--border:#2a3a4a}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,'Helvetica Neue','Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;font-size:15px}
+.header{background:linear-gradient(135deg,#0d2137,#1a3a5c,#2a5080);padding:28px 16px;text-align:center;box-shadow:0 4px 20px rgba(0,0,0,.5)}
+.header h1{font-size:22px;color:#fff;margin-bottom:6px}
+.header .sub{font-size:12px;color:#90caf9}
+.header .meta{font-size:11px;color:#bbdefb;margin-top:8px}
+.container{max-width:920px;margin:0 auto;padding:14px}
+h2{font-size:18px;color:#81c784;border-left:4px solid #66bb6a;padding:8px 12px;margin:24px 0 12px;background:var(--card);border-radius:0 8px 8px 0}
+h2 .count{font-size:12px;color:var(--text2);font-weight:normal;margin-left:8px}
+.grid{display:grid;grid-template-columns:1fr;gap:10px}
+@media(min-width:600px){.grid{grid-template-columns:1fr 1fr}}
+.card{display:block;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px;text-decoration:none;color:var(--text);transition:.18s}
+.card:hover{border-color:var(--accent);background:var(--card2)}
+.card.feature{border-color:#3a5a7a}
+.card .name{display:block;color:var(--accent);font-size:15px;font-weight:bold;margin-bottom:4px}
+.card .name.feat{color:#a5d6a7}
+.card .desc{display:block;color:var(--text2);font-size:13px;line-height:1.55}
+.card .path{display:block;color:#5a6a7a;font-size:11px;margin-top:6px;font-family:monospace;word-break:break-all}
+.tag-row{margin-top:6px}
+.tag{display:inline-block;font-size:10px;padding:2px 7px;border-radius:9px;margin:1px 2px}
+.tag-multi{background:#1b5e20;color:#a5d6a7}
+.tag-guide{background:#0d47a1;color:#90caf9}
+.tag-doc{background:#4a148c;color:#ce93d8}
+.tag-chapters{background:#3e2723;color:#ffab91}
+.intro{background:var(--card);padding:14px;border-radius:8px;border:1px solid var(--border);margin:14px 0;font-size:13.5px;color:var(--text2)}
+.intro strong{color:var(--text)}
+.footer{text-align:center;padding:24px;color:var(--text2);font-size:11px;border-top:1px solid var(--border);margin-top:40px}
+.footer code{background:var(--card2);padding:2px 6px;border-radius:4px;font-size:11px}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Research Reports — Offline DB</h1>
+<div class="sub">在野研究者のためのオフライン参照データベース</div>
+<div class="meta">最終更新: 2026-04-27</div>
+</div>
+<div class="container">
+
+<div class="intro">
+<strong>このディレクトリについて:</strong> ネット遮断環境でも参照できる調査レポート群を集約。
+multi-page型の大型データセット (各7章 + 画像) と、現地採集向けの単発ガイド、文献の出典トレースで構成。
+ZIM配信版は <code>archives/research-reports.zim</code> (ビルドは <code>python3 pack_to_zim.py</code>)。
+</div>
+
+<h2>大型データセット <span class="count">3件 / 各7章 + 画像</span></h2>
+<div class="grid">
+
+<a href="kanto-rocky-shore/index.html" class="card feature">
+<span class="name feat">関東の磯岩礁生態系 総合</span>
+<span class="desc">地理・微生息域・動物相・藻類・ニッチ分割・現地サイトガイド・保全。三浦・房総・伊豆を中心に7章構成。</span>
+<span class="tag-row"><span class="tag tag-multi">multi-page</span><span class="tag tag-chapters">7章+image</span></span>
+<span class="path">offline-db/kanto-rocky-shore/</span>
+</a>
+
+<a href="crustacea-freshwater-brackish/index.html" class="card feature">
+<span class="name feat">淡水・汽水産甲殻類 総合</span>
+<span class="desc">分類・エビ目録・カニ目録・生態・形態同定・保全/外来・研究史。日本の淡水汽水域全般、7章構成。</span>
+<span class="tag-row"><span class="tag tag-multi">multi-page</span><span class="tag tag-chapters">7章+image</span></span>
+<span class="path">offline-db/crustacea-freshwater-brackish/</span>
+</a>
+
+<a href="fish/gobies-overview/index.html" class="card feature">
+<span class="name feat">日本のハゼ類 総合</span>
+<span class="desc">分類・種カタログ・Rhinogobius詳説・生態・形態・保全・研究史。Gobiiformes全般、7章構成。</span>
+<span class="tag-row"><span class="tag tag-multi">multi-page</span><span class="tag tag-chapters">7章+image</span></span>
+<span class="path">offline-db/fish/gobies-overview/</span>
+</a>
+
+</div>
+
+<h2>磯・海岸 ガイド <span class="count">4件</span></h2>
+<div class="grid">
+
+<a href="intertidal/kanto_rocky_intertidal_guide.html" class="card">
+<span class="name">関東の磯 生き物総合図鑑</span>
+<span class="desc">関東の岩礁性潮間帯で見られる代表的な生物。同定・観察ガイド。</span>
+<span class="tag-row"><span class="tag tag-guide">field-guide</span></span>
+<span class="path">intertidal/kanto_rocky_intertidal_guide.html</span>
+</a>
+
+<a href="intertidal/odawara_hayakawa_guide.html" class="card">
+<span class="name">小田原〜早川 磯採集ガイド</span>
+<span class="desc">特定地域 (小田原市〜早川) の磯採集 詳細ガイド。アクセス・潮汐・生物。</span>
+<span class="tag-row"><span class="tag tag-guide">field-guide</span></span>
+<span class="path">intertidal/odawara_hayakawa_guide.html</span>
+</a>
+
+<a href="intertidal/shellfish_guide.html" class="card">
+<span class="name">貝の採取・法規制ガイド</span>
+<span class="desc">食用・観察対象の貝類。漁業権・採取量・サイズ規制も含む。</span>
+<span class="tag-row"><span class="tag tag-guide">field-guide</span></span>
+<span class="path">intertidal/shellfish_guide.html</span>
+</a>
+
+<a href="intertidal/edible_seaweed_guide.html" class="card">
+<span class="name">食用海藻ガイド</span>
+<span class="desc">採取・同定・調理に対応した食用海藻のリファレンス。</span>
+<span class="tag-row"><span class="tag tag-guide">field-guide</span></span>
+<span class="path">intertidal/edible_seaweed_guide.html</span>
+</a>
+
+</div>
+
+<h2>淡水魚・河川 ガイド <span class="count">4件</span></h2>
+<div class="grid">
+
+<a href="fish/nijimasu_fishing_guide.html" class="card">
+<span class="name">ニジマス釣りガイド</span>
+<span class="desc"><em>Oncorhynchus mykiss</em> の釣り。タックル・ポイント・季節・調理。</span>
+<span class="tag-row"><span class="tag tag-guide">fishing</span></span>
+<span class="path">fish/nijimasu_fishing_guide.html</span>
+</a>
+
+<a href="fish/hayakawa_river_guide.html" class="card">
+<span class="name">早川水系 淡水生物採集ガイド</span>
+<span class="desc">神奈川県西部・早川流域の淡水生物。採集ポイント・対象種。</span>
+<span class="tag-row"><span class="tag tag-guide">field-guide</span></span>
+<span class="path">fish/hayakawa_river_guide.html</span>
+</a>
+
+<a href="fish/luciogobius/mimizuhaze_guide.html" class="card">
+<span class="name">ミミズハゼ採集ガイド</span>
+<span class="desc"><em>Luciogobius guttatus</em> 等。河口域・潮間帯下部の隠蔽性ハゼ。</span>
+<span class="tag-row"><span class="tag tag-guide">species-guide</span></span>
+<span class="path">fish/luciogobius/mimizuhaze_guide.html</span>
+</a>
+
+<a href="fish/bathygobius/kumohaze_guide.html" class="card">
+<span class="name">クモハゼ生態ガイド</span>
+<span class="desc"><em>Bathygobius fuscus</em>。潮間帯岩礁の代表種。</span>
+<span class="tag-row"><span class="tag tag-guide">species-guide</span></span>
+<span class="path">fish/bathygobius/kumohaze_guide.html</span>
+</a>
+
+</div>
+
+<h2>水産・漁業ルール <span class="count">2件</span></h2>
+<div class="grid">
+
+<a href="fishery/kanto_fishery_guide.html" class="card">
+<span class="name">関東 水産物・漁業規則 総合</span>
+<span class="desc">関東各都県の漁業権・採捕規則・対象種ごとのレギュレーション。</span>
+<span class="tag-row"><span class="tag tag-guide">regulation</span></span>
+<span class="path">fishery/kanto_fishery_guide.html</span>
+</a>
+
+<a href="fishery/free_seafood_wild_food_guide.html" class="card">
+<span class="name">漁業権フリー水産物 + 野草ガイド</span>
+<span class="desc">漁業権が及ばない水産物+食用野草のセルフサプライ参考。</span>
+<span class="tag-row"><span class="tag tag-guide">regulation</span></span>
+<span class="path">fishery/free_seafood_wild_food_guide.html</span>
+</a>
+
+</div>
+
+<h2>テクニック・ノウハウ <span class="count">1件</span></h2>
+<div class="grid">
+
+<a href="reports/2026-04-26_fishing-technique-guide.html" class="card">
+<span class="name">釣りテクニック完全ガイド</span>
+<span class="desc">同じ道具・同じ餌でも差がつく実践的テクニック集。キャスト・アワセ・取り込み・ポイント選び等。</span>
+<span class="tag-row"><span class="tag tag-guide">fishing</span></span>
+<span class="path">reports/2026-04-26_fishing-technique-guide.html</span>
+</a>
+
+</div>
+
+<h2>文献・出典トレース <span class="count">1件</span></h2>
+<div class="grid">
+
+<a href="insects-kanto/okuwagata/inba_origin_trace.html" class="card">
+<span class="name">印旛オオクワガタ伝聞の出典トレース</span>
+<span class="desc">「印旛地域でオオクワガタが採れる」という伝聞の初出と一次情報源を、年表と一次資料で追跡。BE-KUWA No.8、天羽ドルクス、『房総の昆虫』を中心に整理。</span>
+<span class="tag-row"><span class="tag tag-doc">bibliography</span></span>
+<span class="path">insects-kanto/okuwagata/inba_origin_trace.html</span>
+</a>
+
+</div>
+
+<div class="footer">
+Research Reports / Offline DB — research-reports リポジトリ <code>offline-db/</code><br>
+ZIMビルド: <code>python3 pack_to_zim.py</code> &nbsp;→&nbsp; <code>archives/research-reports.zim</code>
+</div>
+
+</div>
+</body>
+</html>
