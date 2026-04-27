@@ -21,6 +21,7 @@ HTML_FILES = [
     ('biology/intertidal/odawara_hayakawa_guide.html', '小田原～早川 磯採集ガイド'),
     ('biology/fishery/kanto_fishery_guide.html', '関東 水産物・漁業規則 総合ガイド'),
     ('biology/fish/hayakawa_river_guide.html', '早川水系 淡水生物採集ガイド'),
+    ('biology/insects-kanto/okuwagata/inba_origin_trace.html', '印旛オオクワガタ伝聞の出典トレース'),
 ]
 
 FAKE_DOMAIN = 'research-reports.local'
