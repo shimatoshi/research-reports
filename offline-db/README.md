@@ -15,11 +15,20 @@ multi-page型レポートは MD原稿・WebP画像も同ディレクトリに同
 
 ## ZIM配信
 
+メインマシン (zimmaker導入済) では:
+
 ```bash
 python3 pack_to_zim.py
 ```
 
-→ `archives/research-reports.zim` を生成。Kiwix等で開くと `index.html` が目次として展開される。
+zimmaker未導入のマシンでは libzim Python binding で代替:
+
+```bash
+pip install --user libzim
+python3 build_zim_libzim.py
+```
+
+どちらも `archives/research-reports.zim` を生成。Kiwix等で開くと `index.html` が目次として展開される。
 
 ## クロス参照ポリシー
 

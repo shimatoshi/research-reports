@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>魚と甲殻類の知能と行動</title>
+<style>
+:root{--bg:#0f1923;--card:#1a2733;--card2:#223344;--accent:#4fc3f7;--accent2:#81d4fa;--green:#66bb6a;--orange:#ffa726;--red:#ef5350;--pink:#f48fb1;--purple:#ce93d8;--yellow:#fff176;--text:#e0e0e0;--text2:#90a4ae;--border:#2a3a4a}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,'Helvetica Neue','Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;font-size:15px}
+.header{padding:24px 16px;text-align:center;position:sticky;top:0;z-index:100;box-shadow:0 4px 20px rgba(0,0,0,.5)}
+.header h1{font-size:20px;color:#fff;margin-bottom:4px}
+.header .sub{font-size:12px;opacity:.85}
+.container{max-width:920px;margin:0 auto;padding:14px}
+.body h1{display:none}
+.body h2{font-size:19px;color:#81c784;border-left:4px solid #66bb6a;padding:8px 12px;margin:24px 0 14px;background:var(--card);border-radius:0 8px 8px 0}
+.body h3{font-size:16px;color:var(--orange);margin:18px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--border)}
+.body h4{font-size:14px;color:var(--accent);margin:14px 0 6px}
+.body p{margin:8px 0}
+.body strong{color:#fff}
+.body a{color:var(--accent2)}
+.body ul,.body ol{margin:8px 0 8px 24px;color:var(--text2)}
+.body li{margin:5px 0}
+.body li strong{color:var(--text)}
+.body table{width:100%;border-collapse:collapse;margin:14px 0;font-size:13px;background:var(--card);border-radius:8px;overflow:hidden}
+.body th{background:var(--card2);color:var(--accent);padding:8px 8px;text-align:left;font-weight:600;border-bottom:1px solid var(--border)}
+.body td{padding:8px 8px;border-bottom:1px solid var(--border);vertical-align:top;color:var(--text2)}
+.body td strong{color:var(--text)}
+.body img{max-width:100%;height:auto;display:block;margin:14px auto;border-radius:8px;border:1px solid var(--border)}
+.body img + em, .body p > em:only-child{display:block;text-align:center;font-size:11px;color:var(--text2);margin-top:-10px;margin-bottom:14px}
+.body hr{border:none;border-top:1px solid var(--border);margin:24px 0}
+.body code{background:var(--card2);padding:1px 6px;border-radius:4px;font-size:12.5px;color:#ffd180}
+.body pre{background:var(--card2);padding:12px;border-radius:8px;overflow-x:auto;margin:10px 0;border:1px solid var(--border)}
+.body pre code{background:none;padding:0;color:var(--text)}
+.body blockquote{border-left:3px solid var(--accent);background:#0d2137;padding:8px 14px;margin:10px 0;border-radius:0 8px 8px 0;color:var(--text2)}
+.meta{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin:12px 0;font-size:12px;color:var(--text2)}
+.meta strong{color:var(--accent2)}
+.tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px;margin:2px 4px 2px 0;background:#3e2723;color:#bcaaa4}
+.footer{text-align:center;padding:24px;color:var(--text2);font-size:11px;border-top:1px solid var(--border);margin-top:40px}
+@media(max-width:600px){.body th,.body td{font-size:12px;padding:6px 5px}.header h1{font-size:17px}}
+
+.header{background:linear-gradient(135deg,#1b5e20,#2e7d32,#388e3c)}
+.header .sub{color:#a5d6a7}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>魚と甲殻類の知能と行動</h1>
+<div class="sub">わかっていること / わかっていないこと</div>
+</div>
+<div class="container">
+<div class="tag-row" style="margin:8px 0"><span class="tag">fish</span><span class="tag">crustacean</span><span class="tag">cognition</span><span class="tag">sentience</span><span class="tag">play</span><span class="tag">communication</span><span class="tag">pain</span><span class="tag">life-cycle</span></div>
+<div class="body">
+<h1 id="_1">魚と甲殻類の知能と行動 — わかっていること/わかっていないこと</h1>
+<p>調査日: 2026-04-23</p>
+<h2 id="tldr">TL;DR</h2>
+<ul>
+<li><strong>魚は「冷たく機械的」な生き物という固定観念は2010年代以降の実験群で崩れた</strong>。ホンソメワケベラは鏡像自己認識テストに合格 (PNAS 2023、Sci Rep 2026)、ハタはウツボと<strong>ジェスチャーで呼びかけて協力狩り</strong>を行う、シクリッドは<strong>玩具遊び</strong>をする、等。</li>
+<li><strong>魚の痛覚</strong>はnociceptor・オピオイド系・鎮痛剤応答・学習的回避がそろい、<strong>痛みを感じている</strong>という見解が主流 (米国獣医師会も認知)。</li>
+<li><strong>甲殻類 (十脚類) も痛覚を持つ</strong>という証拠が強く、2022年に<strong>英国の動物福祉法</strong>が十脚類を感覚能力保有生物として公式認定。</li>
+<li><strong>甲殻類の知能</strong>は、空間記憶・個体顔認識 (ザリガニ)、貝殻交換の<strong>社会的順番待ち</strong>(ヤドカリ)、<strong>シャコのストライク対話</strong>などが判明。ただし魚ほど「遊び」の明確な報告は少ない。</li>
+<li><strong>わかっていないこと</strong>: 魚の主観的感情の質、甲殻類の痛みの「体験」の強度、多くの種での個体間コミュニケーションの全容、野外での本当のライフタイム行動。</li>
+</ul>
+<hr />
+<h2 id="1">1. 魚の知能と行動</h2>
+<p><img alt="ハワイアンクリーナーラス (ホンソメワケベラ近縁種)" src="images/cleaner-wrasse.jpg" /></p>
+<p><em>ハワイアンクリーナーラス </em>Labroides phthirophagus<em>。ホンソメワケベラ属は鏡像自己認識テストに合格したことで知られる。Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Hawaiian_cleaner_wrasse.jpg">CC BY-SA 4.0</a></em></p>
+<h3 id="11">1.1 わかっていること</h3>
+<h4 id="msr">鏡像自己認識 (MSR) — 魚類で初めて合格した「頭足類未満」の脊椎動物</h4>
+<p>ホンソメワケベラ (<em>Labroides dimidiatus</em>) は、喉元にマークを付けて鏡を見せる古典的な<strong>マークテスト</strong>に合格した最初の魚。大阪市立大学・幸田正典らによる一連の研究で、2019年以降複数の追試が進み、2023年には PNAS に「<strong>自己の顔を鏡像として認識している</strong>」ことを示す論文が掲載された (<a href="https://www.pnas.org/doi/10.1073/pnas.2208420120">PNAS 2023</a>)。</p>
+<p>2026年2月には大阪公立大学グループが追試に成功し、マーク除去行動が平均<strong>82分以内</strong>に現れることを確認。従来実験では4〜6日かかっていたのが大幅短縮した (<a href="https://www.nature.com/articles/s41598-025-25837-0">Sci Rep 2026</a>)。この短縮は、鏡を「自己を見る道具」と理解するまでの時間が実は短く、それまでの長さは実験パラダイム側の問題だったと示唆する。</p>
+<h4 id="_2">道具使用とコミュニケーション</h4>
+<p><strong>ハタ (grouper) とウツボ (moray eel) の協力狩り</strong>: 2006年に Bshary らが報告し (PLOS Biology、<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040431">Bshary et al. 2006</a>)、ハタが<strong>身体を震わせて呼び出し</strong>、岩陰の獲物をウツボに追い出させる。ハタは開水域で高速、ウツボは裂け目で細身、という<strong>役割分担</strong>がある。ハタ単独の5倍近い狩猟効率になる。さらにハタは<strong>頭を下にして頭振り</strong>で「獲物はここにいる」と<strong>参照的ジェスチャー</strong>で示す。ヒトの指差しに相当する動作が魚で成立する。</p>
+<p><strong>モンガラカワハギ類はウニの裏返し</strong>、<strong>ベラの仲間はサンゴを金床にして貝を割る</strong>など、少なくとも道具使用的行動が複数種で報告されている。</p>
+<h4 id="_3">社会認知と戦術的欺瞞</h4>
+<p>ホンソメワケベラはクライアント魚を<strong>粘液を食うか寄生虫を食うか</strong>で騙す/信頼を積む、<strong>推移的推論</strong> (A&gt;B, B&gt;C → A&gt;C) を解く、<strong>自己抑制 (delay of gratification)</strong> ができる、といった研究がある。</p>
+<h4 id="_4">遊び行動</h4>
+<p><strong>シクリッド <em>Tropheus duboisi</em></strong>: Burghardt らが2年間の観察で、水槽の底錘つき温度計を<strong>繰り返し突く</strong>行動を個体ごとに異なるスタイルで示すことを記録 (Ethology 2015, <a href="https://onlinelibrary.wiley.com/doi/10.1111/eth.12312">DOI</a>)。食や繁殖や闘争と無関係、リラックスした状態で起きる反復行動=<strong>遊び</strong>の定義に合致する。</p>
+<p><strong>モンガラ・フグ・マンタ</strong>: 水流で遊ぶ、落ち葉を追いかける、泡を作って遊ぶといった逸話的報告が多い。</p>
+<h4 id="_5">感情と痛覚</h4>
+<ul>
+<li><strong>痛覚</strong>: 魚の体表にはA-δ線維様・C線維様のnociceptorがあり、火傷や酢、蜂毒などに反応して体をこすりつける・摂餌停止などの回避行動を示す。<strong>モルヒネで回避行動が正常化</strong>することから、単なる反射ではなく「<strong>苦痛の主観的体験</strong>」が推測される (<a href="https://en.wikipedia.org/wiki/Pain_in_fish">Pain in fish - Wikipedia</a>)。</li>
+<li><strong>情動</strong>: 恐怖・ストレス応答はコルチゾール上昇・行動変化として検出可能。ポジティブな情動 (期待・喜び相当) の証拠も蓄積中。</li>
+<li><strong>米国獣医師会 (AVMA)</strong> は「陸上脊椎動物と同等の痛み配慮を受けるべき」という立場 (<a href="https://www.ciwf.eu/media/7437870/why-fish-welfare-matters_the-evidence-for-fish-sentience_ciwf-2019.pdf">CIWF Fish Sentience Report</a>)。</li>
+</ul>
+<h4 id="_6">コミュニケーション</h4>
+<ul>
+<li><strong>音声</strong>: フエダイ・ハゼ・ナマズ・ヨウジウオ等は浮き袋や骨の摩擦で発音する。縄張り・求愛・警戒の signals。</li>
+<li><strong>視覚</strong>: 体色変化、鰭の誇示、姿勢。闘魚ベタの誇示は典型。</li>
+<li><strong>化学</strong>: フェロモン、警報物質 (Schreckstoff)。キンギョやナマズは傷ついた同種の匂いで群れが一斉に散らばる。</li>
+<li><strong>電気</strong>: デンキウナギ・デンキナマズ・モルミルス類は電場でコミュニケーションする。</li>
+</ul>
+<h4 id="_7">個体識別と記憶</h4>
+<ul>
+<li>グッピーは<strong>同種個体を顔で見分ける</strong>。</li>
+<li>一部のコイ・金魚は<strong>数ヶ月〜年単位の空間記憶</strong>を持ち、給餌時刻・場所を学ぶ。</li>
+<li>ゼブラフィッシュは<strong>数的概念</strong> (3 vs 4) の弁別ができる。</li>
+</ul>
+<h3 id="12">1.2 わかっていないこと</h3>
+<ul>
+<li><strong>主観的体験 (クオリア) の質</strong>。痛みや喜びを「どう感じている」かは原理的に実験で到達しにくい。</li>
+<li>多くの野生種での個体間コミュニケーションの全体像 (研究対象は少数のモデル種に偏っている)。</li>
+<li>遊びの進化的起源と汎用性 (現在の証拠はシクリッド・フグ等の限定的事例)。</li>
+<li>睡眠と夢のような内的状態。</li>
+<li>種間で大差のある知能の原因 (脳構造? 社会性? 生態?)。</li>
+</ul>
+<h3 id="13">1.3 生態と一生</h3>
+<p>魚のライフサイクルは基本 <strong>卵 → 仔魚 (larva) → 稚魚 (fry) → 幼魚 (juvenile) → 成魚 (adult)</strong> の5段階。詳細は種により多様。</p>
+<table>
+<thead>
+<tr>
+<th>段階</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>卵</td>
+<td>水中に放出 (放卵型) / 口内保育 / 粘着卵として付着 等。種により数十〜数百万</td>
+</tr>
+<tr>
+<td>仔魚</td>
+<td>卵黄嚢でエネルギー自給。まだヒレ・ウロコ未完成</td>
+</tr>
+<tr>
+<td>稚魚</td>
+<td>卵黄吸収後、自力摂餌開始。遊泳力獲得</td>
+</tr>
+<tr>
+<td>幼魚</td>
+<td>成魚と同じ形になる「変態」。体色・鰭・ウロコが整う</td>
+</tr>
+<tr>
+<td>成魚</td>
+<td>性成熟、繁殖</td>
+</tr>
+</tbody>
+</table>
+<p><strong>寿命の幅</strong>:</p>
+<ul>
+<li><strong>数週間〜数ヶ月</strong>: 小型クジラウオ類、アイテム的な短命種 (<em>Nothobranchius</em>) は8週間で世代交代</li>
+<li><strong>1〜3年</strong>: 多くの小型淡水魚 (ハゼ科・メダカ)</li>
+<li><strong>数十年</strong>: 錦鯉 (30〜70年)、多くのサメ・マグロ</li>
+<li><strong>100年超</strong>: シーラカンス、ニシオンデンザメ (400年説もある)</li>
+</ul>
+<p>繁殖戦略も多様で、<strong>一回繁殖型 (サケは産卵後死亡)</strong> から<strong>長期反復繁殖型</strong> (コイ・錦鯉) まで。性転換する種 (クマノミ・ハタ・ベラ) も多数。</p>
+<hr />
+<h2 id="2">2. 甲殻類 (十脚類) の知能と行動</h2>
+<h3 id="21">2.1 わかっていること</h3>
+<h4 id="sentience">痛覚と感覚能力 (sentience)</h4>
+<p><strong>決定的に流れが変わったのは2021年</strong>、Jonathan Birch らがロンドン・スクール・オブ・エコノミクスで発表した<strong>108ページの総説</strong>で、十脚甲殻類と頭足類が<strong>感覚能力 (sentience) の8基準</strong>を多くの場合満たすことを示した。</p>
+<ul>
+<li><strong>nociceptors</strong> (痛覚受容器)</li>
+<li><strong>統合脳領域</strong> (単なる反射中枢でない)</li>
+<li><strong>nociceptor中枢の結合</strong></li>
+<li><strong>オピオイド様鎮痛の効果</strong> (モルヒネで回避緩和)</li>
+<li><strong>有害刺激を避ける学習の動機づけ</strong></li>
+<li><strong>モチベーション同士のトレードオフ</strong> (強い痛みの回避が優先される)</li>
+<li><strong>保護的運動反応</strong> (傷口を守る、擦る)</li>
+<li><strong>苦痛と関連する連合学習</strong></li>
+</ul>
+<p>十脚類 (カニ・エビ・ザリガニ) はすべて満たすか、強い証拠がある、とされた。<strong>Crustacean Hyperglycaemic Hormone (CHH)</strong> がコルチゾール類似の役割でストレス時に上昇する、オピオイド受容体 (μ, κ, δ) がヒトとほぼ同一配列で存在する、といった分子レベルのエビデンスも揃う (<a href="https://en.wikipedia.org/wiki/Pain_in_crustaceans">Pain in crustaceans - Wikipedia</a>)。</p>
+<p><strong>2022年に英国</strong>が Animal Welfare (Sentience) Act で十脚類と頭足類を<strong>感覚能力保有生物と正式認定</strong>した。政策的なインパクトが大きく、沸騰調理の是非や麻酔使用の議論に直結している。</p>
+<h4 id="_8">学習と個体認識</h4>
+<ul>
+<li><strong>ザリガニ (<em>Procambarus clarkii</em>, <em>Cherax destructor</em>)</strong>: 迷路学習、<strong>闘争相手の顔を視覚的に覚える</strong>(<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001695">PLOS ONE 2007</a>)。同じ相手と再戦すると順位関係を思い出す。</li>
+<li><strong>カニ類</strong>: 視覚的形状認識、捕食者のシルエット識別、罠学習 (一度つかまった罠を避ける)。</li>
+<li><strong>ヤドカリ</strong>: 貝殻の「内見」(触肢で内部を測る)、選好の序列付け。</li>
+</ul>
+<h4 id="_9">社会性とコミュニケーション</h4>
+<ul>
+<li><strong>ヤドカリ (<em>Pagurus bernhardus</em> ほか)</strong>: <strong>貝殻交換の順番待ち行列 (vacancy chain)</strong> が成立する。大きな貝殻が空くと、それに合う次の個体、さらに次、と玉突きで全員がアップグレードする。集まって<strong>ピギーバック</strong> (体を重ねる) し、抜けた主の貝殻を取り合う。</li>
+<li><strong>Shell rapping</strong> (殻叩き): 奪う側が相手の殻を自分の殻で打ち鳴らし、中の個体を追い出そうとする。打ち鳴らしの<strong>回数・強度</strong>で相手が降参するかが決まる一種の交渉手段 (<a href="https://royalsocietypublishing.org/doi/10.1098/rspb.1998.0459">Royal Society B 1998</a>)。</li>
+<li><strong>シオマネキ</strong>: ハサミを振って求愛・縄張り主張。<strong>ハサミの振幅・頻度</strong>で個体識別される。</li>
+<li><strong>シャコ (mantis shrimp)</strong>: 縄張り闘争で互いの<strong>テルソン (尾盾)</strong> を叩き合う「スパーリング」。ダメージを抑えて順位決定する儀式化した戦闘。</li>
+<li><strong>stridulation (摩擦発音)</strong>: ヤドカリ・イセエビ・ロブスター等は鋏・脚・触角基部をこすって音を出す。6〜8kHzで威嚇や逃避時に発音。</li>
+</ul>
+<h4 id="_10">コミュニケーションの主要チャネル</h4>
+<table>
+<thead>
+<tr>
+<th>チャネル</th>
+<th>役割</th>
+<th>代表例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>嗅覚・化学</td>
+<td>個体認識・性フェロモン・尿によるシグナル</td>
+<td>ロブスターは<strong>尿で社会的情報</strong>を送る</td>
+</tr>
+<tr>
+<td>視覚</td>
+<td>ディスプレイ、ハサミ振り</td>
+<td>シオマネキ、シャコ</td>
+</tr>
+<tr>
+<td>振動・音</td>
+<td>威嚇、縄張り</td>
+<td>ヤドカリの殻叩き、シャコの脚振動</td>
+</tr>
+<tr>
+<td>機械的接触</td>
+<td>闘争のスパーリング</td>
+<td>シャコのテルソン叩き合い</td>
+</tr>
+</tbody>
+</table>
+<h4 id="_11">狩りの駆け引き</h4>
+<ul>
+<li><strong>シャコ</strong>: 視覚で位置を測り、パンチ速度 (水中で時速80km相当) と正確さで貝殻を割る。何度叩くと割れるかも個体差で学習される。</li>
+<li><strong>カニ</strong>: 待ち伏せ型と追跡型が種別にある。タラバガニ類は社会的階層を踏まえて獲物優先度を決める。</li>
+<li><strong>ヤドカリ</strong>: デトリタス食が多く、狩りの駆け引きは控えめだが、<strong>同種との食物奪い合い</strong>で駆け引きがある。</li>
+</ul>
+<h4 id="_12">遊び?</h4>
+<p>甲殻類の「遊び」の明確な報告は魚より少ない。ザリガニ・ロブスター・カニで<strong>機能不明の物体操作</strong>が散発的に観察されているが、確立した事例はない。<strong>脳構造 (はしご状神経系)</strong> とエネルギーコスト (脱皮サイクル) から見ると、遊びに割く余裕は限られると思われる。</p>
+<h3 id="22">2.2 わかっていないこと</h3>
+<ul>
+<li><strong>主観的痛みの強度</strong>: 感覚能力はあるが「ヒトと同等の苦痛か」は未解決。</li>
+<li><strong>多種でのコミュニケーション網</strong>: ヤドカリ・シャコ以外の種で社会交渉の詳細はほとんど未記載。</li>
+<li><strong>記憶の上限</strong>: ザリガニで数日の空間記憶は示されたが、年単位の記憶や場所学習は未検証種が大半。</li>
+<li><strong>遊びの存在</strong>: 明瞭な反復遊びの記録が少ない。技術的な観察不足か、本当にしないのか不明。</li>
+<li><strong>野外での生涯行動記録</strong>: 特に深海性・底生性種は基本的なライフログすら未収集。</li>
+</ul>
+<h3 id="23">2.3 生態と一生</h3>
+<p>十脚類のライフサイクルは、多くの種で<strong>プランクトン性幼生</strong> を経る複雑な変態を伴う。</p>
+<table>
+<thead>
+<tr>
+<th>段階</th>
+<th>形態・特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>卵</td>
+<td>雌の腹肢に抱卵。数日〜数週間で孵化</td>
+</tr>
+<tr>
+<td>ノープリウス (nauplius)</td>
+<td>一部の種のみ (エビ類の一部)。3対の付属肢のみ</td>
+</tr>
+<tr>
+<td>ゾエア (zoea)</td>
+<td>胸脚で遊泳、背に大きな棘。プランクトン生活</td>
+</tr>
+<tr>
+<td>メガロパ (megalopa)</td>
+<td>腹肢で遊泳、すでに「カニ型」に近い</td>
+</tr>
+<tr>
+<td>稚個体 (juvenile)</td>
+<td>底生生活に移行</td>
+</tr>
+<tr>
+<td>成体 (adult)</td>
+<td>性成熟、繁殖。脱皮を繰り返しながら成長</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ゾエア→メガロパ→稚個体</strong>は典型的なカニ類のパターン。エビ類はゾエア的幼生を経ることが多いが、ミナミヌマエビのように<strong>卵から小さな成体形 (親と同形)</strong> で孵る<strong>直接発生種</strong>もある (そのため淡水で完結可能)。</p>
+<p><strong>寿命</strong>:</p>
+<ul>
+<li><strong>数ヶ月〜1年</strong>: 小型エビ (サクラエビ・ホッコクアカエビの一部)</li>
+<li><strong>1〜3年</strong>: モクズガニ、ヤマトヌマエビ、ミナミヌマエビ</li>
+<li><strong>5〜15年</strong>: サワガニ (長寿種の一つ)</li>
+<li><strong>30年以上</strong>: イセエビ、ロブスター、タラバガニ</li>
+<li><strong>50年以上</strong>: ヨーロッパアメリカオマールロブスターは<strong>理論上はほぼ不死</strong>と言われた時期があった (老衰死ではなく、脱皮コストによる死亡が増加して結果的に長く生きれない)。</li>
+</ul>
+<p>性決定・性転換は種で多様で、<strong>ホルモン操作で可逆的に性が変わる</strong>種 (スナガニ類) や、<strong>雌雄同体</strong> (一部のエビ)、<strong>単為生殖可能</strong> (ザリガニの一部) まで幅広い。</p>
+<hr />
+<h2 id="3">3. まとめ比較表</h2>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>魚</th>
+<th>甲殻類 (十脚類)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>痛覚の証拠</td>
+<td>強い (AVMA認知)</td>
+<td>強い (英国2022年法認知)</td>
+</tr>
+<tr>
+<td>鏡像自己認識</td>
+<td>ホンソメワケベラで合格</td>
+<td>報告なし</td>
+</tr>
+<tr>
+<td>道具使用</td>
+<td>あり (貝を岩で割るベラ等)</td>
+<td>明瞭な報告はヤドカリの殻以外に少ない</td>
+</tr>
+<tr>
+<td>協力行動</td>
+<td>異種間協力狩り (ハタ+ウツボ)</td>
+<td>階層社会の駆け引き (シャコ・ヤドカリ)</td>
+</tr>
+<tr>
+<td>遊び</td>
+<td>物体操作遊び (シクリッド)</td>
+<td>明瞭な報告少ない</td>
+</tr>
+<tr>
+<td>個体認識</td>
+<td>グッピー、ホンソメワケベラ</td>
+<td>ザリガニで顔認識</td>
+</tr>
+<tr>
+<td>記憶</td>
+<td>年単位の空間記憶</td>
+<td>数日〜週単位</td>
+</tr>
+<tr>
+<td>コミュニケーション</td>
+<td>音・視覚・化学・電気</td>
+<td>化学・視覚・振動・機械接触</td>
+</tr>
+<tr>
+<td>変態</td>
+<td>連続的な発育</td>
+<td>ゾエア・メガロパ等の劇的変態</td>
+</tr>
+<tr>
+<td>寿命</td>
+<td>数週〜400年</td>
+<td>数ヶ月〜50年+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="4">4. 視点: なぜ「わかっていない」が多いのか</h2>
+<p>魚と甲殻類の認知研究が哺乳類・鳥類に比べて遅れた理由は主に3つ。</p>
+<ol>
+<li><strong>擬人化への警戒</strong>: 「水中の冷血動物」という擬人化回避バイアスで、<strong>感情や痛覚の存在を主張する論文が長らく受理されにくかった</strong>。</li>
+<li><strong>実験パラダイムの制約</strong>: 哺乳類・鳥類用に最適化された知能テスト (鏡像・数的認知・道具使用) が水中適応された動物には不向きなことが多く、<strong>ネガティブ結果が正しく解釈されなかった</strong>。ホンソメワケベラで鏡像テストの「喉マーク」を考案したのが突破口。</li>
+<li><strong>福祉観の後発</strong>: 畜産・水産の経済動物としての位置づけが強く、<strong>動物福祉の議論が魚・甲殻類に及んだのは21世紀に入ってから</strong>。英国の2022年法、EU の議論、US AVMA の姿勢はいずれも最近のパラダイム変化。</li>
+</ol>
+<p>この結果、<strong>既存の多くの「できない」は「まだできる証拠が見つかっていない」かもしれない</strong>、という状態が続いている。</p>
+<hr />
+<h2 id="_13">自分のプロジェクトへの影響・活用</h2>
+<ul>
+<li><strong>ヨシノボリ属の行動観察</strong>: 側線と視覚による同種識別、雄同士の縄張り争いのサイン解析の一般的枠組みを得た。<strong>「魚も個体識別する」「痛覚を持つ」</strong>というベースラインは論文執筆時のエシクス記述や研究設計に使える。</li>
+<li><strong>甲殻類DB</strong>: 同定・生態の既存資料の延長として「行動・認知」の章を立てる際の出発点。特にヤドカリの vacancy chain は淡水/汽水産ではなくとも参照価値が高い。</li>
+<li><strong>在野研究者としての姿勢</strong>: 「まだ誰も検証していない当たり前の行動観察」が論文の核になりうる。ヨシノボリ属の個体識別・求愛駆け引きの詳細記録には、まだ発表価値のある空白が多い。</li>
+</ul>
+<hr />
+<h2 id="_14">出典</h2>
+<h3 id="_15">魚の知能・行動</h3>
+<ul>
+<li><a href="https://www.pnas.org/doi/10.1073/pnas.2208420120">Cleaner fish recognize self in a mirror via self-face recognition (PNAS 2023)</a> — 鏡像自己認識の決定的論文</li>
+<li><a href="https://www.nature.com/articles/s41598-025-25837-0">Rapid self-recognition ability in the cleaner fish (Sci Rep 2026)</a> — マーク除去82分の追試</li>
+<li><a href="https://www.omu.ac.jp/en/info/research-news/entry-103609.html">Cleaner fish show intelligence typical of mammals | 大阪公立大学</a> — 日本語プレスリリース</li>
+<li><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040431">Interspecific Communicative and Coordinated Hunting (PLOS Biology 2006)</a> — ハタ+ウツボ協力狩りの原著</li>
+<li><a href="https://www.nationalgeographic.com/science/article/groupers-use-gestures-to-recruit-morays-for-hunting-team-ups">Groupers Use Gestures to Recruit Morays (National Geographic)</a> — 参照的ジェスチャーの解説</li>
+<li><a href="https://onlinelibrary.wiley.com/doi/10.1111/eth.12312">Highly Repetitive Object Play in a Cichlid Fish (Ethology 2015)</a> — シクリッドの温度計遊び</li>
+<li><a href="https://news.utk.edu/2014/10/20/study-finds-fish-just-wanna-have-fun/">Fish just wanna have fun (UT News)</a> — プレス解説</li>
+<li><a href="https://en.wikipedia.org/wiki/Pain_in_fish">Pain in fish - Wikipedia</a> — 魚の痛覚総説</li>
+<li><a href="https://www.ciwf.eu/media/7437870/why-fish-welfare-matters_the-evidence-for-fish-sentience_ciwf-2019.pdf">WHY FISH WELFARE MATTERS | CIWF 2019</a> — 魚の感覚能力総説 (108ページ)</li>
+<li><a href="https://www.michiganseagrant.org/lessons/lessons/by-broad-concept/life-science/fish-life-cycle/">Fish Life Cycle | Michigan Sea Grant</a> — ライフサイクル総説</li>
+</ul>
+<h3 id="_16">甲殻類の知能・行動</h3>
+<ul>
+<li><a href="https://www.wellbeingintlstudiesrepository.org/animsent/vol7/iss32/1/">Sentience in decapod crustaceans: A general framework (Crump et al 2022)</a> — Birchらによる感覚能力8基準の総説</li>
+<li><a href="https://en.wikipedia.org/wiki/Pain_in_crustaceans">Pain in crustaceans - Wikipedia</a> — 痛覚と政策の総説</li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11815813/">A History of Pain Studies | PMC</a> — 甲殻類福祉観の歴史</li>
+<li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001695">Crayfish Recognize the Faces of Fight Opponents (PLOS ONE 2007)</a> — ザリガニの顔認識</li>
+<li><a href="https://link.springer.com/article/10.1007/s10071-012-0547-1">Spatial behavior in crayfish (Animal Cognition 2012)</a> — 空間学習と記憶</li>
+<li><a href="https://www.scientificamerican.com/article/life-shell-game-hermit-crabs-exchange-shells/">Hermit Crabs Trade Up by Exchanging Shells in Queue (Scientific American)</a> — ヤドカリの貝殻交換ネットワーク</li>
+<li><a href="https://royalsocietypublishing.org/doi/10.1098/rspb.1998.0459">Shell rapping in hermit crabs (Royal Society B 1998)</a> — 殻叩きによる交渉</li>
+<li><a href="https://dosits.org/animals/sound-production/how-do-marine-invertebrates-produce-sounds/">How do marine invertebrates produce sounds (DOSITS)</a> — 甲殻類の発音機構</li>
+<li><a href="https://en.wikipedia.org/wiki/Crustacean_larva">Crustacean larva - Wikipedia</a> — 幼生期の形態と変態</li>
+<li><a href="https://myfwc.com/research/saltwater/crustaceans/blue-crabs/life-cycle/">The Life Cycle of A Blue Crab in Florida | FWC</a> — ライフサイクル具体例</li>
+</ul>
+</div>
+</div>
+<div class="footer">research-reports / offline-db</div>
+</body>
+</html>
