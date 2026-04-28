@@ -1,3 +1,10 @@
 # Large data files (kept locally / on USB)
 biology/fish/rhinogobius/gbif_raw/occurrences.jsonl
 biology/fish/rhinogobius/specimens/specimens.jsonl
+
+# ZIM build artifacts — distributed via GitHub Releases instead of git
+archives/*.zim
+archives/search_index.db
+
+# Python cache
+__pycache__/
