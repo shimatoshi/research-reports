@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>渓流魚の釣り方 完全ガイド — 餌・仕掛け・ポイント・釣行報告・学術知見</title>
+<style>
+:root{--bg:#0f1923;--card:#1a2733;--card2:#223344;--accent:#4fc3f7;--accent2:#81d4fa;--green:#66bb6a;--orange:#ffa726;--red:#ef5350;--pink:#f48fb1;--purple:#ce93d8;--yellow:#fff176;--text:#e0e0e0;--text2:#90a4ae;--border:#2a3a4a}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,'Helvetica Neue','Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;font-size:15px}
+.header{background:linear-gradient(135deg,#1b3a2a,#2e5b40,#3e7a52);padding:24px 16px;text-align:center;position:sticky;top:0;z-index:100;box-shadow:0 4px 20px rgba(0,0,0,.5)}
+.header h1{font-size:20px;color:#fff;margin-bottom:4px}
+.header .sub{font-size:12px;color:#a5d6a7}
+nav{background:var(--card);padding:8px;display:flex;flex-wrap:wrap;gap:5px;justify-content:center;border-bottom:1px solid var(--border);position:sticky;top:66px;z-index:99}
+nav a{color:#81c784;text-decoration:none;font-size:11px;padding:4px 9px;border-radius:14px;background:var(--card2);white-space:nowrap}
+nav a:active{background:#1b5e20;color:#fff}
+.container{max-width:960px;margin:0 auto;padding:12px}
+h2{font-size:19px;color:#81c784;border-left:4px solid #66bb6a;padding:8px 12px;margin:24px 0 14px;background:var(--card);border-radius:0 8px 8px 0}
+h3{font-size:16px;color:var(--orange);margin:18px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--border)}
+h4{font-size:14px;color:var(--accent);margin:12px 0 6px}
+.card{background:var(--card);border-radius:10px;padding:14px;margin:10px 0;border:1px solid var(--border)}
+.card .name{font-size:16px;font-weight:bold;color:#fff}
+.card .sci{font-style:italic;color:var(--accent2);font-size:13px}
+.sp-img{width:100%;max-width:600px;height:auto;border-radius:8px;margin:12px auto;display:block;border:1px solid var(--border);background:var(--card2)}
+.tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px;margin:4px 4px 4px 0}
+.tag-method{background:#1a237e;color:#9fa8da}
+.tag-season{background:#4a148c;color:#ce93d8}
+.tag-spot{background:#e65100;color:#ffcc80}
+.tag-gear{background:#004d40;color:#80cbc4}
+.tag-bait{background:#3e2723;color:#bcaaa4}
+.tag-paper{background:#0d47a1;color:#90caf9}
+.card p{margin:6px 0;font-size:14px;color:var(--text2)}
+.card p strong{color:var(--text)}
+table{width:100%;border-collapse:collapse;margin:10px 0;font-size:13px}
+th{background:var(--card2);color:var(--accent);padding:8px 6px;text-align:left;font-weight:600}
+td{padding:7px 6px;border-bottom:1px solid var(--border);vertical-align:top}
+.warn{background:#3e2723;border-left:4px solid var(--red);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.warn strong{color:var(--red)}
+.tip{background:#1a3a1a;border-left:4px solid var(--green);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.tip strong{color:var(--green)}
+.info{background:#0d2137;border-left:4px solid var(--accent);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.info strong{color:var(--accent)}
+.paper{background:#0a1f3a;border-left:4px solid #5c8edc;padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.paper strong{color:#90caf9}
+details{margin:10px 0}
+summary{cursor:pointer;color:var(--accent);font-weight:bold;padding:8px;background:var(--card);border-radius:8px;border:1px solid var(--border)}
+summary:hover{background:var(--card2)}
+details[open] summary{border-radius:8px 8px 0 0}
+details .inner{background:var(--card);padding:14px;border:1px solid var(--border);border-top:none;border-radius:0 0 8px 8px}
+ul,ol{margin:8px 0 8px 20px;font-size:14px;color:var(--text2)}
+li{margin:4px 0}
+li strong{color:var(--text)}
+.cap{font-size:11px;color:var(--text2);text-align:center;margin:-6px 0 16px;font-style:italic}
+.cap a{color:var(--accent2)}
+.diagram{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px;margin:14px 0;font-family:'Courier New',monospace;font-size:12px;white-space:pre;color:var(--text);overflow-x:auto;line-height:1.4}
+.footer{text-align:center;padding:24px;color:var(--text2);font-size:12px;border-top:1px solid var(--border);margin-top:40px}
+.footer a{color:var(--accent2)}
+@media(max-width:600px){th,td{font-size:12px;padding:5px 4px}.header h1{font-size:17px}.diagram{font-size:10px}}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>渓流魚の釣り方 完全ガイド</h1>
+<div class="sub">ヤマメ・アマゴ・イワナ・ニジマス／餌・仕掛け・ポイント・釣行報告・学術知見</div>
+</div>
+<nav>
+<a href="#about">対象魚</a>
+<a href="#bait">餌</a>
+<a href="#tackle">仕掛け</a>
+<a href="#point">ポイント</a>
+<a href="#how">釣り方</a>
+<a href="#spots">関東の場所</a>
+<a href="#reports">釣行報告</a>
+<a href="#science">学術知見</a>
+<a href="#rules">遊漁規則</a>
+<a href="#sources">出典</a>
+</nav>
+
+<div class="container">
+
+<img class="sp-img" src="images/keiryu-environment.webp" alt="奥入瀬渓流の流れ" style="max-width:900px">
+<div class="cap">日本の典型的な渓流景観 (奥入瀬渓流, 青森)。落ち込み・瀬・淵が連続する。<br>MaedaAkihiko, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div>
+
+<div class="info">
+<strong>このガイドの位置付け:</strong> 在野研究者・自家採集者向けに、渓流魚 (主にサケ科) の餌・仕掛け・ポイント読み・場所・釣行報告・学術論文からの行動学的知見までを一枚に集約。漁業権の対象であるため、必ず各漁協の遊漁券を購入し、解禁期間とサイズ規制を守ること (詳細は <a href="../../fishery/kanto_fishery_guide.html">関東漁業規則ガイド</a> を併読)。
+</div>
+
+<h2 id="about">1. 渓流魚 — 対象魚種</h2>
+
+<p>「渓流魚」は <strong>サケ目サケ科</strong> の冷水性魚を中心とする釣り対象魚の総称。河川の上中流〜源流に棲息し、流下昆虫を餌に縄張りを構えて生活する。</p>
+
+<div class="card">
+<span class="name">ヤマメ</span> <span class="sci">Oncorhynchus masou masou</span>
+<img class="sp-img" src="images/yamame.webp" alt="ヤマメ" style="max-width:600px">
+<div class="cap">ヤマメ (<em>Oncorhynchus masou</em>)。Σ64, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div>
+<p><strong>分布:</strong> 北海道・本州 (太平洋岸は神奈川県以北、日本海岸は山口県まで)。アマゴと地理的に棲み分け。</p>
+<p><strong>特徴:</strong> サクラマスの河川残留型。体側に楕円形のパーマーク (8〜10個)。瀬を好み流れの強い場所で活発に捕食する。</p>
+<p><strong>解禁期:</strong> おおむね 3月1日〜9月30日 (漁協により異動)。</p>
+<p><strong>名物河川:</strong> 那珂川 (栃木)、鬼怒川、桂川 (山梨)、奥多摩、丹沢の中津川、信州の犀川支流など。</p>
+<span class="tag tag-method">餌・テンカラ・フライ・ルアー</span><span class="tag tag-season">3〜9月</span>
+</div>
+
+<div class="card">
+<span class="name">アマゴ</span> <span class="sci">Oncorhynchus masou ishikawae</span>
+<p><strong>分布:</strong> 太平洋岸の神奈川県西部以西〜四国・大分。ヤマメの亜種で <strong>朱点</strong> が体側に散る点が決定的。</p>
+<p><strong>特徴:</strong> ヤマメと同じく流下昆虫を捕食する縄張り型。降海型はサツキマス。</p>
+<p><strong>名物河川:</strong> 早川 (神奈川県西部)、酒匂川、大井川、長良川、宮川、四万十川。</p>
+<span class="tag tag-method">餌・テンカラ・フライ・ルアー</span><span class="tag tag-season">3〜9月</span>
+</div>
+
+<div class="card">
+<span class="name">イワナ (ニッコウイワナ含む)</span> <span class="sci">Salvelinus leucomaenis</span>
+<img class="sp-img" src="images/iwana.webp" alt="イワナ" style="max-width:600px">
+<div class="cap">イワナ (<em>Salvelinus leucomaenis</em>)。Σ64, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div>
+<p><strong>分布:</strong> 本州中部以北・北海道。ヤマメより<strong>さらに上流・冷水側</strong>を占有。亜種ニッコウイワナ (関東甲信)、ヤマトイワナ (中部・近畿)、エゾイワナ (北海道)、ゴギ (中国地方) と棲み分ける。</p>
+<p><strong>特徴:</strong> 体側に白い斑点 (亜種により形が異なる)。流れが緩く岩陰のある場所を選び、待ち伏せ型の捕食。雑食性が強く、ヤマメより餌の幅が広い (落下昆虫・小魚・ネズミの稚魚まで食う)。</p>
+<p><strong>名物河川:</strong> 奥多摩源流 (川苔谷・峰谷川)、奥利根・宝川、湯桧曽川、奥秩父・荒川源流、信濃川源流、北上川源流。</p>
+<span class="tag tag-method">餌・テンカラ・ルアー</span><span class="tag tag-season">3〜9月</span>
+</div>
+
+<div class="card">
+<span class="name">ニジマス</span> <span class="sci">Oncorhynchus mykiss</span>
+<p><strong>分布:</strong> 本来は北米産。日本では明治期から放流が続き、管理釣り場・河川放流魚として全国で釣れる (国立環境研究所「侵入生物DB」掲載の外来種)。</p>
+<p><strong>特徴:</strong> 体側に虹色の縦帯。引きが強く、ルアーへの反応も良い。流速の速い瀬・落ち込みを好み、ヤマメより低水温耐性が低い。</p>
+<p><strong>名物河川:</strong> 多摩川支流の奥多摩 (養沢毛鉤専用釣場・川井)、芦ノ湖、銀山湖、桂川下流、本栖湖、丹沢の中津川。</p>
+<p><strong>詳細:</strong> 個別ガイド <a href="../nijimasu_fishing_guide.html">ニジマス釣りガイド</a> 参照。</p>
+<span class="tag tag-method">餌・ルアー・フライ</span><span class="tag tag-season">通年 (管釣り)</span>
+</div>
+
+<div class="card">
+<span class="name">サクラマス・サツキマス</span> <span class="sci">O. masou masou (sea-run) / O. m. ishikawae (sea-run)</span>
+<p><strong>分布:</strong> ヤマメ・アマゴの<strong>降海型</strong>。海で1年を過ごして産卵期に母川回帰。サクラマスは日本海・北太平洋、サツキマスは伊勢湾・三重〜四国の太平洋岸。</p>
+<p><strong>特徴:</strong> 50cmを越える銀ピカの大型。本流ルアー・フライの最高峰の一つで、知名度の高い名手も多数 (本流ロッドと長大なリーダー、激しいタフさが要求される)。</p>
+<p><strong>解禁期:</strong> 3〜6月。河川に上る時期は短く、それぞれの川で「春の数日〜数週」のチャンス。</p>
+<span class="tag tag-method">本流ルアー・フライ</span><span class="tag tag-season">3〜6月</span>
+</div>
+
+<div class="card">
+<span class="name">オショロコマ</span> <span class="sci">Salvelinus malma</span>
+<p><strong>分布:</strong> 北海道のごく上流のみ。本州には自然分布せず、関東で釣る対象ではない。参考までに記載。</p>
+</div>
+
+<h2 id="bait">2. 餌 — 川虫・市販餌・ルアー/フライ</h2>
+
+<p>渓流魚の主食は<strong>水生昆虫の幼虫 (川虫)</strong> と<strong>陸生落下昆虫</strong>。これらの「自然の餌」と「市販餌」を比較しながら使い分ける。</p>
+
+<h3>2.1 川虫 (現地調達の主役)</h3>
+
+<img class="sp-img" src="images/mayfly-nymph.webp" alt="ヒラタカゲロウ系のニンフ" style="max-width:500px">
+<div class="cap">扁平型のニンフ (<em>Rhithrogena</em> sp., ヒラタカゲロウ科)。瀬の石に張り付く「クリンガー」型。<br>Dave Huth, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></div>
+
+<table>
+<tr><th>名前</th><th>正体</th><th>特徴・刺し方</th><th>得意な対象</th></tr>
+<tr><td><strong>ヒラタ (ヒラタカゲロウ系ニンフ)</strong></td><td>カゲロウ目ヒラタカゲロウ科 <em>Epeorus, Rhithrogena</em> の幼虫</td><td>薄く扁平で柔らかい。お尻から刺し脇腹に抜く。瀬の石をめくると採れる</td><td>ヤマメ・アマゴ・イワナ全般、特に瀬</td></tr>
+<tr><td><strong>ピンチョロ (ピンピンチョロ)</strong></td><td>カゲロウ目フタオカゲロウ科の幼虫 <em>Cinygmula</em>等。「コカゲロウ」系も含む</td><td>ピンピン跳ねる。腹背を軽く押さえて固定し、胴をチョン掛け。動きが餌になる</td><td>ヤマメ・アマゴが特に好む</td></tr>
+<tr><td><strong>クロカワ虫 (黒川虫)</strong></td><td>トビケラ目ヒゲナガカワトビゲラ <em>Stenopsyche marmorata</em> の幼虫</td><td>巣の砂礫を裂いて取り出す。柔らかい腹を背にチョン掛け。匂いが強い</td><td>大型ヤマメ・本流ニジマス・ウグイ</td></tr>
+<tr><td><strong>キンパク (黄色いカワゲラ)</strong></td><td>カワゲラ目 (Plecoptera) 数種の幼虫</td><td>黄色〜橙色で目立つ。胸の節を背がけ。早春の代表餌</td><td>解禁直後のヤマメ・イワナ</td></tr>
+<tr><td><strong>オニチョロ</strong></td><td>カワゲラ目大型種 <em>Oyamia, Kamimuria</em> の幼虫</td><td>体長20mm前後で大きい。背中を縦掛け。アピール力高い</td><td>大物狙い・濁り気味の本流</td></tr>
+</table>
+
+<div class="tip">
+<strong>採取:</strong> 「川虫網」または網で石をめくって流す。**水苔・木屑と一緒にエサ箱**に入れて湿気を保つと半日は元気。ヒラタは石の裏に張り付くので一枚ずつめくる。冬期と早春は石下にカワゲラ・キンパクが優占し、夏は瀬の表層にコカゲロウ・ピンチョロが多い。
+</div>
+
+<div class="warn">
+<strong>注意:</strong> 川虫採取は<strong>遊漁券で禁止されている河川</strong>がある (那珂川など)。漁業権の対象種に川虫を含む漁協では、現地調達ではなく市販餌を使うこと。神奈川県内水面漁業協同組合連合会の公示や各漁協の規則を確認。
+</div>
+
+<h3>2.2 市販餌</h3>
+
+<table>
+<tr><th>餌</th><th>特徴</th><th>使い方</th></tr>
+<tr><td><strong>ミミズ (キヂ・キンミミズ)</strong></td><td>定番。釣具屋で購入。匂いが強くニジマス・イワナに効く</td><td>太いものは半切り。チョン掛け or 通し刺し</td></tr>
+<tr><td><strong>イクラ</strong></td><td>サケ卵の塩漬け。ヤマメ・ニジマスの<strong>解禁直後</strong>に絶大</td><td>1〜2粒を針に刺す。流すと漁協放流魚に強い</td></tr>
+<tr><td><strong>ブドウ虫</strong></td><td>ハチノスツヅリガの幼虫。柔らかく食い込み良好</td><td>チョン掛け。1匹で数尾釣れる</td></tr>
+<tr><td><strong>サシ (ハエの蛆)</strong></td><td>小型・低水温期の食い渋り対策</td><td>2〜3匹掛け</td></tr>
+<tr><td><strong>魚卵 (人工イクラ)</strong></td><td>マルキューなどから。色付きで視認性◎</td><td>イクラと同様</td></tr>
+</table>
+
+<h3>2.3 ルアー</h3>
+<ul>
+<li><strong>スプーン (3〜7g)</strong>: 渓流の定番。シンプルな形で広範囲を探る。Daiwa Crusader, Smith Pure, Forest Marshall などが定番。</li>
+<li><strong>ミノー (45〜70mm)</strong>: トゥイッチでヒラ打ちさせて誘う。Smith DD-Panish、Disney Skagit Designs Bowie。</li>
+<li><strong>スピナー (1〜3g)</strong>: 回転ブレードで誘発。Mepps Aglia、Daiwa Silver Creek。</li>
+</ul>
+
+<h3>2.4 フライ・テンカラ毛鉤</h3>
+<ul>
+<li><strong>ドライフライ</strong>: パラシュート、エルクヘアカディス、ロイヤルウルフ。羽化期に水面下を流れる成虫を模す。</li>
+<li><strong>ニンフ</strong>: 水生昆虫幼虫を模した沈むフライ。ゴールドビーズヘア、ファサントテイル。</li>
+<li><strong>テンカラ毛鉤</strong>: <strong>逆さ毛鉤</strong> (蓑毛が前方を向く) と<strong>順毛鉤</strong>。「魚に何を食わせるか」より「何に反応するか」を探る思想で、フライより簡素。</li>
+</ul>
+
+<h2 id="tackle">3. 仕掛け — エサ・テンカラ・フライ・ルアー</h2>
+
+<h3>3.1 ミャク釣り (餌釣り) の標準仕掛け</h3>
+
+<p>渓流のエサ釣りはウキを使わず、目印で流れと当たりを見る<strong>ミャク釣り</strong>が基本。</p>
+
+<div class="diagram">┌─ 竿 (5.4〜6.4m渓流竿、硬調〜中硬調)
+│
+├─ 天上糸 (フロロ 0.6〜0.8号 / 編糸) ─ 1〜1.5m
+│       │
+│       ├── 目印 (3〜5個、5〜10cm間隔)
+│       │
+│       ├─ 水中糸 (フロロ 0.15〜0.4号) ─ 2.5〜3m
+│       │
+│       ├─ ガン玉 (B〜3B、ハリスから20〜40cm上)
+│       │
+│       └─ ハリス兼用 / 別ハリス (フロロ 0.15〜0.3号) ─ 30〜60cm
+│              │
+│              └─ 針 (渓流バリ 5〜7号 or ヤマメ針)
+</div>
+
+<table>
+<tr><th>パーツ</th><th>選び方</th></tr>
+<tr><td>竿</td><td>5.4m or 6.1m が定番。源流・小渓流は4.5m、本流ヤマメは7〜8m。「硬調」だと細糸が切られにくい</td></tr>
+<tr><td>天上糸</td><td>道糸が穂先に絡むのを防ぐ。編み糸 (PE) または太めのナイロン</td></tr>
+<tr><td>水中糸</td><td>渓流魚の警戒心が強いため<strong>0.15〜0.25号</strong>のフロロが標準。沈みやすく根擦れに強い</td></tr>
+<tr><td>目印</td><td>3〜5個を5〜10cm間隔。水面より上に位置させ流れに乗ってトレースさせる。当たりは目印の不自然な動きで取る</td></tr>
+<tr><td>オモリ</td><td>底スレスレを流すのが鉄則。ガン玉B〜3B。流れが強ければ4B〜5B、緩い淵では3〜5号の極小</td></tr>
+<tr><td>針</td><td>ヤマメ針 5号 (川虫)、6〜7号 (ミミズ・イクラ)。イワナはやや太軸</td></tr>
+</table>
+
+<h3>3.2 テンカラ仕掛け</h3>
+
+<p>日本古来の毛鉤釣り。リールを使わず延べ竿に直接ラインを結ぶ。シンプル極まる「竿・ライン・ハリス・毛鉤」の4点で構成。</p>
+
+<div class="diagram">┌─ テンカラ竿 (3.3〜3.9m、軟調〜中硬調)
+│
+├─ ライン (テーパー / レベル / フロロ3〜4号) ─ 竿と同長 (3〜4m)
+│
+└─ ハリス (フロロ 0.6〜1号) ─ 1〜1.5m
+         │
+         └─ 毛鉤 (#10〜#14)
+</div>
+
+<ul>
+<li><strong>テーパーライン</strong>: 先細でフライに近い感覚。投げやすい初心者向き。</li>
+<li><strong>レベルライン</strong>: 同じ太さのフロロ。風に強く操作性◎。中級以上で主流。</li>
+<li><strong>毛鉤</strong>: <strong>逆さ毛鉤</strong>は蓑毛が前方を向き、水中で広がって浮力を生む。順毛鉤は通常のドライ系。</li>
+</ul>
+
+<h3>3.3 フライフィッシング仕掛け</h3>
+
+<div class="diagram">リール ─ バッキング ─ フライライン (#3〜#5)
+                              │
+                              └─ リーダー (テーパー、9ft / 4X〜6X)
+                                       │
+                                       └─ ティペット (5〜7X、フロロ or ナイロン)
+                                                │
+                                                └─ フライ (#10〜#18)
+</div>
+
+<ul>
+<li><strong>ロッド</strong>: 7'6"〜8'6" の#3〜#5 が渓流標準。狭い渓流ほど短く軽く。</li>
+<li><strong>ライン</strong>: 浮くWF (Weight Forward) フローティングが基本。沈める場合はシンキングティップ。</li>
+<li><strong>リーダー/ティペット</strong>: 9〜12ft、5X〜6X が標準。神経質な大型は7Xまで落とす。</li>
+</ul>
+
+<h3>3.4 渓流ルアー仕掛け</h3>
+
+<div class="diagram">渓流ベイト or スピニング (4'8"〜6'6", UL〜L)
+       │
+       └─ メインライン (PE 0.3〜0.6号 / フロロ4〜6lb)
+              │
+              └─ ショックリーダー (フロロ4〜8lb) ─ 50〜100cm
+                       │
+                       └─ ルアー (3〜7g スプーン / 45〜70mm ミノー)
+</div>
+
+<h2 id="point">4. ポイント (居場所) の読み方</h2>
+
+<p>渓流魚は<strong>流れに対して頭を上流側に向け、流下する餌を待ち受ける</strong> (drift feeding)。「魚がいる場所」=「楽に長く滞在できて、かつ餌が流れてくる場所」。これを読めるかが釣果を決める。</p>
+
+<h3>4.1 ポイントの基本構造</h3>
+
+<table>
+<tr><th>ポイント</th><th>読み</th><th>性質</th><th>魚種</th></tr>
+<tr><td><strong>瀬</strong></td><td>せ</td><td>水流が石に当たる速い流れ。浅瀬・早瀬・荒瀬と段階あり。酸素量が多く活性が高い</td><td>ヤマメ・アマゴ (遊泳力強い)</td></tr>
+<tr><td><strong>淵</strong></td><td>ふち</td><td>底がえぐれた水深ある緩い流れ。大型魚が定着</td><td>大ヤマメ・イワナ・ニジマス</td></tr>
+<tr><td><strong>巻き返し / 反転流</strong></td><td>まきかえし</td><td>大岩や岸の張り出しで流れが反転して渦巻く場所。流下物が集まる「魚の食堂」</td><td>全魚種の一級ポイント</td></tr>
+<tr><td><strong>流心</strong></td><td>りゅうしん</td><td>流れの最も強いライン</td><td>その脇のヨレが狙い目</td></tr>
+<tr><td><strong>ヨレ (モミアワセ)</strong></td><td>—</td><td>速い流れと遅い流れの境目。シワ状に水面が乱れる。捕食ポジションの定番</td><td>全魚種の一級ポイント</td></tr>
+<tr><td><strong>落ち込み</strong></td><td>おちこみ</td><td>段差や小滝の真下。<strong>泡が立つ白泡 (バブルライン)</strong> の脇</td><td>イワナの定番</td></tr>
+<tr><td><strong>瀬尻 / ヒラキ</strong></td><td>せじり</td><td>瀬から淵に移行する境目。流下物が減速して集まる</td><td>夏のヤマメ・アマゴ</td></tr>
+<tr><td><strong>流れ込み</strong></td><td>ながれこみ</td><td>支流や沢が本流に注ぐ合流点。冷水と餌が同時に供給される</td><td>盛夏のヤマメ・イワナ</td></tr>
+<tr><td><strong>倒木・岩陰・テトラ</strong></td><td>—</td><td>身を隠す物理構造。「ストラクチャー」</td><td>大型イワナ</td></tr>
+</table>
+
+<h3>4.2 一般的な棲み分け</h3>
+
+<div class="diagram">[源流] ←━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ [里川] [本流]
+
+   イワナ          ヤマメ/アマゴ        ニジマス (放流)
+ (冷水・緩流)      (冷水〜中水温・速流)    (中水温・速流)
+ 落ち込み・淵      瀬・ヨレ・瀬尻        瀬・ヨレ・流心脇
+</div>
+
+<p>イワナは<strong>水温15℃以下</strong>が快適、ヤマメは<strong>10〜18℃</strong>が活性帯。盛夏に下流側に取り残されたヤマメは渇水・高水温で死亡しやすく、上流の冷水に避難する (<strong>thermal refuge</strong>)。</p>
+
+<h2 id="how">5. 釣り方 — 実技</h2>
+
+<h3>5.1 ミャク釣り基本</h3>
+
+<ol>
+<li><strong>下流から上流へ釣り上がる</strong>。渓流魚は上流を向いているため、後方 (下流) から接近すると気付かれにくい。</li>
+<li><strong>立ち位置を低く</strong>。膝をついて影を落とさない。偏光グラスで水面下の動きを確認。</li>
+<li><strong>仕掛けを上流側に振り込む</strong>。流れに対して仕掛けを「自然に流す」=ナチュラルドリフト。</li>
+<li><strong>底スレスレを流す</strong>。オモリで底を叩く感触が伝わるくらい。流速とオモリのバランスが命。</li>
+<li><strong>目印を凝視</strong>。流速より目印が遅れたら/止まったら/速くなったら<strong>即合わせ</strong>。竿先を5〜10cm上げる軽い合わせで十分。</li>
+<li><strong>1ポイントは3〜5投で見切る</strong>。粘らずランガン (移動) で次のポイントへ。</li>
+</ol>
+
+<div class="tip">
+<strong>渓流の鉄則:</strong> 「ナチュラルに流す」「打ち返しを早く」「同じポイントに留まらない」「魚を抜き上げる時は岸辺に手早く」。
+</div>
+
+<h3>5.2 テンカラ釣りの実技</h3>
+
+<ol>
+<li><strong>毛鉤は3秒流せばOK</strong>: テンカラの哲学は「反応する魚を探す」。長く流さず、3秒流して当たらなければ次のポイントへ。</li>
+<li><strong>水面直下を狙う</strong>: 着水後、表面ギリギリを流す or 軽く沈める。</li>
+<li><strong>誘い</strong>: 竿先を小刻みに動かして毛鉤を「生き物のように」演出 (誘い) する。</li>
+<li><strong>合わせ</strong>: 水面のかすかな波紋・反転で合わせる。視覚で取る釣り。</li>
+</ol>
+
+<h3>5.3 ルアー釣りの実技</h3>
+
+<ol>
+<li><strong>キャスト</strong>: ストラクチャーの上流10〜30cmにキャストし、流れに乗せて泳がせる。</li>
+<li><strong>リトリーブ</strong>: 流速とほぼ同じか、やや速いペースで巻く。スプーンは「ヒラ打ち」を意識。</li>
+<li><strong>トゥイッチ</strong>: ミノーは竿先を小刻みに動かしてイレギュラーアクション。</li>
+<li><strong>ルアーチェンジ</strong>: 1ポイントで反応がなければ色やサイズを変える。シルバー→ゴールド→ピンク→チャート。</li>
+</ol>
+
+<h2 id="spots">6. 関東の具体的な釣り場</h2>
+
+<div class="warn">
+<strong>必ず遊漁券を購入。</strong> 各漁協の規則 (解禁日・サイズ・1日尾数・キャッチ&リリース区間) を遵守。詳細は <a href="../../fishery/kanto_fishery_guide.html">関東 水産物・漁業規則 総合</a> 参照。
+</div>
+
+<h3>6.1 東京・神奈川 (近郊)</h3>
+
+<div class="card">
+<span class="name">奥多摩 (多摩川源流域)</span>
+<p><strong>主な漁協:</strong> 奥多摩漁業協同組合。<strong>解禁:</strong> 3月1日〜9月30日。</p>
+<p><strong>支流の代表:</strong> 川苔谷 (ヤマメ・イワナ)、峰谷川 (源流イワナ多数)、日原川 (大ヤマメ実績)、丹波川 (ヤマメ・ニジマス)。</p>
+<p><strong>アクセス:</strong> JR青梅線奥多摩駅から各支流。「峰谷川渓流釣場」は管理釣り場・自然渓流の両方あり。</p>
+<p><strong>実績:</strong> TSURINEWS報告 (2020年5月、川苔谷): エサ釣りで <strong>26cmイワナ・23cmヤマメ</strong> 同日キャッチ。早朝6時入渓、午前中に勝負。</p>
+</div>
+
+<div class="card">
+<span class="name">桂川水系 (山梨県東部、相模川源流)</span>
+<p><strong>主な漁協:</strong> 桂川漁業協同組合。<strong>解禁:</strong> 3月1日〜9月20日 (本流)。</p>
+<p><strong>特徴:</strong> 忍野八海から流れる<strong>湧水起源</strong>のため早春から水温安定、解禁直後から釣果が出る。本流ヤマメ・支流イワナ。</p>
+<p><strong>支流:</strong> 鶴川・葛野川・笹子川がそれぞれ好ポイント。</p>
+<p><strong>放流:</strong> 漁協が頻繁に放流を実施 (2025年シーズンも継続)。</p>
+</div>
+
+<div class="card">
+<span class="name">丹沢 (神奈川県西部)</span>
+<p><strong>主な漁協:</strong> 中津川漁業協同組合 (中津川)、酒匂川漁業協同組合 (酒匂川・川音川)、芦ノ湖漁業協同組合 (早川源流)。</p>
+<p><strong>魚種:</strong> 中津川はヤマメ放流主体、酒匂川・早川源流はアマゴが在来。神奈川県水産技術センターが「丹沢在来ヤマメ」の生息状況調査を継続。</p>
+<p><strong>アクセス:</strong> 小田急線本厚木・伊勢原から車で30〜60分。</p>
+</div>
+
+<h3>6.2 栃木・群馬</h3>
+
+<div class="card">
+<span class="name">那珂川 (栃木〜茨城)</span>
+<p><strong>主な漁協:</strong> 那珂川北部漁業協同組合 (大田原市)、那珂川漁協、烏山漁協など。</p>
+<p><strong>特徴:</strong> 北関東屈指の清流。鮎で有名だが、ヤマメ・イワナの放流も積極的。<strong>本流ヤマメ尺超え</strong>の名所。</p>
+<p><strong>支流:</strong> 武茂川、荒川、内川、八溝川 (源流イワナ)。</p>
+</div>
+
+<div class="card">
+<span class="name">鬼怒川源流</span>
+<p><strong>主な漁協:</strong> 鬼怒川漁業協同組合。<strong>解禁:</strong> 3月20日頃〜。</p>
+<p><strong>特徴:</strong> 川治・川俣・湯西川温泉郷を含む。本流イワナ・ヤマメ。湯西川は遠野的な秘境感。</p>
+</div>
+
+<div class="card">
+<span class="name">奥利根・宝川・湯桧曽川</span>
+<p><strong>主な漁協:</strong> 利根漁業協同組合、奥利根漁業協同組合。</p>
+<p><strong>特徴:</strong> 奥利根の<strong>大イワナ</strong>は伝説。湯桧曽は谷川岳の麓で景観も最高。源流域は遡行装備必須。</p>
+</div>
+
+<h3>6.3 山梨・長野</h3>
+
+<div class="card">
+<span class="name">荒川源流 (奥秩父)</span>
+<p><strong>主な漁協:</strong> 秩父漁業協同組合。<strong>解禁:</strong> 3月1日〜9月30日。</p>
+<p><strong>特徴:</strong> 甲武信ヶ岳に発する清流。本流上流域の大滝地区がヤマメ・イワナの主戦場。</p>
+</div>
+
+<div class="card">
+<span class="name">信州・千曲川源流〜犀川支流</span>
+<p><strong>主な漁協:</strong> 佐久漁協、犀川殖産漁協、北安曇漁協など。</p>
+<p><strong>特徴:</strong> 犀川本流は<strong>本流ニジマス・サクラマス</strong>のメッカ。千曲川源流はイワナ。</p>
+</div>
+
+<h2 id="reports">7. 実際の釣行報告 (代表例)</h2>
+
+<div class="card">
+<h3 style="color:#ffa726;border:none;margin-top:0">奥多摩・川苔谷でエサ釣り (2020年5月、TSURINEWS報)</h3>
+<ul>
+<li><strong>場所:</strong> 川苔谷 (奥多摩町、川乗橋下流〜上流)</li>
+<li><strong>仕掛け:</strong> 渓流竿5.4m、水中糸フロロ0.2号、ヤマメ針6号、ガン玉B〜2B</li>
+<li><strong>餌:</strong> 川虫 (現地のクロカワ虫・ピンチョロ)</li>
+<li><strong>結果:</strong> 26cm イワナ × 1、23cm ヤマメ × 1 を含む 5尾</li>
+<li><strong>時間帯:</strong> 早朝6時入渓〜10時。午後は下山</li>
+<li><strong>ポイント:</strong> 落ち込み下のバブルライン脇、巻き返しの底層</li>
+</ul>
+</div>
+
+<div class="card">
+<h3 style="color:#ffa726;border:none;margin-top:0">桂川本流ヤマメ (シマノ釣行レポート系)</h3>
+<ul>
+<li><strong>場所:</strong> 桂川本流の禁漁区上流</li>
+<li><strong>方法:</strong> ミャク釣り、フロロ0.15号</li>
+<li><strong>所感:</strong> 「忍野湧水のおかげで早春から水温安定、3月解禁初日からシラメ (ヤマメ銀化型) が出る」</li>
+</ul>
+</div>
+
+<div class="card">
+<h3 style="color:#ffa726;border:none;margin-top:0">奥多摩のルアーフィッシング (ブログ「食いたい魚は己で釣れ」)</h3>
+<ul>
+<li><strong>装備:</strong> 渓流ベイト、PE0.3号+フロロリーダー6lb、ミノー50mm</li>
+<li><strong>結果:</strong> 雨後の濁りで活性が上がり、入渓1時間でイワナ22cm。トゥイッチでチェイス→反転バイト</li>
+<li><strong>教訓:</strong> 「初心者ほどルアーチェンジを怠る。色を3回変えて反応をテストする」</li>
+</ul>
+</div>
+
+<h2 id="science">8. 学術論文からの行動学的知見</h2>
+
+<p>渓流魚の行動・摂餌は<strong>drift foraging theory (流下餌摂餌理論)</strong> として体系化されており、ポイント読みと密接に関連する。</p>
+
+<div class="paper">
+<strong>Net Energy Intake (NEI) モデル — 魚の居場所の決定要因</strong><br>
+渓流性サケ科魚類は「単位時間あたり<strong>純摂取エネルギー (NEI = 摂取カロリー − 遊泳コスト)</strong> が最大になるポジション」を選好する。これは<br>
+・<strong>遅い流れ</strong> (遊泳コスト低い) で<br>
+・<strong>速い流れに隣接</strong> (流下昆虫の供給が多い)<br>
+した位置 — つまり<strong>ヨレ・流心脇・巻き返し境界</strong> を理論的に説明する。<br>
+<a href="https://link.springer.com/article/10.1007/s11355-014-0247-x">Position choice by red-spotted masu salmon (Landscape and Ecological Engineering, 2015)</a>: アマゴへ NEI モデルを適用し、16区画中12区画で位置選好を予測成功。さらに、<strong>大型個体ほど高NEIポジションを占有</strong>するという、サケ科一般の支配・劣位関係に整合する結果を確認。
+</div>
+
+<div class="paper">
+<strong>南西北海道の生息地評価 — NEI が biomass の77%を説明</strong><br>
+4河川20区間のサケ科 (オショロコマ・ヤマメ) のバイオマス変動の <strong>77%が NEI で説明可能</strong>。NEIモデルが「サイト非依存の汎用ハビタット評価ツール」として実証された。 (引用: Fausch et al., Environmental Biology of Fishes 2013, "Food and space revisited")
+</div>
+
+<div class="paper">
+<strong>砂防ダムの影響 — NEIモデルでの評価</strong><br>
+<a href="https://link.springer.com/article/10.1007/s10641-014-0218-y">Application of a bioenergetics model to estimate the influence of habitat degradation by check dams (Env. Biol. Fish. 2014)</a>: 砂防堰堤による生息地劣化と、撤去・スリット化による回復可能性を NEIモデルで定量。釣り人にも示唆的で、堰堤直下の浅い砂礫平坦区間は NEI 低下区間として理解できる。
+</div>
+
+<div class="paper">
+<strong>標高ニッチ分割 — イワナとヤマメ</strong><br>
+<a href="https://link.springer.com/article/10.1007/s10750-015-2571-z">Altitudinal niche partitioning between white-spotted charr and masu salmon (Hydrobiologia, 2015)</a>: 1河川内で<strong>標高勾配によりイワナが上、ヤマメが下に分かれる</strong>パターンを定量。同所では競争で水温差が分布を決定。釣り人の経験則「高度を上げるとイワナ域に変わる」を実測値で裏付ける。
+</div>
+
+<div class="paper">
+<strong>河川残留型ヤマメの稚魚分散</strong><br>
+<a href="https://cir.nii.ac.jp/crid/1390282681389106432">Yanai et al., 唐滝沢の幼魚調査</a>: ヤマメ・イワナ稚魚の河川内分散パターン。ヤマメ稚魚は<strong>緩流域の被覆下で越冬</strong>し摂餌活性は最低、春から急上昇する。解禁直後の食い渋りはこの活動レベルに対応。
+</div>
+
+<div class="paper">
+<strong>アマゴ・スモルトとパーの摂餌活性差 (岐阜県水産研究所)</strong><br>
+<a href="https://www.fish.rd.pref.gifu.lg.jp/kenkyu-houkoku/pdf-51-60/57-023.pdf">岐阜県水産研究所報告 No.57 (2012)</a>: 降海型へ向かうスモルトは河川残留パーよりも<strong>摂餌活性が著しく低下</strong>する。サツキマス遡上期に河川でルアーが効きにくい一因と整合。
+</div>
+
+<div class="paper">
+<strong>放流の遺伝・個体群効果</strong><br>
+<a href="https://www.fra.affrc.go.jp/bulletin/fish_tech/15-1/150103.pdf">水産技術 (水研機構, 2018) ヤマメ・アマゴ種苗放流の増殖効果</a>: 放流効果は河川によって大きく異なり、過剰放流は在来個体群との交雑・競争を招く。在来集団保全のためのキャッチ&リリース推奨の根拠。
+</div>
+
+<div class="paper">
+<strong>在来チャールの将来</strong><br>
+<a href="https://link.springer.com/article/10.1007/s10228-024-00955-3">The past, present, and a future for native charr in Japan (Ichthyological Research, 2024)</a>: 日本の在来イワナ各亜種 (ニッコウ・ヤマト・エゾ・ゴギ) の系統と保全。釣り対象魚としてのイワナがどの亜種で、放流が遺伝的構造をどう撹乱しているかの最新総説。
+</div>
+
+<h2 id="rules">9. 遊漁規則・倫理</h2>
+
+<div class="warn">
+<strong>必須:</strong>
+<ul>
+<li>各漁協の<strong>遊漁券</strong>を必ず事前購入 (現場販売もあるが日券で割増になる漁協が多い)</li>
+<li>解禁期間 (多くは3月1日〜9月30日)、禁漁区、サイズ規制 (15〜18cm未満リリース等)、1日尾数制限を厳守</li>
+<li>「<strong>キャッチ&リリース区間</strong>」では返しのない<strong>バーブレスフック</strong>を使用</li>
+<li>原則「<strong>取りすぎない</strong>」: 食べる分だけキープし残りはリリース</li>
+<li>河川敷に立ち入る際の地権者・林道規制を確認 (奥多摩は東京都水道局の水源林管理エリアあり)</li>
+</ul>
+</div>
+
+<div class="tip">
+<strong>在来集団保全のため:</strong> 学術論文 (上記) が示す通り、放流種苗との交雑が在来ヤマメ・イワナの遺伝構造を撹乱している。漁協が「在来魚保護区間」を設けている場合は遵守し、ヒレに目印 (アブラビレ・カット等) のある放流魚と未カットの在来魚を区別して扱う研究プロジェクトに協力するのも一案。
+</div>
+
+<h2 id="sources">10. 出典</h2>
+
+<h3>渓流釣り技法 (餌・仕掛け・ポイント・釣行)</h3>
+<ul>
+<li><a href="https://fish.shimano.com/ja-JP/content/fishingstyle/article/river/vol07.html">エサの種類と川虫取り — シマノ「渓流釣りの世界へ」vol.07</a></li>
+<li><a href="https://www.honda.co.jp/fishing/enjoy/season/season-201708/step-3/">川虫 (エサ) の種類 — Honda釣り倶楽部</a></li>
+<li><a href="https://tsurihack.com/1449">川虫は何種類いる？渓流エサに使える5種類の虫と取り方 — TSURI HACK</a></li>
+<li><a href="https://magazine.tsuritickets.com/2019/09/20/イワナ・ヤマメ・アマゴは何を食べるの？釣り餌/">イワナ・ヤマメ・アマゴは何を食べるの？— つりチケマガジン</a></li>
+<li><a href="https://tsurihack.com/5310">渓流釣りの餌を徹底解説 — TSURI HACK</a></li>
+<li><a href="https://www.honda.co.jp/fishing/enjoy/season/season-201704/step-3/">渓流エサ釣りの仕掛けとオモリの調整 — Honda釣り倶楽部</a></li>
+<li><a href="https://tsurihack.com/624">渓流釣りの仕掛けを図解で解説 — TSURI HACK</a></li>
+<li><a href="https://web.tsuribito.co.jp/suburb/keiryu-trbt-2105-myakufluoro-01">里川のヤマメ&アマゴ ミャク釣り仕掛け — つり人社</a></li>
+<li><a href="https://www.daiwa.com/jp/beginner/place/iwana_yamame_keiryu">こんな所で釣りはできる！イワナ・ヤマメをミャク釣りで釣る — DAIWA</a></li>
+<li><a href="https://www.honda.co.jp/fishing/enjoy/season/season-201704/step-2/">ポイントの見つけ方 — Honda釣り倶楽部</a></li>
+<li><a href="https://web.tsuribito.co.jp/beginner/mountain-stream-bait-fishing-howto">渓流エサ釣り入門 最短ルート — つり人社</a></li>
+<li><a href="https://fish.shimano.com/ja-JP/content/fishingstyle/article/river/vol08.html">主なポイントの紹介 — シマノ vol.08</a></li>
+<li><a href="https://fish.shimano.com/ja-JP/content/fishingstyle/article/river/vol45.html">シーズン初期のイワナ釣り — シマノ vol.45</a></li>
+<li><a href="https://fish.shimano.com/ja-JP/content/fishingstyle/article/river/vol21.html">テンカラ釣りのタックル・仕掛け — シマノ vol.21</a></li>
+<li><a href="https://web.tsuribito.co.jp/beginner/tenkara-howto">テンカラ釣り入門 名手の仕掛けと釣り方 — つり人社</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/テンカラ釣り">テンカラ釣り — Wikipedia</a></li>
+<li><a href="https://greenfield.style/article/30618/">毛鉤・フライの違いと選び方 — Greenfield</a></li>
+<li><a href="https://tsurinews.jp/340689/2/">渓流釣りの4つの釣り方 (ルアー・エサ・フライ・テンカラ) — TSURINEWS</a></li>
+</ul>
+
+<h3>関東の釣り場・釣行報告</h3>
+<ul>
+<li><a href="https://tsurinews.jp/302619/">初夏の奥多摩で渓流エサ釣り 26cmイワナ23cmヤマメ — TSURINEWS</a></li>
+<li><a href="https://minedani.jp/">峰谷川渓流釣場 公式</a></li>
+<li><a href="https://oretsuri.com/moguriya-boy-keiryu01">下道1時間半でイワナ・ヤマメ — ORETSURI</a></li>
+<li><a href="https://www.katsuragawa-gyokyo.net/cont2/7.html">桂川漁業協同組合 渓流釣り情報</a></li>
+<li><a href="https://omenoyamame.com/">青梅のヤマメに告ぐ (個人ブログ)</a></li>
+<li><a href="https://web.tsuribito.co.jp/suburb/katsuragawa">イワナ・ヤマメ釣り 山梨県・桂川水系 — つり人社</a></li>
+<li><a href="https://www.nakagawa-hokubu.or.jp/">那珂川北部漁業協同組合 公式</a></li>
+<li><a href="https://j-angler.jp/resault/20200805/">奥多摩のルアーフィッシング — 食いたい魚は己で釣れ</a></li>
+<li><a href="https://www.ana.co.jp/travelandlife/article/001008/">ヤマメの釣り場ベスト50 (月刊つり人) — ANA</a></li>
+<li><a href="https://trout-in-shallows.com/1100">渓流釣りポイント大公開 ヤマメ・イワナ — Trout in Shallows</a></li>
+</ul>
+
+<h3>魚種・分類・分布</h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/ヤマメ">ヤマメ — Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Salvelinus_leucomaenis">Salvelinus leucomaenis — Wikipedia (English)</a></li>
+<li><a href="https://www.zukan-bouz.com/syu/ヤマメ">ヤマメ — 市場魚貝類図鑑</a></li>
+<li><a href="https://web.tsuribito.co.jp/beginner/yamame-sakuramasu-amago-difference">ヤマメ・サクラマス・アマゴの違い — つり人社</a></li>
+<li><a href="https://www.nies.go.jp/biodiversity/invasive/DB/detail/50830.html">ニジマス — 国立環境研究所 侵入生物DB</a></li>
+<li><a href="https://www.pref.kanagawa.jp/uploaded/attachment/10225.pdf">丹沢在来ヤマメの生息状況調査 — 神奈川県水産技術センター</a></li>
+</ul>
+
+<h3>学術論文 (drift feeding / NEI / 保全)</h3>
+<ul>
+<li><a href="https://link.springer.com/article/10.1007/s11355-014-0247-x">Position choice by red-spotted masu salmon (Landscape and Ecological Engineering, 2015)</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10641-014-0218-y">Application of a bioenergetics model to check dam habitat degradation (Env. Biol. Fish. 2014)</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10750-015-2571-z">Altitudinal niche partitioning between charr and masu salmon (Hydrobiologia, 2015)</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10641-013-0187-6">A historical perspective on drift foraging models for stream salmonids (Env. Biol. Fish. 2013)</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10641-013-0186-7">Feeding modes in stream salmonid population models — is drift feeding the whole story? (Env. Biol. Fish. 2013)</a></li>
+<li><a href="https://cdnsciencepub.com/doi/10.1139/f97-036">Juvenile masu salmon abundance and stream habitat relationships in northern Japan (CJFAS 1997)</a></li>
+<li><a href="https://cir.nii.ac.jp/crid/1390282681389106432">Number, Dispersal and Growth of Juvenile Japanese Charr and Masu Salmon — CiNii</a></li>
+<li><a href="https://www.fish.rd.pref.gifu.lg.jp/kenkyu-houkoku/pdf-51-60/57-023.pdf">摂餌活性から見たアマゴのスモルトとパーの違い — 岐阜県水産研究所報告</a></li>
+<li><a href="https://www.fra.affrc.go.jp/bulletin/fish_tech/15-1/150103.pdf">ヤマメ・アマゴ種苗放流の増殖効果の検証 — 水産技術 (FRA)</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10228-024-00955-3">The past, present, and a future for native charr in Japan (Ichthyological Research, 2024)</a></li>
+</ul>
+
+<h3>関連ガイド (offline-db内)</h3>
+<ul>
+<li><a href="../nijimasu_fishing_guide.html">ニジマス釣りガイド</a></li>
+<li><a href="../hayakawa_river_guide.html">早川水系 淡水生物採集ガイド</a> (神奈川西部の渓相把握)</li>
+<li><a href="../../fishery/kanto_fishery_guide.html">関東 水産物・漁業規則 総合</a></li>
+<li><a href="../anatomy-pathology/index.html">魚の体のつくり — 機能と病態</a> (釣った魚の扱いの理解にも)</li>
+</ul>
+
+</div>
+
+<div class="footer">
+渓流魚の釣り方 完全ガイド — research-reports / offline-db<br>
+最終更新: 2026-04-28
+</div>
+
+</body>
+</html>

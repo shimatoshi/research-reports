@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>魚の体のつくり — 機能と病態</title>
+<style>
+:root{--bg:#0f1923;--card:#1a2733;--card2:#223344;--accent:#4fc3f7;--accent2:#81d4fa;--green:#66bb6a;--orange:#ffa726;--red:#ef5350;--pink:#f48fb1;--purple:#ce93d8;--yellow:#fff176;--text:#e0e0e0;--text2:#90a4ae;--border:#2a3a4a}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,'Helvetica Neue','Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;font-size:15px}
+.header{background:linear-gradient(135deg,#3a1c5c,#4d2a7e,#653b9c);padding:24px 16px;text-align:center;position:sticky;top:0;z-index:100;box-shadow:0 4px 20px rgba(0,0,0,.5)}
+.header h1{font-size:20px;color:#fff;margin-bottom:4px}
+.header .sub{font-size:12px;color:#ce93d8}
+nav{background:var(--card);padding:8px;display:flex;flex-wrap:wrap;gap:5px;justify-content:center;border-bottom:1px solid var(--border);position:sticky;top:66px;z-index:99}
+nav a{color:#ce93d8;text-decoration:none;font-size:11px;padding:4px 9px;border-radius:14px;background:var(--card2);white-space:nowrap}
+nav a:active{background:#4a148c;color:#fff}
+.container{max-width:960px;margin:0 auto;padding:12px}
+h2{font-size:19px;color:#ce93d8;border-left:4px solid #9c27b0;padding:8px 12px;margin:24px 0 14px;background:var(--card);border-radius:0 8px 8px 0}
+h3{font-size:16px;color:var(--orange);margin:18px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--border)}
+h4{font-size:14px;color:var(--accent);margin:12px 0 6px}
+.organ{background:var(--card);border-radius:10px;padding:14px;margin:14px 0;border:1px solid var(--border)}
+.organ .name{font-size:17px;font-weight:bold;color:#fff;margin-bottom:6px}
+.organ .role{font-size:13px;color:#90caf9;font-style:italic;margin-bottom:8px}
+.sp-img{width:100%;max-width:600px;height:auto;border-radius:8px;margin:12px auto;display:block;border:1px solid var(--border);background:var(--card2)}
+.cap{font-size:11px;color:var(--text2);text-align:center;margin:-6px 0 16px;font-style:italic}
+.cap a{color:var(--accent2)}
+.tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px;margin:4px 4px 4px 0}
+.tag-fn{background:#1b5e20;color:#a5d6a7}
+.tag-dis{background:#b71c1c;color:#ef9a9a}
+.tag-sym{background:#4a148c;color:#ce93d8}
+table{width:100%;border-collapse:collapse;margin:10px 0;font-size:13px}
+th{background:var(--card2);color:var(--accent);padding:8px 6px;text-align:left;font-weight:600}
+td{padding:7px 6px;border-bottom:1px solid var(--border);vertical-align:top}
+.warn{background:#3e2723;border-left:4px solid var(--red);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.warn strong{color:var(--red)}
+.tip{background:#1a3a1a;border-left:4px solid var(--green);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.tip strong{color:var(--green)}
+.info{background:#0d2137;border-left:4px solid var(--accent);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:13px}
+.info strong{color:var(--accent)}
+.diagram{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px;margin:14px 0;font-family:'Courier New',monospace;font-size:12px;white-space:pre;color:var(--text);overflow-x:auto;line-height:1.4}
+ul,ol{margin:8px 0 8px 20px;font-size:14px;color:var(--text2)}
+li{margin:4px 0}
+li strong{color:var(--text)}
+.split{display:grid;grid-template-columns:1fr;gap:10px;margin:10px 0}
+@media(min-width:600px){.split{grid-template-columns:1fr 1fr}}
+.fn-box{background:#0f2a1a;border:1px solid #2e7d32;border-radius:8px;padding:10px}
+.fn-box h4{color:#a5d6a7;margin-top:0;border:none}
+.dis-box{background:#2a1010;border:1px solid #c62828;border-radius:8px;padding:10px}
+.dis-box h4{color:#ef9a9a;margin-top:0;border:none}
+.footer{text-align:center;padding:24px;color:var(--text2);font-size:12px;border-top:1px solid var(--border);margin-top:40px}
+@media(max-width:600px){th,td{font-size:12px;padding:5px 4px}.header h1{font-size:17px}.diagram{font-size:10px}}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>魚の体のつくり — 機能と病態</h1>
+<div class="sub">部位ごとの「何ができるか」と「どうなったらまずいか」</div>
+</div>
+<nav>
+<a href="#overview">全体像</a>
+<a href="#gill">鰓</a>
+<a href="#scale">鱗・粘膜</a>
+<a href="#fin">鰭</a>
+<a href="#bladder">浮袋</a>
+<a href="#lateral">側線</a>
+<a href="#heart">心臓</a>
+<a href="#liver">肝臓</a>
+<a href="#kidney">腎臓</a>
+<a href="#gut">消化管</a>
+<a href="#brain">脳・神経・感覚</a>
+<a href="#gonad">生殖腺</a>
+<a href="#stress">ストレス系</a>
+<a href="#sources">出典</a>
+</nav>
+
+<div class="container">
+
+<div class="info">
+<strong>このレポートの位置づけ:</strong> 既存の <a href="../../../biology/fish-crustacean/01-body-anatomy.md"><code>biology/fish-crustacean/01-body-anatomy.md</code></a> が「形態と回復性」の総説 (魚 vs 甲殻類比較) であるのに対し、本ガイドは<strong>魚に絞り、各部位の「機能」と「機能不全 (病態)」を対にして並べる</strong>機能病態学的アングル。釣った魚を扱うときの判断、観察した個体の異常診断、飼育下のトラブルシュートに使える。
+</div>
+
+<h2 id="overview">1. 全体像</h2>
+
+<img class="sp-img" src="images/fish-internal-organs.png" alt="魚の内臓構造">
+<div class="cap">魚類の内部器官の模式図。Sharon High School / Pixelsquid, Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Internal_organs_of_a_fish.svg">CC BY-SA 3.0</a></div>
+
+<p>魚類は<strong>脊椎動物</strong>の基本構造 (心臓・肝臓・腎臓・消化管・中枢神経) に、水中適応のための専用器官 (<strong>鰓・側線・鰾</strong>) を加えた設計。陸上脊椎動物と比べてコンパクトだが、機能の重みは大きく異なる。</p>
+
+<table>
+<tr><th>部位</th><th>主機能</th><th>故障時の主な帰結</th></tr>
+<tr><td>鰓</td><td>呼吸 / 浸透圧調節 / アンモニア排出</td><td>呼吸困難 / 塩バランス崩壊 / 急性中毒</td></tr>
+<tr><td>鱗・粘膜</td><td>物理保護 / 抗菌バリア / 浸透圧管理</td><td>細菌・寄生虫感染 / 浸透圧ショック</td></tr>
+<tr><td>鰭</td><td>推進 / 姿勢 / ブレーキ</td><td>遊泳不能 / 縄張り争い敗退</td></tr>
+<tr><td>浮袋</td><td>浮力 / 一部魚種で聴覚補助</td><td>転覆病 / 中層維持不能</td></tr>
+<tr><td>側線</td><td>水流・振動・捕食者検知</td><td>群泳同調不能 / 接近に気づかない</td></tr>
+<tr><td>心臓・血液</td><td>単循環で酸素を全身へ</td><td>急性循環不全 / KHV類などの感染</td></tr>
+<tr><td>肝臓</td><td>代謝 / 解毒 / 胆汁</td><td>脂肪肝 / 解毒能低下 / 黄疸的症状</td></tr>
+<tr><td>腎臓</td><td>浸透圧調節 / 造血 / 免疫中枢 (頭腎)</td><td>腎不全 / 造血障害 / 免疫低下</td></tr>
+<tr><td>消化管</td><td>消化吸収</td><td>腸炎 / 消化不良 → 転覆病連鎖</td></tr>
+<tr><td>脳・神経・感覚</td><td>行動 / 学習 / 産卵タイミング</td><td>錯乱遊泳 / 縄張り維持不能</td></tr>
+<tr><td>生殖腺</td><td>卵・精子の生成</td><td>卵詰まり / 不妊</td></tr>
+</table>
+
+<h2 id="gill">2. 鰓 (えら) — 呼吸 + 浸透圧調節 + アンモニア排出</h2>
+
+<img class="sp-img" src="images/fish-gill-structure.webp" alt="魚の鰓構造">
+<div class="cap">魚の鰓構造 (鰓弓・鰓弁・二次鰓弁/lamellae)。Anaxibia, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></div>
+
+<div class="organ">
+<div class="name">鰓 (Gill)</div>
+<div class="role">呼吸器であり、塩分・アンモニア処理装置でもある「マルチ臓器」</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>ガス交換</strong>: 鰓弓→鰓弁→二次鰓弁 (lamellae) と階層化。二次鰓弁は<strong>細胞1層分の薄さ</strong>で対向流交換 (countercurrent) により最大80%超のO₂抽出効率</li>
+<li><strong>イオン調節</strong>: 鰓上皮の<strong>塩類細胞 (chloride cell)</strong> がポンプとなり、淡水魚は塩を吸収、海水魚は塩を排出</li>
+<li><strong>窒素排出</strong>: アンモニアの大半は<strong>鰓から直接</strong>水中へ拡散 (哺乳類は腎臓尿素として排出するのと対照的)</li>
+<li><strong>pH/CO₂調節</strong>: 重炭酸イオンの交換で血漿pHを保つ</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態 — 機能しなくなるとどうなるか</h4>
+<ul>
+<li><strong>白点病 (Ich)</strong>: 寄生虫 <em>Ichthyophthirius multifiliis</em> が鰓上皮内に侵入。多数寄生で<strong>鰓蓋が閉まらず</strong>、呼吸面積が物理的に潰れて窒息死。1個体が24時間で数百〜数千の仔虫に増殖</li>
+<li><strong>カラムナリス症 (鰓ぐされ)</strong>: <em>Flavobacterium columnare</em> による細菌性鰓壊死。鰓弁が灰色化・崩壊して呼吸不能</li>
+<li><strong>鰓吸虫・ダクチロギルス類</strong>: 単生類が鰓に寄生、慢性的な鰓肥厚と粘液過剰</li>
+<li><strong>急性アンモニア中毒</strong>: 水質悪化で水中NH₃濃度が逆転すると<strong>排出できず逆流</strong>。鰓出血・頻呼吸・横転</li>
+<li><strong>酸欠</strong>: 高水温・有機物分解による溶存酸素低下 → 水面でハクハク (gulping)。魚の最初の SOS</li>
+<li><strong>塩バランス破綻</strong>: 鰓塩類細胞が傷害されると、淡水魚は組織が水でパンパンに膨張 (浸透圧ショック)、海水魚は脱水</li>
+</ul>
+</div>
+</div>
+
+<div class="warn">
+<strong>致命度:</strong> 鰓は<strong>魚で最初に致命的になる臓器</strong>。再生はある程度可能だが、構造破壊が広範囲に及ぶと取り戻せない。釣り上げた魚を素手でガッチリ掴むと鰓蓋を曲げ、リリース後に呼吸不全で死亡することがある (キャッチ&リリース時はランディングネットで包む・鰓蓋に指を入れない)。
+</div>
+</div>
+
+<h2 id="scale">3. 鱗・粘膜 — 物理&化学バリア</h2>
+
+<img class="sp-img" src="images/ich-white-spot.webp" alt="白点病に感染した魚">
+<div class="cap">白点病 (Ich) に感染したクラウンローチ。体表に白い粒状の寄生体 trophont が見える。粘膜が剥がれた個体ほど寄生されやすい。<br>ML5, Wikimedia Commons, パブリックドメイン</div>
+
+<div class="organ">
+<div class="name">鱗 (Scale) と粘液層 (Mucus)</div>
+<div class="role">魚の「皮膚」相当。物理保護と免疫の最前線</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>物理保護</strong>: 鱗は真皮由来の硬い保護板 (円鱗・櫛鱗・楯鱗のタイプ)。捕食者の歯・岩への擦過に耐える</li>
+<li><strong>水力学的平滑化</strong>: 粘膜+鱗で水の抵抗を下げ、泳ぎを効率化</li>
+<li><strong>抗菌バリア</strong>: 粘液には<strong>リゾチーム・抗菌ペプチド・免疫グロブリンIgM/IgT</strong>が分泌され、細菌・原虫の侵入を防ぐ</li>
+<li><strong>浸透圧管理</strong>: 粘液層は<strong>不感蒸散 (水・イオンの流出)</strong> を抑える境界層</li>
+<li><strong>個体識別</strong>: 種特異的な化学物質 (フェロモン) が粘膜から拡散し、群れの仲間認識・警報物質 (Schreckstoff) として働く</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>穴あき病 (Ulcer)</strong>: 常在菌 <em>Aeromonas hydrophila/salmonicida</em> が、ストレス・粘膜剥離をきっかけに増殖。鱗が脱落して<strong>体に穴が開いた状態</strong>に。免疫低下が真の引き金</li>
+<li><strong>立鱗病 (松かさ病, Dropsy)</strong>: エロモナス系の感染で、<strong>鱗が松ぼっくりのように逆立つ</strong>。腹水・浮腫を伴い予後不良</li>
+<li><strong>水カビ病 (Saprolegnia)</strong>: 真菌が傷口・受精卵に綿状に付着。低水温時に多発</li>
+<li><strong>白点病</strong>: 上記の通り、皮膚にも侵入。鰓と並ぶ二大被害</li>
+<li><strong>網ハンドリング傷</strong>: 強く触る・乾いた網ですくうと粘膜が剥がれ、48時間以内に細菌感染が始まる</li>
+<li><strong>浸透圧ショック</strong>: 大規模な鱗欠損で淡水魚は急に水を吸い込んでしまう (組織浮腫)</li>
+</ul>
+</div>
+</div>
+
+<div class="tip">
+<strong>釣り人の実用知:</strong> リリース時は<strong>濡れた手</strong>で短時間で扱う。乾いたタオル・乾いた素手は粘膜を剥がす最大の元凶。「ハッキリ言うと、5秒以上空気にさらしたヤマメ・イワナはそれだけで生存率が低下する」とされる。
+</div>
+</div>
+
+<h2 id="fin">4. 鰭 (ヒレ) — 推進・姿勢・ブレーキ</h2>
+
+<div class="organ">
+<div class="name">鰭 (Fin)</div>
+<div class="role">「水中での運動制御の100%を担う」器官群</div>
+
+<div class="diagram">[側面図]
+
+   背鰭 (回転抑制・姿勢保持)
+     ↓
+   ━━━━━━━━━━━ 脂鰭 (サケ科のみ、機能は議論中)
+  ●    △◇╲     ╲ 尾鰭 (主推進)
+ / \  ╱   ╲    ╲
+胸鰭   腹鰭   臀鰭 (姿勢)
+(前進・後進・   (姿勢補助)
+ ブレーキ・
+ ホバリング)
+</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>尾鰭</strong>: 主たる推進エンジン。形状で速度・持久・機動性が決まる</li>
+<li><strong>胸鰭</strong>: 前進・後進・<strong>ブレーキ</strong>・ホバリング・斜め舵</li>
+<li><strong>背鰭/臀鰭</strong>: 体軸の回転 (yaw/roll) を抑制し直進安定性を確保</li>
+<li><strong>腹鰭</strong>: 微細な姿勢補正、グッピー・モーリー雄では交尾器 (gonopodium) に変形</li>
+<li><strong>脂鰭</strong>: サケ科の<strong>機械受容器</strong>説あり。乱流検知に貢献している可能性 (養殖でカットされる対照実験)</li>
+<li><strong>ディスプレイ</strong>: 婚姻期の縄張り誇示・求愛 (背鰭・胸鰭の伸張)</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>尾ぐされ病 (Fin rot, カラムナリス)</strong>: <em>Flavobacterium columnare</em> 感染。鰭先が白濁→溶ける→裂ける→根元まで進行。<strong>付け根まで達すると再生不可</strong></li>
+<li><strong>水カビ病</strong>: 鰭の傷口に綿状の白いコロニー</li>
+<li><strong>鰭欠損</strong>: 縄張り闘争・捕食追跡で失う。基部が残れば<strong>数日〜2ヶ月で再生</strong> (ブラステマ細胞が元形を記憶)。基部から欠ければ恒久障害</li>
+<li><strong>脂鰭カット</strong>: 養殖魚の標識として全切除されることがある。これにより放流魚と在来魚の区別が可能 (河川調査で利用)</li>
+<li><strong>遊泳異常</strong>: 鰭損傷で姿勢制御を失うと、捕食回避・産卵行動・縄張り維持ができなくなり淘汰される</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="bladder">5. 鰾 (うきぶくろ) — 浮力 + 一部聴覚</h2>
+
+<div class="organ">
+<div class="name">鰾 / 浮袋 (Swim bladder)</div>
+<div class="role">中性浮力を保つ「内蔵バルーン」、コイ科では聴覚補助も担う</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>浮力調節</strong>: ガス (主に酸素) の量を調節し、その水深での比重を1.0に近づける。これで<strong>鰭を動かさず中層を維持</strong>できる</li>
+<li><strong>有管魚 (physostomous)</strong>: コイ・ナマズ・サケ科は鰾と食道が細い管 (気道管) で繋がる。<strong>口から空気を吸って</strong>充填、不要分は口/腸から排気</li>
+<li><strong>無管魚 (physoclistous)</strong>: スズキ・ハゼ等は管なし。鰾内のガス腺と再吸収体で能動的に出し入れ</li>
+<li><strong>聴覚補助</strong>: コイ・ナマズではウェーバー器官という骨小片の連鎖で<strong>鰾の振動を内耳に伝える</strong>。低周波感度が極めて高い (人間より広い帯域)</li>
+<li><strong>発声</strong>: 一部魚種 (ニベ科・タラ科) は鰾を太鼓のように振動させ求愛・威嚇音を出す</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>転覆病 (Buoyancy disorder)</strong>: 浮袋制御筋・神経の異常で姿勢を失う。横転・上下逆転・水面浮上したまま戻れない・底に沈んだまま等。金魚に多い。原因は消化不良・低水温・細菌感染・遺伝的体型 (丸手品種) の複合</li>
+<li><strong>消化不良連鎖</strong>: 有管魚では腸ガスが食道経由で鰾を圧迫 → 直接的な浮袋機能障害。<strong>絶食</strong>で改善することが多い</li>
+<li><strong>ガス病 (Gas bubble disease)</strong>: 過飽和の溶存ガス (水温急上昇・滝の白泡下など) で血中・組織に気泡が生じ、目・鰭・血管に微小気泡。<strong>急減圧で釣り上げた深海魚で目が飛び出す</strong>のもこれ</li>
+<li><strong>急減圧症 (Barotrauma)</strong>: 深場から急に水面まで上げた魚 (バス・ハタ系) は鰾が膨張して口から飛び出す。リリースしても潜れず死亡</li>
+<li><strong>細菌性気胞炎</strong>: 鰾内壁の感染で体液貯留、浮力制御不能</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="lateral">6. 側線 (ラテラルライン) — 水の動きを「聴く」</h2>
+
+<div class="organ">
+<div class="name">側線系 (Lateral line system)</div>
+<div class="role">魚の感覚の中で<strong>側線+嗅覚で情報の7〜8割</strong>を担う</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>水流検知</strong>: 体側の側線管を縦走する<strong>神経丘 (neuromast)</strong> がカップラ (ゼリー状の毛束) で水流の偏りを検知</li>
+<li><strong>振動・低周波</strong>: 100Hz以下の水中振動を取得。鰾と組み合わせると広帯域聴覚になる</li>
+<li><strong>群泳同調</strong>: 仲間の動きを 0.05秒オーダーで追随。視覚遮断でも群れが崩れないのは側線の貢献</li>
+<li><strong>捕食者・障害物検知</strong>: 接近物が水を押す圧力波を捉える。盲目化したカジカも側線で生存できる</li>
+<li><strong>電気感覚</strong>: 一部 (ナマズ・サメ・エイ) は<strong>ロレンチーニ器官</strong>として発展、筋肉電位や地磁気を感知</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>側線穿孔症 (Hole-in-the-Head, HLLE)</strong>: 側線部の神経丘が壊死し穴が開いて見える。シクリッド類で多発。原因は栄養欠乏 (ビタミン・ミネラル)、活性炭による微量元素ロス、ヘキサミタ寄生説</li>
+<li><strong>機械損傷</strong>: 過密水槽・暴れ・落下で物理的に欠損。再生はあるが範囲広いと回復不全</li>
+<li><strong>慢性ストレス</strong>: コルチゾール慢性高値で側線神経丘の感受性が低下、群れ行動・回避反応が鈍る</li>
+<li><strong>農薬・界面活性剤</strong>: 神経丘表面の有毛細胞は化学障害に弱く、<strong>環境汚染の早期指標</strong>として用いられる</li>
+<li><strong>影響</strong>: 側線が機能しないと捕食回避・群泳・縄張り維持が同時に劣化、結果として被食率が跳ね上がる</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="heart">7. 心臓と血液 — 単循環</h2>
+
+<div class="organ">
+<div class="name">心臓 / 血液系 (Heart / Circulation)</div>
+<div class="role">単循環 (Single-pass): 体→心臓→鰓→体 と一方通行</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>1心房1心室+静脈洞+動脈円錐</strong>の単純構造。哺乳類のような肺循環/体循環の二系統はない</li>
+<li><strong>順路</strong>: 全身の静脈血が静脈洞→心房→心室と流れ、<strong>鰓へ送られて酸素化</strong>。鰓を出た動脈血は<strong>そのまま全身</strong>へ</li>
+<li><strong>欠点</strong>: 鰓を一度通った血液は圧が下がるため、<strong>体組織への酸素供給は哺乳類より低圧・低速</strong>。激しい持続運動には不向き</li>
+<li><strong>赤血球は有核</strong>(哺乳類は無核)。長寿命だが酸素運搬効率は近似</li>
+<li><strong>体温</strong>: ほぼ周囲水温と同じ (例外: マグロ・ホホジロザメは部分的内温)</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>釣り上げによる心臓ストレス</strong>: 急激な運動と低酸素で乳酸が蓄積、リリース後に<strong>遅延死亡 (delayed mortality)</strong> を起こす。冷水性のヤマメ・イワナでは特に顕著</li>
+<li><strong>KHV (コイヘルペスウイルス) 病</strong>: コイ専属、鰓・腎臓・心臓に重度炎症、致死率高い (国内法定家畜伝染病)</li>
+<li><strong>VHS (ウイルス性出血性敗血症)</strong>: サケ科を含む幅広い種に感染、心臓・筋肉・腎臓の出血</li>
+<li><strong>IPN (伝染性膵臓壊死症)</strong>: サケ科稚魚に多い。心臓・膵臓・腎臓の壊死</li>
+<li><strong>急性低酸素</strong>: 高水温時 + 持続運動で心臓に過剰負荷、不整脈→停止</li>
+<li><strong>貧血</strong>: 寄生虫 (吸虫・ヒルetc.) や栄養欠乏で赤血球が減少、活動低下</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="liver">8. 肝臓 — 代謝・解毒・胆汁</h2>
+
+<div class="organ">
+<div class="name">肝臓 (Liver) / 一部に肝膵臓</div>
+<div class="role">栄養代謝と解毒の中央処理装置</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>糖・脂質・タンパク代謝</strong>: 食物由来の栄養を貯蔵・分配</li>
+<li><strong>解毒</strong>: 環境毒物 (重金属・農薬・アンモニア) を中和。哺乳類のような尿素回路は弱く、<strong>窒素はアンモニアのまま鰓へ</strong>送る種が多い</li>
+<li><strong>胆汁生成</strong>: 胆嚢 (一部魚種) で濃縮、脂質消化を助ける</li>
+<li><strong>脂質貯蔵</strong>: 一部の種 (タラ・サメ) は<strong>肝油</strong>として大量の脂質を貯める。タラ肝油はビタミンA/D源として歴史的に重要</li>
+<li><strong>免疫補助</strong>: クッパー細胞様の貪食細胞が血液中の異物を処理</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>脂肪肝 (Fatty liver)</strong>: 高カロリー飼料・運動不足・遺伝で過剰な脂質が蓄積。養殖魚に頻発し、肝細胞機能低下・解毒能低下</li>
+<li><strong>肝萎縮</strong>: 慢性的な栄養欠乏・寄生虫で肝が小さくなり代謝能低下</li>
+<li><strong>肝吸虫</strong>: 一部の二生吸虫が胆管に寄生し炎症</li>
+<li><strong>毒物急性中毒</strong>: 銅・アンモニア・農薬の急性曝露で肝壊死。釣り場の事故 (除草剤流入等)</li>
+<li><strong>マイコトキシン</strong>: 餌中のカビ毒 (アフラトキシン等) で肝発がん</li>
+<li><strong>影響</strong>: 解毒能が落ちると軽微な水質悪化でも致命的になる連鎖を生む。<strong>「肝臓を見ろ」</strong>は獣医・水産研究者の合言葉</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="kidney">9. 腎臓 — 浸透圧調節 + 造血 + 免疫</h2>
+
+<div class="organ">
+<div class="name">腎臓 (Kidney) — 頭腎 + 後腎</div>
+<div class="role">「腎+脾+骨髄」を兼ねる魚特有のマルチ臓器</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>頭腎 (Head kidney)</strong>: 体腔前方、心臓近傍。<strong>造血 (赤血球・白血球) と免疫</strong>の中枢。哺乳類の骨髄+副腎+リンパ節相当</li>
+<li><strong>後腎 (Trunk kidney)</strong>: 体腔背側を縦走する細長い臓器。<strong>浸透圧調節</strong>を主に担う</li>
+<li><strong>淡水魚の戦略</strong>: 体液より低い環境で「水を排出+塩を保持」。希薄な大量の尿を作る</li>
+<li><strong>海水魚の戦略</strong>: 体液より高い環境で「水を保持+塩を排出」。少量の濃い尿、塩は鰓塩類細胞からも排出</li>
+<li><strong>降海/遡上</strong>: サクラマス・ウナギなどは生涯で淡水/海水を切り替えるため、腎臓と鰓のイオン処理機構を切り替える (smoltification)</li>
+<li><strong>コルチゾール (corticosteroid) 産生</strong>: 頭腎の<strong>interrenal組織</strong>がストレスホルモンを分泌 (哺乳類の副腎皮質に相当)</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>細菌性腎臓病 (BKD)</strong>: <em>Renibacterium salmoninarum</em>。サケ科の重大疾病、頭腎に肉芽腫形成</li>
+<li><strong>渦鞭毛虫症 (PKD/PKX)</strong>: <em>Tetracapsuloides bryosalmonae</em>。後腎肥大、サケ科の慢性致死性疾病</li>
+<li><strong>多嚢胞性腎臓</strong>: 遺伝・環境因で嚢胞形成、機能低下</li>
+<li><strong>急性腎不全</strong>: 重金属・農薬・極端な水温/塩分変化で急性壊死</li>
+<li><strong>免疫破綻</strong>: 頭腎機能が落ちると造血・免疫が同時に崩れ、二次感染で死亡しやすい</li>
+<li><strong>慢性ストレス連鎖</strong>: 過剰なコルチゾール分泌で<strong>白血球機能・成長・繁殖が同時に抑制</strong>される。慢性的な過密飼育の典型像</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="gut">10. 消化管 — 食道〜胃〜腸〜肛門</h2>
+
+<div class="organ">
+<div class="name">消化管 (Gastrointestinal tract)</div>
+<div class="role">無胃魚・有胃魚で大きく異なる多様性</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>口→咽頭→食道→胃→幽門垂→腸→直腸→肛門</strong></li>
+<li><strong>胃の有無</strong>: コイ科・ハゼ科・カワハギ等は胃が無い (無胃魚 stomachless)。腸が直接膨らんで貯留</li>
+<li><strong>幽門垂 (Pyloric caeca)</strong>: 胃と腸の間の盲嚢。<strong>表面積を増やす</strong>のと消化酵素分泌の役目。サケ科で多数発達 (200〜300本)</li>
+<li><strong>食性の多様性</strong>: 草食魚は腸が長い (アユで体長の3倍)、肉食魚は短い (体長の半分以下)。これは進化の典型例</li>
+<li><strong>歯</strong>: 顎歯・咽頭歯・舌歯の組合せ。コイ科は咽頭歯で硬い貝・植物を砕く</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>消化不良</strong>: 過剰給餌・低水温・低酸素で消化が止まる。<strong>有管魚では腸ガス→鰾→転覆病</strong>へ連鎖</li>
+<li><strong>腸炎 (Enteritis)</strong>: 細菌・ウイルス・寄生虫で腸壁炎症、便がスケスケ・粘液便</li>
+<li><strong>IPN (伝染性膵臓壊死)</strong>: サケ科稚魚で消化管・膵臓・肝の壊死</li>
+<li><strong>条虫症 (Tapeworm)</strong>: 腹腔内に巨大化、栄養奪取、痩せ症状</li>
+<li><strong>過剰絶食</strong>: 数週以上続くと脂肪肝の動員 → 肝障害 → 多臓器障害</li>
+<li><strong>異物嚥下</strong>: 釣り針・テグス飲み込み、腸閉塞・穿孔</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="brain">11. 脳・神経・感覚 — 行動と学習の基盤</h2>
+
+<div class="organ">
+<div class="name">脳・神経・感覚器 (CNS + Sensory)</div>
+<div class="role">陸上脊椎動物と比べ感覚のウェイトが異なる</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>脳の主要部</strong>: 嗅葉・終脳・視蓋 (中脳)・小脳・延髄。<strong>視蓋が大きい</strong>のが特徴 (視覚と空間処理の中央)</li>
+<li><strong>嗅覚</strong>: 鼻腔の嗅上皮で水溶性分子を検知。サケの母川回帰は嗅覚記憶</li>
+<li><strong>視覚</strong>: 種により4色型 (UV含む) もある。ただし濁水ではほぼ機能しない</li>
+<li><strong>味覚</strong>: ナマズ類は<strong>体表・ヒゲ・ヒレに味蕾が分布</strong>、全身が舌のような状態</li>
+<li><strong>記憶・学習</strong>: 縄張り位置・捕食者の顔・餌のタイミングを<strong>数週〜数ヶ月単位で記憶</strong>。「金魚の3秒記憶」は俗説で否定済み</li>
+<li><strong>痛覚</strong>: 鰓・口・体側に侵害受容器 (nociceptor) があり、痛み様反応を示す。モルヒネで行動が回復することも実証 (Sneddon 2003系列)</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>急性ストレス → コルチゾール急上昇</strong>: 釣り・捕獲・移動で<strong>分単位</strong>でホルモン上昇。短期的にはエネルギー動員に有利だが、釣られた魚はリリース後30分〜数時間 SOS 状態</li>
+<li><strong>慢性ストレス</strong>: コルチゾール持続高値 → 白血球機能低下、生殖ホルモン抑制、成長抑制。<strong>慢性的に痩せて感染しやすくなる</strong></li>
+<li><strong>渦鞭毛虫脳症 (Whirling disease)</strong>: <em>Myxobolus cerebralis</em> がサケ科稚魚の頭部軟骨を侵し、平衡神経破壊。<strong>クルクル回って泳ぐ</strong>のが名の由来</li>
+<li><strong>VHS / IHN</strong>: サケ科ウイルスで脳炎・出血</li>
+<li><strong>低酸素脳症</strong>: 鰓障害から脳までO₂が届かず錯乱</li>
+<li><strong>水質pH急変</strong>: ニューロン興奮性異常で痙攣・横転</li>
+<li><strong>視神経損傷</strong>: 眼球破裂は<strong>魚では再生しない</strong> (甲殻類が眼柄ごと再生するのと対照)。視力喪失は致命的</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="gonad">12. 生殖腺 — 精巣 / 卵巣</h2>
+
+<div class="organ">
+<div class="name">生殖腺 (Gonad)</div>
+<div class="role">繁殖期に劇的にサイズと機能が変動</div>
+
+<div class="split">
+<div class="fn-box">
+<h4>機能</h4>
+<ul>
+<li><strong>精巣・卵巣</strong>: 体腔上部、脂肪体と並ぶ。繁殖期には体重の20〜30%に達することもある</li>
+<li><strong>性成熟</strong>: 内分泌軸 HPG axis (視床下部-下垂体-生殖腺) が制御。日長・水温が引金</li>
+<li><strong>性転換</strong>: ハタ・ベラ・クマノミは<strong>生涯で性別が変わる</strong>。社会的順位が転換のスイッチ</li>
+<li><strong>大量排卵</strong>: マンボウ3億卵、マグロ数千万卵など。生残率の低さを補う戦略</li>
+<li><strong>口内保育・卵保育</strong>: シクリッド・タナゴ・トゲウオなど多様な親保護行動</li>
+</ul>
+</div>
+<div class="dis-box">
+<h4>病態</h4>
+<ul>
+<li><strong>卵詰まり (Egg-binding)</strong>: 産卵相手・適切な水温・基質がないまま発卵が進むと卵巣に滞留して炎症・腹水・敗血症</li>
+<li><strong>性成熟異常</strong>: 環境ホルモン (エストロゲン様化学物質) で雄の精巣に卵胞 (intersex)。河川下流の環境指標生物として研究</li>
+<li><strong>過剰繁殖負担</strong>: ヤマメ・サクラマス雄は産卵後に死亡することが多い (1回繁殖型 semelparous)。雌は2〜3回繁殖可能 (iteroparous)</li>
+<li><strong>体力消耗</strong>: 産卵後 (post-spawn) のサケ科は急激に痩せ・体色変化 (婚姻色の崩壊)、免疫低下 → 二次感染で死亡</li>
+<li><strong>放流の遺伝撹乱</strong>: 養殖系統と野生系統の交雑が生殖適応度を下げる (アウトブリーディング・デプレッション)</li>
+</ul>
+</div>
+</div>
+</div>
+
+<h2 id="stress">13. ストレス系 — HPI軸という見えない致命傷</h2>
+
+<div class="info">
+魚の <strong>HPI軸 (Hypothalamus-Pituitary-Interrenal axis)</strong> は哺乳類の HPA軸 に相当する。視床下部CRH → 下垂体ACTH → 頭腎の interrenal組織がコルチゾールを分泌。短期は適応的だが、慢性化で全身に影響する。
+</div>
+
+<table>
+<tr><th>段階</th><th>時間スケール</th><th>主な変化</th><th>影響</th></tr>
+<tr><td>一次反応</td><td>秒〜分</td><td>カテコールアミン (アドレナリン)</td><td>心拍up・血流再分配・素早い闘争逃走</td></tr>
+<tr><td>二次反応</td><td>分〜時間</td><td>コルチゾール上昇</td><td>血糖上昇・浸透圧調節支援・免疫一時抑制</td></tr>
+<tr><td>三次反応</td><td>日〜週</td><td>慢性高コルチゾール</td><td>成長抑制・生殖抑制・免疫破綻・感染症発症</td></tr>
+</table>
+
+<ul>
+<li><strong>釣り (キャッチ&リリース)</strong>: 闘魚時間が長いほど一次・二次反応が大。<strong>水温が高いほど</strong>遅延死亡率が上昇 (16℃以下推奨、20℃超では極力短時間で離脱)</li>
+<li><strong>移送・水換え・過密飼育</strong>: 慢性ストレスの典型。観賞魚で「水替え後にバタバタ死ぬ」のは三次反応で免疫が落ちていたところに細菌が増殖した結果</li>
+<li><strong>麻酔・神経締め</strong>: 食用処理ではストレスホルモン上昇前に<strong>即死させると味が良い</strong>。延髄破壊+血抜きが「神経締め」の論理</li>
+</ul>
+
+<h2 id="sources">14. 出典</h2>
+
+<h3>総説・解剖</h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/魚類">魚類 — Wikipedia</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/側線">側線 — Wikipedia</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/鰾">鰾 — Wikipedia</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/鰭_(魚類)">鰭 (魚類) — Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fish_gill">Fish gill — Wikipedia</a></li>
+<li><a href="https://www.kahaku.go.jp/research/db/zoology/uodas/course/taxonomy/fish_body.html">魚の体 — 国立科学博物館</a></li>
+<li><a href="https://hunassius.com/3387/">魚の体の仕組みを見てみよう｜内臓の構造と機能 — Theフナ</a></li>
+<li><a href="https://hunassius.com/6558/">魚のひれの種類と役割 — Theフナ</a></li>
+<li><a href="https://medaka.ns-it.net/museum/naizou.html">メダカの内臓 — プティ メダカ</a></li>
+<li><a href="https://www.shokukanken.com/colum/colum-23093/">魚類の内臓の仕組み — 食環境衛生研究所</a></li>
+<li><a href="https://t-aquagarden.com/column/fish_gills">魚のエラとは — 東京アクアガーデン</a></li>
+<li><a href="https://umito.umios.com/article60/">個性が光る！魚のヒレ — umito</a></li>
+<li><a href="https://tsurinews.jp/79783/">サカナのヒレの役割 — TSURINEWS</a></li>
+</ul>
+
+<h3>感覚・神経・痛覚</h3>
+<ul>
+<li><a href="https://arcj.org/issues/fish/fish393/">魚の痛みと彼らの社会生活 — アニマルライツセンター</a></li>
+<li><a href="https://natgeo.nikkeibp.co.jp/nng/article/news/14/7548/">海の生物は痛みを感じるか — National Geographic 日本版</a></li>
+</ul>
+
+<h3>病気・病態 (魚病)</h3>
+<ul>
+<li><a href="https://www.jpd-nd.com/shinryo/zukan/hakuten.php">魚病図鑑 白点病 — 日本動物薬品</a></li>
+<li><a href="https://www.jpd-nd.com/shinryo/zukan/ogusare.php">魚病図鑑 尾ぐされ病・口ぐされ病・鰓ぐされ病 (カラムナリス症) — 日本動物薬品</a></li>
+<li><a href="https://www.jpd-nd.com/shinryo/zukan/matsusaka.php">魚病図鑑 立鱗病 (運動性エロモナス症) — 日本動物薬品</a></li>
+<li><a href="https://www.jpd-nd.com/shinryo/zukan/tenpuku.php">魚病図鑑 転覆病 — 日本動物薬品</a></li>
+<li><a href="https://jpd-nd.com/shinryo/search/">症状から病気をさがす — 日本動物薬品</a></li>
+<li><a href="https://t-aquagarden.com/column/ulcer_disease">穴あき病 — 東京アクアガーデン</a></li>
+<li><a href="https://t-aquagarden.com/column/capsizing">転覆病と便秘・消化不良 — 東京アクアガーデン</a></li>
+<li><a href="https://t-aquagarden.com/column/goldfish_dropsy">金魚の松かさ病 — 東京アクアガーデン</a></li>
+<li><a href="https://t-aquagarden.com/column/tropical_fish_treatment">熱帯魚の病気を症状別に解説 — 東京アクアガーデン</a></li>
+<li><a href="https://www.knsk-osaka.jp/kankyo/gijutsu/seika/yamai/">淡水魚の病気 — 大阪府立環境農林水産総合研究所</a></li>
+<li><a href="https://www.aqualassic.com/common-desease/">よくある病気と治し方 (白点病・水カビ病・穴あき病・尾腐れ病) — AQUALASSIC</a></li>
+<li><a href="https://aquarium-lover.com/rasbora-anaaki-treatment/">魚の鱗が剥がれる「穴あき病」を塩水浴で治療 — Aquarium Lover</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ichthyophthirius_multifiliis">Ichthyophthirius multifiliis — Wikipedia</a></li>
+</ul>
+
+<h3>ストレス・コルチゾール</h3>
+<ul>
+<li><a href="https://www.glassboat.jp/archives/679">魚のストレスホルモンの影響 — Aquarium JOURNAL</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/コルチゾール">コルチゾール — Wikipedia</a></li>
+<li><a href="https://tsurinews.jp/9716/">血抜きと神経締めで魚を美味しく — TSURINEWS</a></li>
+<li><a href="https://www.pref.niigata.lg.jp/sec/suisan/echigoshinkeijime.html">新潟越後神経締め — 新潟県</a></li>
+</ul>
+
+<h3>再生・治癒メカニズム (関連)</h3>
+<ul>
+<li><a href="https://www.titech.ac.jp/news/2018/041321">魚の完全な皮膚再生システムを解明 — 東工大ニュース (2018)</a></li>
+<li><a href="https://www.lifesci.tohoku.ac.jp/en/date/detail---id-49182.html">魚は切られたヒレの長さを分かっている — Tohoku University</a></li>
+<li><a href="https://www.nig.ac.jp/nig/images/research_highlights/PR20170203.pdf">浮き袋の進化 — 国立遺伝学研究所 (2017)</a></li>
+<li><a href="https://t-aquagarden.com/column/fish_self_healing">魚の再生能力とは — 東京アクアガーデン</a></li>
+</ul>
+
+<h3>関連レポート (リポジトリ内)</h3>
+<ul>
+<li><a href="../../../biology/fish-crustacean/01-body-anatomy.md">魚と甲殻類の体のつくり (形態+回復性) — biology/fish-crustacean/01-body-anatomy.md</a></li>
+<li><a href="../../../biology/fish-crustacean/02-intelligence-behavior.md">魚と甲殻類の知能と行動 — biology/fish-crustacean/02-intelligence-behavior.md</a></li>
+<li><a href="../keiryu-fishing/index.html">渓流魚の釣り方 完全ガイド</a> (本ガイドは釣った魚の扱いの理解にも使える)</li>
+</ul>
+
+</div>
+
+<div class="footer">
+魚の体のつくり — 機能と病態 — research-reports / offline-db<br>
+最終更新: 2026-04-28
+</div>
+
+</body>
+</html>
