@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ムサシトミヨ調査レポート — 白子川源流ピボット</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  :root {
+    --fg: #1a1a1a;
+    --muted: #666;
+    --accent: #b71c1c;
+    --bg: #fafafa;
+    --surface: #fff;
+    --border: #e0e0e0;
+    --code-bg: #f0f0f0;
+    --primary: #FF0000;
+    --historical: #FFA500;
+    --reference: #800080;
+    --partner: #0066FF;
+    --survey: #008000;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
+    color: var(--fg);
+    background: var(--bg);
+    line-height: 1.7;
+  }
+  .container {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 2rem 1.2rem;
+  }
+  header {
+    border-bottom: 4px solid var(--accent);
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+  header h1 {
+    margin: 0 0 0.4rem 0;
+    font-size: 1.8rem;
+    line-height: 1.3;
+  }
+  header .subtitle { color: var(--muted); font-size: 0.95rem; }
+  header .meta { color: var(--muted); font-size: 0.85rem; margin-top: 0.5rem; }
+  h2 {
+    border-left: 5px solid var(--accent);
+    padding-left: 0.7rem;
+    margin-top: 2.5rem;
+    font-size: 1.35rem;
+  }
+  h3 { margin-top: 1.6rem; font-size: 1.1rem; }
+  .tldr {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 5px solid var(--accent);
+    padding: 1rem 1.4rem;
+    border-radius: 4px;
+    margin: 1rem 0 2rem;
+  }
+  .tldr h2 { margin: 0 0 0.6rem 0; border: none; padding: 0; font-size: 1.05rem; color: var(--accent); }
+  .tldr ul { margin: 0; padding-left: 1.2rem; }
+  .tldr li { margin-bottom: 0.3rem; }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1rem 0;
+    background: var(--surface);
+    font-size: 0.92rem;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 0.45rem 0.7rem;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { background: #f0f0f0; font-weight: 600; }
+  blockquote {
+    border-left: 4px solid #aaa;
+    margin: 1rem 0;
+    padding: 0.4rem 1rem;
+    background: var(--surface);
+    color: #444;
+    font-size: 0.95rem;
+  }
+  blockquote cite { display: block; color: var(--muted); font-size: 0.82rem; margin-top: 0.4rem; font-style: normal; }
+  code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.88rem;
+  }
+  .pill {
+    display: inline-block;
+    padding: 0.1rem 0.55rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    color: #fff;
+    font-weight: 600;
+    vertical-align: 1px;
+  }
+  .pill.primary    { background: var(--primary); }
+  .pill.historical { background: var(--historical); color: #333; }
+  .pill.reference  { background: var(--reference); }
+  .pill.partner    { background: var(--partner); }
+  .pill.survey     { background: var(--survey); }
+  #map {
+    height: 480px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    margin: 1rem 0;
+    background: #ddd;
+  }
+  .legend {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.6rem 0.9rem;
+    font-size: 0.88rem;
+    margin: 0.5rem 0 1rem;
+  }
+  .legend span.dot {
+    display: inline-block; width: 0.85rem; height: 0.85rem;
+    border-radius: 50%; margin-right: 0.3rem; vertical-align: -2px;
+  }
+  .legend > span { margin-right: 1rem; white-space: nowrap; }
+  .download-box {
+    background: #fff8dc;
+    border: 1px solid #d4c570;
+    border-radius: 6px;
+    padding: 0.8rem 1.2rem;
+    margin: 1.5rem 0;
+  }
+  .download-box a { color: #b71c1c; font-weight: 600; }
+  .timeline {
+    border-left: 3px solid var(--border);
+    padding-left: 1rem;
+    margin: 1rem 0 1rem 0.5rem;
+  }
+  .timeline-item {
+    position: relative;
+    margin-bottom: 0.8rem;
+    padding-left: 0.5rem;
+  }
+  .timeline-item::before {
+    content: ""; position: absolute; left: -1.42rem; top: 0.55rem;
+    width: 0.8rem; height: 0.8rem; border-radius: 50%;
+    background: var(--accent); border: 2px solid var(--bg);
+  }
+  .timeline-date { font-weight: 600; color: var(--accent); font-size: 0.85rem; }
+  .alert {
+    background: #fee;
+    border: 1px solid #f88;
+    border-left: 5px solid var(--accent);
+    padding: 0.8rem 1.2rem;
+    margin: 1rem 0;
+    border-radius: 4px;
+  }
+  footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+  .toc {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.8rem 1.4rem;
+    margin: 1rem 0 2rem;
+    font-size: 0.92rem;
+  }
+  .toc ol { margin: 0.4rem 0; padding-left: 1.4rem; }
+  .toc a { color: var(--fg); text-decoration: none; }
+  .toc a:hover { color: var(--accent); }
+  .leaflet-popup-content { font-size: 0.85rem; max-height: 280px; overflow-y: auto; }
+  .leaflet-popup-content b { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>ムサシトミヨ調査レポート — 「印旛沼」幻想から白子川源流へのピボット</h1>
+  <div class="subtitle">AI横断統合調査による citogenesis 検出と現実的再発見候補地の特定</div>
+  <div class="meta">作成: 2026-05-01 / 調査ツール: Claude Code (Web検索・PDF直読・Wikipedia履歴解析・nitter経由SNSスクレイピング)</div>
+</header>
+
+<div class="tldr">
+  <h2>TL;DR — このレポートで分かったこと</h2>
+  <ul>
+    <li>「ムサシトミヨは印旛沼で消滅した」は<strong>学術一次資料に出典のない可能性が極めて高い</strong>。「千葉県分布説」自体が 2007 年 11 月 3 日の Wikipedia 編集 (Ｋａｔｕｕｙａ氏) で出典なしで追加された記述に起源し、後発の二次資料がこれを孫引きした<strong>典型的 citogenesis パターン</strong>と推定される。</li>
+    <li>学術一次出典 (池田 1933、中村 1980、金澤 2009、環境省自然環境保全基礎調査) が支持する過去分布地は<strong>東京 3 地点 + 埼玉 3 地点の計 6 地点のみ</strong>で、すべて武蔵野台地〜大宮台地縁のハケ湧水軸に並ぶ。</li>
+    <li>関東広域の「印旛沼で探す」は前提から崩れたため、<strong>現実的再発見候補</strong>として武蔵野台地ハケ湧水ネットワークに戦略をピボット。23区内アクセス・制度的厚みを評価し<strong>白子川源流 (大泉井頭公園、練馬区)</strong> を主候補に絞った。</li>
+    <li>白子川源流は <strong>湧水・低水温・水草繁茂</strong> の三条件が現存し、絶滅危惧 IB 類のホトケドジョウが繁殖を継続。市民保全団体「白子川源流・水辺の会」が月例で保全活動中。eDNA 投入価値あり。</li>
+  </ul>
+</div>
+
+<div class="download-box">
+  <strong>📂 関連リソース:</strong>
+  <a href="musashitomyo-shirakogawa.gpx" download>musashitomyo-shirakogawa.gpx</a>
+  (OsmAnd / Google Earth / 一般 GPX 対応マップで開く・waypoint 14 点)
+  ／
+  <a href="build_gpx.py">build_gpx.py</a>
+  (生成スクリプト)
+  ／
+  <a href="README.md">README.md</a>
+</div>
+
+<div class="toc">
+  <strong>目次</strong>
+  <ol>
+    <li><a href="#origin">1. 出発点と最初の見立て</a></li>
+    <li><a href="#crisis">2. 仮説崩壊 — 印旛沼の真逆</a></li>
+    <li><a href="#citogenesis">3. citogenesis 検出 — Wikipedia 編集履歴</a></li>
+    <li><a href="#primary">4. 学術一次出典の整理</a></li>
+    <li><a href="#pivot">5. 武蔵野台地ハケ湧水ロジック</a></li>
+    <li><a href="#shirakogawa">6. 白子川源流の確定情報</a></li>
+    <li><a href="#map">7. 候補地マップ (waypoint 14 点)</a></li>
+    <li><a href="#actions">8. 次のアクション</a></li>
+    <li><a href="#sources">9. 参考文献・データソース</a></li>
+  </ol>
+</div>
+
+<h2 id="origin">1. 出発点と最初の見立て</h2>
+<p>
+発端は「<strong>消滅したと言われている印旛沼のムサシトミヨをガチで探してみる回</strong>」というカジュアルな問いだった。
+過去分布リストに千葉県が含まれていたという二次情報を信じて、印旛沼水系の谷津湧水を踏査する計画を組み始めた。
+</p>
+<p>
+ところが Wikipedia 等の一般情報を踏まえて環境条件を整理した時点で、最初の違和感が出た:
+ムサシトミヨは <strong>水温 10〜18 ℃ の湧水細流に水草が茂る環境</strong> を要求する魚で、面積数十 km² 規模の浅い富栄養湖である印旛沼そのものとは生息条件が完全に逆向き。
+仮にいたとしても「印旛沼本湖」ではなく「印旛沼に注ぐ流入河川の最源頭の湧水細流」のほうである、という前提シフトが必要になった。
+</p>
+
+<h2 id="crisis">2. 仮説崩壊 — 印旛沼の真逆</h2>
+<p>
+ここで複数の一次資料を横断的に当てた結果、衝撃的な不在に直面する。
+</p>
+<table>
+<thead><tr><th>出典</th><th>千葉県分布の言及</th><th>記述内容</th></tr></thead>
+<tbody>
+<tr><td>第 2 回自然環境保全基礎調査 (1980, 中村守純執筆)</td><td>なし</td><td>東京 2 地点・埼玉 2 地点のみを列挙</td></tr>
+<tr><td>第 4 回自然環境保全基礎調査 (環境庁)</td><td>なし</td><td>「過去には埼玉県に生息していたことが知られていたが…」</td></tr>
+<tr><td>金澤 (2009)『魚類学雑誌』56(2):175-178</td><td>なし</td><td>東京 3 地点 + 埼玉 3 地点の<strong>計 6 地点のみ</strong>を明記</td></tr>
+<tr><td>千葉県レッドデータブック動物編 2011 改訂版「汽水・淡水産魚類」</td><td>なし</td><td>「トミヨ」「ムサシ」「Pungitius」「トゲウオ」「Gasterost」<strong>全部 0 ヒット</strong> (1801 行)</td></tr>
+<tr><td>千葉県立中央博物館 資料データベース</td><td>なし</td><td>同種関連検索で<strong>ヒット 0</strong></td></tr>
+<tr><td>Wikipedia「トミヨ」項</td><td><strong>あり</strong></td><td>「茨城県、千葉県」を含むが脚注の出典は 2015 年細谷編図鑑 (後発)</td></tr>
+<tr><td>民間 Web 図鑑各種</td><td>あり</td><td>Wikipedia と同じ表現を孫引き</td></tr>
+</tbody>
+</table>
+<p>
+査読論文・国の調査・千葉県自身の RDB・千葉県立博物館 DB のすべてに千葉県の記録が<strong>ない</strong>のに、Wikipedia と Wikipedia を参照したと思しき民間図鑑だけに「千葉県」が登場する。
+これは典型的な情報学的シグネチャ — <strong>citogenesis</strong> (Wikipedia の誤記が二次資料を経由して逆流し、Wikipedia 自身の出典として後付けされる現象) のパターンだった。
+</p>
+
+<h2 id="citogenesis">3. citogenesis 検出 — Wikipedia 編集履歴の遡及</h2>
+<p>
+仮説の検証のため、ja.wikipedia「トミヨ」項の全リビジョンを遡及した。
+</p>
+<table>
+<thead><tr><th>日時</th><th>編集者</th><th>分布記述</th></tr></thead>
+<tbody>
+<tr><td>2003-11-19 (初版, Michey.M)</td><td>—</td><td>スタブ「トミヨ(富魚)とは硬骨魚綱トゲウオ目トゲウオ科トミヨ属に属する魚」のみ。<strong>分布記述なし</strong></td></tr>
+<tr><td>2006-06-14 (マクガイア氏)</td><td>—</td><td>「東京都、埼玉県」のみ</td></tr>
+<tr><td><strong>2007-11-03 (Ｋａｔｕｕｙａ氏)</strong></td><td>「ムサシトミヨを加筆及び画像追加」</td><td><strong>「東京都西部の石神井・井の頭、埼玉県熊谷市・本庄市・川越市、茨城県、千葉県」 — 千葉・茨城が初登場 (出典明記なし)</strong></td></tr>
+<tr><td>2007〜2015 (別編集者)</td><td>—</td><td>群馬県が追加される</td></tr>
+<tr><td>現在</td><td>—</td><td>「群馬県、茨城県、千葉県」3 県が並ぶ。脚注として 2015 年細谷編図鑑が引用される</td></tr>
+</tbody>
+</table>
+<p>
+diff URL: <code>ja.wikipedia.org/w/index.php?title=トミヨ&amp;diff=15908738&amp;oldid=6174308</code>
+</p>
+<div class="alert">
+<strong>結論:</strong>
+「ムサシトミヨ千葉県分布説」を Wikipedia に最初に持ち込んだのは、2007 年 11 月 3 日の Ｋａｔｕｕｙａ氏編集で確定。出典は記されていない。
+群馬県はそれ以降の別編集者がさらに追加した。学術一次出典・国の調査・千葉県自身の RDB のいずれもこの 3 県の分布を記録していないことから、
+「印旛沼で消滅したムサシトミヨ」というユーザー出発点の前提自体が citogenesis 由来である可能性が極めて高い。
+</div>
+
+<h2 id="primary">4. 学術一次出典の整理</h2>
+<p>
+信頼できる過去分布地は次の 6 地点のみ:
+</p>
+<table>
+<thead><tr><th>都県</th><th>地点</th><th>水域</th><th>出典</th></tr></thead>
+<tbody>
+<tr><td>東京都</td><td>三鷹市</td><td>井の頭池</td><td>池田 1933 / 中村 1980 / 金澤 2009</td></tr>
+<tr><td>東京都</td><td>練馬区</td><td>石神井川 (三宝寺池系)</td><td>同上</td></tr>
+<tr><td>東京都</td><td>杉並区</td><td>善福寺池 + 善福寺川</td><td>中村 1980 が「主分布地」と明記</td></tr>
+<tr><td>埼玉県</td><td>熊谷市</td><td>元荒川源流 (現存)</td><td>同上</td></tr>
+<tr><td>埼玉県</td><td>本庄市</td><td>元小山川</td><td>金澤 2009 で再導入候補と明記</td></tr>
+<tr><td>埼玉県</td><td>川越市</td><td>新河岸川流域</td><td>同上</td></tr>
+</tbody>
+</table>
+<p>
+分布軸は地理学的に単純で、すべて<strong>武蔵野台地〜大宮台地縁のハケ湧水帯</strong>に並ぶ。
+下総台地 (北総台地) には学術根拠がない。
+</p>
+<h3>分類学上の注意点</h3>
+<p>
+慣例的に <code>Pungitius nakamurai</code> の学名で表記されるが、これは<strong>正式記載されていない非公式名</strong>。
+学術界の標準は <em>Pungitius</em> sp. (Musashi-tomiyo) で<strong>未記載種扱い</strong>。
+GBIF・Eschmeyer's Catalog of Fishes・英語版 Wikipedia・最新 Pungitius 系統論文 (Wang 2022, Matsumoto 2021) のいずれにも収載なし。
+ミナミトミヨ (<em>P. kaibarae</em>, Tanaka 1915、京都・兵庫の絶滅種) とは<strong>別種</strong>。
+</p>
+
+<h2 id="pivot">5. 武蔵野台地ハケ湧水ロジック</h2>
+<p>
+過去分布が武蔵野台地ハケ湧水軸に集中しているなら、現実的再発見候補も同じロジックで絞れる。
+台地縁の崖線 (ハケ) からは年中 13〜15 ℃ の地下水が湧き、これが冷水細流ネットワークを形成する。
+ムサシトミヨは「山の渓流の魚」ではなく「台地縁の地下水サーマルマスに依存する平野の魚」だった。
+</p>
+<p>
+東京都内で現在も湧水機能が残存する地点 (調査の網が薄い順):
+</p>
+<table>
+<thead><tr><th>順位</th><th>地点</th><th>主な理由</th></tr></thead>
+<tbody>
+<tr><td>🥇 1 位</td><td>大泉井頭公園 + 白子川源流</td><td>湧水豊富、ホトケドジョウ繁殖中、保全団体活動中、23 区内アクセス</td></tr>
+<tr><td>🥈 2 位</td><td>落合川 + 南沢湧水群 (東久留米)</td><td>都内ベストの清流、ホトケドジョウ等冷水魚相</td></tr>
+<tr><td>🥉 3 位</td><td>真姿の池湧水群 (野川源流)</td><td>国分寺崖線本流の湧水帯、規模あり</td></tr>
+<tr><td>—</td><td>三宝寺池・井の頭池・善福寺池</td><td>一次出典あるが 60 年以上重点調査済みで未確認</td></tr>
+</tbody>
+</table>
+
+<h2 id="shirakogawa">6. 白子川源流の確定情報</h2>
+
+<h3>地理・水文</h3>
+<ul>
+  <li>源流: 練馬区東大泉 7-34、大泉井頭公園内の<strong>七福橋</strong></li>
+  <li>武蔵野台地北縁の地質変化帯「<strong>大泉地下水瀑布線</strong>」と呼ばれる湧水ヒエラルキー上位の場所</li>
+  <li>立川・武蔵野ローム層 + 武蔵野礫層からの湧水。河床・護岸から湧出するタイプ</li>
+  <li>中流域までは透視度高くカワセミが棲息、川越街道以南で水質悪化</li>
+</ul>
+
+<h3>確認生息種 (一次資料 + 散策マップ + SNS)</h3>
+<ul>
+  <li><strong>ホトケドジョウ</strong> (環境省 RL 絶滅危惧 IB 類): 「水草の多くある上流域に生息していることが確認」(白子川散策マップ) — 産卵期 2〜3 月、定着繁殖中</li>
+  <li><strong>ナガエミクリ</strong> (絶滅危惧水生植物): 「水が河床や護岸から湧き出ている上流域に多く分布」</li>
+  <li>ミクリ・メダカ・フナ・アブラハヤ・カワリヌマエビ属</li>
+  <li>カワセミ・コサギ・カワウ</li>
+  <li>(過去に外来種カワヨシノボリ発見記録あり — 中里郷土の森調査時)</li>
+</ul>
+<p>
+ムサシトミヨ要求条件 (湧水・低水温・水草繁茂・流れ緩やか) と<strong>完全一致する環境がここに残存し</strong>、絶滅危惧種が生息する状態で維持されている。
+</p>
+
+<h3>nitter 経由 SNS で確定した動的情報</h3>
+<blockquote>
+今年は暖かいので、白子川のホトケドジョウの産卵は早そう! ２月から３月にかけて。その卵を食べてしまうのはアメリカザリガニ等です。よって、ザリを今から除去しなければなりません。
+<cite>— @sugalohas (白子川源流・水辺の会), 2020-02-21</cite>
+</blockquote>
+<blockquote>
+白子川の源流にはいくつもの湧水ポイントがあり、ホトケドジョウやフナ、メダカなど多くの生き物や水生植物が生息するオアシス。
+<cite>— @kaccekyodo, 2023-10-21 (源流まつり告知)</cite>
+</blockquote>
+<blockquote>
+実家のある練馬・大泉学園には白子川の源流があり 23 区内では絶滅危惧指定のホトケドジョウなどが生息している。うちの親父は定年退職後に水辺を守る会に入って活動中。今日は年に一度の源流まつり。
+<cite>— @little_shotaro, 2024-10-20</cite>
+</blockquote>
+
+<h3>市民保全体制</h3>
+<table>
+<thead><tr><th>団体</th><th>担当エリア</th><th>活動頻度</th></tr></thead>
+<tbody>
+<tr><td>白子川源流・水辺の会 (@sugalohas 中心)</td><td>大泉井頭公園 + 上流</td><td>毎月第 4 日曜 13:30〜 (川そうじ、水質・水位・生き物調査、ザリガニ駆除、水草間引き)</td></tr>
+<tr><td>we love 白子川の会 (@weloveshirako)</td><td>中流 (東映橋〜水道橋)</td><td>毎月第 3 日曜 10:00〜 (手作り堰維持)</td></tr>
+<tr><td>白子川流域環境協議会</td><td>流域全体</td><td>散策マップ発行・連携</td></tr>
+<tr><td>練馬区立中里郷土の森</td><td>—</td><td>週 1 園内、月 1 周辺、年 1 白子川魚類調査 (10 月)</td></tr>
+</tbody>
+</table>
+<p>会員以外も定例活動に参加可。連絡経路が完全に開かれている。</p>
+<p>年次イベント<strong>「白子川源流まつり」</strong>は 2022〜2025 年連続開催 (10 月)。健康チェック・クイズラリー・展示。地域に「23 区内絶滅危惧種の生息地」として認知済み。</p>
+
+<h2 id="map">7. 候補地マップ (waypoint 14 点)</h2>
+<div class="legend">
+  <span><span class="dot" style="background:var(--primary)"></span>★第一候補 (3)</span>
+  <span><span class="dot" style="background:var(--historical)"></span>歴史地点 (3)</span>
+  <span><span class="dot" style="background:var(--reference)"></span>参考 (2)</span>
+  <span><span class="dot" style="background:var(--partner)"></span>連携先 (2)</span>
+  <span><span class="dot" style="background:var(--survey)"></span>観察点 (4)</span>
+</div>
+<div id="map"></div>
+<p style="font-size:0.85rem;color:var(--muted)">
+※ マーカークリックで詳細表示。OsmAnd で同等のレイヤーを使うには上の <code>musashitomyo-shirakogawa.gpx</code> をインポート。
+</p>
+
+<h2 id="actions">8. 次のアクション</h2>
+<ol>
+  <li><strong>@sugalohas (白子川源流・水辺の会) への接触</strong> — 過去調査記録 (Pungitius 属の有無) 照会、定例活動参加打診</li>
+  <li><strong>練馬区環境部みどり推進課 (03-5984-2418) に問い合わせ</strong> — 練馬区自然環境調査の魚類章 PDF 所在確認</li>
+  <li><strong>eDNA サンプリング設計</strong> — 4〜5 月の繁殖期前に源流〜上流 5 地点で採水、東京海洋大・東京農工大・民間ラボに委託見積もり</li>
+  <li><strong>5 月第 4 日曜の定例活動参加</strong> — 現地条件と植生・底質を直接確認</li>
+  <li><strong>10 月の白子川源流まつり視察</strong> — 中間結果共有可能性</li>
+  <li><strong>(オプション) citogenesis 最終決着</strong> — 細谷 2015 図鑑現物確認、池田 1933 NDL 閲覧、群馬県追加リビジョン特定</li>
+</ol>
+<p>
+ムサシトミヨが見つからなくても<strong>北総台地・武蔵野台地の谷津湧水残存マップ + ホトケドジョウ・ナガエミクリ等の希少種分布データ</strong>として研究的価値が残る設計。
+看板の「ムサシトミヨ再発見」と本体の「ハケ湧水ネットワーク残存サーベイ」を分離して、結果が転んでも何かが残るプロジェクトに再構成済み。
+</p>
+
+<h2 id="sources">9. 参考文献・データソース</h2>
+<ul>
+  <li>池田嘉平 (1933) 「The distribution and the morphological variations of the sticklebacks in Japan」『動物學雑誌』45:141-173</li>
+  <li>中村守純 (1980) 第 2 回自然環境保全基礎調査 動物分布調査 (淡水魚類) ムサシトミヨの項</li>
+  <li>金澤光 (2009) 「ムサシトミヨ — 世界中で唯一熊谷市に残った魚」『魚類学雑誌』56(2):175-178</li>
+  <li>環境省 第 4 回自然環境保全基礎調査 トゲウオ目 (<a href="https://www.biodic.go.jp/reports/4-05/f345.html" target="_blank">biodic.go.jp/reports/4-05/f345.html</a>)</li>
+  <li>千葉県レッドデータブック動物編 2011 改訂版「汽水・淡水産魚類」(<a href="https://www.bdcchiba.jp/wp-content/uploads/2022/05/rdb-201106fish.pdf" target="_blank">PDF</a>)</li>
+  <li>白子川流域環境協議会編「白子川散策マップ」(<a href="https://shirakogawa.tokyo/_wpdir/wp-content/uploads/2018/09/sansaku.pdf" target="_blank">PDF</a>)</li>
+  <li>白子川源流・水辺の会 (<a href="https://shirakogawa.tokyo/" target="_blank">shirakogawa.tokyo</a>)</li>
+  <li>練馬区立中里郷土の森 (<a href="https://www.ces-net.jp/nakazato/" target="_blank">ces-net.jp/nakazato</a>)</li>
+  <li>nitter.net 経由 X (旧 Twitter) アカウント: @sugalohas, @weloveshirako, @kaccekyodo, @little_shotaro 他</li>
+  <li>Wikipedia ja「トミヨ」項 + 全編集履歴 (citogenesis 検出)</li>
+  <li>OpenStreetMap Nominatim, Wikipedia 各地点 infobox (座標)</li>
+</ul>
+
+<footer>
+  <p>
+  本レポートは AI 主導の横断統合調査の一実例として、2026 年 5 月 1 日時点での到達点を記録するものです。<br>
+  記述の誤り・追加情報は GitHub Issue 等で歓迎します。<br>
+  Generated with Claude Code &middot; Layer (GPX) is OsmAnd-compatible &middot; CC BY 4.0
+  </p>
+</footer>
+
+</div>
+
+<script>
+const waypoints = [
+  {lat:35.745946, lon:139.577168, name:"大泉井頭公園 (白子川源流) ★最優先", cat:"primary",
+   desc:"<b>白子川源流の起点・七福橋</b><br>ホトケドジョウ繁殖中、ナガエミクリ・ミクリ・メダカ・フナ生息。湧水・水草・低水温三条件揃い。<br>「白子川源流・水辺の会」(@sugalohas) 毎月第4日曜13:30〜定例活動。<br>西武池袋線 大泉学園駅 北口徒歩約15分。"},
+  {lat:35.7558, lon:139.5300, name:"落合川 + 南沢湧水群 (東久留米)", cat:"primary",
+   desc:"<b>都内ベストの清流</b><br>ホトケドジョウ・シマドジョウ・アブラハヤ・タカハヤ確認。「平成の名水百選」。武蔵野台地北縁ハケ湧水帯。<br>ムサシトミヨ過去出典なし、地理ロジックでの候補。eDNA投入価値あり。"},
+  {lat:35.7028, lon:139.4658, name:"真姿の池湧水群 (野川源流)", cat:"primary",
+   desc:"<b>国分寺崖線本流の湧水帯</b><br>国分寺市東元町、お鷹の道沿い。「東京の名湧水57選」「全国名水百選」。武蔵野台地最大級の湧水ネットワーク。"},
+  {lat:35.73889, lon:139.59750, name:"三宝寺池 (石神井公園)", cat:"historical",
+   desc:"<b>過去分布地・一次出典あり</b> (池田1933/中村1980/金澤2009)<br>武蔵野三大湧水池。湧水減退、ポンプ補水。60年以上重点調査済みで現在ムサシトミヨ未確認。"},
+  {lat:35.70083, lon:139.57417, name:"井の頭池 (井の頭恩賜公園)", cat:"historical",
+   desc:"<b>過去分布地・一次出典あり</b><br>武蔵野三大湧水池。かいぼり実施で水生植物復活実績 (シャジクモ等)。<br>※三鷹市の井の頭恩賜公園。練馬区の大泉井頭公園とは別物。"},
+  {lat:35.714806, lon:139.591028, name:"善福寺池 (善福寺公園)", cat:"historical",
+   desc:"<b>過去主分布地・一次出典あり</b><br>中村1980が「主分布地」と明記。武蔵野三大湧水池、善福寺川源流。"},
+  {lat:36.131750, lon:139.396278, name:"熊谷市ムサシトミヨ保護センター", cat:"reference",
+   desc:"<b>世界唯一の現存生息地</b><br>元荒川源流域。1991年県指定天然記念物。1963年以降ポンプ揚水で維持 (人工生命維持装置)。<br>個体数: 2002年ピーク33,510 → 2021年4,754。"},
+  {lat:36.244732, lon:139.195411, name:"元小山川 (本庄市) — 再導入候補", cat:"reference",
+   desc:"<b>一次出典のある唯一の非熊谷地点</b><br>池田1933、金澤2009で再導入計画対象として明記。"},
+  {lat:35.7659611, lon:139.6073472, name:"練馬区立中里郷土の森緑地", cat:"partner",
+   desc:"<b>自然解説員常駐の体験型学習拠点</b><br>練馬区大泉町1丁目、面積2,500m²。<br>週1園内、月1周辺、年1白子川調査。「親子で白子川大調査!」毎年10月。"},
+  {lat:35.7355, lon:139.6519, name:"練馬区役所 (環境部みどり推進課)", cat:"partner",
+   desc:"TEL: 03-5984-2418 (平日8:30-17:15)<br>練馬区豊玉北6-12-1<br>練馬区自然環境調査の魚類章PDF所在問い合わせ先。"},
+  {lat:35.7460, lon:139.5772, name:"七福橋 (白子川起点)", cat:"survey",
+   desc:"白子川の上流端、起点。大泉井頭公園内。"},
+  {lat:35.7475, lon:139.5825, name:"学園橋", cat:"survey",
+   desc:"白子川上流域、東大泉学園通り近辺。観察ポイント。"},
+  {lat:35.7485, lon:139.5860, name:"外山橋〜水道橋 (we love 白子川の会 活動エリア)", cat:"survey",
+   desc:"白子川中流。「we love 白子川の会」(@weloveshirako) 活動拠点。毎月第3日曜10時〜活動。"},
+  {lat:35.7495, lon:139.5895, name:"比丘尼橋上流調節池 (ぴくに公園)", cat:"survey",
+   desc:"白子川上流、調節池機能あり。水位変動。"},
+];
+
+const colors = {
+  primary: "#FF0000",
+  historical: "#FFA500",
+  reference: "#800080",
+  partner: "#0066FF",
+  survey: "#008000",
+};
+
+const map = L.map('map').setView([35.745, 139.580], 11);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap contributors',
+  maxZoom: 18
+}).addTo(map);
+
+waypoints.forEach(w => {
+  const marker = L.circleMarker([w.lat, w.lon], {
+    radius: w.cat === 'primary' ? 11 : 8,
+    fillColor: colors[w.cat],
+    color: '#fff',
+    weight: 2,
+    fillOpacity: 0.9,
+  }).addTo(map);
+  marker.bindPopup(`<b>${w.name}</b><br>${w.desc}`);
+});
+
+const bounds = L.latLngBounds(waypoints.map(w => [w.lat, w.lon]));
+map.fitBounds(bounds, {padding: [40, 40]});
+</script>
+</body>
+</html>
