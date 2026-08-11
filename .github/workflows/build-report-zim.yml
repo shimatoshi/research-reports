@@ -1,0 +1,88 @@
+name: Build report ZIM
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reports/**/index.html'
+  workflow_dispatch:
+    inputs:
+      report_path:
+        description: 'Path to report index.html (e.g. reports/example/index.html)'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  build-zim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Select report HTML files
+        id: reports
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          CURRENT_SHA: ${{ github.sha }}
+          MANUAL_PATH: ${{ inputs.report_path }}
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]]; then
+            printf '%s\n' "$MANUAL_PATH" > /tmp/report-files.txt
+          else
+            if [[ -n "${BEFORE_SHA:-}" && ! "$BEFORE_SHA" =~ ^0+$ ]]; then
+              git diff --name-only "$BEFORE_SHA" "$CURRENT_SHA" -- reports \
+                | grep -E '^reports/.+/index\.html$' > /tmp/report-files.txt || true
+            else
+              git show --pretty='' --name-only "$CURRENT_SHA" -- reports \
+                | grep -E '^reports/.+/index\.html$' > /tmp/report-files.txt || true
+            fi
+          fi
+
+          if [[ ! -s /tmp/report-files.txt ]]; then
+            echo 'No report index.html files selected.'
+            exit 1
+          fi
+
+          echo 'Selected reports:'
+          cat /tmp/report-files.txt
+
+      - name: Validate paths and build ZIMs
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r html; do
+            if [[ ! "$html" =~ ^reports/.+/index\.html$ ]]; then
+              echo "Invalid report path: $html" >&2
+              exit 1
+            fi
+            if [[ ! -f "$html" ]]; then
+              echo "Report not found: $html" >&2
+              exit 1
+            fi
+
+            report_dir="$(dirname "$html")"
+            slug="$(basename "$report_dir")"
+            out="dist/${slug}.zim"
+            python3 tools/zim_pack.py "$html" "$out" --lang ja
+          done < /tmp/report-files.txt
+
+          echo 'Built files:'
+          ls -lh dist/
+
+      - name: Upload ZIM artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: report-zim-${{ github.run_number }}
+          path: dist/*.zim
+          if-no-files-found: error
+          retention-days: 30
