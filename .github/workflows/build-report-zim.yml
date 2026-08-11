@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'reports/**/index.html'
+      - 'tools/zim_pack.py'
+      - '.github/workflows/build-report-zim.yml'
   workflow_dispatch:
     inputs:
       report_path:
@@ -24,8 +26,15 @@ jobs:
         with:
           fetch-depth: 2
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install libzim Python bindings
+        run: python -m pip install --upgrade pip libzim
+
       - name: Select report HTML files
-        id: reports
         shell: bash
         env:
           EVENT_NAME: ${{ github.event_name }}
@@ -46,6 +55,11 @@ jobs:
               git show --pretty='' --name-only "$CURRENT_SHA" -- reports \
                 | grep -E '^reports/.+/index\.html$' > /tmp/report-files.txt || true
             fi
+
+            # If only the packer/workflow changed, rebuild the smoke test so CI still validates the toolchain.
+            if [[ ! -s /tmp/report-files.txt && -f reports/ci-smoke-test/index.html ]]; then
+              printf '%s\n' 'reports/ci-smoke-test/index.html' > /tmp/report-files.txt
+            fi
           fi
 
           if [[ ! -s /tmp/report-files.txt ]]; then
@@ -56,7 +70,7 @@ jobs:
           echo 'Selected reports:'
           cat /tmp/report-files.txt
 
-      - name: Validate paths and build ZIMs
+      - name: Build ZIMs with libzim
         shell: bash
         run: |
           set -euo pipefail
@@ -73,11 +87,22 @@ jobs:
             report_dir="$(dirname "$html")"
             slug="$(basename "$report_dir")"
             out="dist/${slug}.zim"
-            python3 tools/zim_pack.py "$html" "$out" --lang ja
+            python3 tools/zim_pack.py "$html" "$out" --lang jpn --name "$slug"
           done < /tmp/report-files.txt
 
           echo 'Built files:'
           ls -lh dist/
+
+      - name: Validate ZIMs with official zimcheck
+        shell: bash
+        run: |
+          set -euo pipefail
+          docker pull ghcr.io/openzim/zim-tools:latest
+          for zim in dist/*.zim; do
+            echo "Checking $zim"
+            docker run --rm -v "$PWD:/work" -w /work ghcr.io/openzim/zim-tools:latest \
+              zimcheck "/work/$zim"
+          done
 
       - name: Upload ZIM artifacts
         uses: actions/upload-artifact@v4
