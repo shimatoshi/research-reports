@@ -9,12 +9,26 @@ uses libzim so archives are produced by the reference ZIM implementation.
 """
 
 import argparse
+import base64
 import os
 import re
 from datetime import date
 from pathlib import Path
 
 from libzim.writer import Creator, Item, StringProvider, Hint
+
+# zimcheck requires a mandatory Illustration_48x48@1 metadata item + favicon.
+# Embedded here (instead of a separate binary asset) so the packer stays a
+# single self-contained file. 48x48 PNG, "RR" monogram on white/blue.
+FAVICON_48PNG_B64 = (
+    "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABLklEQVR4nO3YMUsCYRzH8d+VroEg"
+    "JBIKORxGgVOI0O6ko2BBtLb0BqSpQV+A0JhgQ7g6KDTpGxB0cNBBBGkIjiAkuOzxBfhcPDxyz58H"
+    "/p/xN92Xew7uzklVXwQsdkB9AfviAGrWB0Rk4+L11vR1KElft3Y26+8AB1DjAGocQI0DqHEANQ6g"
+    "Jn0blXHv2shl4hAC+P7x8XhziXz2OHA3RTkgGjnEW60IAJguPTw0h+jXS4G7KVpHyD2J4cNbK+9h"
+    "0goYjFconCWU9zApHyH/d4PKUw/+RmC++sJ7o/zvborWM/DcnaAzmOG+dBG4m6J1hK7OkxjNP5X3"
+    "MGkFnCaPMF16+BNCaQ+TI/u1yH8lDOIAahxAjQOocQA1DqDGAdQ4gJr0e8Am1t8BDqBmfcAWFHtv"
+    "Abe7az8AAAAASUVORK5CYII="
+)
 
 
 def extract_title(html: str) -> str:
@@ -84,13 +98,20 @@ def main():
         "Creator": args.creator,
         "Publisher": args.publisher,
         "Date": zim_date,
-        "Tags": "research;report",
+        # config_indexing(True, ...) below embeds a real Xapian fulltext
+        # index, so advertise it truthfully (kiwi-engine's cross-book search
+        # otherwise excludes books whose Tags disagree with the index that's
+        # actually present).
+        "Tags": "research;report;_ftindex:yes",
         "Scraper": "shimatoshi/research-reports CI (libzim)",
     }
 
-    with Creator(str(output_path)).config_indexing(False, args.lang) as creator:
+    favicon = base64.b64decode(FAVICON_48PNG_B64)
+
+    with Creator(str(output_path)).config_indexing(True, args.lang) as creator:
         for key, value in metadata.items():
             creator.add_metadata(key, value)
+        creator.add_illustration(48, favicon)
         creator.add_item(HtmlItem(html, title))
         creator.set_mainpath("index.html")
 
